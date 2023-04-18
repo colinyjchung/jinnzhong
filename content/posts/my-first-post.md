@@ -1,7 +1,13 @@
----
-title: "My First Post"
-date: 2023-04-16
----
++++
+author = "Jinn Zhong"
+title = "Junketty Junk"
+date = "2019-03-10"
+description = "A brief description of junk"
+tags = [
+    "junk",
+    "junker",
+]
++++
 ## Introduction
 
 This is **bold** text, and this is *emphasized* text.
