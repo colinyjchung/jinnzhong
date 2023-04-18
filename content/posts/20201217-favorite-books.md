@@ -13,7 +13,7 @@ Here's mine, in no particular order:
 * Skinny Legs and All (1990) by Tom Robbins
 * Snow Crash (1992) by Neal Stephenson
 * Interpreter of Maladies (1999) by Jhumpa Lahiri
-* Pump Six and Other Stories (2008) by Paulo Bacigalup)i
+* Pump Six and Other Stories (2008) by Paulo Bacigalupi
 * The Cartel (2015) by Don Winslow
 * Shogun (1975) by James Clavell
 * The Crimson Petal and the White (2002) by Michael Faber
