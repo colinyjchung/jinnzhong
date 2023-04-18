@@ -14,3 +14,7 @@ This is **bold** text, and this is *emphasized* text.
 
 Why is this not showing up?
 
+
+Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
+
+Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
