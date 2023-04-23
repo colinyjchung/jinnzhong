@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 [params]
   description = "Jinn's Not-So-Secret Repository of Notes"
-  copyright = "Copyright © 2023 Jinn Zhong"
+  copyright = "Copyright © 2015-2023 Jinn Zhong"
   dark = "auto"
   highlight = true
 
