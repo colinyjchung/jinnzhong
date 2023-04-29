@@ -1,4 +1,4 @@
 ---
 title: "Home"
 ---
-This is a not-so-secret respository of notes.
+My badly-kept secret respository of notes.
