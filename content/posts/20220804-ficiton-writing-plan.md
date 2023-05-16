@@ -25,18 +25,46 @@ The stories must have an element of hope though. It is about friendship - people
 
 In order of priority...
 
-**Books on War Tactics
+### Books on War Tactics
 
 Medieval warfare, combined arms, small unit tactics -- create a new way in which combat would be conducted if magic were real. Books on small elite teams to maintain the "small group" cohesion of a cast of characters.
 
-**Books on Daily Life in Medieval/Renaissance Times
+### Books on Daily Life in Medieval/Renaissance Times
 
 Read books on daily life history to create grit and realism. Books on war histories to get story grist. Books on history in general to get philosophical insights, a unique POV.
 
 This will allow me to "steal" scenes and characters. The philosophy gives it depth.
 
-**Books on Occupied/Repressed States
+### Books on Occupied/Repressed States
 
 Great setting with clear enemies a la Star Wars / Hunger Games. Goblins/Orcs as occupied Afghanistan a la Dune?
 
+## LIBRARY
 
+### War Tactics
+* Medieval Warfare - Reed
+* Fighting Techniques - Bennett
+* How to Make War - Dunnigan
+* Defence of Hill 781 - McDonough
+* Small Unit Tactics - Luke
+
+### Elite Small Units
+* Mossad - Bar-Zohar
+* By Way of Deception - Ostrovsky
+* The Perfect Kill - Boer
+* Combined Arms Operations in Urban Terrain
+* Rogue Heroes - Macintyre
+
+## Daily Life
+* The Traveller's Guide to Medieval England - Mortimer
+* Daily Life Medieval Islam
+
+## War Histories
+* Second World War - Beevor
+* Atkinson Trilogy
+* Stalingrad - Beevor
+* Crusades - Runciman
+* Unwomanly Face of War - Alexievich
+
+## History Overview
+* Hobsbawn Trilogy
