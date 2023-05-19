@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S1E07: A Merc and his Dolphin Go A-Swimmin'"
+title = "TSC-E07: A Merc and his Dolphin Go A-Swimmin'"
 date = "2021-07-25"
 description = "Can't go there either"
 tags = [
