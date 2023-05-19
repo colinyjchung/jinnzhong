@@ -1,3 +1,10 @@
++++
+author = "Jinn Zhong"
+title = "Old Man Run"
+date = "2015-02-13"
+description = "Flash Fiction 005"
++++
+
 Magnetic turbulence shook the Santa Muerte’s cargo hold and everybody inside it.
 
 Whitman held the doped-up girl in his arm closer. Her head lolled, swinging into Whitman’s chest. He caught it, kissed her temple gently and murmured, “We’re almost there,” as he stroked her matted, dirty blonde hair, soothing her.
