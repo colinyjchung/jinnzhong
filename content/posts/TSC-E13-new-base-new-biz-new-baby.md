@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S1E13: New Base, New Biz, New Baby"
+title = "TSC-E13: New Base, New Biz, New Baby"
 date = "2021-09-12"
 description = "Bryce Icarus Milos"
 tags = [
