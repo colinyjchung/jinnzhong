@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S1E10: Lane Oppenheimer, Destroyer of Worlds"
+title = "TSC-E10: Lane Oppenheimer, Destroyer of Worlds"
 date = "2021-08-15"
 description = "A Drink of Despair"
 tags = [
