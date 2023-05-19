@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S1E04: Octo-Masses Make Me Vomit"
+title = "TSC-E04: Octo-Masses Make Me Vomit"
 date = "2021-06-13"
 description = "The Churro Formation"
 tags = [
