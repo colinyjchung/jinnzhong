@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S1E12: Ingrid & Warwick Sitting In A Tree"
+title = "TSC-E12: Ingrid & Warwick Sitting In A Tree"
 date = "2021-08-29"
 description = "Snake Scarf Fashion"
 tags = [
