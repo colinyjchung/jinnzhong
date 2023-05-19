@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S1E15: Emerald Enchanter Engulfed"
+title = "TSC-E15: Emerald Enchanter Engulfed"
 date = "2021-09-26"
 description = "Stop, Drop, & Roll"
 tags = [
