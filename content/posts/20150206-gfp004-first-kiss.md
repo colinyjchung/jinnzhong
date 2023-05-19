@@ -1,3 +1,10 @@
++++
+author = "Jinn Zhong"
+title = "First Kiss"
+date = "2015-02-06"
+description = "Flash Fiction 004"
++++
+
 _I’m going to quit today,_ Henry said to himself. _I’m determined, dammit._
 
 But his sneakers kept creeping, drawn towards the VR coffin-bank on 31st and Main. And as he saw the gaudy red-and-blue neon “open” sign flash, Henry felt his resolve crumble. 
