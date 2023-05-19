@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S1E08: Force-Fed by Fibbing Fauns"
+title = "TSC-E08: Force-Fed by Fibbing Fauns"
 date = "2021-08-01"
 description = "Sack of Fries"
 tags = [
