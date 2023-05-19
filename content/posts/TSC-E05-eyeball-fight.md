@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S1E05: Eyeball Fight!"
+title = "TSC-E05: Eyeball Fight!"
 date = "2021-07-11"
 description = "We should eat them"
 tags = [
