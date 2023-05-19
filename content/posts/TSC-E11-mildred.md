@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S1E11: Mildred!!!"
+title = "TSC-E11: Mildred!!!"
 date = "2021-08-22"
 description = "Crispy Chicken Nuggets"
 tags = [
