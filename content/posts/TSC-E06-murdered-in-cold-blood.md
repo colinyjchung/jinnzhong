@@ -1,6 +1,6 @@
 +++
 author = "Colin Y.J. Chung"
-title = "S1E06: Murdered in Cold Blood"
+title = "TSC-E06: Murdered in Cold Blood"
 date = "2021-07-18"
 description = "I killed the ceiling"
 tags = [
