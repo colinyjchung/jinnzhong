@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "Neðarsjávar Hýði"
+title = "GFP 019: Neðarsjávar Hýði"
 date = "2015-05-22"
 description = "Flash Fiction 019"
 +++
