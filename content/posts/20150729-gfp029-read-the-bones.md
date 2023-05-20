@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "Read the Bones"
+title = "GFP 029: Read the Bones"
 date = "2015-07-29"
 description = "Flash Fiction 029"
 +++
