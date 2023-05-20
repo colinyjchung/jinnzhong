@@ -9,7 +9,7 @@ Jonathan held the strange scrap of paper before him. He squinted his eyes, hopin
 
 The entry began:
 
-**Harrowing, The ** (harōiNG, hær oʊ ɪŋ) _intrasolar, interpenetrated plane._ The **subconscious plane**, or **world of dreams**, in Hermeticism, Thesophical, Rosicrucian, Aurobindonian, and early Gnosticism refers to the macrocosmic or universal plane or reality that is made up purely of shared unconsciousness or _dreamstuff_. This reality constitutes only one gradation of eight in a series of planes of existence. The Harrowing interpenetrates the Physical Realm (not unlike a thin veil draped over reality). Early mystic Basilides (2nd C. AD) believed access possible via self-inflicted... 
+**Harrowing, The** (harōiNG, hær oʊ ɪŋ) _intrasolar, interpenetrated plane._ The **subconscious plane**, or **world of dreams**, in Hermeticism, Thesophical, Rosicrucian, Aurobindonian, and early Gnosticism refers to the macrocosmic or universal plane or reality that is made up purely of shared unconsciousness or _dreamstuff_. This reality constitutes only one gradation of eight in a series of planes of existence. The Harrowing interpenetrates the Physical Realm (not unlike a thin veil draped over reality). Early mystic Basilides (2nd C. AD) believed access possible via self-inflicted... 
 
 Here the page was ripped abruptly, its sheared edges denying Jonathan further knowledge. He pondered on it for a spell, a faraway itch tickling in the back of his mind. 
 
