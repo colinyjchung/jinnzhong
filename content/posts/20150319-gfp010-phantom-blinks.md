@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "Phantom Blinks"
+title = "GFP 010: Phantom Blinks"
 date = "2015-03-19"
 description = "Flash Fiction 010"
 +++
