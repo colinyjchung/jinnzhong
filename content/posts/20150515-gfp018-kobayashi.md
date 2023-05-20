@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "Kobayashi"
+title = "GFP 018: Kobayashi"
 date = "2015-05-15"
 description = "Flash Fiction 018"
 +++
