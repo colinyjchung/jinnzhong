@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "But We Deal"
+title = "GFP 006: But We Deal"
 date = "2015-02-20"
 description = "Flash Fiction 006"
 +++
