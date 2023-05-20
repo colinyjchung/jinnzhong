@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "First Kiss"
+title = "GFP 004: First Kiss"
 date = "2015-02-06"
 description = "Flash Fiction 004"
 +++
