@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "Hungry Ghost"
+title = "GFP 002: Hungry Ghost"
 date = "2015-01-22"
 description = "Flash Fiction 002"
 +++
