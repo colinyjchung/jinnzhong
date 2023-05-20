@@ -90,13 +90,13 @@ The OS spat out lines:
 ```
 total 656
 drwx------	4	Kass  user	130	Aug  27	09:48	Applications
-drwx------@	18	Kass  user	612	Jun  24		03:33	Cloud
+drwx------@	18	Kass  user	612	Jun  24	03:33	Cloud
 drwx------+	12	Kass  user	408	Mar  12	15:16	Desktop
-drwx------+	9	Kass  user	306	Jan  10		21:21	Documents
-drwx------+	9	Kass  user	238	Jun  10		04:46	Downloads
+drwx------+	9	Kass  user	306	Jan  10	21:21	Documents
+drwx------+	9	Kass  user	238	Jun  10	04:46	Downloads
 drwx------@	72	Kass  user	2448	Apr  01	07:02	Library
-drwx------+	13	Kass  user	442	Jun  05		20:08	Movies
-drwx------+	6	Kass  user	204	Oct  10		05:34	Music
+drwx------+	13	Kass  user	442	Jun  05	20:08	Movies
+drwx------+	6	Kass  user	204	Oct  10	05:34	Music
 -rwx------	1	Kass  user	1024	Aug  29	09:48	NOTE_README.txt
 drwx------+	18	Kass  user	612	Feb  16	15:39	Pictures
 drwxr-xr-x+	5	Kass  user	170	Mar  12	05:49	Public
