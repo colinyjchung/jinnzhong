@@ -24,7 +24,7 @@ Took a hiatus  2007-2014. Marriage, mortgage, kids, laid off in '09 from eBay, l
 
 ## The Heavy Board Game Club + BGG 100
 
-Between 2016-2020, my brother and I ran a monthly "Heavy Board Game Club". We had two concurrent tables and at its peak, up to twelve attendees in a townhouse. If you want to do this yourself, you can steal my "constitution" here. Running a club like this requires a lot of rules and logistics.
+Between 2016-2020, my brother and I ran a monthly "Heavy Board Game Club". We had two concurrent tables and at its peak, up to twelve attendees in a townhouse. If you want to do this yourself, you can steal my "[constitution](https://journal.jinnzhong.com/heavy-board-game-club-constitution/)" here. Running a club like this requires a lot of rules and logistics.
 
 Made a concerted effort to play the [top 100 games on BGG](https://boardgamegeek.com/browse/boardgame) despite the fact it updates all the time. Think I got to 62 or 64 at one point. It's down to 50 now. I refuse to play *Gloomhaven* (2017) and *Pandemic Legacy* (2015). First off, co-op. What's that? I want to beat my opponents into mush, not make friends with them. Secondly, salty they knocked *Twilight Struggle* (2005) off its throne. That's a real game. (Yes, I gatekeep).
 
