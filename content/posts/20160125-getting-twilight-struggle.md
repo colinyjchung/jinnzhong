@@ -92,12 +92,12 @@ I also liked this community because they were a bunch of elitist snobby nerds (i
 
 My conversation with them went something like:
 
-**Me:** Twilight Struggle is my first heavy game.
-**Them:** Oh, that’s actually medium to us. Paths of Glory and Sekigahara are more “heavy”.
-**Me:** What do you guys think of Memoir ’44?
-**Them:** That’s like a 2/10 complexity. POG is 8/10
-**Me:** Ha ha. If Memoir is 2/10, where do you put light entry games like Catan and Ticket to Ride? Do they even register?
-**Them:** Nope. Those are for ordinary people.
+**Me:** Twilight Struggle is my first heavy game.  
+**Them:** Oh, that’s actually medium to us. Paths of Glory and Sekigahara are more “heavy”.  
+**Me:** What do you guys think of Memoir ’44?  
+**Them:** That’s like a 2/10 complexity. POG is 8/10  
+**Me:** Ha ha. If Memoir is 2/10, where do you put light entry games like Catan and Ticket to Ride? Do they even register?  
+**Them:** Nope. Those are for ordinary people.  
 
 Listen - I know there are a lot of new gamers on this subreddit and this kind of exchange completely turns off most people, but for someone who’s been playing board games for over a decade now, that kind of conversation is funny because if you’re like me, you’ve moved beyond Catan and you’re just bored by entry level games.
 
@@ -112,21 +112,21 @@ Of course… this morning (Monday), instead of working, I explored Chantry, then
 
 But what’s really funny is who I ended up playing with:
 
-**[10:20:03] arry:** sorry about the lag, I’m working on it.
-**[10:20:41] jinnzhong:** omg
-**[10:20:49] jinnzhong:** you're the developer?
-**[10:20:58] arry:** yes
-**[10:21:05] arry:** it's very unstable nowadays :/
-**[10:21:30] jinnzhong:** This is funny. I'm playing my first game here with the developer.
-**[10:21:32] jinnzhong:** That's wild
-**[10:21:44] arry:** heh
-**[10:21:59] arry:** i just checked the stie, and your request was posted a minute ago
-**[10:22:05] arry:** so i decided why not :)
-**[10:24:07] jinnzhong:** This is pretty neat. How'd you get their permission to license this game for free?
-**[10:24:15] arry:** emailed them
-**[10:24:27] jinnzhong:** It's amazing what happens when you simply ask huh?
-**[10:24:31] arry:** yep :)
-**[10:24:49] arry:** GMT is pretty supportive of its fans
+**[10:20:03] arry:** sorry about the lag, I’m working on it.  
+**[10:20:41] jinnzhong:** omg  
+**[10:20:49] jinnzhong:** you're the developer?  
+**[10:20:58] arry:** yes  
+**[10:21:05] arry:** it's very unstable nowadays :/  
+**[10:21:30] jinnzhong:** This is funny. I'm playing my first game here with the developer.  
+**[10:21:32] jinnzhong:** That's wild  
+**[10:21:44] arry:** heh  
+**[10:21:59] arry:** i just checked the stie, and your request was posted a minute ago  
+**[10:22:05] arry:** so i decided why not :)  
+**[10:24:07] jinnzhong:** This is pretty neat. How'd you get their permission to license this game for free?  
+**[10:24:15] arry:** emailed them  
+**[10:24:27] jinnzhong:** It's amazing what happens when you simply ask huh?  
+**[10:24:31] arry:** yep :)  
+**[10:24:49] arry:** GMT is pretty supportive of its fans  
 
 Now, that might not be the best endorsement for Chantry and the awesome guy behind it, Alexander Rymasheusky… But trust me, the lag is no big deal. It freezes up once in a while, you have to hit refresh a few times, and you’re good to go. You see, it’s NOT a big deal because it’s online and your game is constantly being saved on the cloud. So you don’t lose your moves or anything.
 
