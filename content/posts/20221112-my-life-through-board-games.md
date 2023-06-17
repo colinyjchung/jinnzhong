@@ -6,13 +6,13 @@ description = "Four Decades of Boardgaming"
 +++
 I was a sore loser when I was five. I remember crying over a game of *Don't Talk to Strangers* (1984). It's hilarious if you think about it.
 
-My earliest boardgame memories include playing a lot of  *Mastermind* (1971), *Chinese Checkers* (1893), *Chinese Chess* (762), *Cribbage* (1630) and *Animal Chess* with a family friend. I distinctly remember my father breaking open a copy of  *Monopoly* (1935) at some house party,  not explaining the rules well, and me refusing to buy anything except railroads. I lost, obvs.
+My earliest boardgame memories include playing a lot of *Mastermind* (1971), *Chinese Checkers* (1893), *Chinese Chess* (762), *Cribbage* (1630) and *Animal Chess* with a family friend. I distinctly remember my father breaking open a copy of  *Monopoly* (1935) at some house party,  not explaining the rules well, and me refusing to buy anything except railroads. I lost, obvs.
 
 My first wargame wasn't chess. It was *Lu Zhan Jun Qi*, a Stratego-like game. My brother sucked at it because I lied better. Oh and *Battleship* (1931) too. I guess that's why I'm in marketing and advertising now.
 
 The first game changer (pun intended) for me, though... like many kids that grew up in the 80s, was Milton Bradley's *HeroQuest* (1989). I spent more time designing dungeons than playing. It was also my first taste as a dungeon master. Never split the party!
 
-November 2002 was when I discovered modern designer board games. Forgot why I was in North Vancouver, but wandered into Checkpoint Charlie's Games on 2nd Street E, and got a copy of *Carcassonne* (2000). After that, *Settlers of Catan* (1995), *Puerto Rico* (2002), *El Grande* (1995), *Tigris & Euphrates* (1997), *Traders of Genoa* (2001), *Acquire* (1964) and *Fluxx* (1997) went into heavy rotation. There was also that one New Year's Eve we played *Illuminati: New World Order* (1994) and never again. (Don't ask). These games were all we had in the early-aughts.
+November 2002 was when I discovered modern designer board games. Forgot why I was in North Vancouver, but wandered into Checkpoint Charlie's Games on 2nd Street E, and got a copy of *Carcassonne* (2000). After that, *Settlers of Catan* (1995), *Puerto Rico* (2002), *El Grande* (1995), *Tigris & Euphrates* (1997), *Traders of Genoa* (2001), *Acquire* (1964) and *Fluxx* (1997) went into heavy rotation. There was also that one New Year's Eve we played *Illuminati: New World Order* (1994) and never again. (Don't ask). These games were all we had in the early-aughts.
 
 ## I've Seen This Niche Hobby Explode For 20+ Years
 
