@@ -4,7 +4,6 @@ title = "About"
 
 I am a paper fox. Jinn Zhong writes fiction sometimes.
 
-<script async data-uid="1d8fd4ecd2" src="https://jinnzhong.ck.page/1d8fd4ecd2/index.js"></script>
 ___
 *Dear D&D Players, Please Kill Me*
 
