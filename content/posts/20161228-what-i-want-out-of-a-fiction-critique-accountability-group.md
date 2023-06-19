@@ -103,4 +103,4 @@ P.S. By the way, here's my list of professional markets (paying magazines/websit
 15. [http://flashfictiononline.com/main/submission-guidelines/](http://flashfictiononline.com/main/submission-guidelines/)
 16. [http://dailysciencefiction.com/submit/story/guidelines](http://dailysciencefiction.com/submit/story/guidelines)
 17. [http://uncannymagazine.com/submissions](http://uncannymagazine.com/submissions)
-                18. http://motherboard.vice.com/read/how-to-submit-stories-to-terraform
+18. [http://motherboard.vice.com/read/how-to-submit-stories-to-terraform](http://motherboard.vice.com/read/how-to-submit-stories-to-terraform)
