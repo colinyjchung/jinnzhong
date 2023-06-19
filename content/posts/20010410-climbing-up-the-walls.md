@@ -10,7 +10,7 @@ description = "Based on and inspired by RADIOHEAD’S OK COMPUTER"
 THIRD “BUT NEVER THE FINAL” DRAFT
 
 **FADE IN:**
-**EXT. OUTSIDE NIGHT CLUB - NIGHT**
+**EXT. OUTSIDE NIGHT CLUB - NIGHT**  
 A radiant blue blankets the empty streets. The club’s neon sign, “IDIOTHEQUE”, flickers weakly. Steady BASS emanates from inside.
 
 **THOM (V.O.)**  
@@ -18,7 +18,7 @@ I shouldn’t be here.
 
 The steady BASS fades into loud HOUSE MUSIC.
 
-**INT. NIGHT CLUB - NIGHT**
+**INT. NIGHT CLUB - NIGHT**  
 Camera begins to crane up from the floor of the club. An assortment of shoes dancing. Bodies gyrate, business cards change hands, drinks reached for. In a distant corner, two giant policemen drag a YOUNG MAN out. The young man’s loud pleas are slightly muffled by the music, but is heard.
 
 **YOUNG MAN**  
@@ -30,7 +30,7 @@ The city is a blazing bonfire and I am the damned moth.
 
 Faces smiling flirtatiously, laughter over anecdotes. Flashing lights of various colours, the spinning disco ball. Camera cranes to the ceiling. Blackout.
 
-**INT. THOM’S SUITE - NIGHT**
+**INT. THOM’S SUITE - NIGHT**  
 The bass from downstairs is muffled, but audible. The house lights are off. The blue street lights outside reveals the contents of the suite. The camera continues to crane from the last scene to the bare hardwood floor of Thom’s suite strewn with scrap sheets and crumpled paper balls. There are several cardboard boxes and stacks of books here and there. In a bed, THOM rolls about in his blanket, struggling to sleep.
 
 **THOM**  
@@ -39,23 +39,23 @@ I shouldn’t be here at all.
 
 Blank bare walls, white washed and clean. Camera cranes to ceiling. Blackout.
 
-**INT. 49175’S APARTMENT - NIGHT**
+**INT. 49175’S APARTMENT - NIGHT**  
 Camera cranes from last scene up to an apartment that is utterly dark and silent save for the flashing red light of voicemail and the hum of the refrigerator. 
 
 Midway between floor and ceiling, the craning stops. 
 
 Focus on a green LED alarm clock. It flickers from 4:59 to 5:00. The alarm sounds. The alarm stops and a digital female voice begins to speak in the house P.A. It is the ELECTRONIC SECRETARY. NOTE: all identification numbers are spoken digit by digit. Dashes are pronounced.
 
-**ELECTRONIC SECRETARY:**
+**ELECTRONIC SECRETARY:**  
 Good morning 49175. How are you this morning? (pause) That’s good. Today you have lunch with D-503 at twelve forty-five, a meeting in office number 4025 at exactly sixteen-oh-oh, and dinner with R-13 at approximately eighteen...
 
 **MONTAGE (BEGINS AS VOICE BEGINS TO SPEAK)**: Apartment lights turn on in sequence from room to room. The fax machine prints today’s headlines. The microwave turns on. Inside, a prepared breakfast cooks. The coffee machine begins to brew. A desktop computer turns on and begins to surf the internet, announcing at intervals, “downloading”. The electronic secretary continues to ramble on as the montage stops abruptly. The camera “drop pans” at breakneck speed to Thom’s apartment.
 
-**INT. THOM’S SUITE --DAWN**
+**INT. THOM’S SUITE --DAWN**  
 
 Thom’s body jackknifes to a 90 degree position and screams. He jumps out of bed and rushes out the front door. Offstage, THUNDERING STOMPS up the stairs. Then LOUD KNOCKING.
 
-**INT. HALLWAY/49175’S DOORWAY -DAWN**
+**INT. HALLWAY/49175’S DOORWAY -DAWN**  
 49175’s front door SLIDES open.(Yes, like Star Trek). 49175 stares groggily at Thom. A moment of silence.
 
 **49175:**  
@@ -66,7 +66,7 @@ Please, could you stop the noise, I’m trying to get some rest?
 
 49175 gapes blankly at Thom, then SLAMS(?) the door. Blackout.
 
-**OPENING CREDITS (MONTAGE) **
+**OPENING CREDITS (MONTAGE)**  
 Names appear on labels and LED displays of various products in the following montage as opening credits intro.
 
 **MONTAGE**: 49175 programs the timer on his shower, steps in, steps out. He shaves with an electric razor, gels and combs his hair sleek. 
@@ -89,7 +89,7 @@ When we were younger, Woodrow would always talk about the city. The cars, the ni
 
 He winds the clock and sets it at the bedside table as before.
 
-**INT. THOM’S KITCHEN - DAY**
+**INT. THOM’S KITCHEN - DAY**  
 Over the kitchen sink Thom brushes his teeth with his forefinger, laps water into his mouth with his palm and spits.
 
 **THOM (V.O. cont’d)**  
@@ -97,7 +97,7 @@ At nineteen, Woodrow left on his pilgrimage. Then John a year after, and Marcus 
 
 Thom cups his hands beneath the sink and waters the plant by his kitchen window.
 
-**INT. THOM’S BEDROOM - DAY**
+**INT. THOM’S BEDROOM - DAY**  
 Still in his pajamas, Thom covers his unkempt hair with a toque. He sits at his desk, winds paper into his typewriter and begins his day at work. 
 
 **THOM (V.O. cont’d)**  
@@ -105,7 +105,7 @@ Mother never got a letter or a phone call. ‘They’re too busy’ she would ex
 
 The light fades to dark outside his bedroom window.
 
-**INT. RESTAURANT - NIGHT** 
+**INT. RESTAURANT - NIGHT**  
 49175 enters, looks at his watch. It reads 17:55. He scans the room, spots someone and walks toward the table. R-13 is dressed as impeccably as 49175. In fact, they are wearing the exact same GUCCI SUIT. IN FACT, EVERYONE in this film wears the same GUCCI SUIT but Thom.
 
 **49175**  
@@ -116,7 +116,7 @@ I’m good. The salmon? I shall look.
 
 R-13 turns to a touch screen monitor next to the table and scrolls through the various items. Each dish is complimented with graphs, data and price.
 
-**INT. THOM’S APARTMENT - NIGHT**
+**INT. THOM’S APARTMENT - NIGHT**  
 An old fashion phone (one in which you dial the numbers) rings. Thom picks it up. For audience’s sake, the voice on the other line is heard. It is Thom’s girlfriend, JULIA.
 
 **THOM**  
@@ -153,7 +153,7 @@ Alright. I’ll see you in an hour... I love you.
 **THOM**  
 I’ll be waiting, I love you too.
 
-**INT. THOM’S KITCHEN - NIGHT**
+**INT. THOM’S KITCHEN - NIGHT**  
 Thom opens a can of soup with a manual can opener, cooks it over the stove, and sits down to eat. 
 
 **THOM (V.O.)**  
@@ -161,7 +161,7 @@ Every bit of me tells me I should have stayed home and settled down with Julia. 
 
 A shot of the kitchen clock hands: half past seven.
 
-**INT. 49175’S APARTMENT - NIGHT**
+**INT. 49175’S APARTMENT - NIGHT**  
 
 49175 enters the apartment, and in the exact reverse of the order he had worn his electronic gadgets, he takes them off. He loosens his tie. As soon as 49175 had entered the apartment, electronic secretary had begun to speak.
 
@@ -202,8 +202,8 @@ The phone dials an eleven digit number. We hear the TONES.
 **49175 (cont’d)**  
 Hello, yes, I would like to rent a relief body?.. yes, the model number is I-330...  The location would be the same as the phone number, yes... fifteen minutes? Yes, thank you.
 
-**INT. THOM’S SUITE/ 49175’S APARTMENT - NIGHT**
-**FILM TECH NOTE:**
+**INT. THOM’S SUITE/ 49175’S APARTMENT - NIGHT**  
+**FILM TECH NOTE:**  
 Split screen scene with Thom’s suite on the left part of the screen and 49175’s apartment on the right side.
  
 Both are “freshening up” in their bathrooms. Thom rinses his face with water. 49175 uses expensive face gel and cologne. Thom scrambles to the kitchen to check the clock, 49175 glances at the mirror TV Both read 19:59, (one hands, the other digital). A knocking occurs in Thom’s scenario while electronic secretary announces the presence of I-330 at the door in 49175’s scenario. Both rush to their front doors and opens them at the same time.
@@ -212,10 +212,10 @@ Both are “freshening up” in their bathrooms. Thom rinses his face with water
 (excited)/ (monotone)  
 Hello.
 
-**FILM TECH NOTE:**
+**FILM TECH NOTE:**  
 The following scenes will intercut the two scenarios as the camera revolves around “the couple” in orbit. As camera rotates, the scenario will switch at each half circle. Each successful circle will spin faster than the last.(see diagram) Furthermore, while GROOVY TRIP-HOP plays in 49175’s scenario, FOLKSY LOVE SONGS play in Thom’s scenario. However, the transition of music between scenarios will be seamless as they are both the SAME SONG.
 
-**INT. THOM’S FRONT DOOR - NIGHT**
+**INT. THOM’S FRONT DOOR - NIGHT**  
 
 Julia rushes to embrace Thom.
 
@@ -238,7 +238,7 @@ I don’t care. I’m never letting you go.
 **THOM**  
 I never went away.
 
-**INT. 49175’S LIVING ROOM - NIGHT**
+**INT. 49175’S LIVING ROOM - NIGHT**  
 A brief moment as 49175’s breath is taken away by I-330’s fashion model body. He regains his cool.
 
 **49175**  
@@ -265,7 +265,7 @@ Can I get you anything to drink?
 **I-330**  
 Martini. Extra dry.
 
-**INT. THOM’S SUITE - NIGHT**
+**INT. THOM’S SUITE - NIGHT**  
 
 Thom and Julia are devouring each other’s faces. Thom reaches behind Julia’s back to shut the door. Thom holds Julia back for a moment.
 
@@ -278,7 +278,7 @@ You.
 
 Julia smothers Thom with her mouth while pushing him in the direction of the bedroom and stripping his shirt off.
 
-**INT. 49175’S LIVING ROOM - NIGHT**
+**INT. 49175’S LIVING ROOM - NIGHT**  
 49175 swipes his bank card and presses a few buttons on the debit machine to confirm his purchase. The machine responds, “approved”. 49175 puts the machine down and looks at I-330.
 
 **49175**  
@@ -289,7 +289,7 @@ I-330 stands up with martini in hand, kicks off her heels, swallows the martini 
 **I-330**  
 Yes. Let’s go.
 
-**INT. THOM’S BEDROOM - NIGHT**
+**INT. THOM’S BEDROOM - NIGHT**  
 Julia is on top of Thom in bed. Both are topless. They are petting (and panting) heavily. Julia stops to look deep in to Thom’s eyes.
 
 **JULIA**  
@@ -303,13 +303,13 @@ um, yeah... I love you too.
 
 Julia reaches down to unzip Thom’s pants.
 
-**INT. 49175’S BEDROOM - NIGHT**
+**INT. 49175’S BEDROOM - NIGHT**  
 49175 is on top of I-330, missionary position. 49175 is panting. I-330 is articulating an orgasm. Badly.
 
 **I-330**  
 yeah. yeah. yeah. give it to me.
 
-**INT. THOM’S BEDROOM - NIGHT**
+**INT. THOM’S BEDROOM - NIGHT**  
 Julia is straddling Thom.
 
 **JULIA**  
@@ -319,7 +319,7 @@ Thom, oh god, THOM!
 **THOM**  
 Julia...
 
-**INT. 49175’S BEDROOM - NIGHT**
+**INT. 49175’S BEDROOM - NIGHT**  
 As before. A phone rings. I-330 reaches for it and presses the ‘TALK’ button.
 
 **I-330**  
@@ -330,11 +330,11 @@ I-330 looks at 49175. He has stopped, afraid to interrupt.
 **I-330 (cont’d)**  
 Don’t stop. Keep going. (to phone) yes.
 
-**INT. THOM’S BEDROOM - NIGHT**
+**INT. THOM’S BEDROOM - NIGHT**  
 
 Thom groaning, Julia moaning, both climaxing.
 
-**INT. 49175’S BEDROOM - NIGHT**
+**INT. 49175’S BEDROOM - NIGHT**  
 
 As before, 49175 working it, I-330 on phone.
 
@@ -350,13 +350,13 @@ You done?
 (exasperated)  
 Yes.
 
-**FILM TECH NOTE: **
+**FILM TECH NOTE:**  
 The circling camera stops here. Music fades out. 
 
-**INT. 49175’S APARTMENT - DAWN**
+**INT. 49175’S APARTMENT - DAWN**  
 **MONTAGE**: A slimmed down, ten second version of the opening credits sequence.
 
-**INT. THOM’S BEDROOM - DAY**
+**INT. THOM’S BEDROOM - DAY**  
 Thom wakes up to see Julia dressing and getting ready to go.
 
 **THOM**  
@@ -400,7 +400,7 @@ You’re a cat.
 (ignoring Julia’s comment)  
 It was a seedy underbelly hiding beneath this stone façade, and I exposed it. I had revealed it for the sun to see.
 
-**INT. THOM’S BEDROOM - NIGHT**
+**INT. THOM’S BEDROOM - NIGHT**  
 
 Thom stops typing and looks out his window. Occasionally
 
@@ -414,7 +414,7 @@ In a way, she was absolutely right.
 
 He puts on his toque and heads for the front door.
 
-**EXT. STREET - NIGHT**
+**EXT. STREET - NIGHT**  
 
 **MONTAGE**: Tram lines stopping and going, car traffic in heavy rotation at crossroads, city lights blinking and signaling. The city is efficient and sanitary. There are no signs of homeless people, litter or pollution. 
 
@@ -431,9 +431,9 @@ Thom walks the streets. Everyone is wearing a GUCCI SUIT. Thom gets looks. Vendo
 **THOM (V.O. cont’d)**  
 Idealistic? Sure. Did I know what I was getting into? No. Was hiring a private investigator from the city entirely smart? I doubt it. Did I care? Nope.  
 
-**EXT. DRY CLEANERS - NIGHT**
+**EXT. DRY CLEANERS - NIGHT**  
 
-**FILM TECH NOTE:**
+**FILM TECH NOTE:**  
 This scene will be shot from a surveillance camera until DT-09 jams it. After that, usual camera methods are used.
 
 Coin operated dry cleaners fill the compact room. Two GUCCI suits bump into Thom without apologizing as Thom enters. An elderly man, DT-09 stands alone in front of a dry cleaning machine, waiting. Thom hesitates before approaching him. He stands beside him both watching the machine.
@@ -467,7 +467,7 @@ Wait, who are you?
 (turning around)  
 Like you, I’m here to lift seemingly benign rocks.
 
-**EXT. OUTSIDE THOM’S APARTMENT BUILDING - NIGHT**
+**EXT. OUTSIDE THOM’S APARTMENT BUILDING - NIGHT**  
 Thom is rushing down the street towards his apartment building. The streets are strangely empty. He sees a familiar wooden bed, wind-up clock and telephone among a pile of books at the street corner.
 
 **THOM**  
@@ -520,11 +520,11 @@ The landlord closes the door. In an abrupt sudden, all the city lights turn off 
 **THOM**  
 Shit.
 
-**INT. INTERROGATION ROOM - NIGHT**
+**INT. INTERROGATION ROOM - NIGHT**  
 
 The room is fairly dark save for a beam of light pointed directly in to Thom’s eyes. Thom is sitting on a metal chair as two men pace the room. They are INTERROGATOR #1 and INTERROGATOR #2. 
 
-**INT. BEHIND MIRROR WINDOW ROOM - NIGHT **
+**INT. BEHIND MIRROR WINDOW ROOM - NIGHT**  
 DT-09 and a MYSTERIOUS MAN watches through a mirror/window. Laid out on the desk before DT-09 is the contents of Thom’s folder. There are detailed profiles on Thom’s older brothers.
 
 **MYSTERIOUS MAN**  
@@ -539,8 +539,7 @@ I hear he has intentions different from his brothers... dreams more “creative�
 **DT-09**  
 We’ll break him. We always do.
 
-**INT. INTERROGATION ROOM - NIGHT**
-
+**INT. INTERROGATION ROOM - NIGHT**  
 In a surreal moment, both interrogators turn to face Thom. The following dialogue is fast paced and rhythmic.
 
 **INTERROGATOR #1**  
@@ -696,7 +695,7 @@ A writer named Thom.
 **INTERROGATOR #2**  
 Unbelievable.
 
-**INT. BEHIND MIRROR WINDOW ROOM - NIGHT**
+**INT. BEHIND MIRROR WINDOW ROOM - NIGHT**  
 As before.
 
 **MYSTERIOUS MAN**  
@@ -716,7 +715,7 @@ The idea of being discovered triggers a cold, yet believable chuckle in Mysterio
 **MYSTERIOUS MAN**  
 Kids these days.
 
-**INT. INTERROGATION ROOM - NIGHT**
+**INT. INTERROGATION ROOM - NIGHT**  
 The door to the room opens, a shaft of light pours in. A man similar to the two interrogators walk in. He hands Interrogator #1 a folder. The man walks out. The room is dark again.
 
 **THOM**  
@@ -871,7 +870,7 @@ Ineluctably.
 (confused)  
 What?
 
-**INT. APARTMENT - DAY**
+**INT. APARTMENT - DAY**  
 
 **MONTAGE**: A sequence of images riffing on the opening credits sequence but with close up shots of the hands and feet only, never the face. When the character in question checks his face in the mirror by the front door, we realize it is Thom. His apartment is now “Ikeaized”. His appearance is immaculate, his suit a GUCCI suit. The phone RINGS just before he exits. He turns around to put on the HEADSET.
 
