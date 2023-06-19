@@ -15,9 +15,9 @@ To summarize
 4. The flash fiction/scene is due on Friday at 9AM Pacific/12PM Eastern.
 5. We will tape a podcast and critique each other's work on the Monday after.
 6. To keep things simple - while we can talk about structure, character, plot, world... the THREE things we WILL be CRITIQUING IS:
-    a. GOAL - Does the character have one?
-    b. STAKES - Is it clear what bad thing will happen to character if he/she doesn't achieve goal? (I.E. Does the reader care?)
-    c. CONFLICT - Is there compelling drama, tension and obstacles? (I.E. Will the reader be engaged?)
+    * a. GOAL - Does the character have one?
+    * b. STAKES - Is it clear what bad thing will happen to character if he/she doesn't achieve goal? (I.E. Does the reader care?)
+    * c. CONFLICT - Is there compelling drama, tension and obstacles? (I.E. Will the reader be engaged?)
 7. Dogwood and Jinn are using pen names. Please refer to them as such on podcasts and publicly.
 8. Just a reminder -- Prompts can be ANYTHING. A single word. A phrase. A quote. A song. A picture. A painting. A scent.
 9. We are OFFICIALLY starting on January 9th. The FIRST deadline will be January 16th. The FIRST podcast taping will be January 19th.
