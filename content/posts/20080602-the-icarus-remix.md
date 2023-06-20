@@ -8,10 +8,11 @@ description = "My first novelette"
 “We want the world and we want it now!”
 When the Music’s Over by the Doors
 
-#
+---
 
 On the night DJ abn-Qayamat died, his manager and sometime friend Jared Lazaruk, chose to not betray him after all. Rock journalist Shirley Middleton flew into New York the morning after bent on vengeance only to hear a pale, pathetic story of a poor Iraqi refugee who only wanted to be loved. Jared kept DJ abn-Qayamat’s secret tightly along with a plane ticket to Busan, Korea in his left breast pocket. He had a personal appointment with Dr. Sun-Soon at LIVED Ltd.
-#
+
+---
 
 One hundred and twenty days ago.
 
@@ -55,7 +56,7 @@ Jared slapped it. “Sure, Ishaq. Sure.”
 
 When Ishaq left the backstage, Jared sat down hard on the loveseat with fingers combed through his puttied hair. He sighed deeply in spite of his allegretto heartbeat.
 
-#
+---
 
 Jared watched the sexed-up, drunken cattle throng squeeze through the five gates then flood on to the cordoned green. The gates scanned each event-code holder via CODIS as they passed, then temp-tatted the inside of every left wrist with the Orgefest logo – a triskelion of sixes circling “Orgefest, Glasgow” in small block letters.
 
@@ -77,7 +78,7 @@ Jared observed this uxorious chameleon titillate his hundred-thousand-eared wife
 Jared’s head buzzed. He fought through the hazy veils. There must be something behind the emerald curtain. DJ abn-Qayamat’s trinity of turntables fed into his micro-laptop, where at an inhuman scale he transposed keys and soldered seemingly incompatible rhythms together, sampled from song after song after song, all mere colors on his rough palette. All the while scratching his vinyl canvass at delightfully surprising moments. Maybe he modded his turntables? Or has secret beta-software? Something is wrong here. He can’t be moving this fast. The Ishaq I knew couldn’t even beat-match two house beats if they were both 120 bpm. Something is very wrong here. 
 At half past midnight, DJ abn-Qayamat boldly mixed Ella Fitzerald’s “Fly Me to the Moon” with Nine-H0735’s cover of Nirvana’s “Rape Me”. He cross-faded between the ideal romance and the primal violence, Ella F. soaring and Shelley Song screaming. A monstrous contrast. Beneath both tracks, DJ abn-Qayamat added a pounding B&D loop.
 
-#
+---
 
 Immediately after DJ abn-Qayamat’s first set, Jared began to receive the calls. He hurried backstage. Inside, Jared paced the small space with a finger on his iBerry Spex earpiece. The deafening white noise stampeding for an encore crept through the cracks of backstage. It roared when Ishaq made his descent through the elevator. 
 
@@ -117,7 +118,7 @@ Ishaq drank greedily. He pulled two pills out of his pants pocket and chased the
 	
  “Sure, Ishaq. Sure.”
 
-#
+---
 
 Early next morning, Jared’s head rattled interminably. He fumbled with the iBerry Spex for connection. He had gone to bed staring at data-panes and woke up watching them bloom. These past few weeks Jared had rarely disengaged from his iBerry. It was a skipped hassle that now ranked close with brushing and flossing. He blinked twice at the alert pop-up. Ishaq.
 
@@ -147,7 +148,7 @@ Ishaq looked at Jared and hopped his brow. “Listen, I sent over my inbox pass-
 
 Jared slammed down on it. “Aight.”
 
-#
+---
 
 Ninety stories above in a rooftop café, Shirley Middleton from the Vinyl Spiral held her cup of espresso with elegant fingers, always smiling flirtatiously at DJ abn-Qayamat. London traffic washed their conversation with an eerie, familiar hum from below. Jared sat quietly, considering Shirley’s gestures and her perky red suit. 
 
@@ -261,7 +262,7 @@ Her pleading eyes darted between DJ abn-Qayamat and Jared, a lost, betrayed chil
 
 Jared chose not to ask questions. He had never seen Ishaq react so forcefully. Shirley may have just found him an in.
 
-#
+---
 
 In the months to follow, Jared was Vishnu on cocaine shuffling data-panes. DJ abn-Qayamat’s New Years schedule teetered on tightrope longitudes. The one night global tour would carry several hundred thousands from the eve of a new decade to a glorious and pounding midnight reverie in Shanghai, Mumbai, London, New York and Los Angeles hosted by the one and only Soul Attack from Iraq, DJ abn-Qayamat. In each city, DJ abn-Qayamat and Jared will rush across the dark tarmac from their private Boeing X39 to a venue-bound Blackhawk. At each venue, DJ abn-Qayamat will entrance a sea of ears for ninety minutes from eleven to half-past New Year and he will do this again and again until the West Coast uncorked their champagne bottles.
 
@@ -273,7 +274,7 @@ Jared drowned in the deluge of dealing and booking. His ulterior plot waned. Ish
 
 In early November, DJ abn-Qayamat was booked into several late night holotube appearances. Jared found the schedule unbearable. From Tokyo to Toronto, DJ abn-Qayamat and Jared waited hours in hotels for minutes on stage. Green room after green room, host after host. In New York, DJ abn-Qayamat retreated to his low-rise studio suite hours before his appearance on Late Night with Pete Teller. He asked Jared for a wake-up call then injected several iBuPro-Shots to nap.
 
-#
+---
 
 Jared jogged lightly up the narrow staircase to Ishaq’s apartment. Ishaq was completely offline, which annoyed Jared greatly. Who disables their entire home telecomm system to sleep? Jared saw that Ishaq’s Print‘n’Retscan lock was also offline. He knocked gingerly on the door and it creaked ajar. There was an ungodly, overwhelming silence from inside the apartment. Jared’s irritability morphed into intrusiveness. 
 
@@ -301,7 +302,7 @@ Jared then heard the hiss of iBuPro-Shots. Ishaq emerged. “Aight, aight. Lezgo
 
 Jared grinned. “Sure, Ishaq. Sure.”
 
-#
+---
 
 “Ladies and gentlemen, welcome back. Our next guest is an old friend of ours. He’s been on the Late Show a couple of times now. He’s here to promote his around-the-globe New Year’s Tour. Event-codes are now available online. Please give a warm welcome to… DJ abn-Qayamat!” Pete Teller shouted and gestured towards the dark stage. It drowned in applause.
 
@@ -447,7 +448,7 @@ Left alone, Ishaq considered Jared wearily for a dilated moment. “Come in. I s
 
 “Sure, Ishaq. Sure.” Jared replied, confused.
 
-#
+---
 
 They turned and twisted through a moonlit, damp and dingy abandoned wing of Sing Sing; the Koreans leading Jared and Ishaq through the winding passageways with determined momentum, their iBerries guiding them via a LIVED Ltd. intranet read-only blueprint. Four or so hallways in, the party stopped to face a dual Print’n’Retscan med-access elevator. Ricky and Lawrence lifted their iBerries and stepped forward, chin and palm out, exposed irises. The shaft rumbled and the doors slid open. They descended interminably, or so it seemed to Jared. The cabin eventually ceased and yawned. Blinding white surgical florescent flooded in, revealing shiny gurneys and beeping machinery. But what struck Jared most was the contrast between the dilapidated overground and its pristine bowels. A lone late-middle aged Korean man stood in the middle of it all, silver wire-frame spectacles and evenly combed grey hair propped up by a lab coat. Ricky and Lawrence promptly huddled with him, Dr. Sun-Soon, and chattered in hushed Korean.
 
@@ -503,7 +504,7 @@ It was then that Ishaq had won Jared’s sympathy whether he cared for it or not
 
 Jared’s swollen revelation was pricked. “Sure Ishaq, sure.”	
 
-#
+---
 
 Jared sat next to Ishaq’s bedside. He thrust his septum against the steeple of his palms, his chin buttressed by thumbs. He watched Ishaq sleep fitfully, ravaged by headaches, his silver jumpsuit thrashing like whitewater. He mumbled and muttered and struggled against invisible binds despite the Nootropics, the Nap-drops and the iBupro-Shots. Jared fretted with overwhelming guilt, his consensual silence in counterpoint with Ishaq’s near-death throes. 
 
@@ -535,8 +536,6 @@ At around five to midnight, the New Year and the new decade, DJ abn-Qayamat bega
 
 DJ abn-Qayamat’s underlying drum loop kept pounding despite the shattered Waterford crystal ball. Auld Lang Syne doesn’t cue up, but the deliriously cold and happy multitude did not seem to have noticed; they were lost in their midnight kisses and well wishes. Jared marked his tipping point. He rushed the stage while repeatedly slitting his throat with his right index finger at the sound engineer. Auld Lang Syne faded in, fourty-four seconds late into the new decade. Jared reached DJ abn-Qayamat and put his hand on his back and as he leaned in to talk, Jared realized that DJ abn-Qayamat had not reacted at all to his presence. DJ abn-Qayamat was a statue, frozen in his hunched over pose, his right hand pinching an equalizer knob, the left fingers spread over a spinning platter. DJ abn-Qayamat’s chest rose and fell faintly, nearly imperceptible. Jared panicked. He radioed the event medical staff. DJ abn-Qayamat‘s set-up was muted on the P.A. system, but his records still spun and his samples still looped. A small curious crowd began to gather in the stage pit and stared. Two paramedics clambered up towards Jared and DJ abn-Qayamat with a gurney. More people watched in hushed whispers. DJ abn-Qayamat was stiff as a mannequin, so the two paramedics carried him as such, and placed him gently on the gurney bed like an expensive movie prop. They attached their monitoring equipment as best as they could to DJ abn-Qayamat in his awkward, uncompromising position. The electrocardiogram beeped, albeit at a largo tempo. The media flashed and filmed. As the gurney wheeled DJ abn-Qayamat away from his onstage set-up, his hard body suddenly collapsed into a puddle and the EKG flat-lined along with it. 
 
-The rhythm of the defibrillator pounded meaninglessly in the soft blur of tumult. Jared knew a flat-line meant dead brain-signals, the heart was no longer pumping blood upwards and the brain was no longer sending instructions to do so downward. Jared surmises that DJ abn-Qayamat died the moment he was outside the range of his onstage set-up. Had he short-circuited? Had his biochip gave in? Or had it kept the music going, kept its host alive by sending signals to the software and the heart? It didn’t matter. The music was over now, and all 
-
-Jared could do was turn off the lights.
+The rhythm of the defibrillator pounded meaninglessly in the soft blur of tumult. Jared knew a flat-line meant dead brain-signals, the heart was no longer pumping blood upwards and the brain was no longer sending instructions to do so downward. Jared surmises that DJ abn-Qayamat died the moment he was outside the range of his onstage set-up. Had he short-circuited? Had his biochip gave in? Or had it kept the music going, kept its host alive by sending signals to the software and the heart? It didn’t matter. The music was over now, and all Jared could do was turn off the lights.
 
 END
