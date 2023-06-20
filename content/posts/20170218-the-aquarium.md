@@ -5,8 +5,6 @@ date = "2017-02-18"
 description = "Garage Fiction Story"
 +++
 
-# The Aquarium
-
 ## Part I: In Which 8-Eyes Dies
 
 8-Eyes scrabbled down the stairs along with Lilly, nearly stumbling into her, tumbling headlong into the vault.
