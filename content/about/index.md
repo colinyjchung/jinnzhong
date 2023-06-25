@@ -2,11 +2,11 @@
 title = "About"
 +++
 
-Jinn is a paper fox wandering the suburban wilds of the Pacific Northwest. With his tight-knit skulk of weirdos, loners, and misfits... they howl together at evil robot sorcerers. 
+Jinn is a paper fox wandering the suburban wilds of the Pacific Northwest. With his tight-knit skulk of weirdos, loners, and misfits... they howl in protest at evil robot sorcerers. 
 
-As an aspiring novelist, his current interests and areas of study include: The Renaissance and the Reformation in the 16th century... military tactics and technology (from early modern to present day)... and elements of the esoteric and occult, esp. the Tarot.
+As an aspiring novelist, his current interests and areas of study include: The Renaissance and the Reformation during the 16th century... military tactics and technology (from early modern to present day)... and elements of the esoteric and occult, esp. the Tarot.
 
-His favorite novels are _Cloud Atlas_ (2004), _Dune_ (1965), and _Ancillary Justice_ (2013). His favorite short story collections are _Interpreter of Maladies_ (1999), _Pump Six and Other Stories_ (2008), and _Tenth of December_ (2013). The trilogy, _His Dark Materials_ (1995-2000), is up there too.
+His favorite novels are _Cloud Atlas_ (2004), _Dune_ (1965), and _Ancillary Justice_ (2013). His favorite short story collections are _Interpreter of Maladies_ (1999), _Pump Six and Other Stories_ (2008), and _Tenth of December_ (2013). The trilogy, _His Dark Materials_ (1995-2000), is high up there too.
 
 Jinn is a founding member of the Garage Fiction Podcast.
 
