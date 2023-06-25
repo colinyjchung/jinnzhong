@@ -7,7 +7,7 @@ description = "A Record of All the PCs I've Killed"
 
 ## OSR (Knave/OSE/DCC)
 
-Herein Lies the Fallen. Here, laid to rest, the careless many, the rash, the unwise... those who met their maker upon a foolish... and most likely? A wholly, entirely, avoidable decision.
+Herein Lies the Fallen. Here, laid to rest, the careless many, the rash, the unwise... those who met their maker upon a foolish... and most likely? A wholly, entirely, _avoidable_ decision.
 
 * Ser Ragnarok, Knight (L1-OR). 2021-05-23 (1d). Crushed by dolmen stone.
 * Surina Juno, Charltan (L1-EC). 2021-05-23 (1d). Head bashed in by drune staff.
