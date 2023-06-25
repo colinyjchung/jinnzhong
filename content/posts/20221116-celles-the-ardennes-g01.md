@@ -250,3 +250,220 @@ This is all very good news. But so many rolls only resulted in disrupting the Ge
 And what is up with there being no 4-1 CRT? Lame.
 
 It's Christmas night next and the Germans have 4APs to the Allies 3AP. Let's see what happens.
+
+## GAME/TURN: G01/T05, December 25th, 1944 - Night
+
+### Chit, Supply, & Initiative
+* Supply Phase: Fine
+* Initiative: Allies d10=7, Germans d10=8(9). Germans decide to go first.
+
+### Germans AP1
+* Germans pull 2nd Pzr
+* 2nd Pzr in 2212 ➔ 2113 Rochefort for 4MP
+* 2nd Pzr in 2710 ➔ 2810 leaving Marloie for 3MP
+* 2nd Pzr in 2712 ➔ 2612 for 3MP
+
+### Allies AP1
+* Allies pull 29th Armour
+* 29th Arm in 0210 ➔ 0409 for 3MP + 6MP (m.atk) into 0510 with 2nd Arm in 0509 as support against Pzr Lehr in 0510
+    * 23A/8D, 0 mods, 2-1 CRT/ 0 DRM, d10=5. /R, Pzr Lehr retreats to 0711
+
+### German AP2
+* German pulls extra move
+* German pulls 9th Pzr
+* 9th Pzr in 3316 ➔ 2712 for 11.5MP
+* 9th Pzr in 3316 ➔ 2812 for 9.5MP
+* 9th Pzr recon in 3316 ➔ 2715 Nassogne for 11.5MP
+
+### Allies AP2
+* Allies pull replacement
+* Allies pull 2nd Arm
+* 2nd Arm in 2709 ➔ 2809 for 3MP + 6MP for (m.atk) into 2810 against 2x 2nd Pzr
+    * 8A/6D, no mods, 1-1 CRT/0 DRM, d10=10. /RD 2nd Pzr retreats to 2611 disrupted.
+* 2nd Arm in 2609 ➔ 2610 for 3MP + 6MP for (m.atk) into 2611, same Pzr units, but with help of 2nd Arm in 2511
+    * 30A/6D, -1 river, -1 village, +2 disrupted, 5-1 CRT/ 0 DRM, d10=2(2), SL each. One 2nd Pzr eliminated.
+* 2nd Arm in 2511 (h.atk) into 2611 for 9MP, same Pzr units, same help.
+    * 19A/4D, +2 disrupted, -1 river, -1 village, 3-1 CRT/0 DRM, d10=2(2). No effect.
+* 2nd Arm in 1900 ➔ 2506 Hogne for 9MP
+* 2nd Arm in 0509 ➔ 0510 for .5MP + 6MP (m.atk) against Pzr Lehr in 2511
+    * 15A/8D, 0 mods, 1-1 CRT/0 DRM, d10=7. /R Pzr Legr retreats into 0612
+
+### German AP3
+* German pulls combat chit
+* German pulls Pzr Lehr
+* German uses extra move to activate 9th Pzr in 2811 ➔ 2810 for 3MP + 9MP h.atk against 2nd Arm in 2809.
+    * 12A/4D, +1 heavy, +1 combat chit, 3-1CRT/+2DRM, d10=7(9). 2nd Arm eliminated!
+* Pzr Lehr in 0612 ➔ 0213 Givet for 6MP
+* Pzr Lehr in 0712 ➔ 0212 for 8.5MP
+
+### Allies AP3
+* Allies pull Allied Air
+* Allies pull 4th Cav
+* Allies use Air Attack to reduce German actions and attack 116th in 2911. d10=2, disrupted
+* Allies 4th Cav in 1110 ➔ 0713 for 8.5MP
+
+### Recovery & Victory Points
+* Germans score 2VP
+
+## Thoughts on Turn 5
+
+This was a rough turn for the Germans despite having the night advantage. I felt like I was shoring up my defenses the entire time. The 9th Pzr was helpful in filling in gaps. The 2nd Pzr was simply retreating. I didn't realize how devastating last turn actually was.
+It takes getting used to, but disruption actually matters a lot for destroying troops. The US 2nd Armor almost feels OP with 15-12-9 stats. Up against any Panzer unit, it hits on the CRT at 3-2.
+
+## GAME/TURN: G01/T06, December 26th, 1944 - Day
+
+### Chit, Supply, & Initiative
+* Supply: Fine, but Pzr Lehr in Givet better watch out.
+* Initiative: Allies d10=8(9), Germans d10=10. Germans choose to go first.
+
+### Germans AP1
+* Germans pull replacement
+* Germans pull FBB
+* FBB in 3311 ➔ 3307 for 7MP
+* FBB in 3322 ➔ 3108 Verdenne for 9MP
+
+### Allies AP1
+* Allies pull 2nd Arm
+* 2nd Armin 0510 ➔ 0312 for 5.5MP + 6MP m.atk against Pzr Lehr in 0212
+    * 15A/8D, +1 day, 1-1CRT/+1DRM, d10=10(11, /SL+R. Retreat to 0413.
+* 2nd Arm recon in 0607 ➔ 0511 for 3.5MP potentially putting both Pzr Lehr OOS
+* 2nd Arm in 2506 ➔ 2909 for 4MP + 6MP m.atk at 116th in 3009
+    * 15A/5D, -1 woods, +1 day. 3-1CRT/0DRM, d10=5. Disrupted.
+* 2nd Arm in 2610 h.atk at 2nd Panzer in 2612 with 2nd Arm in 2511.
+    * 23A/4D, +1 day, +1 heavy, -1 village, -1 river. 5-1CRT/0DRM, d10=8. 2nd Pzr eliminated
+
+### German AP2
+* German pulls 2nd Pzr
+* 2nd Pzr Recon in 2113 Rochefort ➔ 1512
+* 2nd Pzr + SP/AT in 2612 ➔ 2315
+
+### Allies AP2
+* Allies pull 4th Cav
+* Allies activate 2nd Arm in 2909 instead, h.atk at 116th in 3009
+    * 15A/5D, +1 day, +1 heavy, +2 disrupted, -1 woods. 3-1CRT/+3DRM, d10=5(8). 116th recon eliminated.
+
+### German AP3
+* German pulls Pzr Lehr
+* German activates FBB instead in 3307, h.atk at both 3rd Arm in 3306 Hotton and 84th in 3206.
+    * 12A/11D, -2 town, +1 heavy, 1-1CRT/-1DRM, d10=5(4). No effect.
+
+### Allies AP3
+* Allies pull replacement
+* Allies pull 29th Arm
+* Allies replace 2nd Arm in 2610
+* Allies activate 2nd Arm in 0312 instead ➔ 0412 for 3MP + 9MP h.atk @Pzr Lehr in 0415.
+    * 15A/4D, +1 heavy, +2 disrupted, -1 woods, 3-1CRT/+2DRM, d10=6(8). Pzr Lehr eliminated.
+
+### Allies AP4
+* Allies pull 2nd Arm
+* 2nd Arm in 2909 ➔ 2809 for 3MP + 9MP h.atk @9th Pzr in 2810
+    * 15A/9D, +1 heavy, +1 day. 3-2CRT/+2DRM, d10=7(9). Retreat into 2812 disrupted.
+* 2nd Arm in 2610 ➔ 2711 for 4MP + 6MP m.atk @9th Pzr in 2712
+    * 15A/9D, +1 day, 3-2CRT/0DRM, d10=9. Retreat to 2813 disrupted.
+* 2nd Arm in 2511 ➔ 2712 for 7MP + 3MP l.atk @9th Pzr in 2812.
+    * 15A/9D, -1 light, +1 day, +2 disrupted, 3-2CRT/+2DRM, d10=6(8). SL
+* 2nd Arm in 0412 ➔ 0313 for 3MP h.atk @Pzr Lehr in 0213 Givet.
+    * 15A/8D, +1 day, +1 heavy, -1 river, -2 town. 3-2CRT/-1DRM, d10=1(0). 2nd Arm SL!
+
+### Allies AP5
+* Allies pull 84th Inf.
+* Allies activate 2nd Arm in 2712 instead, h.atk @9th Pzr in 2812
+    * 15A/5D, +1 day, +2 disrupted, +1 heavy. 3-1CRT/+4DRM, d10=1(5). Disrupted already.
+
+### Recovery & Victory Points
+* German scores 1VP. Panzer Lehr in Givet.
+
+## Thoughts on Turn Six
+Man, 4th Cav, British 29th Armour, and even 84th Infantry are all useless when you're on the attack. They're good for maneuvering and defending, but it's clear I would activate the US 2nd Armor over and over again in order to affect the board.
+That Allies AP4 sucked though. Givet is across the river and a town, so that's -3DRM straight off. That attack was probably why I ended up with a tie maybe. With that said, the 2nd Armor sure killed a lot Nazis (Panzer Lehr and 9th Panzer).
+
+## GAME/TURN: G01/T07, December 26th, 1944 - Night
+* Chit, Supply, & Initiative
+* Supply: Panz Lehr in 0213 Givet is OOS
+* Initiative: Allies d10=6, Germans d10=6(7). Germans will act first.
+
+### German AP1
+* Germans pull 9th Pzr
+* 9th Pzr in 2715 Nassogne ➔ 2209 for 12MP
+* 9th Pzr in 2813 ➔ 2713 for 2MP + 9MP h.atk @2nd Arm in 2712 with help from 9th Pzr in 2812
+    * 18A/12D, +1 night, +1 heavy. 3-2CRT/+2DRM, d10=6(8). SL for 2nd Arm.
+* 9th Pzr in 2812 h.atk @2nd Arm with 9th Pzr in 2713z
+    * 13A/6D, +1 night, +1 heavy. 2-1CRT/+2DRM, d10=9(11). 2nd Arm eliminated.9th Pzr in 3316 ➔ 2912 for 6.5MP
+
+### Allies AP1
+* Allies pull 4th Cav
+* Allies activate 2nd Arm in 2711 instead ➔ 2810 for 3MP + 6MP m.atk @116th
+    * 15A/8D, 0mods, 3-2CRT/0DRM, d10=8. SL for 116th.
+
+### German AP2
+* German pulls extra move
+* German pulls 2nd Pzr
+* German uses extra move with 116th Pzr in 3309 ➔ 3207 for 5MP + 6MP m.atk @ 84th in 3107 and 3206... with help from FBB in 3307 and 3208.
+    * 35A/14D, +1 night, 2-1 CRT/+1DRM, d10=6(7). SL, 84th eliminated.
+* German activates 116th again in 3206 now, h.atk into 3306 Hotton with FBB's help
+    * 35A/11D, +1 heavy, +1 night, -2 town. 3-1CRT/0DRM, d10=9. SLRD. 84th eliminated, 3rd armor can't retreat, also eliminated. 116th advances into Hotton.
+
+### Allies AP2
+* Allies pull 84th inf
+* 84th in 2409 ➔ 2312 for 3MP
+* 84th in 2708 ➔ 2409 for 3MP
+
+### Germans AP3
+* Germans pull replacement
+* Germans pull FBB, withdraws
+* Germans replace 116th in 2911
+
+### Recovery & Victory Points
+* Germans score 1VP
+
+## Thoughts on Turn 7
+The Germans had to stop running scared from the US 2nd Armored, so the 9th Panzer coordinated a good attack and eliminated a unit. The 116th Panzer also did a great job of enlisting the Führerbegleitbrigade to lay siege in Hotton and destroy two 84th infantry units and the 3rd Armored.
+
+Good turn for the Germans.
+
+## GAME/TURN: G01/T08, December 27th, 1944 - Day
+* Chit, Supply, & Initiative
+* Supply: Pzr Lehr in 0213 isolated
+* Initiative: Allies d10=3(4), Germans d10=7. Germans will go first
+
+### German AP1
+* Germans pull FBB. Fuck.
+* Germans activate 2nd Pzr SP/AT in 2315 ➔ 2113 Rochefort for 4MP
+
+### Allies AP1
+* Allies pull Air Strike
+* Allies pull Extra Move
+* Allies pull 84th
+* Air Strike in Givet at isolated Pzr Lehr. d10=1 no effect.
+* Allies activate 29th in 0409 ➔ 0212 for 5MP + 6MP for m.atk into 0213 Givet on Pzr Lehr, with help from 2nd Arm in 0313
+    * 16A/8D, +2 isolated, -1 river, -2 town, 2-1CRT/-1DRM, d10=6(5). Retreat into 0315. 29th advances into Givet
+
+### Allies AP2
+* Allies pull replacement
+* Allies pull 29th
+* Allies uses extra move 2nd Arm in 2810 instead ➔ 2412 for 11.5MP
+* Allies activate 2nd Arm in 2810 again ➔ 2210 for 3MP + 9MP h.atk into 2113 Rochefort against 2nd Pzr SP/AT
+    * 15A/3D, +1 heavy, +1 day, -1 river, -2 town. 5-1CRT/-1DRM, d10=9(8). 2nd Pzr eliminated. 2nd Arm advance into Rochefort.
+
+### Allies AP3
+* Allies pull 2nd Arm
+* Allies replace 2nd Arm at 0313
+* 2nd Arm in 0313 ➔ 0314 for 4MP + 6MP m.atk @ Pzr Lehr in 0315
+    * 15A/8D, +2 isolated, +1 day, -1 wood, 3-2CRT/+2DRM, d10=4(6). Retreat to 0516 Winenne
+* 2nd Arm in 2809 ➔ 3206 for 4MP + 6MP @ 116th Pzr in 3306 Hotton.
+    * 15A/8D, -2 town, +1 day. 3-2CRT/-1DRM, d10=3(2). 2nd retreats to 3105.
+
+## Final Scoring
+* Germans at Meuse during game 6VP
+* Allies hold Marche & Rochefort 4VP
+* Germans hold Hotton 2VP
+* Germans do not hold Ciney, Beauraing, Givet, or Dinant 0VP
+* Germans eliminated 9 steps: 9VP
+* Allies eliminated 13 steps: 13VP
+    * **GERMANS**: 17VP
+    * **ALLIES**: 17VP
+
+## Thoughts on Turn Eight
+Germans pulling FBB in the last turn and then getting airstruck is the worst of luck. It reduced the final turn to one measly move. Taking Rochefort made the most sense. But they couldn't defend it. Not with the Allies action economy.
+
+Looking back the last few turns, I really needed the 116th Panzer to be activated more. They didn't do much after showing up.
