@@ -32,7 +32,7 @@ Most short stories save it for a big surprise. But some reveal it right away, an
 3. In dream meets Dynamic
 4. Protagonist free Dynamic from dream
 5. Dynamic takes Protagonist back home to get TRUTH
-
+<!-- -->
 
 1. Protagonist goes to PLACE, meets new people
 2. Protagonist goes about doing job, sees something strange
