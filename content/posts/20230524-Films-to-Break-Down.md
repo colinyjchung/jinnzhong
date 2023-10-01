@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "FILMS TO STUDY FOR CENTRAL DRAMATIC ARGUMENTS"
+title = "Films to Study for Central Dramatic Arguments"
 date = "2023-05-24"
 description = "Films to Study for Central Dramatic Arguments"
 +++
