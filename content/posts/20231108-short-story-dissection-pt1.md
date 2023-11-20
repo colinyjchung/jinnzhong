@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "Short Story Dissection"
+title = "Short Story Dissection, Part 1"
 date = "2023-11-08"
 description = "Dissecting award winning short stories."
 +++
@@ -148,7 +148,7 @@ That's important. The MECH's job -- once the disruption event (inciting incident
 
 The disruption event in the stories are...
 
-* **CPP - After describing who they are, how they came about, and what they want... the A.I. starts sharing examples of lives it had nudged.
+* **CPP** - After describing who they are, how they came about, and what they want... the A.I. starts sharing examples of lives it had nudged.
 * **9NT**  - N/A
 * **LFL** - Puts up a free library and books are taken. The inciting incident is the library is cleared out and she leaves a note for the thief.
 * **TDIS** - Prot makes the first deal thinking it's no big deal.
