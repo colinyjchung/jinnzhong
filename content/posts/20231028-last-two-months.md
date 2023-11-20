@@ -34,7 +34,7 @@ So let's not stray too far and focus on this.
 And here are the stories:
 
 * Kritzer, Naomi. "Cat Pictures Please." _Clarkesworld_, Jan. 2015, [https://clarkesworldmagazine.com/kritzer_01_15/](https://clarkesworldmagazine.com/kritzer_01_15/)
-* Clark, P. Djèlí. "The Secret Lives of the Nine Negro Teeth of George Washington." _Fireside_, Feb. 2018, [https://firesidefiction.com/the-secret-lives-of-the-nine-negro-teeth-of-george-washington/](https://firesidefiction.com/the-secret-lives-of-the-nine-negro-teeth-of-george-washington/)
+* Clark, P. Djèlí. "The Secret Lives of the Nine Negro Teeth of George Washington." _Fireside_, Feb. 2018, [https://firesidefiction.com/the-secret-lives-of-the-nine-negro-teeth-of-george-washington](https://firesidefiction.com/the-secret-lives-of-the-nine-negro-teeth-of-george-washington)
 * Kritzer, Naomi. "Little Free Library." _Tor.com_, 08 Apr. 2020, [https://www.tor.com/2020/04/08/little-free-library-naomi-kritzer/](https://www.tor.com/2020/04/08/little-free-library-naomi-kritzer/)
 * Kassel, Mel. "Ten Deals with the Indigo Snake." _Lightspeed_, Oct. 2018, [http://lightspeedmagazine.com/fiction/ten-deals-with-the-indigo-snake/](http://lightspeedmagazine.com/fiction/ten-deals-with-the-indigo-snake/)
 * Törzs, Emma. "Like a River Loves the Sky." _Uncanny_, Apr. 2018, [http://uncannymagazine.com/article/like-river-loves-sky/](http://uncannymagazine.com/article/like-river-loves-sky/)
