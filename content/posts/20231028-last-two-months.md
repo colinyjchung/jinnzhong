@@ -19,7 +19,7 @@ Anyway -- October 20th rolls around and the weekend at SIWC was such a much need
 
 Both attempts in 2006-2008, and 2015-2017, interrupted by life. business, reality. The second attempt mired by doing everything but the writing of fiction: running a podcast, a critique group, building out a platform when I didn't need one.
 
-Anyway - I pulled out this journal for a totally different reason, not to reflect on the last three months. At SIWC, MRK said that a beginner should aim for a short story that's ~4k words. It's short enough to be a story, and short enough that a publisher might give a first-timer a chance. I'm taking this to heart. I just went through all the Nebula, Hugo, World Fantasy, Locus, and Theodore Sturgeon award winners over the last seven years. Identified the ones that are in this range. I've printed out ten of them and I'm going to study them. BUT, I want to set proper intentions before I do that.
+Anyway - I pulled out this journal for a totally different reason, not to reflect on the last three months. At SIWC, MRK said that a beginner should aim for a short story that's ~4k words. It's short enough to be a story, and short enough that a publisher might give a first-timer a chance. I'm taking this to heart. I just went through all the Nebula, Hugo, World Fantasy, Locus, and Theodore Sturgeon award winners over the last seven years. Identified the ones that are in this range. (Plus a few that are not). I've printed out ten of them and I'm going to study them. BUT, I want to set proper intentions before I do that.
 
 OK here's what I'm thinking...
 
@@ -30,3 +30,17 @@ OK here's what I'm thinking...
 * How much character arc is there? If little, how are they still giving you the emotional gut punch or satisfaction of one?
 
 So let's not stray too far and focus on this.
+
+And here are the stories:
+
+* Kritzer, Naomi. "Cat Pictures Please." _Clarkesworld_, Jan. 2015, [https://clarkesworldmagazine.com/kritzer_01_15/](https://clarkesworldmagazine.com/kritzer_01_15/)
+* Clark, P. Djèlí. "The Secret Lives of the Nine Negro Teeth of George Washington." _Fireside_, Feb. 2018, [https://firesidefiction.com/the-secret-lives-of-the-nine-negro-teeth-of-george-washington/](https://firesidefiction.com/the-secret-lives-of-the-nine-negro-teeth-of-george-washington/)
+* Kritzer, Naomi. "Little Free Library." _Tor.com_, 08 Apr. 2020, [https://www.tor.com/2020/04/08/little-free-library-naomi-kritzer/](https://www.tor.com/2020/04/08/little-free-library-naomi-kritzer/)
+* Kassel, Mel. "Ten Deals with the Indigo Snake." _Lightspeed_, Oct. 2018, [http://lightspeedmagazine.com/fiction/ten-deals-with-the-indigo-snake/](http://lightspeedmagazine.com/fiction/ten-deals-with-the-indigo-snake/)
+* Törzs, Emma. "Like a River Loves the Sky." _Uncanny_, Apr. 2018, [http://uncannymagazine.com/article/like-river-loves-sky/](http://uncannymagazine.com/article/like-river-loves-sky/)
+* Wiswell, John. "Open House on Haunted Hill." _Diabolical Plots_, 15 Jun. 2020, [https://www.diabolicalplots.com/dp-fiction-64a-open-house-on-haunted-hill-by-john-wiswell/](https://www.diabolicalplots.com/dp-fiction-64a-open-house-on-haunted-hill-by-john-wiswell/)
+* Pinsker, Sarah. "The Court Magician." _Lightspeed_, Jan. 2018, [https://lightspeedmagazine.com/fiction/the-court-magician/](https://lightspeedmagazine.com/fiction/the-court-magician/)
+* Harrow, Alix. "A Witch's Guide to Escape: A Practical Compendium of Portal Fantasies." _Apex Magazine_, 6 Feb. 2018, [https://apex-magazine.com/short-fiction/a-witchs-guide-to-escape-a-practical-compendium-of-portal-fantasies/](https://apex-magazine.com/short-fiction/a-witchs-guide-to-escape-a-practical-compendium-of-portal-fantasies/)
+* Roanhorse, Rebecca. "Welcome to Your Authentic Indian Experience." _Apex Magazine_, 8 Aug. 2017, [https://apex-magazine.com/short-fiction/welcome-to-your-authentic-indian-experience/](https://apex-magazine.com/short-fiction/welcome-to-your-authentic-indian-experience/)
+* Wong, Alyssa. "Hungry Daughters of Starving Mothers." _Nightmare_, Oct. 2015, [https://www.nightmare-magazine.com/fiction/hungry-daughters-of-starving-mothers/](https://www.nightmare-magazine.com/fiction/hungry-daughters-of-starving-mothers/)
+* Kowal, Mary Robinette. "Midnight Hour." _Uncanny_, Jul. 2015, [https://www.uncannymagazine.com/article/midnight-hour/](https://www.uncannymagazine.com/article/midnight-hour/)
