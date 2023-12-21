@@ -13,5 +13,24 @@ Click on that button to confirm you actually want my updates and you're not a ho
 
 Golems, servitors, and the undead need not apply either.
 
-Yours, 
+It's important you click on that **Big Blue Button**.
+
+Clicking on that **Big Blue Button** will bring you a stroke of serendipitous luck, unfathomable wealth, and true love. 
+
+(Not really).
+
+But you really should... 
+
+1. Go to your inbox, _right now_.
+2. Look for the email with the subject line: **"Big Blue Button Inside".**
+3. Open said email, and click on the **Big Blue Button**
+
+If you don't see the email in your inbox, check your spam folder.
+
+Nothing else you do in the next few moments is more important.
+
+Nothing!
+
+Yours,
+
 Jinn Zhong
