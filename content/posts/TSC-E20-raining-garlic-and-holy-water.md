@@ -4,13 +4,13 @@ title = "TSC-E20: It's Raining Garlic and Holy Water"
 date = "2021-11-07"
 description = "To the Sun"
 tags = [
-    "H.A.",
-    "A.B.",
-    "E.B.",
-    "S.B.",
-    "E.C.",
-    "L.C.",
-    "A.J.",
+    "HA",
+    "AB",
+    "EB",
+    "SB",
+    "EC",
+    "LC",
+    "AJ",
     "Aranna Weaver, Astrologer",
     "Lane Weaver, Soldier",
     "Coil Mahogany, Zealot",
