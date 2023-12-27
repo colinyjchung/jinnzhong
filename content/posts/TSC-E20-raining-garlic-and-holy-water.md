@@ -22,7 +22,8 @@ tags = [
     "Erky Skora, Assassin",
     "Seleana Mahogany, Vampire Hunter",
     "Halls of the Blood King",
-    "Diogo Nogueira"
+    "Diogo Nogueira",
+    "RPG",
 ]
 categories = [
     "OSE",
