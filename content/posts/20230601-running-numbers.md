@@ -2,7 +2,22 @@
 author = "Jinn Zhong" 
 title = "Running Numbers" 
 date = "2023-06-01" 
-description = "Questioning my Hobby Spend" 
+description = "Questioning my Hobby Spend"
+tags = [
+    "The Struggle",
+    "Creative Process",
+    "Board Games",
+    "Tsundoku",
+    "War Games",
+    "RPG",
+    "Matt Seagle",
+    "The Glausers",
+    "OSR",
+    "Mothership",
+    "Delta Green",
+    "DCC",
+    "Hunter: The Reckoning",
+]
 +++
 
 **PREMISE:** I'm starting to question my spend on books, games, and related material that I don't actually consume or spend time on. I'm buying them in the hopes that sometime in the future I will read, review, or use these products. But I've clearly haven't had the time to. 
