@@ -4,11 +4,11 @@ title = "TSC-E05: Eyeball Fight!"
 date = "2021-07-11"
 description = "We should eat them"
 tags = [
-    "H.A.",
-    "A.B.",
-    "E.C.",
-    "A.J.",
-    "O.R.",
+    "HA",
+    "AB",
+    "EC",
+    "AJ",
+    "OR",
     "Aranna Weaver, Astrologer",
     "Emma Frog, Hedge Wizard",
     "Orlan, Soldier",
