@@ -3,6 +3,14 @@ author = "Jinn Zhong"
 title = "ROKA 대한민국 육군 OOB in Next War: Korea (2012)"
 date = "2022-12-10"
 description = "Order of Battle for the Republic of Korea Army"
+tags = [
+    "Next War: Korea (2012)",
+    "Gene Billingsley", 
+    "Mitchell Land",
+    "GMT Games",
+    "War Games",
+    "Media Consumption",
+]
 +++
 ## 1st Army
 
