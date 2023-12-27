@@ -23,6 +23,7 @@ tags = [
     "DCC",
     "The People of the Pit",
     "Joseph Goodman",
+    "RPG",
 ]
 categories = [
 ]
