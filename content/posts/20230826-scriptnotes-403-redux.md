@@ -3,6 +3,14 @@ author = "Jinn Zhong"
 title = "NOTES: Scriptnotes 403 Redux"
 date = "2023-08-26"
 description = "Looking at Craig Mazen's Central Dramatic Argument again"
+tags = [
+    "Story Analysis",
+    "Craft of Writing",
+    "Creative Process",
+    "Craig Mazin",
+    "Scriptnotes",
+    "Central Dramatic Argument (CDA)"
+]
 +++
 
 Great writers follow their characters as they evolve around a central dramatic argument that is actually meaningful to other human beings
