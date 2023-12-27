@@ -2,7 +2,12 @@
 author = "Jinn Zhong" 
 title = "How to Be A Better RPG Player" 
 date = "2021-08-03" 
-description = "Just do better" 
+description = "Just do better"
+tags = [
+    "RPG",
+    "OSR",
+    "Creative Process",
+]
 +++
 
 While you're technically allowed to "_do whatever you want_" in a roleplaying game, a RPG is still a game with "win conditions".
