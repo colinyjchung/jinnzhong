@@ -25,7 +25,8 @@ tags = [
     "Joseph Robert Lewis",
     "Chris Kutalik",
     "The Seers Sanctum",
-    "Directsun"
+    "Directsun",
+    "RPG",
 ]
 categories = [
     "OSR",
