@@ -3,6 +3,9 @@ author = "Jinn Zhong"
 title = "Novel Word Counts"
 date = "2023-09-20"
 description = "Word Counts for Bestselling Novels"
+tags = [
+    "Story Analysis",
+]
 +++
 
 Word Count for Novels
