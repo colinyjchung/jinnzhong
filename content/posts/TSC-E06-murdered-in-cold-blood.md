@@ -4,11 +4,11 @@ title = "TSC-E06: Murdered in Cold Blood"
 date = "2021-07-18"
 description = "I killed the ceiling"
 tags = [
-    "H.A.",
-    "E.B.",
-    "E.C.",
-    "A.J.",
-    "O.R.",
+    "HA",
+    "EB",
+    "EC",
+    "AJ",
+    "OR",
     "Aranna Weaver, Astrologer",
     "Emma Frog, Hedge Wizard",
     "Veleris, Pickpocket",
