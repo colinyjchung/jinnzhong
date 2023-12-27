@@ -3,6 +3,10 @@ author = "Jinn Zhong"
 title = "The OSR Graveyard"
 date = "2021-11-07"
 description = "A Record of All the PCs I've Killed"
+tags = [
+    "RPG",
+    "OSR",
+]
 +++
 
 ## OSR (Knave/OSE/DCC)
