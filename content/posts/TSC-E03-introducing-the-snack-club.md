@@ -17,6 +17,7 @@ tags = [
     "Lane Weaver, Soldier",
     "Masks of Lankhmar",
     "Michael Curtis",
+    "RPG",
 ]
 categories = [
 "Roleplaying Games",
