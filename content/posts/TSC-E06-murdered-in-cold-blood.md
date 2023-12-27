@@ -23,6 +23,7 @@ tags = [
     "DCC",
     "Gang Lords of Lankhmar",
     "Harley Stroh",
+    "RPG",
 ]
 categories = [
 ]
