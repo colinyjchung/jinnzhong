@@ -2,7 +2,15 @@
 author = "Jinn Zhong" 
 title = "Scriptnotes 403: Craig Mazin" 
 date = "2023-05-23" 
-description = "CDA: The Central Dramatic Argument" 
+description = "CDA: The Central Dramatic Argument"
+tags = [
+    "Story Analysis",
+    "Craft of Writing",
+    "Creative Process",
+    "Craig Mazin",
+    "Scriptnotes",
+    "Central Dramatic Argument (CDA)",
+]
 +++
 
 * Structure is a total trap
