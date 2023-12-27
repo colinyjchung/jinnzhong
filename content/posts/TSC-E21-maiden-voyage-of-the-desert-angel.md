@@ -4,13 +4,13 @@ title = "TSC-E21: Maiden Voyage of the Desert Angel"
 date = "2021-11-14"
 description = "Magical Amigos"
 tags = [
-    "H.A.",
-    "A.B.",
-    "E.B.",
-    "S.B.",
-    "E.C.",
-    "L.C.",
-    "A.J.",
+    "HA",
+    "AB",
+    "EB",
+    "SB",
+    "EC",
+    "LC",
+    "AJ",
     "Aranna Weaver, Astrologer",
     "Lane Weaver, Soldier",
     "Coil Mahogany, Zealot",
