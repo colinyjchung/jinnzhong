@@ -4,13 +4,13 @@ title = "TSC-E15: Emerald Enchanter Engulfed"
 date = "2021-09-26"
 description = "Stop, Drop, & Roll"
 tags = [
-    "H.A.",
-    "A.B.",
-    "E.B.",
-    "S.B.",
-    "E.C.",
-    "L.C.",
-    "A.J.",
+    "HA",
+    "AB",
+    "EB",
+    "SB",
+    "EC",
+    "LC",
+    "AJ",
     "Aranna Weaver, Astrologer",
     "Ser Aust Booker, Knight",
     "Lane Weaver, Soldier",
