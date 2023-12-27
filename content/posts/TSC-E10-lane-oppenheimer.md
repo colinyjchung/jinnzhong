@@ -19,7 +19,8 @@ tags = [
     "Shorin Milos, Lower Noble",
     "The Hole in the Oak",
     "OSE",
-    "Gavin Norman"
+    "Gavin Norman",
+    "RPG",
 ]
 categories = [
 ]
