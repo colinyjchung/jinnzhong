@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "Fiction Writing Plan"
 date = "2022-08-04"
 description = "New Plan"
+tags = [
+    "The Struggle",
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 On previous iterations, I had zero "world building" and built the world + characters + scenes as if I leapt off the cliff and constructed a plane while I fell.
