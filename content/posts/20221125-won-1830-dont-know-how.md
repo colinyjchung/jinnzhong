@@ -3,6 +3,14 @@ author = "Jinn Zhong"
 title = "Won First 18XX Game. Don't Know How."
 date = "2022-11-25"
 description = "I Finally Won a 18XX Game and I Don't Think It Was By Accident... Maybe"
+tags = [
+    "1830: Railways & Robber Barons (1986)",
+    "Bruce Shelley", 
+    "Francis Tresham",
+    "Avalon Hill",
+    "Board Games",
+    "Media Consumption",
+]
 +++
 
 ### I Finally Won a 18XX Game and I Don't Think It Was By Accident... Maybe.
