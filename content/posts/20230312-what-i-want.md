@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "What I Want As An Author"
 date = "2023-03-12"
 description = "Why Am I Doing This?"
+tags = [
+    "Story Analysis",
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 ## What do I want as an author?
