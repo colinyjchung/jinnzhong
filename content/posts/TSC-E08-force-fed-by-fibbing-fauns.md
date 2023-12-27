@@ -4,12 +4,12 @@ title = "TSC-E08: Force-Fed by Fibbing Fauns"
 date = "2021-08-01"
 description = "Sack of Fries"
 tags = [
-    "H.A.",
-    "E.B.",
-    "A.B.",
-    "E.C.",
-    "L.C.",
-    "A.J.",
+    "HA",
+    "EB",
+    "AB",
+    "EC",
+    "LC",
+    "AJ",
     "Aranna Weaver, Astrologer",
     "Emma Frog, Hedge Wizard",
     "Veleris, Pickpocket",
