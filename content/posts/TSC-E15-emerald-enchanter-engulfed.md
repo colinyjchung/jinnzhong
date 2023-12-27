@@ -26,7 +26,8 @@ tags = [
     "Gary the Snail Juno, Spy",
     "DCC",
     "The Emerald Enchanter",
-    "Joseph Goodman"
+    "Joseph Goodman",
+    "RPG",
 ]
 categories = [
 ]
