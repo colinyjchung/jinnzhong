@@ -4,13 +4,13 @@ title = "TSC-E16: Magic Mushroom Party!"
 date = "2021-10-03"
 description = "Your Mom..."
 tags = [
-    "H.A.",
-    "A.B.",
-    "E.B.",
-    "S.B.",
-    "E.C.",
-    "L.C.",
-    "A.J.",
+    "HA",
+    "AB",
+    "EB",
+    "SB",
+    "EC",
+    "LC",
+    "AJ",
     "Aranna Weaver, Astrologer",
     "Ser Aust Booker, Knight",
     "Lane Weaver, Soldier",
