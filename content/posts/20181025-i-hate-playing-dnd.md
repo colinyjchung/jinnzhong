@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "I Hate Playing D&D"
 date = "2018-10-25"
 description = "Why I hate playing D&D"
+tags = [
+    "RPG",
+    "D&D 5e",
+    "Creative Process",
+]
 +++
 
 No, seriously, I mean it. 
