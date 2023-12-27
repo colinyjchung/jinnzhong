@@ -3,6 +3,10 @@ author = "Jinn Zhong"
 title = "Intro to RPGs"
 date = "2021-07-31"
 description = "For people who have never played RPGs before"
+tags = [
+    "RPG",
+    "Creative Process",
+]
 +++
 What is a **Role-Playing Game?** (RPG)
 
