@@ -4,12 +4,12 @@ title = "TSC-E11: Mildred!!!"
 date = "2021-08-22"
 description = "Crispy Chicken Nuggets"
 tags = [
-    "H.A.",
-    "A.B.",
-    "E.B.",
-    "S.B.",
-    "E.C.",
-    "L.C.",
+    "HA",
+    "AB",
+    "EB",
+    "SB",
+    "EC",
+    "LC",
     "Aranna Weaver, Astrologer",
     "Ser Aust Booker, Knight",
     "Lane Weaver, Soldier",
