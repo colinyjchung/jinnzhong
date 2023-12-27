@@ -3,6 +3,10 @@ author = "Jinn Zhong"
 title = "My Favorite Nonwork Books"
 date = "2020-12-17"
 description = "Novels & Nonfiction"
+tags = [
+    "Books Read",
+    "Creative Process",
+]
 +++
 
 In a conversation with K.D., we asked each other what our top ten non-work books were. That is, books which had nothing to do with marketing, business, or self-help.
