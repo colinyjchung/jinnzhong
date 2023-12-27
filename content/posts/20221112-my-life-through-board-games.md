@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "My Life Through Board Games"
 date = "2022-11-12"
 description = "Four Decades of Boardgaming"
+tags = [
+    "Board Games",
+    "War Games",
+    "Media Consumption",
+]
 +++
 I was a sore loser when I was five. I remember crying over a game of *Don't Talk to Strangers* (1984). It's hilarious if you think about it.
 
