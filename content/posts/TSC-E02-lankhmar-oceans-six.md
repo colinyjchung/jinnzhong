@@ -18,6 +18,7 @@ tags = [
     "Veleris, Pickpocket",
     "Masks of Lankhmar",
     "Michael Curtis",
+    "RPG",
 ]
 categories = [
 "Roleplaying Games",
