@@ -21,7 +21,8 @@ tags = [
     "The Imperishable Sorceress",
     "Daniel J. Bishop",
     "The Seers Sanctum",
-    "Directsun"  
+    "Directsun",
+    "RPG",
 ]
 categories = [
     "Roleplaying Games",
