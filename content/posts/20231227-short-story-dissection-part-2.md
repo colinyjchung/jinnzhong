@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "Short Story Dissection, Part 2"
 date = "2023-12-27"
 description = "Dissecting award winning short stories, part 2"
+tags = [
+    "Story Analysis",
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 _(cont'd from [yesterday's entry 11/22/2023](https://journal.jinnzhong.com/overthinking-overpreparing-overanalyzing/), then dropped for a month, and returned to 12/26/2023. What a terrible month.)_
