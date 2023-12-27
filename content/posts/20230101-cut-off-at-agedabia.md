@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "Cut Off at Agedabia"
 date = "2023-01-01"
 description = "AAR: Rommel in the Desert (1982) G09"
+tags = [
+    "War Games",
+    "Beau Burdett",
+    "AAR",
+]
 +++
 **AAR: Rommel in the Desert (1982) G09**
 
