@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "Short Story Dissection, Part 1"
 date = "2023-11-08"
 description = "Dissecting award winning short stories."
+tags = [
+    "Story Analysis",
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 OK, so I've thoroughly dissected eleven short stories now, all winners of Hugo, Nebula, World Fantasy and/or Locus awards over the last eight years.
 
