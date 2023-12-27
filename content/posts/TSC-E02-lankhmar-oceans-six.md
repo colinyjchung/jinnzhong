@@ -4,12 +4,12 @@ title = "TSC-E02: Lankmar's Ocean's Six"
 date = "2021-05-30"
 description = "Desert Jaguars Like Pizza"
 tags = [
-    "H.A.",
-    "A.B.",
-    "E.B.",
-    "E.C.",
-    "A.J.",
-    "O.R.",
+    "HA",
+    "AB",
+    "EB",
+    "EC",
+    "AJ",
+    "OR",
     "Aranna Weaver, Astrologer",
     "Emma Frog, Hedge Wizard",
     "Purple Nurple, Knight",
