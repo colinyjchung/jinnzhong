@@ -23,7 +23,8 @@ tags = [
     "Moulsh Ishlum, Drune",
     "OSR",
     "The Black Wyrm of Brandonsford",
-    "Chance Dudinack"
+    "Chance Dudinack",
+    "RPG",
 ]
 categories = [
 ]
