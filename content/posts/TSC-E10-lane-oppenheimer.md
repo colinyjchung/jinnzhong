@@ -4,12 +4,12 @@ title = "TSC-E10: Lane Oppenheimer, Destroyer of Worlds"
 date = "2021-08-15"
 description = "A Drink of Despair"
 tags = [
-    "A.B.",
-    "E.B.",
-    "S.B.",
-    "C.C.",
-    "E.C.",
-    "O.R.",
+    "AB",
+    "EB",
+    "SB",
+    "CC",
+    "EC",
+    "OR",
     "Aranna Weaver, Astrologer",
     "Ser Aust Booker, Knight",
     "Lane Weaver, Soldier",
