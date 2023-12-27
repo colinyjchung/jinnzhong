@@ -4,14 +4,14 @@ title = "TSC-E13: New Base, New Biz, New Baby"
 date = "2021-09-12"
 description = "Bryce Icarus Milos"
 tags = [
-    "H.A.",
-    "A.B.",
-    "E.B.",
-    "S.B.",
-    "E.C.",
-    "L.C.",
-    "A.J.",
-    "O.R.",
+    "HA",
+    "AB",
+    "EB",
+    "SB",
+    "EC",
+    "LC",
+    "AJ",
+    "OR",
     "Aranna Weaver, Astrologer",
     "Ser Aust Booker, Knight",
     "Lane Weaver, Soldier",
