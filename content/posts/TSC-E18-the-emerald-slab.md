@@ -4,13 +4,13 @@ title = "TSC-E18: The Emerald Slab"
 date = "2021-10-17"
 description = "Spiders Everywhere"
 tags = [
-    "H.A.",
-    "E.B.",
-    "S.B.",
-    "E.C.",
-    "O.R.",
-    "L.C.",
-    "A.J.",
+    "HA",
+    "EB",
+    "SB",
+    "EC",
+    "OR",
+    "LC",
+    "AJ",
     "Aranna Weaver, Astrologer",
     "Lane Weaver, Soldier",
     "Ser Aust Booker, Knight",
