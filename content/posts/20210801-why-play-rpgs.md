@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "Why Play RPGs?"
 date = "2021-08-01"
 description = "The Real Life Benefits of Playing RPGs"
+tags = [
+    "RPG",
+    "OSR",
+    "Creative Process",
+]
 +++
 Aside from getting together with a group of friends to make up stories together... could you argue RPGs are also *educational?*
 
