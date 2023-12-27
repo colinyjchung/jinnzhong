@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "Short Story Structure Part 2"
 date = "2023-10-01"
 description = "Reviewing Notes from August 16, 2017"
+tags = [
+    "Story Analysis",
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 Reviewed notes from [August 16, 2017](https://journal.jinnzhong.com/short-story-plot-structure-study/), as deadline for "coming up with short stories" on October 8th, 2023 is fast coming for Garage Fiction. Realized that my foray into improv and standup between 2021-2023 was a significantly helpful diversion in understanding setup, 3-things/escalation, payoff.
