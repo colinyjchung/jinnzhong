@@ -4,13 +4,13 @@ title = "TSC-E19: Vampyr Slayers?"
 date = "2021-10-31"
 description = "Fireball"
 tags = [
-    "H.A.",
-    "A.B.",
-    "E.B.",
-    "S.B.",
-    "E.C.",
-    "L.C.",
-    "A.J.",
+    "HA",
+    "AB",
+    "EB",
+    "SB",
+    "EC",
+    "LC",
+    "AJ",
     "Aranna Weaver, Astrologer",
     "Lane Weaver, Soldier",
     "Coil Mahogany, Zealot",
