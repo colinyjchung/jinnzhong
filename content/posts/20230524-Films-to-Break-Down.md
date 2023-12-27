@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "Films to Study for Central Dramatic Arguments"
 date = "2023-05-24"
 description = "Films to Study for Central Dramatic Arguments"
+tags = [
+    "Story Analysis",
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 * The Shawshank Redemption
