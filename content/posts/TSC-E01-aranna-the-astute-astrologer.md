@@ -19,6 +19,7 @@ tags = [
 "Orlan, Soldier",
 "Winter's Daughter",
 "Gavin Norman",
+"RPG",
 ]
 categories = [
 "Roleplaying Games",
