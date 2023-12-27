@@ -4,11 +4,11 @@ title = "TSC-E03: Introducing The Snack Club"
 date = "2021-06-06"
 description = "A Game of Dice"
 tags = [
-    "H.A.",
-    "A.B.",
-    "E.B.",
-    "E.C.",
-    "A.J.",
+    "HA",
+    "AB",
+    "EB",
+    "EC",
+    "AJ",
     "Aranna Weaver, Astrologer",
     "Emma Frog, Hedge Wizard",
     "Orlan, Soldier",
