@@ -4,12 +4,12 @@ title = "TSC-E14: Thesdi... What Now?"
 date = "2021-09-19"
 description = "Failed Experiments"
 tags = [
-    "H.A.",
-    "A.B.",
-    "E.B.",
-    "S.B.",
-    "E.C.",
-    "L.C.",
+    "HA",
+    "AB",
+    "EB",
+    "SB",
+    "EC",
+    "LC",
     "Aranna Weaver, Astrologer",
     "Ser Aust Booker, Knight",
     "Lane Weaver, Soldier",
