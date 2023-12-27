@@ -7,6 +7,15 @@ tags = [
     "Craft of Writing",
     "Creative Process",
     "The Struggle",
+    "Charlie Munger",
+    "Lollapalooza Effect",
+    "George Mack",
+    "Oliver Burkeman",
+    "Four Thousand Weeks",
+    "Behavioral Change",
+    "Garage Fiction Podcast",
+    "Mary Robinette Kowal",
+    "VGW in the 'Burbs",
 ]
 +++
 
