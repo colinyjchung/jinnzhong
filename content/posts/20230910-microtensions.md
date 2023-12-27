@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "Micro-Tensions"
 date = "2023-09-10"
 description = "How to Create Micro-Tension"
+tags = [
+    "Story Analysis",
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 Maass, Donald. _The Fire in Fiction._ Writer's Digest Books, 2009.
