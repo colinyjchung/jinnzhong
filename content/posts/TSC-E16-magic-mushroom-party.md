@@ -20,11 +20,10 @@ tags = [
     "Glavas Roh Tentacles, Lower Noble",
     "Gary the Snail Juno, Spy",
     "The Imperishable Sorceress",
-    "Daniel J. Bishop"
+    "Daniel J. Bishop",
+    "RPG",
 ]
 categories = [
-    "Roleplaying Games",
-    "DCC",
 ]
 +++
 
