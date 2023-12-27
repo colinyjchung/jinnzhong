@@ -4,12 +4,12 @@ title = "TSC-E09: The Death of Emma Frog"
 date = "2021-08-08"
 description = "It's pronounced skon"
 tags = [
-    "H.A.",
-    "A.B.",
-    "E.C.",
-    "L.C.",
-    "A.J.",
-    "O.R.",
+    "HA",
+    "AB",
+    "EC",
+    "LC",
+    "AJ",
+    "OR",
     "Aranna Weaver, Astrologer",
     "Emma Frog, Hedge Wizard",
     "Ser Aust Booker, Knight",
