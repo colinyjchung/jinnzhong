@@ -23,7 +23,8 @@ tags = [
     "OSR",
     "Ben Milton",
     "The Black Wyrm of Brandonsford",
-    "Chance Dudinack"
+    "Chance Dudinack",
+    "RPG",
 ]
 categories = [
 ]
