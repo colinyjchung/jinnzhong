@@ -23,7 +23,8 @@ tags = [
     "Ser Erevan Weaver, Knight",
     "Daot-Daot Doubt, Apothecarist",
     "The Jeweler that Dealt in Stardust",
-    "Harley Stroh"
+    "Harley Stroh",
+    "RPG",
 ]
 categories = [
     "Roleplaying Games",
