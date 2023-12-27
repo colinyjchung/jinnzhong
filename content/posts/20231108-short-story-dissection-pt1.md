@@ -16,6 +16,7 @@ tags = [
     "Rebecca Roanhorse",
     "Alyssa Wong",
     "Mary Robinette Kowal",
+    "John Wiswell",
 ]
 +++
 OK, so I've thoroughly dissected eleven short stories now, all winners of Hugo, Nebula, World Fantasy and/or Locus awards over the last eight years.
