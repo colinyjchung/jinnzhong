@@ -19,7 +19,8 @@ tags = [
     "Arden Vey, Pickpocket",
     "Daot-Daot Doubt, Apothecarist",
     "Halls of the Blood King",
-    "Diogo Nogueira"
+    "Diogo Nogueira",
+    "RPG",
 ]
 categories = [
     "Roleplaying Games",
