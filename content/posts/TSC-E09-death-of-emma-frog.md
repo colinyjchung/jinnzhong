@@ -18,7 +18,8 @@ tags = [
     "Myra, Mercenary",
     "Thistle Frog, Assassin",
     "Toaf Frog, Spy",
-    "OSR"
+    "OSR",
+    "RPG",
 ]
 categories = [
 ]
