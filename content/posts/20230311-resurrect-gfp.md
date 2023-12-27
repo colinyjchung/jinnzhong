@@ -2,7 +2,13 @@
 author = "Jinn Zhong" 
 title = "Resurrect GFP" 
 date = "2023-03-11" 
-description = "Resurrecting GFP" 
+description = "Resurrecting GFP"
+tags = [
+    "Creative Process",
+    "Garage Fiction Podcast",
+    "Bryan Cheyne",
+    "Olivia Hofer",
+]
 +++
 
 Bryan, Olivia, and I are looking to “resurrect” Garage Fiction, but version 3.0 will be drastically different. 
