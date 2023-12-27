@@ -7,6 +7,15 @@ tags = [
     "Story Analysis",
     "Craft of Writing",
     "Creative Process",
+    "Naomi Kritzer",
+    "P. Djélí Clark",
+    "Mel Kassel",
+    "Emma Törz",
+    "Sarah Pinsker",
+    "Alix Harrow",
+    "Rebecca Roanhorse",
+    "Alyssa Wong",
+    "Mary Robinette Kowal",
 ]
 +++
 OK, so I've thoroughly dissected eleven short stories now, all winners of Hugo, Nebula, World Fantasy and/or Locus awards over the last eight years.
