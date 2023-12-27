@@ -3,6 +3,18 @@ author = "Jinn Zhong"
 title = "Art, Pop, Nerds, and Story"
 date = "2023-07-07"
 description = "Storytelling and Nerdom"
+tags = [
+    "Story Analysis",
+    "Craft of Writing",
+    "Creative Process",
+    "Olivia Hofer",
+    "Garage Fiction Podcast",
+    "Laura K.",
+    "J.K. Rowling",
+    "The Cursed Child",
+    "Four Thousand Weeks",
+    "Oliver Burkeman",
+]
 +++
 
 A few things from today, seemingly random, but coalesces into something more re: art, pop, nerds, and storytelling. It's been quite the day.
