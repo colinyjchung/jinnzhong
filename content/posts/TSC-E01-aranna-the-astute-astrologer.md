@@ -4,10 +4,10 @@ title = "TSC-E01: Aranna, the Astute Astrologer"
 date = "2021-05-23"
 description = "Six Dead & Took Credit"
 tags = [
-"H.A.",
-"E.C.",
-"A.J.",
-"O.R.",
+"HA",
+"EC",
+"AJ",
+"OR",
 "Thork, Zealot of Loki",
 "Surina Juno, Charltan",
 "Aranna Weaver, Astrologer",
