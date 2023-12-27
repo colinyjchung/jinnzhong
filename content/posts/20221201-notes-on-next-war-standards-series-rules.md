@@ -3,6 +3,14 @@ author = "Jinn Zhong"
 title = "Notes on Next War: SSR"
 date = "2022-12-01"
 description = "Notes on Next War: Standard Series Rules"
+tags = [
+    "Next War: Korea (2012)",
+    "Gene Billingsley", 
+    "Mitchell Land",
+    "GMT Games",
+    "War Games",
+    "Media Consumption",
+]
 +++
 OK, it took three attempts and probably eight or ten hours of studying, taking notes, and looking at the tables, player aids, maps, and punching out a few counters to get a "feel for it"... but I have just finished reading all 21 pages of **Next War's Standard Series Rules**.
 
