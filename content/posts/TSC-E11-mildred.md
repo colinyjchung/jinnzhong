@@ -21,7 +21,8 @@ tags = [
     "Squidward Tentacles, Hedge Wizard",
     "The Waking of Willowby Hall",
     "OSR",
-    "Ben Milton"
+    "Ben Milton",
+    "RPG",
 ]
 categories = [
 ]
