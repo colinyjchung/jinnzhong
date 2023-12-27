@@ -7,6 +7,9 @@ tags = [
     "War Games",
     "Beau Burdett",
     "AAR",
+    "Rommel in the Desert (1981)",
+    "Craig Besinque",
+    "Columbia Games",
 ]
 +++
 **AAR: Rommel in the Desert (1982) G09**
