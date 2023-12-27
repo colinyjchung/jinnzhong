@@ -4,12 +4,12 @@ title = "TSC-E12: Ingrid & Warwick Sitting In A Tree"
 date = "2021-08-29"
 description = "Snake Scarf Fashion"
 tags = [
-    "H.A.",
-    "E.B.",
-    "S.B.",
-    "E.C.",
-    "A.J.",
-    "O.R.",
+    "HA",
+    "EB",
+    "SB",
+    "EC",
+    "AJ",
+    "OR",
     "Aranna Weaver, Astrologer",
     "Ser Aust Booker, Knight",
     "Lane Weaver, Soldier",
