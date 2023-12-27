@@ -3,6 +3,17 @@ author = "Jinn Zhong"
 title = "How I Run My OSR Games"
 date = "2021-08-21"
 description = "My Fantasy RPG Rules"
+tags = [
+    "RPG",
+    "OSR",
+    "Knave",
+    "DCC",
+    "OSE",
+    "Ben Milton",
+    "Fiasco",
+    "Angry GM",
+    "Gavin Norman",
+]
 +++
 
 For fantasy RPGS, my games are ran with a chimeric set of rules.
