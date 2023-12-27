@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "The Lollapalooza Effect"
 date = "2023-10-10"
 description = "Changing Behavior to Write"
+tags = [
+    "Craft of Writing",
+    "Creative Process",
+    "The Struggle",
+]
 +++
 
 George Mack in **0.1% of Ideas** wrote about the Lollapalooza Effect recently.  It's a concept that investor Charlie Munger coined at a  1995 Harvard speech. This is when you combine multiple manipulative psychological tricks (or tendencies) together in order to change behavior. From Munger's words: _"the combination greatly increases power to change behavior, compared to the power of merely one tendency acting alone."_
