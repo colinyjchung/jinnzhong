@@ -4,10 +4,10 @@ title = "TSC-E17: Moonwalk Conga Line"
 date = "2021-10-10"
 description = "Destroy All Evidence"
 tags = [
-    "H.A.",
-    "E.B.",
-    "S.B.",
-    "E.C.",
+    "HA",
+    "EB",
+    "SB",
+    "EC",
     "Aranna Weaver, Astrologer",
     "Lane Weaver, Soldier",
     "Octopus Tentacles, Courtier",
