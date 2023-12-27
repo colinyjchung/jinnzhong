@@ -3,6 +3,13 @@ author = "Jinn Zhong"
 title = "AAR: Celles: The Ardennes (2012) G01"
 date = "2022-11-16"
 description = "AAR of my first H&C Game"
+tags = [
+    "Celles - The Ardennes (2012)",
+    "Roger Miller", 
+    "Revolution Games",
+    "War Games",
+    "Media Consumption",
+]
 +++
 **GAME:** Celles -The Ardennes, December 23-27, 1944  
 **DESIGNER:** Roger Miller  
