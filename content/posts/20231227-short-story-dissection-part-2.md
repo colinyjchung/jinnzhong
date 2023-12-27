@@ -7,6 +7,16 @@ tags = [
     "Story Analysis",
     "Craft of Writing",
     "Creative Process",
+        "Naomi Kritzer",
+    "P. Djélí Clark",
+    "Mel Kassel",
+    "Emma Törz",
+    "Sarah Pinsker",
+    "Alix Harrow",
+    "Rebecca Roanhorse",
+    "Alyssa Wong",
+    "Mary Robinette Kowal",
+    "John Wiswell",
 ]
 +++
 
