@@ -3,6 +3,10 @@ author = "Jinn Zhong"
 title = "Jinn Zhong 5e" 
 date = "2018-10-05" 
 description = "Please put me in your D&D campaign"
+tags = [
+    "D&D 5e",
+    "RPG",
+]
 +++
 
 Dear D&D Players
