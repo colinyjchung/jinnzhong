@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 002: Hungry Ghost"
 date = "2015-01-22"
 description = "Flash Fiction 002"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 On a crisp October evening, Ngabo was sitting on a bench near Lennon’s memorial in Central Park. 
