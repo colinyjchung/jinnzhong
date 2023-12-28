@@ -2,7 +2,12 @@
 author = "Jinn Zhong" 
 title = "Initial Story Ideas" 
 date = "2014-07-01" 
-description = "Dogwood and Jinn Story Ideas" 
+description = "Dogwood and Jinn Story Ideas"
+tags = [
+    "Garage Fiction Podcast",
+    "Dogwood Daniels",
+    "Creative Process",
+]
 +++
 
 ## Unique Protagonist Ideas:
