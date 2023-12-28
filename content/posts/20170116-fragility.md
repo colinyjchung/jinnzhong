@@ -3,6 +3,16 @@ author = "Jinn Zhong"
 title = "Fragility" 
 date = "2017-01-16" 
 description = "Reflection on 1000 Words a Day" 
+tags = [
+    "The Struggle",
+    "Craft of Writing",
+    "Creative Process",
+    "Olivia Hofer",
+    "Margaret Atwood",
+    "Madeleine Thien",
+    "Do Not Say We Have Nothing (2016)",
+    "The Handmaid's Tale (1985)",
+]
 +++
 
 Fragility.
