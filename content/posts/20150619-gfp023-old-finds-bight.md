@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 023: Old Finds Bight"
 date = "2015-06-10"
 description = "Flash Fiction 023"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 When Pete Dixon first arrived at the newly built Carson Williams Villa, he found the 33-bedroom Spanish Colonial unsettling. 
