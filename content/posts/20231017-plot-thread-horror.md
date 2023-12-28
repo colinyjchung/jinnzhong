@@ -20,7 +20,8 @@ tags = [
 +++
 Logistically, **Horror Plot Thread** is what Blake Snyder describes as a "monster in the house". The house is any enclosed area where the characters are trapped (e.g.a haunted house, an island, a prison complex, a spaceship, a cabin). The monster is the being, natural or supernatural, that's hunting characters down and picking them off one by one.
 
-Once you see this, you realize that Jurassic Park, Aliens, and Fatal Attraction are all "horror" stories too.
+Once you see this, you realize that _Jurassic Park_, _Aliens_, and _Fatal Attraction_ are all "horror" stories too.
+
 But what is horror? Horror is visceral fear. Fear of something that’s about to happen. Horror is realizing that it’s already happened or happening and there’s nothing you can do about it. It's dread. In horror the prot has lost control and there’s not much they can do.
 
 To make the story more horror-inducing, make the prot supremely competent but even with their powers, they still lose. As you build the story: make the audience want them to get out of this and work out. Start with a character you can really be empathetic with. There's a hope that things are not as bad as you imagined. But ultimately, they can’t get out and survive. They're dead or trapped forever.
@@ -52,9 +53,9 @@ The key theme of horror is there are some things in life where you lose control 
 * **CLIMAX**: A clever plan to trap, kill, or stop the monster... or an escape plan from the house emerges. Or there's simply a violent confrontation where the aggrieved work together. They pull of the plan and escape... or they don't and they're trapped forever, or all dead.
 
 ## Sources & Resources
-* Snyder, Blake. Save the Cat Goes to the Movies. Michael Wiese Productions, 2007.
-* Sanderson, Brandon, Mary Robinette Kowal, Howard Tayler, and Dan Wells, hosts. "11.18: Elemental Horror." Writing Excuses, season 11, episode 18, Dragonsteel Production, 1 May 2016, [https://writingexcuses.com/11-18-elemental-horror/](https://writingexcuses.com/11-18-elemental-horror/)
-* Sanderson, Brandon, Mary Robinette Kowal, Howard Tayler, and Dan Wells, hosts. "11.20: Horror as a Subgenre."Writing Excuses,season 11,episode 20, Dragonsteel Production, 15 May 2016, [https://writingexcuses.com/11-20-horror-as-a-subgenre/](https://writingexcuses.com/11-20-horror-as-a-subgenre/)
-* Sanderson, Brandon, Mary Robinette Kowal, Howard Tayler, and Dan Wells, hosts. "11.21: Q&A on Elemental Horror, with Steve Diamond."Writing Excuses, season 11, episode 21, Dragonsteel Production, 22 May 2016, [https://writingexcuses.com/11-21-qa-on-elemental-horror-with-steve-diamond/](https://writingexcuses.com/11-21-qa-on-elemental-horror-with-steve-diamond/)
-* "Lecture #2: Plot Part 1 — Brandon Sanderson on Writing Science Fiction and Fantasy"YouTube, uploaded by Brandon Sanderson, January 29, 2020, [https://youtu.be/jrIogch5DBU](https://youtu.be/jrIogch5DBU)
-* "Lecture #3: Plot Part 2 — Brandon Sanderson on Writing Science Fiction and Fantasy" YouTube, uploaded by Brandon Sanderson, February 12, 2020, [https://youtu.be/Qgbsz7Gnrd8](https://youtu.be/Qgbsz7Gnrd8)
+* Snyder, Blake. _Save the Cat Goes to the Movies_. Michael Wiese Productions, 2007.
+* Sanderson, Brandon, Mary Robinette Kowal, Howard Tayler, and Dan Wells, hosts. "11.18: Elemental Horror." _Writing Excuses_, season 11, episode 18, Dragonsteel Production, 1 May 2016, [https://writingexcuses.com/11-18-elemental-horror/](https://writingexcuses.com/11-18-elemental-horror/)
+* Sanderson, Brandon, Mary Robinette Kowal, Howard Tayler, and Dan Wells, hosts. "11.20: Horror as a Subgenre." _Writing Excuses_,season 11,episode 20, Dragonsteel Production, 15 May 2016, [https://writingexcuses.com/11-20-horror-as-a-subgenre/](https://writingexcuses.com/11-20-horror-as-a-subgenre/)
+* Sanderson, Brandon, Mary Robinette Kowal, Howard Tayler, and Dan Wells, hosts. "11.21: Q&A on Elemental Horror, with Steve Diamond." _Writing Excuses_, season 11, episode 21, Dragonsteel Production, 22 May 2016, [https://writingexcuses.com/11-21-qa-on-elemental-horror-with-steve-diamond/](https://writingexcuses.com/11-21-qa-on-elemental-horror-with-steve-diamond/)
+* "Lecture #2: Plot Part 1 — Brandon Sanderson on Writing Science Fiction and Fantasy" _YouTube_, uploaded by Brandon Sanderson, January 29, 2020, [https://youtu.be/jrIogch5DBU](https://youtu.be/jrIogch5DBU)
+* "Lecture #3: Plot Part 2 — Brandon Sanderson on Writing Science Fiction and Fantasy" _YouTube_, uploaded by Brandon Sanderson, February 12, 2020, [https://youtu.be/Qgbsz7Gnrd8](https://youtu.be/Qgbsz7Gnrd8)
