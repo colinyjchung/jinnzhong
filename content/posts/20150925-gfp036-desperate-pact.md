@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 036: Desperate Pact"
 date = "2015-09-25"
 description = "Flash Fiction 036"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 Logan dragged Elena up Tenth Avenue clasping her fingers tightly.
