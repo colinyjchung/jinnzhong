@@ -2,7 +2,12 @@
 author = "Jinn Zhong" 
 title = "What I Want Out Of A Fiction Critique & Accountability Group" 
 date = "2016-12-28" 
-description = "Reassessing GFP" 
+description = "Reassessing GFP"
+tags = [
+    "Garage Fiction Podcast",
+    "Creative Process",
+    "The Struggle",
+]
 +++
 So I want to start this with a bit of context... 
 
