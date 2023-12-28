@@ -9,12 +9,12 @@ tags = [
     "Story Analysis",
 ]
 +++
+
 * **TITLE:** Hungry Daughters of Starving Mothers
 * **AUTHOR:** Alyssa Wong
 * **WORDS:** 6582
 * **SOURCE:** [https://www.nightmare-magazine.com/fiction/hungry-daughters-of-starving-mothers/](https://www.nightmare-magazine.com/fiction/hungry-daughters-of-starving-mothers/)
 
-* 
 # TWO SCENES/OPENING SEQUENCE:
 
 ## SCENE ONE (483)
