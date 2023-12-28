@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 028: Ivory, Jade, & Bronze"
 date = "2015-07-28"
 description = "Flash Fiction 028"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 When the Duke of Wyrrefordshire returned from his expedition of the Icatian nebulae, he presented Queen Lisette with three decapitated heads of her most dissenting voices.
