@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 029: Read the Bones"
 date = "2015-07-29"
 description = "Flash Fiction 029"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 On the morning of the thirteenth day before the Kalends of Maius, when Porphyry left his insula to see Stefano, he had not expected to give alms to the old hag who begged by the fontanelle on via Bocca di Leone.
