@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "Short Story Plot Structure Study"
 date = "2017-08-16"
 description = "Breaking Down Short Story Structure"
+tags = [
+    "Story Analysis",
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 ## TRUTH =
