@@ -3,6 +3,10 @@ author = "Jinn Zhong"
 title = "Big Reveals"
 date = "2018-06-25"
 description = "Big Reveals"
+tags = [
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 ## 1. What I'm protecting/defending/willing to sacrifice for... 
