@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 025: Fox & Rabbit"
 date = "2015-07-07"
 description = "Flash Fiction 025"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 The first time Fox laid eyes on Rabbit, she stared back at him, hard, gnashing nicotine gum, indifferent to Fox’s presence. Either that, or she was daring Fox to seduce her.
