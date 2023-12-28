@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 030: City of Masks"
 date = "2015-08-07"
 description = "Flash Fiction 030"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 Joaquin shifted uneasily in the undulating gondola. His stiff back hurt and the rocking made it worse. He was exhausted and wanted to close his eyes but fought it and kept watch over Valeria, his queen and duty. They’ve been on the run for over a fortnight now, sleeping where they could, whenever they could.
