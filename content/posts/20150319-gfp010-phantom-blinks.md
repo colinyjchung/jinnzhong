@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 010: Phantom Blinks"
 date = "2015-03-19"
 description = "Flash Fiction 010"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 Jeremy hid amongst the thick ponderosa pine behind his house, spying on his two daughters playing in the backyard. He stared silently, quiet, waiting. The girls were taking turns cooking for each other with plastic toy pots and pans, plates and utensils, gobbling up make-believe meals one after another.
