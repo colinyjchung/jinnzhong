@@ -3,6 +3,10 @@ author = "Jinn Zhong"
 title = "Tension & Suspense"
 date = "2018-06-26"
 description = "How to Create Tension, Thrills, and Suspense"
+tags = [
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 1. Ticking time clock
