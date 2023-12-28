@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "The Aquarium"
 date = "2017-02-18"
 description = "Garage Fiction Story"
+tags = [
+    "Novelette",
+    "First Draft",
+    "Garage Fiction Podcast",
+]
 +++
 
 ## Part I: In Which 8-Eyes Dies
