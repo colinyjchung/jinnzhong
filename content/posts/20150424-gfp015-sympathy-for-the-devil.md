@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 015: Sympathy for the Devil"
 date = "2015-04-24"
 description = "Flash Fiction 015"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 Ezekiel Waterford reached for his pawn, hesitated, then nudged it forward to the eighth rank. He glanced at Rodney, his Thursday morning opponent, a 73-year-old black man with a huge grey fro and long, frizzled beard.
