@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 037: The Deep Sea"
 date = "2015-10-07"
 description = "Flash Fiction 037"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 “Where is she?!” Noguchi roared.
