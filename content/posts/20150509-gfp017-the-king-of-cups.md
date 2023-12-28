@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 017: The King of Cups"
 date = "2015-05-17"
 description = "Flash Fiction 017"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 Wading through his own murky thoughts, Søren held a hand over his mouth while he stared blankly at Nessa. 
