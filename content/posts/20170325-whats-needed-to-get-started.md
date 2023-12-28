@@ -2,7 +2,12 @@
 author = "Jinn Zhong" 
 title = "What's Needed to Get Started" 
 date = "2017-03-25" 
-description = "What do I need to start a story?" 
+description = "What do I need to start a story?"
+tags = [
+    "Story Analysis",
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 The protagonist must be doing something interesting with their own goal and conflict already. 
