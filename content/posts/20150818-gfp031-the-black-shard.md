@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 031: The Black Shard"
 date = "2015-08-18"
 description = "Flash Fiction 031"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 Henry Hyde thought he knew what he was getting into when he stood before the Black Shard, a twisted ugly spire, a hundred stories tall, penetrating the Lillithian red skies.
