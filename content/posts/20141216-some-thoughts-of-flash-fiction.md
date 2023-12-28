@@ -3,6 +3,13 @@ author = "Jinn Zhong"
 title = "Some Thoughts on Flash Fiction" 
 date = "2014-12-16" 
 description = "The email that started it all" 
+tags = [
+    "Garage Fiction Podcast",
+    "Dogwood Daniels",
+    "Nicholas Brack",
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 Hi Nicholas and Dogwood,
