@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "Character Arcs"
 date = "2017-05-17"
 description = "Character Arcs"
+tags = [
+    "Story Analysis",
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 People hate changes. We all talk about it, but few take action, or when external events push us, we push back to sustain homeostasis.
