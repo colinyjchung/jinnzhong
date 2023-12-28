@@ -2,7 +2,12 @@
 author = "Jinn Zhong" 
 title = "Themes I Like" 
 date = "2016-10-31" 
-description = "Study of Themes I Like" 
+description = "Study of Themes I Like"
+tags = [
+    "Story Analysis",
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 ## GETTING POWER, KEEPING POWER, NATURE OF POWER, REALPOLITIK of POWER
