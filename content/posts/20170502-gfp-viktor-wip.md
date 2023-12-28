@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "Viktor WIP"
 date = "2017-05-02"
 description = "Garage Fiction Story"
+tags = [
+    "Garage Fiction Podcast",
+    "WIP",
+    "Short Story",
+]
 +++
 
 
