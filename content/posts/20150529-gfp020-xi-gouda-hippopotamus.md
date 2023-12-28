@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 020: XI: Gouda Hippopotamus"
 date = "2015-05-29"
 description = "Flash Fiction 020"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 Jonathan held the strange scrap of paper before him. He squinted his eyes, hoping the words would magically transform. They did not. What he had just read a moment ago remained.
