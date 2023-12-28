@@ -2,7 +2,12 @@
 author = "Jinn Zhong" 
 title = "Self-Study of Hugo & Nebula Winners" 
 date = "2017-03-24" 
-description = "What makes a short story work?" 
+description = "What makes a short story work?"
+tags = [
+    "Story Analysis",
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 If the scope of short stories are not “world changing” where regimes are changed, kings are murdered or deposed of, or a relationship comes to a dramatic end with murder, an affair, a breakup, a death, a marriage, a birth, a goodbye, a reunion, or something huge… 
