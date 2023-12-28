@@ -17,6 +17,17 @@ tags = [
     "Alyssa Wong",
     "Mary Robinette Kowal",
     "John Wiswell",
+    "Cat Pictures Please",
+    "Secret Lives of the Nine Negro Teeth of George Washington",
+    "Little Free Library",
+    "Ten Deals with the Indigo Snake",
+    "Like a River Loves the Sky",
+    "Open House on Haunted Hill",
+    "The Court Magician",
+    "A Witch’s Guide to Escape: A Practical Compendium of Portal Fantasies",
+    "Welcome to Your Authentic Indian Experience",
+    "Hungry Daughters of Starving Mothers",
+    "Midnight Hour",
 ]
 +++
 OK, so I've thoroughly dissected eleven short stories now, all winners of Hugo, Nebula, World Fantasy and/or Locus awards over the last eight years.
