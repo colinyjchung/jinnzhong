@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 005: Old Man Run"
 date = "2015-02-13"
 description = "Flash Fiction 005"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 Magnetic turbulence shook the Santa Muerte’s cargo hold and everybody inside it.
