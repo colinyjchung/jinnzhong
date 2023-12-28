@@ -3,6 +3,10 @@ author = "Jinn Zhong"
 title = "NOTES: How To Write Best Selling Fiction (1981) by Dean Koontz"
 date = "2013-06-03"
 description = "NOTES: How To Write Best Selling Fiction (1981) by Dean Koontz"
+tags = [
+    "Craft of Writing",
+    "Notes on Craft",
+]
 +++
 
 ## The Opening Scene = HOOK
