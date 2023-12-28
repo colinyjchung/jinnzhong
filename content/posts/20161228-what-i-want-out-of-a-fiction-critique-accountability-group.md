@@ -11,6 +11,7 @@ tags = [
     "Dogwood Daniels",
     "Olivia Hofer",
     "Bryan Cheyne",
+    "Anthony Rhone",
 ]
 +++
 So I want to start this with a bit of context... 
