@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 014: The Hunter's Funeral Procession"
 date = "2015-04-17"
 description = "Flash Fiction 014"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 The room Marius found himself in was a swaying blur of emerald, mahogany and shades of charcoal. 
