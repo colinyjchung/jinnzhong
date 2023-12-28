@@ -2,7 +2,7 @@
 author = "Jinn Zhong"
 title = "PLOT THREAD: Adventure"
 date = "2023-10-17"
-description = "The Horror Plot Thread Archetype"
+description = "The Adventure Plot Thread Archetype"
 tags = [
     "Craft of Writing",
     "Story Analysis",
