@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "What Causes Catharsis?"
 date = "2014-02-04"
 description = "Things that cause catharsis"
+tags = [
+    "Story Analysis",
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 ## Keys to Heartwrenching Moments
