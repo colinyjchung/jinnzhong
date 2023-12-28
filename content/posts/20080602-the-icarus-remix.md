@@ -3,6 +3,10 @@ author = "Jinn Zhong"
 title = "The Icarus Remix"
 date = "2008-06-02"
 description = "My first novelette"
+tags = [
+    "Novelette",
+    "First Draft",
+]
 +++
 
 “We want the world and we want it now!”
