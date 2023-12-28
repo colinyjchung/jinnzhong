@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 012: Black Seed"
 date = "2015-04-03"
 description = "Flash Fiction 012"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 From a hundred feet above,  Julian stood watching from his private échaugette.
