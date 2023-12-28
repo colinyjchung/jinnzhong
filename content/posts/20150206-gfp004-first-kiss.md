@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 004: First Kiss"
 date = "2015-02-06"
 description = "Flash Fiction 004"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 _I’m going to quit today,_ Henry said to himself. _I’m determined, dammit._
