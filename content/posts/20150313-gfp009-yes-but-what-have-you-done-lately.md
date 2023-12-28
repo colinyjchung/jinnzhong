@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 009: Yes, But What Have You Done Lately?"
 date = "2015-03-13"
 description = "Flash Fiction 009"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 The scrawny, coltish book dealer grimaced. He held Edvard’s book with suspicion, far away from his body, peering intensely at it over his brass half-wire-rim eyeglasses. 
