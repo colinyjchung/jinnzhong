@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 034: Tiger on a Gold Leash"
 date = "2015-09-10"
 description = "Flash Fiction 034"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 Trakk gripped the railings tightly with both hands as he descended into Luxe, Lau’s basement nightclub. He walked unsteadily, slowly, sometimes trembling.
