@@ -2,7 +2,12 @@
 author = "Jinn Zhong" 
 title = "SFZ Story Seeds" 
 date = "2014-06-02" 
-description = "Story Themes for Short Films" 
+description = "Story Themes for Short Films"
+tags = [
+    "Film",
+    "Gurm Sohal",
+    "Creative Process",
+]
 +++
 
 ## The Cost of the Climb
