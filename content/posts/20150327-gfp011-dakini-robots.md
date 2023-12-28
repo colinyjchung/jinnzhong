@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 011: Dakini Robots"
 date = "2015-03-27"
 description = "Flash Fiction 011"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 In that very moment, Meiji’s stupor program cut short, flashed abruptly and she was brutally yanked from her half-dream.
