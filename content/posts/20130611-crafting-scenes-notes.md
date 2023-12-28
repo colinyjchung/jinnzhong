@@ -3,6 +3,10 @@ author = "Jinn Zhong"
 title = "NOTES: Crafting Notes (2000) by Raymond Obstfeld"
 date = "2013-06-11"
 description = "Notes on Raymond Obstfeld's method for crafting scenes"
+tags = [
+    "Craft of Writing",
+    "Notes on Craft",
+]
 +++
 
 ## A SCENE
