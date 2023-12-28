@@ -1,7 +1,7 @@
 +++
 author = "Jinn Zhong"
 title = "STUDY: The Faery Handbag"
-date = "2015-01-16"
+date = "2017-04-14"
 description = "Story Analysis of The Faery Handbag"
 tags = [
     "The Faery Handbag",
