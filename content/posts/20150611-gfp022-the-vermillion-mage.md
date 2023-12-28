@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 022: The Vermillion Mage"
 date = "2015-06-11"
 description = "Flash Fiction 022"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 Cillian was hunched over in the common room nook, nose deep in the Gnæus Codex again while Vivian and Blarney sat by the bay window, watching the finches and linnets chirruping against the twilight sky.
