@@ -2,7 +2,14 @@
 author = "Jinn Zhong" 
 title = "First Garage Fiction Call" 
 date = "2015-01-05" 
-description = "Here's where it began" 
+description = "Here's where it began"
+tags = [
+    "Garage Fiction Podcast",
+    "Dogwood Daniels",
+    "Nicholas Brack",
+    "Craft of Writing",
+    "Creative Process",
+]
 +++
 
 Great call everyone.
