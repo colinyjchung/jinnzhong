@@ -7,6 +7,10 @@ tags = [
     "Garage Fiction Podcast",
     "Creative Process",
     "The Struggle",
+    "Nicholas Brack",
+    "Dogwood Daniels",
+    "Olivia Hofer",
+    "Bryan Cheyne",
 ]
 +++
 So I want to start this with a bit of context... 
