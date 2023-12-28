@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 032: Parallels"
 date = "2015-08-24"
 description = "Flash Fiction 032"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 Kenneth met Marie on the night of August 14, 2015 at The Masquerade in Atlanta, Georgia. 
