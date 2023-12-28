@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 018: Kobayashi"
 date = "2015-05-15"
 description = "Flash Fiction 018"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 Maru threw his arms down, stiff-straight by his side and psi-blades flared out. 
