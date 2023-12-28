@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 026: My Dead Girlfriend"
 date = "2015-07-07"
 description = "Flash Fiction 026"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 Dead autumn leaves crackled underneath old hiking boots. Crickets chirruped the song of long black nights. The smell of pine filled his lungs with a sense of eternal loneliness.
