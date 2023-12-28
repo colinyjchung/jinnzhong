@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 033: The Cat Came Back"
 date = "2015-09-03"
 description = "Flash Fiction 033"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 Jackson exhaled a burst of vapour through chapped lips. He glanced over at Ruma. He was shaking from the chills, even in a heavy hooded parka.
