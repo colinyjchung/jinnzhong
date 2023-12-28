@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "Story Study: The Day The World Turned Upside Down"
+title = "STUDY: The Day The World Turned Upside Down"
 date = "2017-03-08"
 description = "Story Analysis of The Day The World Turned Upside Down"
 tags = [
@@ -9,10 +9,10 @@ tags = [
     "Story Analysis",
 ]
 +++
-**TITLE**: The Day the World Turned Upside Down
-**AUTHOR:** Thomas Olde Heuvelt
-**WORDS:** 10,130 Words
-**SOURCE:** [https://www.lightspeedmagazine.com/fiction/the-day-the-world-turned-upside-down/](https://www.lightspeedmagazine.com/fiction/the-day-the-world-turned-upside-down/)
+* **TITLE**: The Day the World Turned Upside Down
+* **AUTHOR:** Thomas Olde Heuvelt
+* **WORDS:** 10,130 Words
+* **SOURCE:** [https://www.lightspeedmagazine.com/fiction/the-day-the-world-turned-upside-down/](https://www.lightspeedmagazine.com/fiction/the-day-the-world-turned-upside-down/)
 
 ## SCENE ONE: (512)
 The world turned upside, people fell upwards. Shit happens. But I didn’t really know because I was on the couch waiting for a call from you.
