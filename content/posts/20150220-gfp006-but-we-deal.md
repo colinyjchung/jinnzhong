@@ -3,6 +3,11 @@ author = "Jinn Zhong"
 title = "GFP 006: But We Deal"
 date = "2015-02-20"
 description = "Flash Fiction 006"
+tags = [
+    "Garage Fiction Podcast",
+    "Flash Fiction",
+    "First Draft",
+]
 +++
 
 Shelley’s gut hopped as the sub rosa elevator inside Mausoleum Psi began its descent thirty stories below Basilica di San Pietro.
