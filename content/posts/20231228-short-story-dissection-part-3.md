@@ -46,7 +46,7 @@ tags = [
 | **CMX-%** | N/A | 91.2% | N/A | N/A | 81.4% |
 | **END** | Last | DNM | DNM | DNM | Last2 |
 
-LINEBREAK
+LINEBREAK. What the hell?
 
 | Beats | LRLS | WGE | WAIE | HDSM | MH |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -63,7 +63,7 @@ LINEBREAK
 | **CMX-%** | 92.3% | 98.9% | 100% | 90.9% | 100% |
 | **END** | 2^nd 1/2 | Last | N/A | Last | Last |
 
-LINEBREAK
+LINEBREAK. What the hell?
 
 
 
