@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 Jackson exhaled a burst of vapour through chapped lips. He glanced over at Ruma. He was shaking from the chills, even in a heavy hooded parka.
