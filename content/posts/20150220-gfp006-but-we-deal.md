@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 Shelley’s gut hopped as the sub rosa elevator inside Mausoleum Psi began its descent thirty stories below Basilica di San Pietro.
