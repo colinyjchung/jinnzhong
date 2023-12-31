@@ -8,8 +8,11 @@ tags = [
     "Gene Billingsley", 
     "Mitchell Land",
     "GMT Games",
-    "War Games",
+    "Wargames",
     "Media Consumption",
+]
+categories = [
+    "Wargames",
 ]
 +++
 ## 1st Army
