@@ -26,6 +26,7 @@ tags = [
     "RPG",
 ]
 categories = [
+    "Roleplaying Games",
 ]
 +++
 {{< toc >}}
@@ -89,7 +90,7 @@ Alone, she almost gets lost, but finds her way down to Gnamph Nar safely. Later,
 
 Reunited (minus Errich), The Snack Club, get on the ship they had chartered a few days ago and with their return token, head home to Lankhmar. Fortunately, the journey across Inner Sea is uneventful. They pay their dues at the gates of Lankhmar, return to Wyrmskull and deposit their money. It is then that Nylokk reminds them of Hriseit, the strange man asking about for them.
 
-#### Spoilers Ahead for Harley Stroh's "Gang Lords of Lankhmar" (DCC-L)
+## Spoilers Ahead for Harley Stroh's "Gang Lords of Lankhmar" (DCC-L)
 
 The Snack Club do their own HUMINT work on this Hriseit character. Who is he? They hit the streets. Veleris taps into his criminal network. Emma and Aranna pay off a few people... and they discover that Hriseit is a gang member of the Knife Twisters, a gang of alley-bashers. They find out their leader is King Korvul, an elephantine man who likes wine and sycophants. They find out there are two rival gangs, the Street Scuttlers and Forty Owlets. They find out King Korvul is interested in knocking out both gangs and monopolizing all crime in his hood. _A crimopoly?_ And then Veleris tracks down this Hriseit character to a bar called The Dogfish.
 
@@ -135,9 +136,9 @@ Veleris realizes what he's doing. The fight now appears as if the Scuttlers and 
 
 _/end session_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 <br/>(Deposited Year of the Worm, Month of the Eagle, Day of the Fox)
 
 * 19 Ice Necklaces x 200gp = 3,800gp
@@ -151,7 +152,7 @@ _/end session_
 
 **TOTAL**: 15,507gp 
 
-#### Chekhov's Ticking Time Bombs
+## Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -164,7 +165,7 @@ _/end session_
 * Thork may be dead, but his wife Aranna isn't. Her inheritance? 800gp of debt to the cult of Loki.
 
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 You know.... I figured my players would've learned by now that **I reward preparation and planning.** Barring that, clever improvisation. But walk into a fight without any tactics or foresight whatsoever? Get destroyed. It's that simple. Many of these fights were "unfair" because the Scuttlers simply _outnumbered_ them and had _stronger_ leaders. The Snack Club has a thief, a magic-user and an archer for rear support. And yet, they don't coordinate. They simply let their two tanks rush in without planning. ¯\_(ツ)_/¯
 
