@@ -8,6 +8,9 @@ tags = [
     "D&D 5e",
     "Creative Process",
 ]
+categories = [
+    "Roleplaying Games",
+]
 +++
 
 No, seriously, I mean it. 
