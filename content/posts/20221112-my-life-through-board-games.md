@@ -5,8 +5,12 @@ date = "2022-11-12"
 description = "Four Decades of Boardgaming"
 tags = [
     "Board Games",
-    "War Games",
+    "Wargames",
     "Media Consumption",
+]
+categories = [
+    "Board Games",
+    "Wargames",
 ]
 +++
 I was a sore loser when I was five. I remember crying over a game of *Don't Talk to Strangers* (1984). It's hilarious if you think about it.
