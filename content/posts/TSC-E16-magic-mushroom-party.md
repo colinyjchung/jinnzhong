@@ -26,7 +26,7 @@ tags = [
 categories = [
 ]
 +++
-
+{{< toc >}}
 It's the month of the Wolf, day of the Stoat. The Snack Club have spent an entire week in No-Ombrulsk resting after defeating the Emerald Enchanter. During their week of indulging in their vices, **Octopus** (_EC_) partied so hard she disappeared for a week. 
 
 The Snack Club decide to stick around in No-Ombrulsk for another week. **Aranna Weaver** (_AJ_) spends the week looking for Octopus, but also visits several expensive establishments to pamper herself as well. Somehow, somewhere, she accidentally hires Freya, an enigmatic light footman with heteroachroma eyes... who also happens to be an expert cook. Aranna offers her a job at _Dragons in the Dark_ back in Ool Krut instead of dragging her around on adventures.
