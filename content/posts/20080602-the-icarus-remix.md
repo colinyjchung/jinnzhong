@@ -7,6 +7,9 @@ tags = [
     "Novelette",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 “We want the world and we want it now!”
