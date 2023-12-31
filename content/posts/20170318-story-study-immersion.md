@@ -8,6 +8,9 @@ tags = [
     "Aliette De Bodard",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 
 * **TITLE:** Immersion
