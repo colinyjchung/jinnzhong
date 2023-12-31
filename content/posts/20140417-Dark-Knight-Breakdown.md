@@ -134,7 +134,7 @@ categories = [
 * 2:20:28 - 2:22:27 - Gordon and Batman plot to set Batman up for all of Dent's crimes.
 * 2:22:27 - 2:24:28 - Funeral/ Destroy Batlight/ Alfred burns Rache's letter/ Lucius punches in password/ Final Monologue
 
-## THOUGHTS:
+## THOUGHTS
 
 - Every scene is tight and flows from one to another in a hurried pace.
 As soon as one scene ends, you're setting up for the next action.
