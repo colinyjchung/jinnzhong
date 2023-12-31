@@ -8,8 +8,11 @@ tags = [
     "Gene Billingsley", 
     "Mitchell Land",
     "GMT Games",
-    "War Games",
+    "Wargames",
     "Media Consumption",
+]
+categories = [
+    "Wargames",
 ]
 +++
 OK, it took three attempts and probably eight or ten hours of studying, taking notes, and looking at the tables, player aids, maps, and punching out a few counters to get a "feel for it"... but I have just finished reading all 21 pages of **Next War's Standard Series Rules**.
