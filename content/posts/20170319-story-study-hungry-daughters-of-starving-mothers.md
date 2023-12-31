@@ -8,6 +8,9 @@ tags = [
     "Alyssa Wong",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 
 * **TITLE:** Hungry Daughters of Starving Mothers
