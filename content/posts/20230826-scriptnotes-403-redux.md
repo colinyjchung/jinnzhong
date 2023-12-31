@@ -12,7 +12,7 @@ tags = [
     "Central Dramatic Argument (CDA)"
 ]
 +++
-
+{{< toc >}}
 Great writers follow their characters as they evolve around a central dramatic argument that is actually meaningful to other human beings
 
 Each scene/moment should ask if they did or did not help the protagonist's desire to change.
