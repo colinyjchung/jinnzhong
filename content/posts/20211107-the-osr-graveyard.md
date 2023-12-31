@@ -7,6 +7,9 @@ tags = [
     "RPG",
     "OSR",
 ]
+categories = [
+    "Roleplaying Games",
+]
 +++
 
 ## OSR (Knave/OSE/DCC)
