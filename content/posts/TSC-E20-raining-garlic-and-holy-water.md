@@ -26,7 +26,7 @@ tags = [
     "RPG",
 ]
 categories = [
-    "OSE",
+    "Roleplaying Games",
 ]
 +++
 {{< toc >}}
@@ -34,7 +34,7 @@ It's still the early hours of the Month of the Panther, Day of the Eel and The S
 
 **Daot-Daot** (_EC_) is wandering in the hallways. **Jahura Gaus** (_SB_) and **Gary the Snail** (_HA_) are rummaging through the servants' quarters. **Coil Mahogany** (_LC_), **Arden Vey** (_EB_), and **Aranna Weaver** (_AJ_) are still in the library... and **Lane Weaver** (_AB_) is hanging out with nine vampires from the multiverse in the great hall.
 
-#### Spoilers Ahead for Diogo Nogueira's Halls of the Blood King (OSE)
+## Spoilers Ahead for Diogo Nogueira's Halls of the Blood King (OSE)
 
 Daot-Daot wanders into an armory, takes a crossbow. Jahura and Gary the Snail finds a music room with a  piano and a false shelf. Barbara the Barbarian II roots around in the piano and finds an L-shaped piece of metal. Gary the Snail rummages through the papers on a desk and discovers that Lord Daemetrius is plotting to kill the Blood King with the Blood Princess. Jahura taps around the false bookshelf to find a secret entrance.
 
@@ -147,9 +147,9 @@ The Snack Club on a whim decide that maybe they should buy their own ship with a
 
 _/end session on the Year of the Leviathan, Month of the Raven, Day of the Rabbit_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 
 * Chest of Gold from Hole in Oak = 1,994gp
 * Skull with Ruby Eyes = 1,600gp
@@ -173,7 +173,7 @@ _/end session on the Year of the Leviathan, Month of the Raven, Day of the Rabbi
 
 **TOTAL**: 18,295gp 
 
-#### The Snack Club's Real Estate
+### The Snack Club's Real Estate
 
 * Willowby Hall (Mansion in Ool Krut)
     * Renovations: Building Wizard Tower (ECD. Y.Leviathan/M/Lion/D.Wasp)
@@ -182,7 +182,8 @@ _/end session on the Year of the Leviathan, Month of the Raven, Day of the Rabbi
     * Y.Worm/M.Wolf = +710gp
     * Y.Leviathan/M.Panther = (550)gp
 
-#### Chekhov's Ticking Time Bombs
+## Other Record Keeping Notes
+### Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -196,7 +197,7 @@ _/end session on the Year of the Leviathan, Month of the Raven, Day of the Rabbi
 * The Lens Room in the pocket dimension revealed a pyramid with three statues. How will the Snack Club get back there?
 * Will the Snack Club actually attempt to break into The Emerald Slab?
 
-#### Heat & Reputation
+### Heat & Reputation
 
 | City | Heat | Reputation |
 |---|:---:|:---:|
@@ -216,7 +217,7 @@ _/end session on the Year of the Leviathan, Month of the Raven, Day of the Rabbi
 | Quarmall | 0 | 0 |
 | Horborixen | 0 | 0 |
 
-#### Session Counter for Leveling
+### Session Counter for Leveling
 
 | Character | Player | Level | Sessions | Next |
 |---|:---:|:---:|:---:|:---:|
@@ -230,7 +231,7 @@ _/end session on the Year of the Leviathan, Month of the Raven, Day of the Rabbi
 | Erky Skora | _EB_ | L2 | 1 | 3 |
 | Erevan Weaver | _OR_ | L2 | 1 | 3 |
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 When I was a kid playing video game RPGs like _Final Fantasy_, I made it an obsessive-compulsive habit to be _thorough_ in every dungeon -- going through each and every room, looting every piece of treasure possible. And yeah, I probably could've finished these games much faster if I just rushed through each stage and get to the boss... but that's me.  So I guess it just surprises me whenever I see The Snack Club rushing from one room to the next carelessly, and leaving so much money behind. But again. That's just me, I guess.
 
