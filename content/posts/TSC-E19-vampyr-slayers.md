@@ -33,7 +33,7 @@ It's the Month of the Panther, Day of the Mongoose. The Snack Club are staying a
 
 ## Spoilers Ahead for Diogo Nogueira's Halls of the Blood King (OSE)
 
-Snive Silvyr, from [several sessions back](https://dragonsinthedark.com/post/s1e09-death-of-emma-frog/), the wizard in No-Ombrulsk who helped the Snack Club create three magical weapons... (and _not_ [Volter the Vizard](https://dragonsinthedark.com/post/s1e10-lane-oppenheimer/) from Mlurg Nar, who I mistakenly misplaced here)... comes rushing into the Green Lady looking for **Coil Mahogany** (_LC_). 
+Snive Silvyr, from several sessions back, the wizard in No-Ombrulsk who helped the Snack Club create three magical weapons... (and _not_ Volter the Vizard from Mlurg Nar, who I mistakenly misplaced here)... comes rushing into the Green Lady looking for **Coil Mahogany** (_LC_). 
 
 Snive Silvyr reveals to Coil that he's been looking at the alignment of stars the past few months... and has noticed a impending "Blood Moon" that only occurs once every one hundred years... and furthermore, his research reveals that during this centennial event, the Halls of the Blood King appears in our plane... and that the last time this happened, Seleana Mahogany, Coil's great-great aunt, a legendary vampire hunter had went into the manor to destroy the Blood King (the first vampire), but vanished along with the manor the next morning. He calculates that the manor only appears in this dimension/plane/universe for only **ten hours**.
 
