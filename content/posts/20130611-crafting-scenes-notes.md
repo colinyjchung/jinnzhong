@@ -8,7 +8,7 @@ tags = [
     "Notes on Craft",
 ]
 +++
-
+{{< toc >}}
 ## A SCENE
 1. Exposition to further plot
 2. Conflict
