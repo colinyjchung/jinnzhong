@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 In that very moment, Meiji’s stupor program cut short, flashed abruptly and she was brutally yanked from her half-dream.
