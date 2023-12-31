@@ -28,7 +28,6 @@ tags = [
 ]
 categories = [
     "Roleplaying Games",
-    "DCC",
 ]
 +++
 {{< toc >}}
@@ -42,7 +41,7 @@ Meanwhile, **Gary the Snail** (_HA_) who vanished last week shows up in Lankhmar
 
 Back in Ool Krut, with Nightraker dispensed of, The Snack Club begin their journey up to No-Ombrulsk by way of Ool Plerns. On the way there, they come across a lone trader who warns them of bandits near a bridge who ambush unaware people. The Snack Club thank him with a little gold and they cautiously approach the bridge. Glavas Roh scouts ahead. Sees nothing. Cross the bridge. Nothing. The rest of the Snack Club cross the bridge. Nothing. It appears that they had met a liar who thought warning about a potential ambush was fun.
 
-#### Spoilers Ahead for Harley Stroh's The Jeweler that Dealt in Stardust (DCC)
+## Spoilers Ahead for Harley Stroh's The Jeweler that Dealt in Stardust (DCC)
 
 In Ool Plerns, the Snack Club are reminded of the reclusive Boss Ogo, who for several weeks now has vanished into his own home and has not made any public appearances whatsoever. It's suspicious. The Snack Club decide to check out the house again. Climbing through the window Octopus broke last time they were here, they enter Boss Ogo's house on Dowager Alley and Cheap Street. They walk behind the front counter, rummage through the storage boxes to find some gems, then remembering the shrieking floor in the hallway, Jahura Gaus casts _levitate_ and creates a 10x10' floating air carpet. The Snack Club step on.
 
@@ -80,7 +79,7 @@ Back in Ool Plerns, The Snack Club head up to No-Ombrulsk. On the way there, the
 
 ## The Emerald Slab
 
-Onwards to No-Ombrulsk. They quickly and easily find the Emerald Slab. It's the talk of the town. Everyone is saying how amazing the museum is and how everyone should become a member. The Snack Club approach the front doors and see a plaque. It says, _By Appointment for WHSCK Members Only_. Toad walks up and knocks. _[Virlan Gonov](https://dragonsinthedark.com/tags/virlan-gonov-pickpocket/) opens the door!!!_ Virlan, who you may recall, was forced to climb into a spiked pit to retrieve weapons by Lane Weaver (played by _AJ_). Who was abused and insulted. Who was humiliated.
+Onwards to No-Ombrulsk. They quickly and easily find the Emerald Slab. It's the talk of the town. Everyone is saying how amazing the museum is and how everyone should become a member. The Snack Club approach the front doors and see a plaque. It says, _By Appointment for WHSCK Members Only_. Toad walks up and knocks. Virlan Gonov opens the door!!!_ Virlan, who you may recall, was forced to climb into a spiked pit to retrieve weapons by Lane Weaver (played by _AJ_). Who was abused and insulted. Who was humiliated.
 
 Virlan is all casual and says, "what's up guys?". The Snack Club want in. Virlan says no. He slams the door on them. Aust is having none of this. He kicks the door and tries to break in. The door flies open and a bronze golem stomps out, raises its big gigantic fists and slams them down on Aust Booker. Aust is a bloody pulp. **Aust is dead**. Jahura at this point, decides to cast _ventriloquism_ for some reason. It misfires and it creates a big booming sound. No-Ombrulsk watchmen appear to see what's going on. They have pole-arms and halberds pointed at The Snack Club. Toad fires an arrow and kills a watchman! Cop-Killer! The watchmen attack Toad, misses, and she runs. The rest of the Snack Club are now running.
 
@@ -118,7 +117,7 @@ The basement is lit in a brilliant daylight by a sun globe (also taken from the 
 
 It's clear that WHSCK basically picks up all the treasure The Snack Club carelessly leave behind the dungeons they clear, but didn't go through thoroughly enough.
 
-Krax Craven Maw is standing there, smiling, pleased with himself. Standing next to him is [Moulsh the Drune](https://dragonsinthedark.com/tags/moulsh-ishlum-drune/)! Moulsh who betrayed the Dolmenwood Drunes to help the Snack Club, but was threatened with death, and left! And who else? Who else but Keyleth Gonov as well! Virlan's brother who left the Snack Club after they abused Virlan! And who else? Who else? In the museum, all the guards are... Knife Twisters! The Lankhmar gang that The Snack Club betrayed when they joined the Red Claws briefly.
+Krax Craven Maw is standing there, smiling, pleased with himself. Standing next to him is Moulsh the Drune! Moulsh who betrayed the Dolmenwood Drunes to help the Snack Club, but was threatened with death, and left! And who else? Who else but Keyleth Gonov as well! Virlan's brother who left the Snack Club after they abused Virlan! And who else? Who else? In the museum, all the guards are... Knife Twisters! The Lankhmar gang that The Snack Club betrayed when they joined the Red Claws briefly.
 
 The Emerald Slab is a reminder of everything The Snack Club has carelessly left behind, allies they threatened and abused, and treasure they didn't bother to search carefully from countless dungeons! Krax Craven Maw has invited the Snack Club here, stripped them of their weapons and armor, to gloat, and laugh and in an amused way, thank them for making him a rich man in No-Ombrulsk. Moulsh sneers at them and tells them of all the spells he has learned from Istrobian, Thesdipedes, and Gobur. Keyleth smirks at The Snack Club too.
 
@@ -134,9 +133,9 @@ Meanwhile, EC is rolling up a new character named **Daot-Daot Doubt** (_EC_), an
 
 _/end session on the Year of the Leviathan, Month of the Panther, Day of the Mongoose_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 
 * Chest of Gold from Hole in Oak = 1,994gp
 * Skull with Ruby Eyes = 1,600gp
@@ -158,7 +157,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Mon
 
 **TOTAL**: 14,549gp 
 
-#### The Snack Club's Real Estate
+### The Snack Club's Real Estate
 
 * Willowby Hall (Mansion in Ool Krut)
     * Renovations: Building Wizard Tower (ECD. Y.Leviathan/M/Lion/D.Wasp)
@@ -166,7 +165,8 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Mon
     * Y.Worm/M.Badger = +1,260gp
     * Y.Worm/M.Wolf = +710gp
 
-#### Chekhov's Ticking Time Bombs
+## Other Recording Keeping Notes
+### Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -179,7 +179,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Mon
 * Both Toad and Jahura have upset their patron, Ningauble of the Seven Eyes, by not retrieving the hair of a gorgon. They have been tasked with finding three rare and exotic magic ingredients to appease him.
 * The Lens Room in the pocket dimension revealed a pyramid with three statues. How will the Snack Club get back there?
 
-#### Heat & Reputation
+### Heat & Reputation
 
 | City | Heat | Reputation |
 |---|:---:|:---:|
@@ -199,7 +199,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Mon
 | Quarmall | 0 | 0 |
 | Horborixen | 0 | 0 |
 
-#### Session Counter for Levelling
+### Session Counter for Levelling
 
 | Character | Player | Level | Sessions | Next |
 |---|:---:|:---:|:---:|:---:|
@@ -212,10 +212,10 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Mon
 | Arden Vey | _EB_ | L2 | 1 | 3 |
 | Erevan Weaver | _OR_ | L2 | 1 | 3 |
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 OK, OK. NGL, I was giggling uncontrollably in my head the _entire time_ while I brainstormed, developed and created WHSCK. I mean, it is the _perfect_ answer to a bunch of disorganized, careless adventurers such as The Snack Club. Leave money on the table? Someone else will pick it up. It's that simple. Threaten and insult your allies and hirelings? They'll band together in their hatred of you. It's perfect. It's *chef's kiss* beautiful. C'mon. You have to admit I'm a genius.
 
 In other news, we are now tracking "heat" and "reputation" in each of the fifteen major cities in Nehwon. Heat is how much trouble they're in, how upset that particular city's watch/guard/government is with the Snack Club. And reputation is how famous or notorious they are for their deeds. If they have high "heat", they run into more trouble whenever they head into the city. If they have high "rep", it's easier for them to buy things, find people, and get stuff. If they have low "rep", the opposite happens.
 
-Oh, and I've added a [new section](https://dragonsinthedark.com/graveyard/) in the graveyard to honor the death of Glavas Roh. Someone who died doing the right thing. The first time it has _ever_ happened with The Snack Club.
+Oh, and I've added a new section in the graveyard to honor the death of Glavas Roh. Someone who died doing the right thing. The first time it has _ever_ happened with The Snack Club.
