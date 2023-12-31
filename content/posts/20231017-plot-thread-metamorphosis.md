@@ -18,6 +18,7 @@ tags = [
     "BYU Writing SF&F Lectures"
 ]
 +++
+{{< toc >}}
 
 Everybody wants shortcuts in life. Wealth, sex, power, fame, freedom. But what happens when you "get your wish" via magical means? The Metamorphosis Plot Thread tells stories of these sudden changes. It could be a transformation (get super powers, turn into an animal or invisible), it can be a device (a magic potion, monkey's paw, or some unexplainable tech), it can be a spell, prayer, or anything really. The point is the prot gets a shortcut. But what are thecosts of that shortcut?
 
