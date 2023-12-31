@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 When the Duke of Wyrrefordshire returned from his expedition of the Icatian nebulae, he presented Queen Lisette with three decapitated heads of her most dissenting voices.
