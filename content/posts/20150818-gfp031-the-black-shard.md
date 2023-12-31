@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 Henry Hyde thought he knew what he was getting into when he stood before the Black Shard, a twisted ugly spire, a hundred stories tall, penetrating the Lillithian red skies.
