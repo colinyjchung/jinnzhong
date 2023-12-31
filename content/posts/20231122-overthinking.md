@@ -14,6 +14,9 @@ tags = [
     "John Wiswell",
     "The Struggle"
 ]
+categories = [
+    "Chasing Black Swans",
+]
 +++
 
 So, I'll be honest. The frustration, anxiety, and fear of not starting or writing anything after declaring months ago that I would start... is beginning to boil over in a bad way. On one hand, I still feel like I haven't found a magic formula to get started... like the core elements exercise I did a couple weeks ago when I studied all the top award-winning short stories. On the other hand, I also realize that _that_ last statement is the essence of my over-analytical, over-preparation, over-cautious approach that didn't work in 2006 when I attempted my first novelette post-Bacigalupi-swoon, it didn't work in 2015 when I launched Garage Fiction and wrote thirty-five-plus flash fiction that were basically first scenes with no middles and no endings, and it didn't work in 2017 when I petered out on GFP 2.0. Like, rationally, I know what finally made me get good at copywriting was simply charging money and doing it because my income was on the line... and the exact same approach of throwing wind to the caution and just DOING IT would get me on the path to getting good at the craft of writing stories and fiction as well... but the emotional side of me, the subconscious, or whatever side of me is hunting for more education still. It keeps saying, "just one more". Just this one more course. Just this Patreon. Just this one more workshop. Just find this one other thing.
