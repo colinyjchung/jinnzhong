@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 On the morning of the thirteenth day before the Kalends of Maius, when Porphyry left his insula to see Stefano, he had not expected to give alms to the old hag who begged by the fontanelle on via Bocca di Leone.
