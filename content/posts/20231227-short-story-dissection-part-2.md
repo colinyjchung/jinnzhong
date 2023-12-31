@@ -101,7 +101,7 @@ And again, to help with the analysis, here are the acronym IDs I assigned to eac
 
 And to keep things organized, let's use Wiswell's triangulation as a North Star here. What I want to do, my intent here, is to disassemble the story to extract the engine, and in this case, the engine with three parts: PREMISE, ENDING, and POV. My theory is that if I can reverse engineer these three parts... this will give me a strong sense of how different ENGINES are constructed. I'm going to try and imagine what it was like for each of these authors to construct this engine.
 
-## CPP: 3420 words / 5 scenes
+### CPP: 3420 words / 5 scenes
 
 * **MECH:** A sentient AGI on the Internet nudges humans to improve their lives. It can alter the algorithm to show ads, social posts, and search results. It can alter your driving route to pass by locations.
 * **POV:** The AGI comments on how humans live and exist and what they do _via three examples_ (**PROG**). **BWO**: Stacy is a success. **MID**: Meet Bob the gay pastor. **LOW**: give up after Bethany **CMX**: Notice Bob is doing better.
@@ -110,7 +110,7 @@ And to keep things organized, let's use Wiswell's triangulation as a North Star 
 * **END**: A closeted gay pastor comes out, moves away, and lives a better life in a LGBTQ affirming church.
 * **CDA**: Humans are horrible at making positive life decisions even when all the signs point them to a better life.
 
-## 9NT: 3601 words / 9 scenes
+### 9NT: 3601 words / 9 scenes
 
 * **MECH:** George Washington owns nine negroe teeth that he wears and each one triggers a fantastical/emotional effect based on the backstory of each tooth.
 * **POV:** An omniscient voice that _catalogues the nine backstories of each tooth_ (**PROG**)
@@ -119,7 +119,7 @@ And to keep things organized, let's use Wiswell's triangulation as a North Star 
 * **END:** After eight stories of wonder, the final one is not magical, but someone with a dream.
 * **CDA:** It is not in the fantastical, magical, or wondrous that we find the power to make social change, it is in our raw human hope and dreams.
 
-## LFL: 2508 words / 7 scenes 
+### LFL: 2508 words / 7 scenes 
 
 * **MECH:** Via her little free library, Meigan has a penpal relationship with a fantastical creature from a fantastical realm. They exchange books, letters, and gifts.
 * **POV:** Meigan thinks it's a prank at first, but the gifts are strange, the gold coins are real, and the _series of interactions become more intense_ (PROG). The MID is realizing the gold is worth way too much for a book and that this might be real. LOW: Not knowing what happens to the penpal. CMX: All is lost. Gets one final gift. An Egg.
@@ -128,7 +128,7 @@ And to keep things organized, let's use Wiswell's triangulation as a North Star 
 * **END:** Meigan's attempt to help the otherworldly creature fails after days of silence and anxiety. The interaction has left a mark on her.
 * **CDA:** Our small gestures to strangers can mean a lot more to them then we can fully comprehend ourselves.
 
-## TDIS: 3440 words / 10 scenes
+### TDIS: 3440 words / 10 scenes
 
 * **MECH:**  Snakes in this world will grant wishes, but at strange and unusual costs. It is revealed later they can't say no, only name the cost.
 * **POV:** Sam is a 14yo and thinks she can make deals without too much hurt. **MID:** post-breakup with Simone, Sam makes deal so that Simone never forgets her. **LOW:** trades fertility for a gun due to gansters after her for gambling debt, due to her mishandling her breakup. **CMX:** Cuts herself to undo the midpoint spell.
@@ -137,7 +137,7 @@ And to keep things organized, let's use Wiswell's triangulation as a North Star 
 * **END**: Arguably, the CMX is more fititng as the end where she has to trade a pint of blood to undo the deal she made at the MID. The last two deals is her accepting responsibility for her own actions.
 * **CDA:** We make deals with the devil and shift blame to the devil (for tempting us with power) when we really need to accept responsibility for our own actions.
 
-## LRLS: 3902 words / 6 scenes
+### LRLS: 3902 words / 6 scenes
 
 * **MECH:** Adriana's best friend, NPW is collecting dead roadkill dogs (as a mysterious parting gift) as he's leaving Adrianna at the end of the month... while Adrianna deals with her depression, loneliness, and surreal dreams.
 * **POV:** Adriana is sad about NPW leaving, has metaphorical dreams about depression, and is confused about NPW collecting dead dogs. **MID:** contemplates the nature of family vs. friendship and how there's no ceremonial bind for friendship where sex/blood binds a couple/family. **LOW:** Cries at work. **CMX:** NPW leaves. They say goodbye.
@@ -146,7 +146,7 @@ And to keep things organized, let's use Wiswell's triangulation as a North Star 
 * **END:** NPW leaves and the ghost dogs appear to relieve her of her loneliness and give her a "rebirth". Dead dogs are alive again.
 * **CDA:** In our darkest hours, it is our friends, even when parting, who can give us the second chances we need.
 
-## OHHH: 3015 words / 3 scenes
+### OHHH: 3015 words / 3 scenes
 
 * **MECH:** A benevolent haunted house uses their powers to make an open house work: shuts/opens doors, gives visions, levitate items.
 * **POV**: 133 Poisonwood Avenue is a sentient "haunted house" that doesn't want to haunt. It's been empty for over thirty years and needs an open house to work. 133 Poisonwood Ave. uses it's powers to make themselves pleasant, and the guest comfortable.    **MID:** 133 Poisonwood reveals a secret room to lure them. **LOW:** Daddy takes Ana away after she gets hurt playing with a spinning wheel in the secret room. **CMX:** Daddy plants the missing locket where Ana would find it.
@@ -155,7 +155,7 @@ And to keep things organized, let's use Wiswell's triangulation as a North Star 
 * **END:** Daddy takes another look around, sees himself turning the secret room into a podcast studio. 133 Poisonwood commits to helping him believe in himself again.
 * **CDA:** Second chances can happen to worn down broken beings if they try. Both houses and single dads.
 
-## TCM: 3160 words / 4 scenes
+### TCM: 3160 words / 4 scenes
 
 * **MECH:** The court magician can do actual magic for the king, but each time they cast a spell, they lose something they cherish (body part, favorite things, a friend)
 * **POV:** The narrator could be "the magic" or a previous magician, we're not sure. But thru their eyes, we witness the _increasing cost of casting magic_ (**PROG**). **MID:** The boy casts their first spell and loses their left-hand's pinky finger. The king is happy. **LOW:** It's been ten years, the boy has lost much. He tries to love the king in hopes the magic gets rid of him. It doesn't work. **CMX:** The boy leaves the court.
@@ -164,7 +164,7 @@ And to keep things organized, let's use Wiswell's triangulation as a North Star 
 * **END:** The boy asks "why" instead of "how" for the first time in his life. He leaves the court.
 * **CDA:** We often willingly and unknowingly pay the hidden cost to satiate our curiosity without asking why we're doing it in the first place.
 
-## WGE: 4885 words / 10 scenes
+### WGE: 4885 words / 10 scenes
 
 * **MECH:** Some librarians are witches who recommend the "right books" to you at the exact times in your life when you need them (to help you go through whatever you're going through in your life). They also have a secret stash of actual magick tomes they're not allowed to lend out on penalty of exile.
 * **POV**: The unnamed librarian becomes intrigued with a black teenager who keeps taking out a trashing portal fantasy book. **MID:** After learning of the teenager's situation, librarian reveals how every witch has a secret stash of books that are actual magick. But they can't be lent out. **LOW:** The teenager hasn't shown up after a "sleeping in the library" situation". Librarian worries. In the last scene, she thinks about the pregnant teen that committed suicide (the half-man) she could've helped but didn't. **CMX:** She gives the teen the book, pays the cost (exile),
@@ -173,7 +173,7 @@ And to keep things organized, let's use Wiswell's triangulation as a North Star 
 * **END:** She gives the boy a spellbook for portals. She gets banished.
 * **CDA:** Some laws were made to be broken if it helps someone in need. Some laws have lost their meaning and their raison d'être. Context matters.
 
-## WAIE: 5806 words / 10 scenes
+### WAIE: 5806 words / 10 scenes
 
 * **MECH:** Written in second person, "you" are a native American who acts in a VR simulation for white tourists.
 * **POV:** "You", as a native American, mime the cheesy, tropey TV/Film versions of what it means to be "Indian". This works great until a white guy, who claims to have aboriginal blood rejects the experience, calling it "fake" and not authentic. **MID:** White Wolf quits VR early, but shows up again and asks to talk, they make plans. **LOW:** You are drinking at a bar. White Wolf comes in with DarAnne and acts as if he doesn't know you and beats you up. **CMX:** You go home and White Wolf has taken over your home, taken your wife, and kicks you out.
@@ -182,7 +182,7 @@ And to keep things organized, let's use Wiswell's triangulation as a North Star 
 * **END:** After everything is taken, Jesse (we as reader) are told the possibility that "we" are the tourist, and this is White Wolf's VR experience.
 * **CDA:** We appropriate other people's culture without thinking about it and are shocked when we're called out on it.
 
-## HDSM: 6567 words / 9 scenes
+### HDSM: 6567 words / 9 scenes
 
 * **MECH:** There are predator women who suck out the souls of evil, abusisve men. The more evil they are, the more "filling" and satisfying for the predator. The predator can also regurgitate their soul into a bottle for later consumption. They also become the male victim's doppelgänger for a brief while after consuming their soul.
 * **POV:** Jen is one of these predator women. We see her interact with an alpha male, her best friend Aiko, her mother in Flushing, a predator who goes with "easy and boring" prey, and Seo-Yun, a more powerful predator. **MID:** Very clear mirror moment here. Jen visits her past (her mom) and refuses the "play it safe" route, and chooses to chase after even darker, more dangerous prey. Finds Seo-Yun. **LOW:** Pushes Aiko, the one good thing in her life, away. Again. **CMX:** Ends up fighting Seo-Yun as she threatened to consume Aiko. Aiko saves Jen, Jen sucks out Seo-Yun's soul.
@@ -190,7 +190,7 @@ And to keep things organized, let's use Wiswell's triangulation as a North Star 
    * **A-PROG:** Seems tied together with the **P-PROG**. First, gets a taste of a truly evil date, Harvey. Too much for her to handle. Rejects Aiko for being too good. Rejects mom for playing it safe and boring. Tempted into the apex predator world of Seo-Yun. Then realizes how much it cost her (losing Aiko).
 * **END:** Jen has regurgitated Seo-Yun's soul into a pot and she's sifting through all the vicuous mess to find parts of Aiko so that she can feed it back to Aiko. Regrets all around.
 
-## MH: 6916 words / 6 scenes
+### MH: 6916 words / 6 scenes
 
 * **MECH:** In order to avoid a plague and provide plentiful harvest to their realm, a king and queen made a devil's bargain with a witch. The three rules are: one, king only has one hour of lucidity from midnight until one; two, no one is allowed to say the queen's name; three, queen is not allowed to leave the castle grounds.
 * **POV:** It is from the viewpoint of the Nameless Queen as she babysits a husband who's mad 23 hours of the day, who never sees their daughter... while also dealing with the escalating threats of Prince Volis. **MID:** The Queen agrees to dance with Volis at the end of S4, with S5 the king and queen realizing they've been tricked. **LOW:** Volis witnesses the mad king near end of S5. **CMX:** Volis fails at guessing the queen's name, tries dragging her off the grounds. Mad king fights Volis, fails, and almost gives Volis the queen's name, but the queen punches the king in the crotch and kills Volis with a poker.
