@@ -8,6 +8,9 @@ tags = [
     "Creative Process",
     "The Struggle",
 ]
+categories = [
+    "Chasing Black Swans",
+]
 +++
 
 B.G., a client who's become a friend over the years asked me: _"When did I first wanted to write sci-fi?"_ and to journal about it. This was an exercise he assigned me because he knew this had always been a dream of mine, and yet, I was not pursuing it. Here's what I wrote back:
