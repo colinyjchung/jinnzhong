@@ -8,6 +8,9 @@ tags = [
     "Eugie Foster",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 
 * **TITLE:** Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast
