@@ -29,13 +29,13 @@ tags = [
     "RPG",
 ]
 categories = [
-    "OSR",
+    "Roleplaying Games",
 ]
 +++
 {{< toc >}}
 The Snack Club have arrived in Sarheenhar after a three day voyage across the Inner Sea. It's the month of the Raven, day of the Crab. **Jahura Gaus** (_SB_) and **Lane Weaver** (_AB_) say their farewells to the group as they head south to their patron, Ningauble of the Seven Eyes. The rest of the Snack Club head up the road towards the Sarheenhar's western gate, the Gate of Fortitudinous Immanence.
 
-#### Spoilers Ahead for Chris Kutalik's Fever-Dreaming Marlinko (LL)
+### Spoilers Ahead for Chris Kutalik's Fever-Dreaming Marlinko (LL)
 
 In Sarheenhar, the Snack Club spend a good half-hour wandering around town not knowing where to go or what to do because nobody in the Snack Club takes proper notes IRL. I've grown tired of them not taking notes, drawing maps, or keeping proper inventory, so I let them do nothing for a few turns. Eventually, they remember they're there to visit a noble-woman who invited them to their city. They find her town-manse.
 
@@ -65,7 +65,7 @@ Throughout this entire time, both Seleana and Coil keep saying they don't know w
 
 At the Drunken Troll, Seleana meets Yadis, the bar keep, along with a party of adventurers: Mandamus the Erudite, Uma, Barbarella, and "Martin the Fighter". Seleana asks them what they know about magic, and they point him to the Onion Tower. He asks about potions, they point him to Irenka's. He asks about the League of the Freehanded HQ, they inform him it's a criminal brotherhood headed by One-Armed Jiri. FINALLY -- someone is role-playing in the urban city instead of wandering around doing nothing.
 
-#### Spoilers Ahead for Directsun's The Seers Sanctum (OSR)
+### Spoilers Ahead for Directsun's The Seers Sanctum (OSR)
 
 Cut back to the Magical Amigos. They're in dungeon crawl mode. They're stuck in the same room as the one they teleported to way back in [episode two](https://dragonsinthedark.com/post/s2e02-moonwalk-conga-line/) of this season. There's an iron door in front of them.
 
@@ -119,7 +119,7 @@ Meanwhile back in Ool Krut, Rawskull tallies up the profit and loss for the Snac
 
 Altogether, base 250gp, minus 150gp (maintenance, security, staff), minus 200gp for Raw Skull and Freya, minus 0 (paid for) Hlalf the minstrel, +320gp for the cook-off, minus 20gp for the talent show fiasco.... and then +10PL for staff, +30PL for Hlalf, +17 for Raw Skull and Freya... and because Raw Skull fed a poor paladin this month, who subsequently blessed their ale, another +20PL, totally +77PL... and with a roll of 86PL, totalling 163PL... driving total revenue of 2720gp, and profits of 2350gp. A very profitable month.
 
-#### Spoilers Ahead for Joseph Robert Lewis's Desert Angel Fiasco (OSR)
+### Spoilers Ahead for Joseph Robert Lewis's Desert Angel Fiasco (OSR)
 
 On board the Desert Angel, the Snack Club meet their captain, Ava Bahar. A woman with short white hair, dark brown skin and a patch over her left eye. Her right-hand-man is Quartermaster Reza Sadeq, tall, muscular with heavy eyeliner. Their cook? Naveed Musa. Short, bald, frail. And two sailors: Leyla and Eskander. Joining them are two merchants: Ira Jaron, a spice trader, and Soraya Gol, a silk trader. And a pilgrim named Lev Meyer.
 
@@ -179,7 +179,7 @@ _/end session on the Year of the Leviathan, Month of the Weasel, Day of the Bat_
     * Y.Leviathan/M.Panther = (550)gp
     * Y.Leviathan/M.Raven = +2350gp
 
-#### Chekhov's Ticking Time Bombs
+### Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -192,7 +192,7 @@ _/end session on the Year of the Leviathan, Month of the Weasel, Day of the Bat_
 * The Redclaws are allied with the Dolmenwood Drunes and HQ at Redclaw Castle
 * Will the Snack Club actually attempt to break into The Emerald Slab?
 
-#### Heat & Reputation
+### Heat & Reputation
 
 | City | Heat | Reputation |
 |---|:---:|:---:|
@@ -212,7 +212,7 @@ _/end session on the Year of the Leviathan, Month of the Weasel, Day of the Bat_
 | Quarmall | 0 | 0 |
 | Horborixen | 0 | 0 |
 
-#### Session Counter for Leveling
+### Session Counter for Leveling
 
 | Character | Player | Level | Sessions | Next |
 |---|:---:|:---:|:---:|:---:|
@@ -226,7 +226,7 @@ _/end session on the Year of the Leviathan, Month of the Weasel, Day of the Bat_
 | Erky Skora | _EB_ | L2 | 1 | 3 |
 | Erevan Weaver | _OR_ | L2 | 1 | 3 |
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 Well, that's the last session for The Snack Club for 2021. We're going to take a Winter Break here and resume once the weather is warmer again in 2022. There are three lessons I hope the Snack Club learn from this session. 
 
