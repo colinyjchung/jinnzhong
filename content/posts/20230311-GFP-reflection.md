@@ -9,6 +9,9 @@ tags = [
     "Bryan Cheyne",
     "Olivia Hofer",
 ]
+categories = [
+    "Chasing Black Swans",
+]
 +++
 
 After not connecting with Bryan and Olivia for 1,030 days, we talked about resurrecting **Garage Fiction**. Olivia shared the trials and tribulations of being a professional Kindle author. It helped me clarify what I wanted as an author. I left the conversation with a clear directive from Bryan:
