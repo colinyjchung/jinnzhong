@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 Kenneth met Marie on the night of August 14, 2015 at The Masquerade in Atlanta, Georgia. 
