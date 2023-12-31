@@ -8,7 +8,7 @@ tags = [
     "Notes on Craft",
 ]
 +++
-
+{{< toc >}}
 ## The Opening Scene = HOOK
 Grips reader immediately 
 * Sudden violent action, or arresting, 
