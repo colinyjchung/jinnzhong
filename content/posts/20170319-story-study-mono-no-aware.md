@@ -8,6 +8,9 @@ tags = [
     "Ken Liu",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 
 * **TITLE:** Mono No Aware
