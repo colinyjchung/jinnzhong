@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 Magnetic turbulence shook the Santa Muerte’s cargo hold and everybody inside it.
