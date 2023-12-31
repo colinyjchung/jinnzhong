@@ -23,11 +23,10 @@ tags = [
 ]
 categories = [
 "Roleplaying Games",
-    "OSE",
 ]
-Showtoc = true
 +++
 {{< toc >}}
+
 We begin, like most campaigns, at a tavern. The hearth roars, drunken folk dance on tables, scoundrels plot. We are at _The Black Pig_ in Dolmenwood. 
 
 In an unlit corner, our four adventurers. **Aranna** (_AJ_), an astrologer of ill-repute, who along with **Surina Juno** (_EC_), have conned a great many with false prophecies and falser jewels. Sitting across from Aranna, a former lover? Husband? "_it's complicated_"? **Thork** (_HA_), a zealot of Loki, who somehow mishandled the finances of his cult and now owes 800gp. And to round out the party, **Ser Ragnarok** (_OR_), a fallen knight burdened with gambling debts in excess of 500gp.
