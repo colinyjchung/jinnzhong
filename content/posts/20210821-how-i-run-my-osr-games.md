@@ -14,6 +14,9 @@ tags = [
     "Angry GM",
     "Gavin Norman",
 ]
+categories = [
+    "Roleplaying Games",
+]
 +++
 
 For fantasy RPGS, my games are ran with a chimeric set of rules.
