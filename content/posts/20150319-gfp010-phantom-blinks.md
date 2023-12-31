@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 Jeremy hid amongst the thick ponderosa pine behind his house, spying on his two daughters playing in the backyard. He stared silently, quiet, waiting. The girls were taking turns cooking for each other with plastic toy pots and pans, plates and utensils, gobbling up make-believe meals one after another.
