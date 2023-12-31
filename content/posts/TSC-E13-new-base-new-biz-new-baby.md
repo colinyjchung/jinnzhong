@@ -29,7 +29,7 @@ tags = [
 categories = [
 ]
 +++
-
+{{< toc >}}
 **Spoilers Ahead for Chance Dudinack's "The Black Wyrm of Brandonsford" (OSR)**
 
 After making a deal with the goblin king, Hogboon, to capture the black wyrm, the Snack Club leave the castle and travel to the dragon's lair. But unfortunately, on their way there, the dragon finds _them_ first. The dragon belches out a thick, yellow, sulfurous smoke, choking the entire Snack Club. Coughing and wheezing, they run, knowing they're no match for this dragon... for now.
