@@ -194,7 +194,7 @@ _/end session on the Year of the Worm, Month of the Wolf, Day of the Stoat_
 * Dragons in the Dark (Tavern in Ool Krut)
     * Y.Worm/M.Badger = +1,260gp
 
-## Other Recording Keeping Notes
+## Other Record Keeping Notes
 ### Chekhov's Ticking Time Bombs
 
 **NEW**
