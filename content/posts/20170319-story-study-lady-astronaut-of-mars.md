@@ -8,6 +8,9 @@ tags = [
     "Mary Robinette Kowal",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 
 * **TITLE:** The Lady Astronaut of Mars
