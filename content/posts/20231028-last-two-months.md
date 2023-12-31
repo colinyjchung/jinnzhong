@@ -34,6 +34,9 @@ tags = [
     "Hungry Daughters of Starving Mothers",
     "Midnight Hour",
 ]
+categories = [
+    "Chasing Black Swans",
+]
 +++
 
 August was a blur as I binged five and a half seasons of _Outlander_ after returning from Scotland. I tried to get back into _Manifest_, but quickly realized what a huge waste of time this low quality show was and while I don't regret watching so many episodes of it while traveling throughout England and Scotland, it was also really dumb. Regardless, burning through _Outlander_ made me wonder about the novels, made me wonder about Diana Galbadon. So I got the first one and started down the rabbit hole of Galbadon's online presence, and _what the what?_ She's coming to Surrey, BC? _And what?_ There's this fiction conference that's been literally 17 minutes away from my house for the last thirty years? And authors like Mary Robinette Kowal, C.L. Polk, and Diana Galbadon attend almost every year? _What the fuck is going on here?_ I registered.
