@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 Dead autumn leaves crackled underneath old hiking boots. Crickets chirruped the song of long black nights. The smell of pine filled his lungs with a sense of eternal loneliness.
