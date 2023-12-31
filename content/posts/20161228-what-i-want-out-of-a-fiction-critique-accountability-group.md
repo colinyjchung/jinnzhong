@@ -13,6 +13,9 @@ tags = [
     "Bryan Cheyne",
     "Anthony Rhone",
 ]
+categories = [
+    "Chasing Black Swans",
+]
 +++
 So I want to start this with a bit of context... 
 
