@@ -24,6 +24,7 @@ tags = [
     "RPG",
 ]
 categories = [
+    "Roleplaying Games",
 ]
 +++
 {{< toc >}}
@@ -101,7 +102,7 @@ And as they approach, the Weavers, Lane and Aranna, hear a woman's voice. "By Iv
 
 They head up the mountain.
 
-#### Spoilers for The Imperishable Sorceress by Daniel J. Bishop
+### Spoilers for The Imperishable Sorceress by Daniel J. Bishop
 
 They have a clean, simple marching order. Gary the Snail (now with an absurdly high 21AC) in the front. And their hired gun, Barbara the Barbarian protecting the rear.
 
@@ -127,9 +128,9 @@ During this time, all the rest of the Snack Club can do is wait. That's three ho
 
 _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spider_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 
 * Chest of Gold from Hole in Oak = 1,994gp
 * Skull with Ruby Eyes = 1,600gp
@@ -147,7 +148,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spi
 
 **TOTAL**: 10,749gp 
 
-#### The Snack Club's Real Estate
+### The Snack Club's Real Estate
 
 * Willowby Hall (Mansion in Ool Krut)
     * Renovations: Building L1 Tower (ECD. Y.Leviathan/M.Lion/D.Wasp)
@@ -155,7 +156,8 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spi
     * Y.Worm/M.Badger = +1,260gp
     * Y.Worm/M.Wolf = +710gp
 
-#### Chekhov's Ticking Time Bombs
+## Other Record Keeping Notes
+### Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -168,7 +170,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spi
 * Emma Frog is dead, but her infamous mass prison break in Ilthmar will have consequences.
 * The Redclaws are allied with the Dolmenwood Drunes and HQ at Redclaw Castle
 
-#### Session Counter for Levelling
+### Session Counter for Levelling
 
 | Character | Player | Level | Sessions | Next
 |---|:---:|:---:|:---:|:---:|
@@ -180,7 +182,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Spi
 | Gary the Snail | _HA_ | L3 | 2 | 8 |
 | Coil Mahogany | _LC_ | L3 | 2 | 8 |
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 I'm rewatching Mad Men right now. Some critics have argued it's basically a show about nothing. Just the daily lives of ad men on Madison avenue in the Sixties. Going to work. Getting promoted. Having drinks with clients. Buying groceries. Planning birthday parties. Running a household. Neighborhood drama. Office drama. Petty fights.
 
