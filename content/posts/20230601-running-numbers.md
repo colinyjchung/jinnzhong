@@ -18,6 +18,9 @@ tags = [
     "DCC",
     "Hunter: The Reckoning",
 ]
+categories = [
+    "Chasing Black Swans",
+]
 +++
 
 **PREMISE:** I'm starting to question my spend on books, games, and related material that I don't actually consume or spend time on. I'm buying them in the hopes that sometime in the future I will read, review, or use these products. But I've clearly haven't had the time to. 
