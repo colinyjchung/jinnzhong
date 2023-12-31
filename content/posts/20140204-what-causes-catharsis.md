@@ -8,6 +8,9 @@ tags = [
     "Craft of Writing",
     "Creative Process",
 ]
+categories = [
+    "Craft of Storytelling",
+]
 +++
 
 ## Keys to Heartwrenching Moments
