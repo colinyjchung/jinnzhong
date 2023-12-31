@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 Jonathan held the strange scrap of paper before him. He squinted his eyes, hoping the words would magically transform. They did not. What he had just read a moment ago remained.
