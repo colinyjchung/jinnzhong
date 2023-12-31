@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 Trakk gripped the railings tightly with both hands as he descended into Luxe, Lau’s basement nightclub. He walked unsteadily, slowly, sometimes trembling.
