@@ -31,7 +31,7 @@ categories = [
     "DCC",
 ]
 +++
-
+{{< toc >}}
 It's the Month of the Panther, Day of the Toad. The Snack Club are hanging out at their home in Willowby Hall, now staffed with footmen, a scullery boy, a seneschal and chamberlain, a chef, a porter, and a kennel master. **Aranna Weaver** (_AJ_) and **Toad Slinoor** (_EC_) are plotting how to take Nightraker from **Glavas Roh** (_EB_), as the accursed sword has injured and outright murdered allies. Toad attempts to tackle Glavas unawares. **Lane Weaver** (_AB_, played by _AJ_) begins casting a spell. Glavas finally succumbs to the pressure and promises to sell Nightraker. Toad accompanies him into Ool Krut.
 
 But as they wander the streets, a few people are pointing at them and snickering. And as they head deeper into the winding streets, they see a crowd around a wall. They budge in to see a poster exclaiming the wondrous treasures kept at **The Emerald Slab**, a museum of strange delights and thrilling surprises in No-Ombrulsk. Most notably, the poster is advertising the gurgling brain-in-a-jar named Istrobian, the talking corpse Thesdipedes, and the loquacious Skull of Gobur... these are all items stolen from Willowby Hall a few weeks ago! The Snack Club are angry. They're declaring war. They're going to get their gear on, arm up and march to No-Ombrulsk to take back what's rightfully theirs!
