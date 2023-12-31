@@ -8,6 +8,9 @@ tags = [
     "WIP",
     "Short Story",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 
