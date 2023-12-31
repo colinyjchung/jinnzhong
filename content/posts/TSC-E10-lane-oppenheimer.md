@@ -23,6 +23,7 @@ tags = [
     "RPG",
 ]
 categories = [
+    "Roleplaying Games",
 ]
 +++
 {{< toc >}}
@@ -36,9 +37,9 @@ On their way there, three random encounters. A cleric with a retinue of acolytes
 
 Finally, at twilight, they come across four noblemen who are returning from a hunt. One of them is Jarrod Milos. He acts haughty, as if he doesn't know his siblings. The other nobles, in their highfalutin voices, ribs Jarrod, making fun of his siblings. The Snack Club can't do anything here. They're smart enough to know hurting rich people brings terrible consequences. But as they leave, the Milos siblings screams at Jarrod to tell his friends about that funny dance he does. It sufficiently embarrasses Jarrod.
 
-The next morning, they arrive at The Hole in the Oak again, to face the drunes they didn't find [last time](https://dragonsinthedark.com/post/force-fed-by-fibbing-fauns/).
+The next morning, they arrive at The Hole in the Oak again, to face the drunes they didn't find last time.
 
-#### Spoilers ahead for Gavin Norman's "The Hole in the Oak" (OSE)
+## Spoilers ahead for Gavin Norman's "The Hole in the Oak" (OSE)
 
 Into the dungeon they go. It's dungeon crawl time. The Snack Club explore places they missed the last time they were here. The spectral hunter and his two ghost dogs appear. Armed with magic weapons, they quickly dispose of them. Aust, with his new magical sword, flies through the hunter, dissipating him. The ghost hunter vanishes and leaves behind a hunting horn. Selina picks it up, blows on it, it summons forth a hunting dog.
 
@@ -96,9 +97,9 @@ Back in Lankhmar, Lane, the destroyer of worlds, heads back to The Wyrmskull to 
 
 _/end session_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 <br/>(Deposited Year of the Worm, Month of the Eagle, Day of the Fox)
 
 * 19 Ice Necklaces x 200gp = 3,800gp
@@ -115,7 +116,7 @@ _/end session_
 
 **TOTAL**: 14,293gp 
 
-#### Chekhov's Ticking Time Bombs
+## Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -128,6 +129,6 @@ _/end session_
 * Emma Frog is dead, but her infamous mass prison break in Ilthmar will have consequences.
 * The Redclaws are allied with the Dolmenwood Drunes and HQ at Redclaw Castle
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 So that _fireball_ was a little OP.
