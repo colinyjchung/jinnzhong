@@ -13,6 +13,9 @@ tags = [
     "Do Not Say We Have Nothing (2016)",
     "The Handmaid's Tale (1985)",
 ]
+categories = [
+    "Chasing Black Swans",
+]
 +++
 
 Fragility.
