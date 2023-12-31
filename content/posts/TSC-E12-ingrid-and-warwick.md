@@ -29,7 +29,7 @@ tags = [
 categories = [
 ]
 +++
-
+{{< toc >}}
 **Spoilers Ahead for Ben Milton's "The Waking of Willowby Hall" (OSR)**
 
 **Quick Recap:** Jarrod bequeathed **Willowby Hall**, the Milos summer vacation home to the Milos siblings -- -- **Selina Milos** (_EC_), **Slane Milos** (_LC_, played by _EC_), and **Shorin Milos** (_EB, deceased_), but when they got there, it was being destroyed by a giant with a church bell screaming for "Mildred!". The party discovered that Mildred is a goose that lays golden eggs and three adventurers stole it from the giant, Bonebreaker Tom. The Snack Club snuck past the giant, into the house in order to find the thieves and the goose so they can return the goose to said giant and get their home back.
