@@ -8,6 +8,9 @@ tags = [
     "Ted Chiang",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 
 * **TITLE:** The Merchant and the Alchemist’s Gate
