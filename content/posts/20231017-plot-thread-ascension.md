@@ -18,6 +18,7 @@ tags = [
     "BYU Writing SF&F Lectures"
 ]
 +++
+{{< toc >}}
 
 The core story of the Ascension Plot Thread is how an individual "moves up" in the world. That world can be anything from the art world, to organized crime, to corporate, to politics.
 
