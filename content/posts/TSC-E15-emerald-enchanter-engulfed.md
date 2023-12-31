@@ -32,7 +32,7 @@ tags = [
 categories = [
 ]
 +++
-
+{{< toc >}}
 **Spoilers Ahead for Joseph Goodman's "The Emerald Enchanter" (DCC)**
 
 **Quick Recap:** The Snack Club have delved deep into the Emerald Enchanter's citadel. Lane has _planar stepped_ back home to Willowby Hall.
