@@ -8,6 +8,9 @@ tags = [
     "Craft of Writing",
     "Creative Process",
 ]
+categories = [
+    "Craft of Storytelling",
+]
 +++
 
 Maass, Donald. _The Fire in Fiction._ Writer's Digest Books, 2009.
