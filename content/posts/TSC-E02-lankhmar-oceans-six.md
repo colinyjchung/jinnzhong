@@ -22,18 +22,17 @@ tags = [
 ]
 categories = [
 "Roleplaying Games",
-    "OSR",
-    "DCC",
 ]
 +++
 {{< toc >}}
+
 Our merry band of adventurers are partying it up at the _Black Pig_ after scoring an embarrassment of wealth from Princess Snowfall-at-Dusk, when out of the corner of **Aranna's** (_AJ_) eye, she notices **Veleris** (_EB_), a former love-interest (and a pickpocket). She avoids eye contact. **Orlan** (_HA_), glances over and sees his ex-sergeant, **Darrak** (_AB_) sharing drinks with Veleris. Orlan, too, avoids eye contact. Finally, **Purple Nurple** (_OR_) sees Darrak as well, someone he and **Emma Frog** (_EC_) had shared a prison cell with. Purple Nurple, not knowing the preexisting social entanglements, calls Darrak over.
 
 A series of awkward exchanges are had between the six. Darrak is upset the other two broke out of prison without him. Veleris and Aranna don't say much to each other. Perhaps Aranna knows of his gambling debts. Perhaps she's upset at how things ended. But the party eventually reveal their good fortune and Veleris tells them of a contact in the city of Lankhmar... a fence who could help them store their new fortune. A tavern owner named **Nylokk Gnuhk** (_spell it backwards_...).
 
 It's agreed they will travel to the _City of the Black Toga, The City of Sevenscore Thousand Smokes_... the City of **Lankhmar**.
 
-#### Spoilers Ahead for Michael Curtis's "Masks of Lankhmar" (DCC-L)
+## Spoilers Ahead for Michael Curtis's "Masks of Lankhmar" (DCC-L)
 
 Lankhmar is two days journey from Dolmenwood. On their first night, two poor men come begging for money... seeing how they had celebrated so boisterously at the _Black Pig_. Aranna is suspicious and nocks her bow. I tell her they look hungry. She replies, "that means they'll go down easier." Everyone tells her to calm down. Emma generously gives them a few gold pieces and they're on their way.
 
@@ -87,7 +86,7 @@ They leave. Velleris, Orlan, and Darrak through the same window. Emma, Arranna a
 
 _/end session_
 
-#### Chekhov's Ticking Time Bombs
+## Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -99,7 +98,7 @@ _/end session_
 * Emma Frog, Purple Nurple, and Darrak are fugitives from a neighboring region.
 * Two drunes of the Dolmenwood cult of sorcerers were murdered in cold blood.
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 Angry's system for [random encounters](https://theangrygm.com/redesigning-random-encounters-1/) and as a timer worked exceedingly well. When a player fails at a check and wants to "try again", I simply add another d6 into the pool. It's a great physical reminder that lapsed time means lurking threats.
 
