@@ -4,7 +4,7 @@ title = "NOTES: Write Away (2004) by Elizabeth George"
 date = "2012-12-30"
 description = "Notes on Elizabeth George's method of writing novels"
 +++
-
+{{< toc >}}
 **PREMISE:**
 Hook (Primary Event) --> Expanded Idea --> Generic Characters --> Fleshed Out Characters --> Plot
 
