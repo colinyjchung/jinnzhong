@@ -27,7 +27,7 @@ tags = [
 categories = [
 ]
 +++
-
+{{< toc >}}
 **Quick Recap** : **Lane Weaver** (_AB_) was drugged by a faun in a tweed jacket. **Patrick Weaver** (_HA_) shape-shifted into a fruit fly and is stuck in a very quiet room. **Myra** (_LC_) and **Veleris** (_EB_), was _retconned_ into going with Myra to find Lane. **Emma Frog** (_EC_) and **Aranna Weaver** (_AJ_) went down a hallway to the North.
 
 Yes, The Snack Club have split into not two, not three... but _four_ different groups inside a dungeon.
