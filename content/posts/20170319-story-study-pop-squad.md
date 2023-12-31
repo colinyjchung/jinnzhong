@@ -8,6 +8,9 @@ tags = [
     "Paolo Bacigalupi",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 
 * **TITLE:** Pop Squad
