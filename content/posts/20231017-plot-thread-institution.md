@@ -18,6 +18,7 @@ tags = [
     "BYU Writing SF&F Lectures"
 ]
 +++
+{{< toc >}}
 
 The core conflict in an Institutional Plot Thread is the individual fighting the group. The group could be the family unit, the church, the legal system, an underground subculture, or even society as a whole (e.g. institutionalized racism).
 
