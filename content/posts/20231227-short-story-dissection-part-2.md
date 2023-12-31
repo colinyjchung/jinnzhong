@@ -30,6 +30,7 @@ tags = [
     "Midnight Hour",
 ]
 +++
+{{< toc >}}
 
 _(cont'd from [yesterday's entry 11/22/2023](https://journal.jinnzhong.com/overthinking-overpreparing-overanalyzing/), then dropped for a month, and returned to 12/26/2023. What a terrible month.)_
 
