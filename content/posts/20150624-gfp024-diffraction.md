@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 Jaden Wong put pressure on his left foot, lifted the right side of his body up and found the next glass-blind up on the 27th story of Agbar Torre’s west face. He held steady, breathed out loudly, turned slightly and drunk in the vast sea of Barcelona’s salmon tile, red brick and white walls.
