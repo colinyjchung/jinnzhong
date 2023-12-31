@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 On a crisp October evening, Ngabo was sitting on a bench near Lennon’s memorial in Central Park. 
