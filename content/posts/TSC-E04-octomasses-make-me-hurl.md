@@ -28,6 +28,7 @@ tags = [
     "RPG",
 ]
 categories = [
+    "Roleplaying Games",
 ]
 +++
 {{< toc >}}
@@ -49,7 +50,7 @@ And with their crew in place, they're off to cross the Inner Sea. Beegull, finds
 
 Mlurg Nar is usually a busy and somewhat lawless mining town. But with the recent disappearances of prospectors, townsfolk and miners... it is noticeably less so.
 
-#### Spoilers Ahead for Joseph Goodman's "The People of the Pit" (DCC)
+## Spoilers Ahead for Joseph Goodman's "The People of the Pit" (DCC)
 
 In Mlurg Nar, (and unlike previous adventures), the party takes the time to research. Emma accosts a stranger on the street. The man is frightened and tells her to talk to the duke. Emma attempts to harass another random person, bumps into a bespectacled man - an armful of scrolls and papers. He tells her of Mlurg Nar's dark secret -- how for centuries, they have sacrificed virgins to the "pit-beast" up North. It was a solution thought of by an order of knight-priests. And the devil's bargain worked. Every decade, a few inhumane sacrifices meant another ten years of peace.
 
@@ -128,9 +129,9 @@ Their adventure is not over, but it's dinnertime IRL. 'til next week.
 
 _/end session_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 <br/>(Deposited Year of the Worm, Month of the Eagle, Day of the Fox)
 
 * 19 Ice Necklaces x 200gp = 3,800gp
@@ -140,7 +141,7 @@ _/end session_
 <br/>**EoM INTEREST**: 56gp
 <br/>**TOTAL**: 5,544gp
 
-#### Chekhov's Ticking Time Bombs
+## Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -153,6 +154,6 @@ _/end session_
 * Two drunes of the Dolmenwood cult of sorcerers were murdered in cold blood.
 * Who is this Hriseit asking around Lankhmar for The Snack Club?
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 Keeping track of hench people and octo-masses is hard. Also, a party of ten is much harder to threaten. Throughout the module I adjusted the number of cultists to ensure a sense of danger.
