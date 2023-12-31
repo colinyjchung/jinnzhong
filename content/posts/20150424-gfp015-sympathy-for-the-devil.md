@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 Ezekiel Waterford reached for his pawn, hesitated, then nudged it forward to the eighth rank. He glanced at Rodney, his Thursday morning opponent, a 73-year-old black man with a huge grey fro and long, frizzled beard.
