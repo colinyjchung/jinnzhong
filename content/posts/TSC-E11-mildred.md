@@ -25,6 +25,7 @@ tags = [
     "RPG",
 ]
 categories = [
+    "Roleplaying Games",
 ]
 +++
 {{< toc >}}
@@ -51,7 +52,7 @@ In Ool Hrusp, Wrenn hires a henchperson by the name of Poggy to carry his stuff.
 
 The Snack Club carefully sneak closer to the Milos' former summer vacation home...
 
-#### Spoilers ahead for Ben Milton's "The Waking of Willowby Hall" (OSR)
+## Spoilers ahead for Ben Milton's "The Waking of Willowby Hall" (OSR)
 
 The Snack Club head to an open field where Willowby Hall stands, and stomping around the grounds is a giant, thirty feet tall, swinging a church bell and peeking through the manor's windows shouting, "MILDRED!!! Give me back my MILDRED!!!" Selina, brave soul, walks up and attempts to talk to the giant. The giant stomps his foot on Selina. Fortunately, she leaps out of harm's way, avoiding fatal damage, but nevertheless, severely  hurt.
 
@@ -87,7 +88,7 @@ Wrenn and Squidward decide they must get Lane to _dimension door_ them to Lankhm
 
 Benson tells them it will take a week to properly train them. So now, seven of the Snack Club are staying in Lankhmar, paying for hotel costs so that... two of them can learn one spell. This doesn't seem very efficient. Meanwhile, Selina, Aust and Aranna are doing what in Ool Krut? At one point, Raw Skull and Slane want enchanted weapons as well, and Lane is like, _fine, I'll dimension door you guys to No-Ombrulsk as well_... when he remembers he had stuck his magic sword in the Wyrmskull vault. So now, Raw Skull has a magic sword. He also buys some expensive plate armor.
 
-Meanwhile, Selina remembers my "[Playing RPGs to Win](https://dragonsinthedark.com/playing)" post and decides to ask around for more information about Mildred. No information. She decides to go through townhall records. That's when she overhears a few townsfolk gossiping about a few **important clues**:
+Meanwhile, Selina remembers my "[Playing RPGs to Win](https://journal.jinnzhong.com/how-to-be-a-better-rpg-player/)" post and decides to ask around for more information about Mildred. No information. She decides to go through townhall records. That's when she overhears a few townsfolk gossiping about a few **important clues**:
 
 1. A few townsfolk saw three adventurers running towards Willowby Hall with pet goose named Mildred.
 2. Mildred, they suspect, is the rumored goose who lays golden eggs and belongs to the cloud giant, Bonebreaker Tom
@@ -122,9 +123,9 @@ The books are reading themselves in muffled voices. And then they leap off the s
 
 _/end session_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 <br/>(Deposited Year of the Worm, Month of the Eagle, Day of the Fox)
 
 * 19 Ice Necklaces x 200gp = 3,800gp
@@ -143,7 +144,8 @@ _/end session_
 
 **TOTAL**: 13,556gp 
 
-#### Chekhov's Ticking Time Bombs
+## Other Record Keeping Notes
+### Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -157,6 +159,6 @@ _/end session_
 * Emma Frog is dead, but her infamous mass prison break in Ilthmar will have consequences.
 * The Redclaws are allied with the Dolmenwood Drunes and HQ at Redclaw Castle
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 **The Waking of Willowby Hall** was actually nominated for an ENnie this past week... for "best adventure". ("ENnies" are the [Oscars of the RPG world](https://en.wikipedia.org/wiki/ENnie_Awards)). I can see why. This adventure is full of fun interactive elements, a ticking countdown clock where the giant smashes the house and danger escalates, a runaway goose, three trapped heroes. It's a lot of fun. Highly recommend.
