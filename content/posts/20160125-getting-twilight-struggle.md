@@ -4,9 +4,12 @@ title = "I Finally “Get” Twilight Struggle (2005)"
 date = "2016-01-05"
 description = "Board Game Review"
 tags = [
-    "War Games",
+    "Wargames",
     "AAR",
     "Media Consumption",
+]
+categories = [
+    "Wargames",
 ]
 +++
 So, this past Friday afternoon, I played Twilight Struggle for the second time ever in my life and I finally “got” it. And since that afternoon, I’ve played three more games.
