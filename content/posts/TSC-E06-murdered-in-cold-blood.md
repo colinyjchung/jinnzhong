@@ -28,7 +28,7 @@ tags = [
 categories = [
 ]
 +++
-
+{{< toc >}}
 The Snack Club is rich with 10,000gp in treasure, but stuck in Mlurg Nar due to logistics. 
 
 **Errich Weaver** (_OR_) and **Bob the Priest** (_HA_) have joined the party. Errich, apparently, is another Weaver sibling. So now **Aranna** (_AJ_), **Lane** (_AB_), and Errich are triplets in some weird retcon backstory. Bob the Priest, as you may recall, was the priest they found in the Pit. They pay off their two lone surviving henchpeople, Elyssa and Hemdan, who ask for extra payment after their harrowing experience fighting The People of the Pit. Errich suggests killing them. Everyone ignores him with a quick and curt "no" in unison. Emma and Veleris are more than happy to oblige the hazard pay.
