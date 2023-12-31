@@ -18,6 +18,7 @@ tags = [
     "BYU Writing SF&F Lectures"
 ]
 +++
+{{< toc >}}
 
 From Film Noir, to political conspiracy, to procedurals, to amateur sleuths, cosies, or Scooby Gang. Requires a lot of planning and then slowly plotting and reverse engineering when to reveal each clue to the reader. What misdirections did the criminal use? What clues were left accidentally?
 
