@@ -5,7 +5,10 @@ date = "2016-04-08"
 description = "How to run a heavy board game club"
 tags = [
     "Board Games",
-    "War Games",
+    "Wargames",
+]
+categories = [
+    "Board Games",
 ]
 +++
 
