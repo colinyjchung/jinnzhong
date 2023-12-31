@@ -7,6 +7,9 @@ tags = [
     "RPG",
     "Creative Process",
 ]
+categories = [
+    "Roleplaying Games",
+]
 +++
 What is a **Role-Playing Game?** (RPG)
 
