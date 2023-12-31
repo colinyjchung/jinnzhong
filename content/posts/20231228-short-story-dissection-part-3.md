@@ -29,6 +29,10 @@ tags = [
     "Hungry Daughters of Starving Mothers",
     "Midnight Hour",
 ]
+categories = [
+    "Story Dissection",
+    "Craft of Storytelling",
+]
 +++
 
 | Beats | LFL | OHHH | TCM | CPP | TDIS |
