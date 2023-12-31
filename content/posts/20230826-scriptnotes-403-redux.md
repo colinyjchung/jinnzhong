@@ -11,6 +11,9 @@ tags = [
     "Scriptnotes",
     "Central Dramatic Argument (CDA)"
 ]
+categories = [
+    "Craft of Storytelling",
+]
 +++
 {{< toc >}}
 Great writers follow their characters as they evolve around a central dramatic argument that is actually meaningful to other human beings
