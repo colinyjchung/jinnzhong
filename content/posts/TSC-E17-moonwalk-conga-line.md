@@ -26,11 +26,11 @@ tags = [
 ]
 categories = [
     "Roleplaying Games",
-    "DCC",
 ]
 +++
 {{< toc >}}
-**Spoilers Ahead for Daniel J. Bishop's "The Imperishable Sorceress" (DCC)**
+
+## Spoilers Ahead for Daniel J. Bishop's "The Imperishable Sorceress" (DCC)**
 
 **Quick Recap:** It's the year of the Leviathan, Month of the Panther, Day of the Spider. The Snack Club are in Ivrian the Unkind's lair, high up in the Mountain of Giants. So far, they've found her journals (which shows her nomenclature to be very apt: flensing young women, bathing in blood, etc.), and they found her laboratory where her artificial construct of an immortal body was... along with her actual dead, withered corpse. For the last two hours, **Octopus** (_EC_), has been climbing out of a six-mile deep hole while the Snack Club waited for her.
 
@@ -94,7 +94,7 @@ At the top of the mountain, they come across a stone henge with runes written on
 
 They walk through the portal.
 
-#### Spoilers for The Seers Sanctum by Directsun (BX/LL)
+### Spoilers for The Seers Sanctum by Directsun (BX/LL)
 
 They find themselves in a small room as depicted in the portal image. But they also notice on the slimy floor, two unconscious figures. **Toad Slinoor** (_EC_) and **Jahura Gaus** (_SB_). They are an acolyte and hedge wizard hired by [Ninguable of the Seven Eyes](https://en.wikipedia.org/wiki/Fafhrd_and_the_Gray_Mouser#Ningauble_and_Sheelba) to retrieve the hair of a gorgon in this pocket dimension. They had fallen unconscious when they were sent through a _planar step_.  The Snack Club wake them up.
 
@@ -164,9 +164,9 @@ The Snack Club rest another week in Ool Krut.
 
 _/end session on the Year of the Leviathan, Month of the Panther, Day of the Toad_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 
 * Chest of Gold from Hole in Oak = 1,994gp
 * Skull with Ruby Eyes = 1,600gp
@@ -185,7 +185,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Toa
 
 **TOTAL**: 13,976gp 
 
-#### The Snack Club's Real Estate
+### The Snack Club's Real Estate
 
 * Willowby Hall (Mansion in Ool Krut)
     * Renovations: Building Wizard Tower (ECD. Y.Leviathan/M/Lion/D.Wasp)
@@ -193,7 +193,9 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Toa
     * Y.Worm/M.Badger = +1,260gp
     * Y.Worm/M.Wolf = +710gp
 
-#### Chekhov's Ticking Time Bombs
+## Other Record Keeping Notes
+
+### Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -207,7 +209,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Toa
 * The Redclaws are allied with the Dolmenwood Drunes and HQ at Redclaw Castle
 * There's a Boss Ogo recluse situation in Ool Perns still
 
-#### Session Counter for Levelling
+### Session Counter for Levelling
 
 | Character | Player | Level | Sessions | Next
 |---|:---:|:---:|:---:|:---:|
@@ -220,6 +222,6 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Toa
 | Toad Slinoor | _EC_ | L2 | 1 | 3 |
 | Jahura Gaus | _SB_ | L2 | 1 | 3 |
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 Holy cow that's a lot of dead people due to a natural gas explosion. And EB with Nightraker. I wonder how the rest of the Snack Club who weren't here today would react to this weapon. Finally, the module-of-the-week, Seers Sanctum. What a great module. No combat necessary. Just a ton of puzzles. I like puzzles. Maybe I'll just stick more puzzles in the campaign.
