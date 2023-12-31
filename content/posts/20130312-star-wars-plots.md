@@ -7,6 +7,9 @@ tags = [
     "Star Wars",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 {{< toc >}}
 ## IV: A New Hope
@@ -55,8 +58,7 @@ tags = [
 - Battle of Endor
 - Celbration
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-## KEYWORDS:
+## Original Trilogy Keywords
 * Search
 * Capture
 * Rescue
@@ -68,8 +70,6 @@ tags = [
 * Betrayal
 * Fight
   
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
 ## I: The Phantom Menace
 - Two jedis sent to negotiate a trade treaty
 - Jedis escape to Naboo
@@ -103,8 +103,7 @@ tags = [
 - Anakin goes crazy over Padme
 - Anakin fights Kenobi, he burns up on Mustafar
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-## KEYWORDS:
+## Prequel Trilogy Keywords
 - Negotiate
 - Go somewhere for help
 - Escape
@@ -114,6 +113,3 @@ tags = [
 - Love
 - Spying
 - Plotting
-  
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
