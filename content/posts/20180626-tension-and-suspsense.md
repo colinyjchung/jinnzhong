@@ -7,6 +7,9 @@ tags = [
     "Craft of Writing",
     "Creative Process",
 ]
+categories = [
+    "Craft of Storytelling",
+]
 +++
 
 1. Ticking time clock
