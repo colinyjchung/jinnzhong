@@ -27,10 +27,12 @@ tags = [
     "RPG",
 ]
 categories = [
+    "Roleplaying Games",
 ]
 +++
 {{< toc >}}
-**Spoilers Ahead for Chance Dudinack's "The Black Wyrm of Brandonsford" (OSR)**
+
+## Spoilers Ahead for Chance Dudinack's "The Black Wyrm of Brandonsford" (OSR)**
 
 After making a deal with the goblin king, Hogboon, to capture the black wyrm, the Snack Club leave the castle and travel to the dragon's lair. But unfortunately, on their way there, the dragon finds _them_ first. The dragon belches out a thick, yellow, sulfurous smoke, choking the entire Snack Club. Coughing and wheezing, they run, knowing they're no match for this dragon... for now.
 
@@ -84,9 +86,9 @@ The sea journey to No-Ombrulsk is uneventful. Lane and Aust had _dimension door_
 
 _/end session on the Year of the Worm, Month of the Wolf, Day of the Catamount_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 <br/>(Opened Year of the Worm, Month of the Eagle, Day of the Fox)
 
 * 19 Ice Necklaces x 200gp = 3,800gp
@@ -118,13 +120,14 @@ _/end session on the Year of the Worm, Month of the Wolf, Day of the Catamount_
 
 **TOTAL**: 19,472gp 
 
-#### The Snack Club's Real Estate
+### The Snack Club's Real Estate
 
 * Willowby Hall (Mansion in Ool Krut)
 * Dragons in the Dark (Tavern in Ool Krut)
     * Y.Worm/M.Badger = +1,260gp
 
-#### Chekhov's Ticking Time Bombs
+## Other Record Keeping Notes
+### Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -136,6 +139,6 @@ _/end session on the Year of the Worm, Month of the Wolf, Day of the Catamount_
 * Emma Frog is dead, but her infamous mass prison break in Ilthmar will have consequences.
 * The Redclaws are allied with the Dolmenwood Drunes and HQ at Redclaw Castle
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 Great job, Snack Club, on planning the attack on the black wyrm of Brandonsford. Also, great job on hiring security for your treasure. Lots and lots of fun downtime activities this session.
