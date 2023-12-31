@@ -8,6 +8,9 @@ tags = [
     "First Draft",
     "Garage Fiction Podcast",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 {{< toc >}}
 ## Part I: In Which 8-Eyes Dies
