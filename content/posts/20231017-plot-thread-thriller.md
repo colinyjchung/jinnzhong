@@ -17,6 +17,10 @@ tags = [
     "Dan Wells",
     "BYU Writing SF&F Lectures"
 ]
+categories = [
+    "Story Dissection",
+    "Craft of Storytelling",
+]
 +++
 
 {{< toc >}}
