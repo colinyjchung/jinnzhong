@@ -7,8 +7,11 @@ tags = [
     "Celles - The Ardennes (2012)",
     "Roger Miller", 
     "Revolution Games",
-    "War Games",
+    "Wargames",
     "Media Consumption",
+]
+categories = [
+    "Wargames",
 ]
 +++
 **GAME:** Celles -The Ardennes, December 23-27, 1944  
