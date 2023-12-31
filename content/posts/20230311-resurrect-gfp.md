@@ -9,6 +9,9 @@ tags = [
     "Bryan Cheyne",
     "Olivia Hofer",
 ]
+categories = [
+    "Chasing Black Swans",
+]
 +++
 
 Bryan, Olivia, and I are looking to “resurrect” Garage Fiction, but version 3.0 will be drastically different. 
