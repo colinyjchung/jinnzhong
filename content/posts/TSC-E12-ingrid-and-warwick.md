@@ -27,10 +27,12 @@ tags = [
     "RPG",
 ]
 categories = [
+    "Roleplaying Games",
 ]
 +++
 {{< toc >}}
-**Spoilers Ahead for Ben Milton's "The Waking of Willowby Hall" (OSR)**
+
+## Spoilers Ahead for Ben Milton's "The Waking of Willowby Hall" (OSR)**
 
 **Quick Recap:** Jarrod bequeathed **Willowby Hall**, the Milos summer vacation home to the Milos siblings -- -- **Selina Milos** (_EC_), **Slane Milos** (_LC_, played by _EC_), and **Shorin Milos** (_EB, deceased_), but when they got there, it was being destroyed by a giant with a church bell screaming for "Mildred!". The party discovered that Mildred is a goose that lays golden eggs and three adventurers stole it from the giant, Bonebreaker Tom. The Snack Club snuck past the giant, into the house in order to find the thieves and the goose so they can return the goose to said giant and get their home back.
 
@@ -91,7 +93,7 @@ With that said, they've decided it's time to travel to Kleg Nar and visit the to
 
 **SIDE NOTE**: Almost forgot. At one point in Willowby Hall, Raw Skull violently pried open a cabinet in the alchemist lab. Three bottles fell out. Raw Skull tried to catch them, failed and they shattered on the floor. Aust got on his knees and licked up all three. He became super strong, then one-third his size, then polymorphed into a snake. Selina work him around her neck like a scarf until the spell wore off.
 
-#### Spoilers Ahead for Chance Dudinack's "The Black Wyrm of Brandonsford" (OSR)
+### Spoilers Ahead for Chance Dudinack's "The Black Wyrm of Brandonsford" (OSR)
 
 The Snack Club arrive at Brandonsford, and upon seeing two different taverns, the **Clumsy Fox** and **Golden Egg**, split up to gather information more efficiently. At the Clumsy Fox, they hear rumors of a witch who lives in the woods and can turn you into a shrub with the wink of an eye. At the Golden Egg, they hear of how the town's alchemist cavorts with the witch who lives deep in the forest. They also hear of the rumor of how Carmelo the Cursed, a pirate, buried his treasure in the woods. The Snack Club comes across a few adventurers hanging about as well, Lady Hilda, a fighter. Squints the Halfling. "Drop Dead" Ned, thief. And Malzazerick the Magnificent, a wizard. They talk about hiring them, but ultimately don't.
 
@@ -125,9 +127,9 @@ They hike up the river with little to no random encounters. Perrin helps a leper
 
 _/end session_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 <br/>(Deposited Year of the Worm, Month of the Eagle, Day of the Fox)
 
 * 19 Ice Necklaces x 200gp = 3,800gp
@@ -144,11 +146,12 @@ _/end session_
 
 **TOTAL**: 10,256gp 
 
-#### The Snack Club's Real Estate
+### The Snack Club's Real Estate
 
 * Willowby Hall
 
-#### Chekhov's Ticking Time Bombs
+## Other Record Keeping Notes
+### Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -162,6 +165,6 @@ _/end session_
 * Emma Frog is dead, but her infamous mass prison break in Ilthmar will have consequences.
 * The Redclaws are allied with the Dolmenwood Drunes and HQ at Redclaw Castle
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 No major notes. The Snack Club are planning, retreating and gathering intelligence now. It's good.
