@@ -22,6 +22,7 @@ tags = [
     "RPG",
 ]
 categories = [
+    "Roleplaying Games",
 ]
 +++
 {{< toc >}}
@@ -125,9 +126,9 @@ The Snack Club is ecstatic with their new weapons.
 
 _/end session_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 <br/>(Deposited Year of the Worm, Month of the Eagle, Day of the Fox)
 
 * 19 Ice Necklaces x 200gp = 3,800gp
@@ -145,7 +146,7 @@ _/end session_
 
 **TOTAL**: 12,189gp 
 
-#### Chekhov's Ticking Time Bombs
+## Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -157,7 +158,7 @@ _/end session_
 * Thork may be dead, but his wife Aranna isn't. Her inheritance? 800gp of debt to the cult of Loki.
 * Emma Frog is dead, but her infamous mass prison break in Ilthmar will have consequences.
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 I... I just have no words for this afternoon. First, The Snack Club joined the Redclaws and decided this was a good home for them. I did not expect this. I figured they would start scheming and start looking for their lost treasure. They did not. And then when they were assigned to rob the caravans, I thought... let's throw in a moral dilemma here. Let's make them Knives. I figured they would plan something with their former allies. Maybe recruit them to attack the Redclaws. They did not. In fact, they murdered their ex-colleagues. Just like that. And then, when it was clear the Dolmenwood Drunes were coming for them.... Lane, Patrick and Aust decided it would be OK to ignore Aranna and stay asleep. I simply have no words.
 
