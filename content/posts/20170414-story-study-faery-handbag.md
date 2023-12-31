@@ -8,6 +8,9 @@ tags = [
     "Kelly Link",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 
 * **TITLE:** The Faery Handbag
