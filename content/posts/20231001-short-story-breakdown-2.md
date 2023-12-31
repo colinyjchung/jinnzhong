@@ -8,6 +8,9 @@ tags = [
     "Craft of Writing",
     "Creative Process",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 
 Reviewed notes from [August 16, 2017](https://journal.jinnzhong.com/short-story-plot-structure-study/), as deadline for "coming up with short stories" on October 8th, 2023 is fast coming for Garage Fiction. Realized that my foray into improv and standup between 2021-2023 was a significantly helpful diversion in understanding setup, 3-things/escalation, payoff.
