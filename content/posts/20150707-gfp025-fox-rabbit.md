@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 The first time Fox laid eyes on Rabbit, she stared back at him, hard, gnashing nicotine gum, indifferent to Fox’s presence. Either that, or she was daring Fox to seduce her.
