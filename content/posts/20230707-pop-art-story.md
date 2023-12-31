@@ -16,7 +16,7 @@ tags = [
     "Oliver Burkeman",
 ]
 +++
-
+{{< toc >}}
 A few things from today, seemingly random, but coalesces into something more re: art, pop, nerds, and storytelling. It's been quite the day.
 
 ## I. Olivia
