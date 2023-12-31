@@ -29,7 +29,7 @@ tags = [
 categories = [
 ]
 +++
-
+{{< toc >}}
 **Spoilers ahead for Harley Stroh's "Gang Lords of Lankhmar" (DCC-L) - Quick recap:** Last week, The Snack Club, on assignment from King Korvul, murdered six Street Scuttlers outside the Dogfish. The Knife Twister's dark sorcerer, Jivisto, then casts an unholy spell on the corpses, turning half of them into women and placing owl masks on their faces. The scheme? Make it look like the Scuttlers and Forty Owlets had a deadly brawl on the streets of Lankhmar... hoping to ignite a gang war between the two factions.
 
 ## Three Wasted Days
