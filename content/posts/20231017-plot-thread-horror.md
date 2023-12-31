@@ -18,6 +18,8 @@ tags = [
     "BYU Writing SF&F Lectures"
 ]
 +++
+{{< toc >}}
+
 Logistically, **Horror Plot Thread** is what Blake Snyder describes as a "monster in the house". The house is any enclosed area where the characters are trapped (e.g.a haunted house, an island, a prison complex, a spaceship, a cabin). The monster is the being, natural or supernatural, that's hunting characters down and picking them off one by one.
 
 Once you see this, you realize that _Jurassic Park_, _Aliens_, and _Fatal Attraction_ are all "horror" stories too.
