@@ -9,6 +9,7 @@ tags = [
 ]
 categories = [
     "Roleplaying Games",
+    "Unnecessary Tracking",
 ]
 +++
 
