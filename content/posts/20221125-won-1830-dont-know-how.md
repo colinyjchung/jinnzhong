@@ -11,9 +11,12 @@ tags = [
     "Board Games",
     "Media Consumption",
 ]
+categories = [
+    "Board Games",
+]
 +++
 
-### I Finally Won a 18XX Game and I Don't Think It Was By Accident... Maybe.
+## I Finally Won a 18XX Game and I Don't Think It Was By Accident... Maybe.
 
 My brother dragged me into the 18XX world a couple of months ago starting with 18Chesapeake (2020) on 18XX.games. Read the rules a couple of times and got thoroughly trashed.
 
@@ -22,7 +25,7 @@ And then we tried the variant, 18Chesapeake: Off the Rails (2021). The 50% to fl
 _I think I thought I was grokking it..._ but who knows. These games are complex.
 
 I wrote about it elsewhere...
----
+
 ## Prisoner's Dilemma... but with Trains?
 
 I've been playing 18XX games lately. 18XX is a series of board games where you run train companies in the 19th century.
@@ -48,7 +51,6 @@ And in each of those transactions, you have to start thinking... do I trust this
 
 This is, essentially, a reflection of every interaction/transaction we have with other human beings on a daily basis.
 
----
 ## OK... Back to Our Regular Programming
 
 So we end up playing a few of these games live at some wargaming conventions. One game of 18Chesapeake, another 1822.
