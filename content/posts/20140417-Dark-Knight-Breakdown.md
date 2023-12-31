@@ -8,6 +8,9 @@ tags = [
     "Christopher Nolan",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 * **TITLE:** The Dark Knight
 * **DIRECTOR:** Christopher Nolan
