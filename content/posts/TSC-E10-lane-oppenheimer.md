@@ -25,7 +25,7 @@ tags = [
 categories = [
 ]
 +++
-
+{{< toc >}}
 After their visit to Snive Silvyr, **Lane Weaver** (_AB_), **Aranna Weaver** (_AJ_, played by _SB_), **Toaf Frog** (_HA_, played by _SB_), and **Aust Booker** (_OR_) head to a tavern named "The Well of Many Worlds" to mourn their lost comrades, Emma Frog, Myra the Merc, and Patrick Weaver. In a word, to drown their sorrows.
 
 There, they bump into the Milos family: **Selina Milos**, the Assassin (_EC_), **Slane Milos**, the Charlton (_LC_, played by _CC_), and **Shorin Milos**, a lower noble (_EB_). They are all the younger siblings of Jarrod Milos, who as the eldest, inherited the wealth of the Milos family -- and being a selfish jerk, has kicked all three of his siblings out of the house leaving the three Milos to adventure in order to survive.
