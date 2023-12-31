@@ -18,6 +18,7 @@ tags = [
     "BYU Writing SF&F Lectures"
 ]
 +++
+{{< toc >}}
 
 There are important points in our lives that almost every human being goes through on this planet: birth, losing their virginity, first job, first house, first breakup, first love, losing someone we love, being fired. There are important points that segments of the population all share as well. For women: first period, pregnancy, miscarriages. For minorities: facing prejudice. For LGBTQ+: coming out.
 
