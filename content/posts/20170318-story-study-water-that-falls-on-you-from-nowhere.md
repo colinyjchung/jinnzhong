@@ -8,6 +8,9 @@ tags = [
     "John Chu",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 
 * **TITLE:** The Water That Falls On You From Nowhere
