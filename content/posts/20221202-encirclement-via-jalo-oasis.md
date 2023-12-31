@@ -4,12 +4,15 @@ title = "Encirclement via Jalo Oasis"
 date = "2022-12-02"
 description = "Rommel in the Desert game with B.B."
 tags = [
-    "War Games",
+    "Wargames",
     "Beau Burdett",
     "AAR",
     "Rommel in the Desert (1981)",
     "Craig Besinque",
     "Columbia Games",
+]
+categories = [
+    "Wargames",
 ]
 +++
 <iframe
