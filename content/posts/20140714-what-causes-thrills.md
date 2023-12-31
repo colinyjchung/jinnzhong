@@ -7,6 +7,9 @@ tags = [
     "Craft of Writing",
     "Story Analysis",
 ]
+categories = [
+    "Craft of Storytelling",
+]
 +++
 What Causes Thrills? (Keys to Suspense)
 
