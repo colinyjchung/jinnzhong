@@ -7,6 +7,9 @@ tags = [
     "Craft of Writing",
     "Notes on Craft",
 ]
+categories = [
+    "Craft of Storytelling",
+]
 +++
 {{< toc >}}
 ## The Opening Scene = HOOK
