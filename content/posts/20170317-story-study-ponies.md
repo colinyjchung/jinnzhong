@@ -8,6 +8,9 @@ tags = [
     "Kij Johnson",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 * **TITLE:** Ponies
 * **AUTHOR:** Kij Johnson
