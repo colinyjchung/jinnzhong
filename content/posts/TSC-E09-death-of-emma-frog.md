@@ -24,7 +24,7 @@ tags = [
 categories = [
 ]
 +++
-
+{{< toc >}}
 **Thistle Frog** (_EB_, played by _AB_), long-lost brother of **Emma Frog** (_EC_), is an assassin hired by the Dolmenwood Drunes to kill **Aranna Weaver** (_AJ_). Apparently, this was not purely business either. It's personal. At one point, Aranna had accidentally pushed Toad Frog (another Frog sibling) off a cliff. This is all backstory I find out happened on a Messenger Kids group chat prior to today's session. So at EB's behest, Thistle begins the session by attacking Aranna. (It doesn't end well).
 
 After stabbing Aranna, **Lane Weaver** (_AB_) steps in front of his sister, protecting her. **Aust Booker** (_OR_) grabs Thistle from behind and cuts him. Lane, too, slashes Thistle. Thistle breaks free, shoves Lane aside, and makes another assault on Aranna. She is nearly dead when she fires an arrow at Thistle between his eyes. _Thistle is dead_. 
