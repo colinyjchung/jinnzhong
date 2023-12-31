@@ -19,6 +19,8 @@ tags = [
 ]
 +++
 
+{{< toc >}}
+
 The Thriller Plot Thread are stories where regular people (ordinary folk/folx) get caught up in extraordinary circumstances. It could be them being in the wrong place at the wrong time, it could be them unknowingly walking into a dangerous situation, or it could be the end of the world.
 
 A thriller is about the prot being in danger, being chased... or they need to stop a time bomb, because otherwise, everyone will be killed. The tension doesn’t let up. Constant anxiety for the reader.
