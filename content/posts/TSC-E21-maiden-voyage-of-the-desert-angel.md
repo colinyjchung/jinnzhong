@@ -32,7 +32,7 @@ categories = [
     "OSR",
 ]
 +++
-
+{{< toc >}}
 The Snack Club have arrived in Sarheenhar after a three day voyage across the Inner Sea. It's the month of the Raven, day of the Crab. **Jahura Gaus** (_SB_) and **Lane Weaver** (_AB_) say their farewells to the group as they head south to their patron, Ningauble of the Seven Eyes. The rest of the Snack Club head up the road towards the Sarheenhar's western gate, the Gate of Fortitudinous Immanence.
 
 #### Spoilers Ahead for Chris Kutalik's Fever-Dreaming Marlinko (LL)
