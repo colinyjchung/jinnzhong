@@ -6,6 +6,10 @@ description = "Word Counts for Bestselling Novels"
 tags = [
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+    "Unnecessary Tracking",
+]
 +++
 
 Word Count for Novels
