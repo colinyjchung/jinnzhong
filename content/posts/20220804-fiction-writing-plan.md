@@ -8,6 +8,9 @@ tags = [
     "Craft of Writing",
     "Creative Process",
 ]
+categories = [
+    "Chasing Black Swans",
+]
 +++
 
 On previous iterations, I had zero "world building" and built the world + characters + scenes as if I leapt off the cliff and constructed a plane while I fell.
