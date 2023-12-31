@@ -8,6 +8,9 @@ tags = [
     "Craft of Writing",
     "Creative Process",
 ]
+categories = [
+    "Craft of Storytelling",
+]
 +++
 
 People hate changes. We all talk about it, but few take action, or when external events push us, we push back to sustain homeostasis.
