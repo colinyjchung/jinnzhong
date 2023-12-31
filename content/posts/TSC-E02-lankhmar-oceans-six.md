@@ -26,7 +26,7 @@ categories = [
     "DCC",
 ]
 +++
-
+{{< toc >}}
 Our merry band of adventurers are partying it up at the _Black Pig_ after scoring an embarrassment of wealth from Princess Snowfall-at-Dusk, when out of the corner of **Aranna's** (_AJ_) eye, she notices **Veleris** (_EB_), a former love-interest (and a pickpocket). She avoids eye contact. **Orlan** (_HA_), glances over and sees his ex-sergeant, **Darrak** (_AB_) sharing drinks with Veleris. Orlan, too, avoids eye contact. Finally, **Purple Nurple** (_OR_) sees Darrak as well, someone he and **Emma Frog** (_EC_) had shared a prison cell with. Purple Nurple, not knowing the preexisting social entanglements, calls Darrak over.
 
 A series of awkward exchanges are had between the six. Darrak is upset the other two broke out of prison without him. Veleris and Aranna don't say much to each other. Perhaps Aranna knows of his gambling debts. Perhaps she's upset at how things ended. But the party eventually reveal their good fortune and Veleris tells them of a contact in the city of Lankhmar... a fence who could help them store their new fortune. A tavern owner named **Nylokk Gnuhk** (_spell it backwards_...).
