@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 _I’m going to quit today,_ Henry said to himself. _I’m determined, dammit._
