@@ -8,6 +8,9 @@ tags = [
     "Craft of Writing",
     "Creative Process",
 ]
+categories = [
+    "Chasing Black Swans",
+]
 +++
 
 ## What do I want as an author?
