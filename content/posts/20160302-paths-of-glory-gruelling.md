@@ -4,9 +4,12 @@ title = "Paths of Glory (1999) is Grueling, Mentally Exhausting, and Draining"
 date = "2016-03-02"
 description = "Board Game Review of Paths of Glory (1999)"
 tags = [
-    "War Games",
+    "Wargames",
     "AAR",
     "Media Consumption",
+]
+categories = [
+    "Wargames",
 ]
 +++
 So, I played my first game of Paths of Glory today. If you don’t count Twilight Struggle or Risk and Risk 2210AD, then I suppose Paths of Glory is my first official war game.
