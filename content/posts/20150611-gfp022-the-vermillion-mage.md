@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 Cillian was hunched over in the common room nook, nose deep in the Gnæus Codex again while Vivian and Blarney sat by the bay window, watching the finches and linnets chirruping against the twilight sky.
