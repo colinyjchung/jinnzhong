@@ -8,6 +8,9 @@ tags = [
     "The Day The World Turned Upside Down",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 * **TITLE**: The Day the World Turned Upside Down
 * **AUTHOR:** Thomas Olde Heuvelt
