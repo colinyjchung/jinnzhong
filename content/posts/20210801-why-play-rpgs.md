@@ -8,6 +8,9 @@ tags = [
     "OSR",
     "Creative Process",
 ]
+categories = [
+    "Roleplaying Games",
+]
 +++
 Aside from getting together with a group of friends to make up stories together... could you argue RPGs are also *educational?*
 
