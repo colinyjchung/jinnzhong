@@ -18,6 +18,7 @@ tags = [
     "BYU Writing SF&F Lectures"
 ]
 +++
+{{< toc >}}
 
 The Adventure Plot Thread are stories of going somewhere, getting something, and/or sharing a journey. This plot thread is the building block of action scenes, chapters, and even the entire story a la Joseph Campbell's Hero's Journey. By itself, it's a fun, entertaining adventure... mixed with other threads, you get a more complex one with emotional depth. At a smaller scale, it becomes the character's goal for a scene (go to X. Get Y. Fight Z.)
 
