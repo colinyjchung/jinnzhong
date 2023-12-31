@@ -10,6 +10,9 @@ tags = [
     "Craft of Writing",
     "Creative Process",
 ]
+categories = [
+    "Chasing Black Swans",
+]
 +++
 
 Great call everyone.
