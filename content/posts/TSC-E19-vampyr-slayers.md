@@ -27,7 +27,7 @@ categories = [
     "OSE",
 ]
 +++
-
+{{< toc >}}
 It's the Month of the Panther, Day of the Mongoose. The Snack Club are staying at The Green Lady in No-Ombrulsk, still licking their wounds from being humiliated by WHSCK. I ask them what lessons they learned from last session. Answers ranged from "don't fight giant things you don't understand"... to "don't mess with WHSCK"... to "don't go crashing through doors of strangers' houses". All good answers, kids, but the answer I'm looking for is:
 
 **Violence doesn't solve all your problems.** _(As we'll see later, this lesson is not learned... at all.)_
