@@ -27,9 +27,11 @@ tags = [
     "RPG",
 ]
 categories = [
+    "Roleplaying Games",
 ]
 +++
 {{< toc >}}
+
 **Spoilers ahead for Harley Stroh's "Gang Lords of Lankhmar" (DCC-L) - Quick recap:** Last week, The Snack Club, on assignment from King Korvul, murdered six Street Scuttlers outside the Dogfish. The Knife Twister's dark sorcerer, Jivisto, then casts an unholy spell on the corpses, turning half of them into women and placing owl masks on their faces. The scheme? Make it look like the Scuttlers and Forty Owlets had a deadly brawl on the streets of Lankhmar... hoping to ignite a gang war between the two factions.
 
 ## Three Wasted Days
@@ -108,7 +110,7 @@ The rest of the Snack Club -- who are [on a boat](https://www.youtube.com/watch?
 
 Anyway - they're together again. And using the map Benson deciphered, they head to the Great Oak where the Dolmenwood Drunes are. It's time to kill-us-some-druids-even-though-they're-totally-justified-in-their-constant-acts-of-vengeance-but-we're-the-heroes-in-this-story-so-there.
 
-#### Spoilers Ahead for Gavin Norman's "The Hole in the Oak" (OSE)
+## Spoilers Ahead for Gavin Norman's "The Hole in the Oak" (OSE)
 
 Once there, they climb down the hole in the oak, into a vast underground network of tunnels and rooms. Lane and Aranna suggests burning the place down. I tell them... it's a really big place. Emma quickly realizes her cartography skills are needed and starts drawing a map. 
 
@@ -122,9 +124,9 @@ And all this time -- strange things are happening. Hideous, gurgling laughs. Wor
 
 _/end session_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 <br/>(Deposited Year of the Worm, Month of the Eagle, Day of the Fox)
 
 * 19 Ice Necklaces x 200gp = 3,800gp
@@ -140,7 +142,7 @@ _/end session_
 
 **TOTAL**: 15,026gp 
 
-#### Chekhov's Ticking Time Bombs
+## Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -155,7 +157,7 @@ _/end session_
 * Thork may be dead, but his wife Aranna isn't. Her inheritance? 800gp of debt to the cult of Loki.
 * Emma Frog, Aust Booker, and Patrick Weaver are all fugitives?? How many prisoners did Emma free?
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 That... did not turn out the way I thought it would. _Gang Lords of Lankhmar_ is a module where they predict the players would inevitably round up the remaining Knives and start a gang war, taking down the Scuttlers and Owlets. It's a little free-for-all in the second half of the module, where I'm just given locations, the number of gang members, and maps. Harley Stroh probably intended for the tension tracker to hit a boiling point until the Thieves Guild and The Watch step in and end it all, forcing the revenge-hungry players to escape Lankhmar.
 
