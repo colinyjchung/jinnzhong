@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 Spencer eyed the puffer fish in the waiting room aquarium. It swum nonchalantly without giving way to any sense of menace. Just a humble yellow creature with black spots. Innocent. Harmless, even, until threatened. And at that very moment, Spencer felt like the fish as he sat straight-backed and stiff on the chair just outside Mr. Doyle’s room, waiting for his interview. Outside the spare concrete room, beyond a door slightly ajar, the barracks hummed. Young privates rushed to-and-fro, some training and others playing handhelds, passing time. All ambitious teenagers, eager to make their mark. All of them single, untethered to commitments and spouses and kids. No loan payments. No aching backs and mending feet and burnt minds. Not yet, at any rate. Give them another two years or so, Spencer said to himself. I lasted twenty. An anomaly. He watched them with envy and sadness. Jealous of their hunger, but irrefutably tinged with pangs of pity for their naivety as well, as if watching men boasting of past glories inside trenches in the quiet moments before ordered to go up top and towards indiscriminate machine guns. The survivors would become heroes, the dead and injured forgotten and deserted in no man’s land. These were the risks of warren walkers, the rangers of the underdark who gave safe passage for a price. Spencer knew the risks and he was a survivor. He had survived and had been paid handsomely for it over the years. And yet, here he was again as if he were some 17-year-old young buck looking to get blooded. Thrilling for an adventure. But he wasn’t. He was old and tired and hated being here again. But he had no choice. The comfortable retirement had not lasted. His wife’s medical bills had piled up. He knew of no other work.
