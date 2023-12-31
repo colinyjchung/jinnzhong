@@ -30,10 +30,12 @@ tags = [
     "RPG",
 ]
 categories = [
+    "Roleplaying Games",
 ]
 +++
 {{< toc >}}
-**Spoilers Ahead for Joseph Goodman's "The Emerald Enchanter" (DCC)**
+
+## Spoilers Ahead for Joseph Goodman's "The Emerald Enchanter" (DCC)**
 
 **Quick Recap:** The Snack Club have delved deep into the Emerald Enchanter's citadel. Lane has _planar stepped_ back home to Willowby Hall.
 
@@ -161,9 +163,9 @@ Glavas spends his downtime marketing _Dragons in the Dark_, hoping to entice No-
 
 _/end session on the Year of the Worm, Month of the Wolf, Day of the Stoat_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 <br/>(Opened Year of the Worm, Month of the Eagle, Day of the Fox)
 
 * 19 Ice Necklaces x 200gp = 3,800gp
@@ -186,13 +188,14 @@ _/end session on the Year of the Worm, Month of the Wolf, Day of the Stoat_
 
 **TOTAL**: 18,804gp 
 
-#### The Snack Club's Real Estate
+### The Snack Club's Real Estate
 
 * Willowby Hall (Mansion in Ool Krut)
 * Dragons in the Dark (Tavern in Ool Krut)
     * Y.Worm/M.Badger = +1,260gp
 
-#### Chekhov's Ticking Time Bombs
+## Other Recording Keeping Notes
+### Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -204,7 +207,7 @@ _/end session on the Year of the Worm, Month of the Wolf, Day of the Stoat_
 * The Redclaws are allied with the Dolmenwood Drunes and HQ at Redclaw Castle
 * Who is the Weaver ancestor, "Ivrian the Unkind" and did she achieve immortality?
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 Well, that was not what I had expected for the final fight. Here I was thinking there would be an epic fight in the vat room as the module was written, but the Snack Club decide to fight from the underground caves instead. What really got me were the deaths this session. Slane sacrificed himself for the villagers. Perrin could've helped too, but didn't. Ogo died because the Snack Club couldn't think of any way to get rid of the severed hands in an efficient way. And Squidward. That was the most confusing decision of all. Why would he push Aranna down the hole?
 
