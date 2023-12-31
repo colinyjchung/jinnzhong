@@ -10,6 +10,7 @@ tags = [
 ]
 categories = [
     "Story Dissection",
+    "Craft of Storytelling",
 ]
 +++
 {{< toc >}}
