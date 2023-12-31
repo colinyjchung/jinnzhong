@@ -13,15 +13,15 @@ categories = [
 +++
 {{< toc >}}
 
-**PREMISE:**
+## PREMISE
 Hook (Primary Event) --> Expanded Idea --> Generic Characters --> Fleshed Out Characters --> Plot
 
-## INITIAL IDEA must have 2 of 3 things:
+**INITIAL IDEA must have 2 of 3 things:**
 1. Primary Event
 2. Arc of Story (BME), or...
 3. Intriguing Situation that immediately suggests a **Cast of Characters**
 
-## PROCESS:
+## PROCESS
 1. Idea --> Research (travel, interviews, pictures) -->
 2. Characters  (as you flesh out, plot thickens) -->
 3. Step Outline (15 rough scenes) -->
@@ -92,7 +92,7 @@ Partial
 **pg. 139**
 Be careful that the scene adds something necessary to the story's devleopment: information, revelation, discovery, sudden change. If the scene you're creating doesn't do any of this, then what you have is something that doens't need to go into a scene in the first place. That means there must be conflict. Think of a scene as you would a complete story."
 
-## Types of Scenes**
+## Types of Scenes
 1. Motion Picture (establishing shot, characters, dialogue)
 2. Sound vs. Sight
 3. Present, Past, Present
