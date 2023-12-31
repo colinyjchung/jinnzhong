@@ -17,6 +17,9 @@ tags = [
     "Mary Robinette Kowal",
     "VGW in the 'Burbs",
 ]
+categories = [
+    "Chasing Black Swans",
+]
 +++
 {{< toc >}}
 
