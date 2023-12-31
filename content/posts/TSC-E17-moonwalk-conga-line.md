@@ -29,7 +29,7 @@ categories = [
     "DCC",
 ]
 +++
-
+{{< toc >}}
 **Spoilers Ahead for Daniel J. Bishop's "The Imperishable Sorceress" (DCC)**
 
 **Quick Recap:** It's the year of the Leviathan, Month of the Panther, Day of the Spider. The Snack Club are in Ivrian the Unkind's lair, high up in the Mountain of Giants. So far, they've found her journals (which shows her nomenclature to be very apt: flensing young women, bathing in blood, etc.), and they found her laboratory where her artificial construct of an immortal body was... along with her actual dead, withered corpse. For the last two hours, **Octopus** (_EC_), has been climbing out of a six-mile deep hole while the Snack Club waited for her.
