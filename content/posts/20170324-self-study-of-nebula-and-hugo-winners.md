@@ -9,7 +9,7 @@ tags = [
     "Creative Process",
 ]
 +++
-
+{{< toc >}}
 If the scope of short stories are not “world changing” where regimes are changed, kings are murdered or deposed of, or a relationship comes to a dramatic end with murder, an affair, a breakup, a death, a marriage, a birth, a goodbye, a reunion, or something huge… 
 
 If the scope of a short story is subdued to a:
