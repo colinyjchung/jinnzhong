@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 When Pete Dixon first arrived at the newly built Carson Williams Villa, he found the 33-bedroom Spanish Colonial unsettling. 
