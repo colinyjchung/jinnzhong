@@ -8,6 +8,10 @@ tags = [
     "Craft of Writing",
     "Creative Process",
 ]
+categories = [
+    "Story Dissection",
+    "Craft of Storytelling",
+]
 +++
 
 The protagonist must be doing something interesting with their own goal and conflict already. 
