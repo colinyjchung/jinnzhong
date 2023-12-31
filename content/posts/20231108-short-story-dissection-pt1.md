@@ -30,6 +30,8 @@ tags = [
     "Midnight Hour",
 ]
 +++
+{{< toc >}}
+
 OK, so I've thoroughly dissected eleven short stories now, all winners of Hugo, Nebula, World Fantasy and/or Locus awards over the last eight years.
 
 The stories in question are:
