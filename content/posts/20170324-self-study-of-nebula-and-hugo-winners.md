@@ -8,6 +8,9 @@ tags = [
     "Craft of Writing",
     "Creative Process",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 {{< toc >}}
 If the scope of short stories are not “world changing” where regimes are changed, kings are murdered or deposed of, or a relationship comes to a dramatic end with murder, an affair, a breakup, a death, a marriage, a birth, a goodbye, a reunion, or something huge… 
