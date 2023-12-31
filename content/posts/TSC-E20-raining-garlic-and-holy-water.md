@@ -29,7 +29,7 @@ categories = [
     "OSE",
 ]
 +++
-
+{{< toc >}}
 It's still the early hours of the Month of the Panther, Day of the Eel and The Snack Club are stuck inside the Halls of the Blood King. They've been inside for three hours now, but they've discovered a ton of clues already on how to defeat the Blood King himself.
 
 **Daot-Daot** (_EC_) is wandering in the hallways. **Jahura Gaus** (_SB_) and **Gary the Snail** (_HA_) are rummaging through the servants' quarters. **Coil Mahogany** (_LC_), **Arden Vey** (_EB_), and **Aranna Weaver** (_AJ_) are still in the library... and **Lane Weaver** (_AB_) is hanging out with nine vampires from the multiverse in the great hall.
