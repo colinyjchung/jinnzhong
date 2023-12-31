@@ -8,6 +8,9 @@ tags = [
     "Ursula Vernon",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 
 * **TITLE:** Jackalope Wives
