@@ -8,7 +8,7 @@ tags = [
     "Story Analysis",
 ]
 +++
-
+{{< toc >}}
 ## IV: A New Hope
 - Princess Leia sends message via R2D2
 - Imperial Forces captures Princess Leia
