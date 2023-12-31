@@ -28,7 +28,7 @@ tags = [
 categories = [
 ]
 +++
-
+{{< toc >}}
 OK. Recap. We're in a large cavern. There are dead cultists strewn all over the cave floor, burst open bodies, crushed octo-masses. A sliced up ten-foot-tall pit beast. Everyone's alive except for Adele. There's another cavern to the North, and the mill behind them. I remind them of the four slaves they freed. OR exclaims "we should eat them!" Why? I don't know. But HA raises a fist and shouts, "cannibalism!" victoriously.
 
 _And we're back..._ after a three week hiatus due to the end of school. The Snack Club, apparently, have become a tribe of cannibals.
