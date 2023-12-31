@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 The scrawny, coltish book dealer grimaced. He held Edvard’s book with suspicion, far away from his body, peering intensely at it over his brass half-wire-rim eyeglasses. 
