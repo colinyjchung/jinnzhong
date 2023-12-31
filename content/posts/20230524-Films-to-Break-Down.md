@@ -8,6 +8,10 @@ tags = [
     "Craft of Writing",
     "Creative Process",
 ]
+categories = [
+    "Story Dissection",
+    "Unnecessary Tracking",
+]
 +++
 
 * The Shawshank Redemption
