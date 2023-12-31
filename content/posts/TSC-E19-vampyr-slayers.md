@@ -24,7 +24,6 @@ tags = [
 ]
 categories = [
     "Roleplaying Games",
-    "OSE",
 ]
 +++
 {{< toc >}}
@@ -32,7 +31,7 @@ It's the Month of the Panther, Day of the Mongoose. The Snack Club are staying a
 
 **Violence doesn't solve all your problems.** _(As we'll see later, this lesson is not learned... at all.)_
 
-#### Spoilers Ahead for Diogo Nogueira's Halls of the Blood King (OSE)
+## Spoilers Ahead for Diogo Nogueira's Halls of the Blood King (OSE)
 
 Snive Silvyr, from [several sessions back](https://dragonsinthedark.com/post/s1e09-death-of-emma-frog/), the wizard in No-Ombrulsk who helped the Snack Club create three magical weapons... (and _not_ [Volter the Vizard](https://dragonsinthedark.com/post/s1e10-lane-oppenheimer/) from Mlurg Nar, who I mistakenly misplaced here)... comes rushing into the Green Lady looking for **Coil Mahogany** (_LC_). 
 
@@ -82,9 +81,9 @@ At the beginning of this session, I assigned LC with the task of "TimeKeeper". E
 
 _/end session on the Year of the Leviathan, Month of the Panther, Day of the Eel_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 
 * Chest of Gold from Hole in Oak = 1,994gp
 * Skull with Ruby Eyes = 1,600gp
@@ -106,7 +105,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Eel
 
 **TOTAL**: 14,651gp 
 
-#### The Snack Club's Real Estate
+### The Snack Club's Real Estate
 
 * Willowby Hall (Mansion in Ool Krut)
     * Renovations: Building Wizard Tower (ECD. Y.Leviathan/M/Lion/D.Wasp)
@@ -114,7 +113,9 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Eel
     * Y.Worm/M.Badger = +1,260gp
     * Y.Worm/M.Wolf = +710gp
 
-#### Chekhov's Ticking Time Bombs
+## Other Record Keeping Notes
+
+### Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -129,7 +130,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Eel
 * The Lens Room in the pocket dimension revealed a pyramid with three statues. How will the Snack Club get back there?
 * Will the Snack Club actually attempt to break into The Emerald Slab?
 
-#### Heat & Reputation
+### Heat & Reputation
 
 | City | Heat | Reputation |
 |---|:---:|:---:|
@@ -149,7 +150,7 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Eel
 | Quarmall | 0 | 0 |
 | Horborixen | 0 | 0 |
 
-#### Session Counter for Levelling
+### Session Counter for Levelling
 
 | Character | Player | Level | Sessions | Next |
 |---|:---:|:---:|:---:|:---:|
@@ -162,10 +163,10 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Eel
 | Arden Vey | _EB_ | L2 | 2 | 3 |
 | Erevan Weaver | _OR_ | L2 | 1 | 3 |
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 I can see why this module won the [Ennie for Best Adventure for 2021](https://ennie-awards.com/2021-nominees-and-winners/). There are just so many things to interact with, there are factions and so many interesting NPCs, and it's all thematic and coherent. Unfortunately, due to the half-session on Halloween, we couldn't finish, so it wasn't a very satisfying ending. We'll see how the Snack Club handles all these different plot hooks next week.
 
-In other news, since our last session, I've been thinking about [Glavos Roh (_EB_)](https://dragonsinthedark.com/tags/glavos-roh-tentacles-lower-noble/) quite a bit. While this character only lasted two sessions, there was a very strong arc and solid ending to his storyline. I don't know if I'm reading into it, but Glavos Roh _felt real_... or maybe, coherent as a character. He was not a very nice person, he _did_ decide to keep Nightraker despite the consequences after all... _BUT_... in Boss Ogo's house, he was also the "not-nice" person who _knew_ what to do and _did it_ when he snapped Boss Ogo's neck. When Aranna killed him, not knowing that killing Boss Ogo was actually the best (and only) course of action... it was like this "not-nice" person was redeemed in a way like Jaime Lannister or James "Sawyer" Ford was in later seasons. Both unlikeable semi-villains that did what they did because they _believed_ it was the right move... even when everyone around them disagreed with them.
+In other news, since our last session, I've been thinking about Glavos Roh (_EB_) quite a bit. While this character only lasted two sessions, there was a very strong arc and solid ending to his storyline. I don't know if I'm reading into it, but Glavos Roh _felt real_... or maybe, coherent as a character. He was not a very nice person, he _did_ decide to keep Nightraker despite the consequences after all... _BUT_... in Boss Ogo's house, he was also the "not-nice" person who _knew_ what to do and _did it_ when he snapped Boss Ogo's neck. When Aranna killed him, not knowing that killing Boss Ogo was actually the best (and only) course of action... it was like this "not-nice" person was redeemed in a way like Jaime Lannister or James "Sawyer" Ford was in later seasons. Both unlikeable semi-villains that did what they did because they _believed_ it was the right move... even when everyone around them disagreed with them.
 
 I don't know. Just a clear character with a clear flaw and a clear arc who only lasted two sessions. There's something about that. A short story that wrapped up nicely.
