@@ -7,6 +7,9 @@ tags = [
     "D&D 5e",
     "RPG",
 ]
+categories = [
+    "Roleplaying Games",
+]
 +++
 
 Dear D&D Players
