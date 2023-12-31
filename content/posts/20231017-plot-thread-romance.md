@@ -18,6 +18,7 @@ tags = [
     "BYU Writing SF&F Lectures"
 ]
 +++
+{{< toc >}}
 
 Our lives are changed by those we meet and fall in love with. Not just romance, but platonic working relationships and deep friendships as well. Or even a prot's relationship to a pet. The Romance Plot Thread is about those deep, intense, and intimate relationships between two people. The kind of relationship where it's us-against-the-world. The unbreakable bond and passion.
 
