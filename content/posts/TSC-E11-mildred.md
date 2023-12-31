@@ -27,7 +27,7 @@ tags = [
 categories = [
 ]
 +++
-
+{{< toc >}}
 The Milos siblings -- **Selina Milos** (_EC_), **Slane Milos** (_LC_), and **Shorin Milos** (_EB_) -- are in Gnamph Nar, and catch sight of **Wrenn** (_SB_), their adopted brother, who is biologically a Booker, and worked for the Weavers... and **Squidward Tentacles** (_HA_), a degenerate gambling hedge wizard. They join The Snack Club. Later, Norah, their banker, hands them a letter:
 
 >Dear Selina, Slane, and Shorin,
