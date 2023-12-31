@@ -25,7 +25,7 @@ categories = [
     "DCC",
 ]
 +++
-
+{{< toc >}}
 We start today's session with me teaching the kids about the ["Five-Man Band"](https://tvtropes.org/pmwiki/pmwiki.php/Main/FiveManBand) trope, a useful tool for storytelling and playing RPGs when you have a group working together. We didn't plan it, but by fate of the dice, our merry band of adventurers have fallen into the necessary roles for a "Five-Man Band". 
 
 **Veleris** (_EB_) is the sneaky one. **Emma Frog** (_EC_) is the weird magical one. **Aranna's** (_AJ_) plays the "face", the talkative one. **Darrak** (_AB_) is the support. And **Purple Nurple** (_OR_), plays the strong one, "the tank". But with Purple Nurple missing IRL today, **Orlan** (_HA_) suits up with a full-plate armor.
