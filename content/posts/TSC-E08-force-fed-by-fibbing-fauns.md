@@ -25,6 +25,7 @@ tags = [
     "RPG",
 ]
 categories = [
+    "Roleplaying Games",
 ]
 +++
 {{< toc >}}
@@ -32,9 +33,9 @@ categories = [
 
 Yes, The Snack Club have split into not two, not three... but _four_ different groups inside a dungeon.
 
-#### Spoilers ahead for Gavin Norman's "The Hole in the Oak" (OSE) 
+## Spoilers ahead for Gavin Norman's "The Hole in the Oak" (OSE) 
 
-There's not going to be a huge recap this week as The Snack Club were mostly dungeon crawling through this module, but let's jump in. As Emma Frog, Aranna and four Knives walk towards a river, a few frogs hop North. Emma throws a pebble at one to see if it's a hallucination (like Lane's gnome from [last session](https://dragonsinthedark.com/post/a-merc-and-his-dolphin/)). It's not (but the gnome wasn't either), and the injured frog leaps away.
+There's not going to be a huge recap this week as The Snack Club were mostly dungeon crawling through this module, but let's jump in. As Emma Frog, Aranna and four Knives walk towards a river, a few frogs hop North. Emma throws a pebble at one to see if it's a hallucination (like Lane's gnome from last session). It's not (but the gnome wasn't either), and the injured frog leaps away.
 
 Meanwhile, Veleris and Myra follow a winding hallway to where Lane had gone. They see the same table with the same dainty bell, ring it, and a very polite faun comes out to greet them. The faun invites them in and offers them tea and crumpets in the study room. Veleris and Myra both refuse to consume it (because they're meta-gaming), but don't do anything about it either. They make some lame excuse about having eaten already and leave. As they leave, they decide to burn down the evil roots that steal items. The entire dungeon rumbles ominously.
 
@@ -102,9 +103,9 @@ Rest in peace, Veleris.
 
 _/end session_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 <br/>(Deposited Year of the Worm, Month of the Eagle, Day of the Fox)
 
 * 19 Ice Necklaces x 200gp = 3,800gp
@@ -120,7 +121,7 @@ _/end session_
 
 **TOTAL**: 16,766gp 
 
-#### Chekhov's Ticking Time Bombs
+## Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -131,7 +132,7 @@ _/end session_
 * Thork may be dead, but his wife Aranna isn't. Her inheritance? 800gp of debt to the cult of Loki.
 * Emma Frog, Aust Booker, and Patrick Weaver are all fugitives?? How many prisoners did Emma free?
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 Many of our adventurers nearly died today. Emma was almost eaten by ghouls. Aranna the same. Lane was almost eaten by a faun. Patrick almost got crushed as a fruit fly. Lane and Aust fought troglodytes on their own, but I can't imagine them living longer by wandering alone. It boggles my mind why this party continues to split-up in dangerous situations. And worse... _into four different groups_. It makes no sense.
 
