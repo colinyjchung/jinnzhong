@@ -8,6 +8,9 @@ tags = [
     "Pat Cadigan",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 
 * **TITLE:** The Girl-Thing Who Went Out For Sushi
