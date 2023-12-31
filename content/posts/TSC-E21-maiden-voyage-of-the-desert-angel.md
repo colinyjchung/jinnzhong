@@ -35,7 +35,7 @@ categories = [
 {{< toc >}}
 The Snack Club have arrived in Sarheenhar after a three day voyage across the Inner Sea. It's the month of the Raven, day of the Crab. **Jahura Gaus** (_SB_) and **Lane Weaver** (_AB_) say their farewells to the group as they head south to their patron, Ningauble of the Seven Eyes. The rest of the Snack Club head up the road towards the Sarheenhar's western gate, the Gate of Fortitudinous Immanence.
 
-### Spoilers Ahead for Chris Kutalik's Fever-Dreaming Marlinko (LL)
+## Spoilers Ahead for Chris Kutalik's Fever-Dreaming Marlinko (LL)
 
 In Sarheenhar, the Snack Club spend a good half-hour wandering around town not knowing where to go or what to do because nobody in the Snack Club takes proper notes IRL. I've grown tired of them not taking notes, drawing maps, or keeping proper inventory, so I let them do nothing for a few turns. Eventually, they remember they're there to visit a noble-woman who invited them to their city. They find her town-manse.
 
@@ -143,9 +143,9 @@ They know their fate and destiny is there, but being responsible, they decide to
 
 _/end session on the Year of the Leviathan, Month of the Weasel, Day of the Bat_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 
 * Chest of Gold from Hole in Oak = 1,994gp
 * Skull with Ruby Eyes = 1,600gp
@@ -169,7 +169,7 @@ _/end session on the Year of the Leviathan, Month of the Weasel, Day of the Bat_
 
 **TOTAL**: 20,645gp 
 
-#### The Snack Club's Real Estate
+### The Snack Club's Real Estate
 
 * Willowby Hall (Mansion in Ool Krut)
     * Renovations: Building Wizard Tower (ECD. Y.Leviathan/M.Lion/D.Wasp)
@@ -178,6 +178,8 @@ _/end session on the Year of the Leviathan, Month of the Weasel, Day of the Bat_
     * Y.Worm/M.Wolf = +710gp
     * Y.Leviathan/M.Panther = (550)gp
     * Y.Leviathan/M.Raven = +2350gp
+
+## Other Record Keeping
 
 ### Chekhov's Ticking Time Bombs
 
