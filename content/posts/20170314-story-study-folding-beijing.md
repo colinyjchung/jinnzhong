@@ -8,6 +8,9 @@ tags = [
     "Hao Jingfang",
     "Story Analysis",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 
 * **TITLE:** Folding Beijing
