@@ -30,7 +30,7 @@ tags = [
 categories = [
 ]
 +++
-
+{{< toc >}}
 There was a brief period in my life where I got into war games and studied military history. If there's one thing I learned during that time, it's this: wars are not won by superior strategy, tactics, or even a larger force. They're won by _logistics_. Your supply chain, your resource allocation, and making sure everyone is fed and healthy.
 
 In the same token, D&D is similar. It's a group of people, going into the wilderness to fight monsters and find treasure. Adventurers need to be fed, henchmen need to be paid, supplies need to be distributed. In short, the planning stage before every adventure is basically _project management._
