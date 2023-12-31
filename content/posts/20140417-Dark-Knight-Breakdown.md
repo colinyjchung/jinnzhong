@@ -13,6 +13,8 @@ tags = [
 * **DIRECTOR:** Christopher Nolan
 * **TIME:** 2 hours 24 minutes (144 minutes)
 
+{{< toc >}}
+
 # ACT 1
 
 ## SEQUENCE ONE
