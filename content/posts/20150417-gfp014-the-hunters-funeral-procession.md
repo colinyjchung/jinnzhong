@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 The room Marius found himself in was a swaying blur of emerald, mahogany and shades of charcoal. 
