@@ -21,11 +21,10 @@ tags = [
 ]
 categories = [
 "Roleplaying Games",
-    "OSR",
-    "DCC",
 ]
 +++
 {{< toc >}}
+
 We start today's session with me teaching the kids about the ["Five-Man Band"](https://tvtropes.org/pmwiki/pmwiki.php/Main/FiveManBand) trope, a useful tool for storytelling and playing RPGs when you have a group working together. We didn't plan it, but by fate of the dice, our merry band of adventurers have fallen into the necessary roles for a "Five-Man Band". 
 
 **Veleris** (_EB_) is the sneaky one. **Emma Frog** (_EC_) is the weird magical one. **Aranna's** (_AJ_) plays the "face", the talkative one. **Darrak** (_AB_) is the support. And **Purple Nurple** (_OR_), plays the strong one, "the tank". But with Purple Nurple missing IRL today, **Orlan** (_HA_) suits up with a full-plate armor.
@@ -36,7 +35,7 @@ Where is Purple Nurple _in-game_? Aranna suggests he is getting groomed as a dog
 
 And with that -- we return to Lankhmar. Last week, they found a strange key -- the Key of the Unwitnessed Sisterhood -- and inside it, a cryptic message. Orlan knows of Semrik, a linguist, translator, and cryptographer in the Plaza of Dark Delights. Which is where the party heads...
 
-#### Spoilers Ahead for Michael Curtis's "Masks of Lankhmar" (DCC-L)
+## Spoilers Ahead for Michael Curtis's "Masks of Lankhmar" (DCC-L)
 
 The Plaza of Dark Delights is like the Richmond Night Market. It's busy, it's loud, there are stalls selling questionable wares, some counterfeit, some knockoffs, some outright illegal. On one end, the Fountain of Dark Abundance. The other, Shrine of the Black Virgin. Semrik's modest pavilion is taken by a high angled table with him hunched over papers and parchments.
 
@@ -140,9 +139,9 @@ Nylokk looks over. Tells them that something's  strange going up north in the Ei
 
 _/end session_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 <br/>(Deposited Year of the Worm, Month of the Eagle, Day of the Fox)
 
 * 23 Ice Necklaces * 200gp = 4,600gp
@@ -150,7 +149,7 @@ _/end session_
 
 **TOTAL**: 6,400gp
 
-#### Chekhov's Ticking Time Bombs
+## Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -163,6 +162,6 @@ _/end session_
 * Emma Frog and Purple Nurple are fugitives from a neighboring region.
 * Two drunes of the Dolmenwood cult of sorcerers were murdered in cold blood.
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 So the seven sins caused by the psychoactive funereal spices was quite entertaining. All the players role-played their sins quite well and tried to solve the problem together. Unfortunately, The Snack Club were no match for a second round of the sins when the Gilded Masks of Djil charmed them, allowing the masks to escape and wreak havoc upon Lankhmar.
