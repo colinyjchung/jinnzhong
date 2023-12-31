@@ -26,6 +26,7 @@ tags = [
     "RPG",
 ]
 categories = [
+    "Roleplaying Games",
 ]
 +++
 {{< toc >}}
@@ -33,7 +34,7 @@ OK. Recap. We're in a large cavern. There are dead cultists strewn all over the 
 
 _And we're back..._ after a three week hiatus due to the end of school. The Snack Club, apparently, have become a tribe of cannibals.
 
-#### Spoilers Ahead for Joseph Goodman's "The People of the Pit" (DCC)
+## Spoilers Ahead for Joseph Goodman's "The People of the Pit" (DCC)
 
 They head north. There's grey mist, on the floor, grey debris. Some looks fleshy. It's not clear what it is. Four peasants foaming at the mouth attack them. Purple handles them all with no problem. As they walk past the mist, they can see tentacles coming out of a vent in the ground. The tentacles are scraping themselves against the cave walls, and as they do, eyeballs, suckers and beaks slough off and fall to the ground. It's gross. The floor is littered with old desiccated parts of the pit-beast.
 
@@ -115,9 +116,9 @@ Back in Mlurg Nar, in the basement of Ilrisk Bough, the duke congratulates them 
 
 _/end session_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
+### Stored in Wyrmskull Vault
 <br/>(Deposited Year of the Worm, Month of the Eagle, Day of the Fox)
 
 * 19 Ice Necklaces x 200gp = 3,800gp
@@ -130,7 +131,7 @@ _/end session_
 **Ten Heavy Chests of Gold Pieces in Mlurg Nar**
 <br/> **TOTAL:** 10,000gp
 
-#### Chekhov's Ticking Time Bombs
+## Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -143,7 +144,7 @@ _/end session_
 * Two drunes of the Dolmenwood cult of sorcerers were murdered in cold blood.
 * Who is this Hriseit asking around Lankhmar for The Snack Club?
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 With running this campaign, I'm trying to keep "extra accessories" low. No wet-erase board, no miniatures, no terrain.  All "theatre of the mind". It's a challenge, but I prefer this to the mess of stuff that ends up on the table. With that said, the third floor of _People of the Pit_ was a little hairy... and keeping track of all the enemies in the final battle was a lot of accounting. I was tempted to pull out some meeples at one point.
 
