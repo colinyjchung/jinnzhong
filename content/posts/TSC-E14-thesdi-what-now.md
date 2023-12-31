@@ -28,7 +28,7 @@ tags = [
 categories = [
 ]
 +++
-
+{{< toc >}}
 **Spoilers Ahead for Joseph Goodman's "The Emerald Enchanter" (DCC)**
 
 **Quick Recap:** The Snack Club has travelled to the lair of the Emerald Enchanter near No Ombrulsk, a citadel sitting atop of a barren cliff.
