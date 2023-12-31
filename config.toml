@@ -20,18 +20,18 @@ pygmentsUseClasses = true
     url = "/"
     weight = 10
 
-[[menu.main]]
-    identifier = "tags"
-    name = "tags"
-    title = "tags"
-    url = "/tags/"
-    weight = 20
-
   [[menu.main]]
     identifier = "categories"
     name = "ctgy"
     title = "ctgy"
     url = "/categories/"
+    weight = 20
+    
+[[menu.main]]
+    identifier = "tags"
+    name = "tags"
+    title = "tags"
+    url = "/tags/"
     weight = 30
 
   [[menu.main]]
