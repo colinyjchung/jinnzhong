@@ -29,6 +29,9 @@ tags = [
     "Hungry Daughters of Starving Mothers",
     "Midnight Hour",
 ]
+categories = [
+    "Story Dissection",
+]
 +++
 {{< toc >}}
 
