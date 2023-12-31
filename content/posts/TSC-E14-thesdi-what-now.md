@@ -26,13 +26,14 @@ tags = [
     "RPG",
 ]
 categories = [
+    "Roleplaying Games",
 ]
 +++
 {{< toc >}}
-**Spoilers Ahead for Joseph Goodman's "The Emerald Enchanter" (DCC)**
+
+## Spoilers Ahead for Joseph Goodman's "The Emerald Enchanter" (DCC)**
 
 **Quick Recap:** The Snack Club has travelled to the lair of the Emerald Enchanter near No Ombrulsk, a citadel sitting atop of a barren cliff.
-
 
 **Selina Milos** (_EC_) takes out her spyglass and scopes out the squat building. There are two emerald statues guarding the front gate. **Lane Weaver** (_AB_) and **Perrin Juno** (_SB_) walks up to examine them further. They come to life and attack! **Aranna Weaver** (_AJ_, played by _AB_), draws an arrow, lets one fly, whirring towards one of the statues. **Aust Booker** (_OR_, played by _SB_) unsheathes his sword, flies into battle. **Squidward** (_HA_) hangs back, casts _web_, it's enough for him to weave one, but only if he gets up close. He doesn't. **Slane** (_LC_) stays far back as well while **Moulsh the Drune** (_EB_) attempts _magic missile_, but fails, losing the spell for the day.
 
@@ -104,10 +105,10 @@ And that's the end of this session, with Lane back in Willowby Hall healing up f
 
 _/end session on the Year of the Worm, Month of the Wolf, Day of the Catamount_
 
-#### The Snack Club's Portfolio
+## The Snack Club's Portfolio
 
-**Stored in Wyrmskull Vault**
-<br/>(Opened Year of the Worm, Month of the Eagle, Day of the Fox)
+### Stored in Wyrmskull Vault
+(Opened Year of the Worm, Month of the Eagle, Day of the Fox)
 
 * 19 Ice Necklaces x 200gp = 3,800gp
 * 12 Ice Jewels x 150gp = 1,800gp
@@ -129,13 +130,14 @@ _/end session on the Year of the Worm, Month of the Wolf, Day of the Catamount_
 
 **TOTAL**: 19,472gp 
 
-#### The Snack Club's Real Estate
+### The Snack Club's Real Estate
 
 * Willowby Hall (Mansion in Ool Krut)
 * Dragons in the Dark (Tavern in Ool Krut)
     * Y.Worm/M.Badger = +1,260gp
 
-#### Chekhov's Ticking Time Bombs
+## Other Record Keeping Notes
+### Chekhov's Ticking Time Bombs
 
 **NEW**
 
@@ -147,6 +149,6 @@ _/end session on the Year of the Worm, Month of the Wolf, Day of the Catamount_
 * The Redclaws are allied with the Dolmenwood Drunes and HQ at Redclaw Castle
 * Who is the Weaver ancestor, "Ivrian the Unkind" and did she achieve immortality?
 
-#### DM Notes to Myself
+## DM Notes to Myself
 
 What a huge difference from last week. The Snack Club spent this week's session threatening their own teammates, doing silly things that drained their hp, and rolling up new characters while having tons of side conversations about non-D&D stuff. I can't imagine what they'll do when they finally meet the Emerald Enchanter. [TPK](https://www.urbandictionary.com/define.php?term=TPK), perhaps? We'll see next week!
