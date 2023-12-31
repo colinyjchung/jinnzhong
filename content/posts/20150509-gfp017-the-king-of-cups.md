@@ -8,6 +8,9 @@ tags = [
     "Flash Fiction",
     "First Draft",
 ]
+categories = [
+    "Old Fiction",
+]
 +++
 
 Wading through his own murky thoughts, Søren held a hand over his mouth while he stared blankly at Nessa. 
