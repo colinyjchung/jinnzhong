@@ -7,6 +7,9 @@ tags = [
     "Craft of Writing",
     "Notes on Craft",
 ]
+categories = [
+    "Craft of Storytelling",
+]
 +++
 {{< toc >}}
 ## A SCENE
@@ -95,8 +98,8 @@ YOU MUST PUSH SOMEONE TO AGGRESSION (from argument to warfare)
 * Adventure - guns
 * Drama - arguments, power play, intrigue, seduction
 
-# PROMISE = SUSPENSE
-# PAYOFF = CONFRONTATION
+**PROMISE = SUSPENSE**
+**PAYOFF = CONFRONTATION**
 
 ## PROMISE ACTION SCENE
 Suspense = readers anxious to know what happens next
@@ -109,7 +112,7 @@ Make THROWAWAY VICTIMS GOOD: care for/fascinated by character, intensity level o
 Start with misdirection = mini suspense that's not related to ACTUAL suspense
 Creates care for character (mini suspense about emotional thing)
 
-## QUESTIONS CREATE SUSPENSE
+**QUESTIONS CREATE SUSPENSE**
 
 Payoff Action Scene - INTENSITY of VIOLENCE
 
@@ -136,7 +139,7 @@ Suspense - may have scheme (who's the big villain)
 BUT THE HEART OF SUSPENSE IS REALLY A BIG CHASE SCENE.
 Heroes are after a McGuffin. Villains want to stop them.
 
-## 2 types of McGuffins. 
+**2 types of McGuffins.**
 Plot = secret thing that that gives you power
 Character = effect the search will have on character.
 
@@ -147,7 +150,7 @@ Character = effect the search will have on character.
 	You can drag it out physically
 	Or more psychically painful (villain loses family, love, pride, defeated, scheme thwarted)
 
-# COMIC SCENES
+## COMIC SCENES
 
 Humor ease a dark drama
 **Humor means someone is redeemable, is human**
@@ -171,7 +174,7 @@ Satire is a cautionary tale
 
 Sitcom forces conflict and confrontation just like drama = but sitcoms make fun of it.
 
-# SEX, ROMANCE and LUST
+## SEX, ROMANCE and LUST
 
 Pursuit = romantic aspect
 Culmination = not just naked bodies… but BARE SOULS
@@ -213,11 +216,11 @@ Explicit - to help you show their passion and intensity and why they do crazy st
 
 Sex often isn't about sex.
 
-# ENDING SCENES
+## ENDING SCENES
 
 An ending must seem inevitable but not predictable.
 
-## BAD ENDINGS:
+### BAD ENDINGS:
 - No ending ending - nothing is resolved, abruptly ends
 - Twilight Zone ending - twist is slipped in to explain everything (but makes everything you read a waste of time)
 - "But this really happened" ending = real life is bland and unbelievable and doesn't build on past events
@@ -225,7 +228,7 @@ An ending must seem inevitable but not predictable.
 - Tiger of the lady = either/or ending (2 doors) = leaves reader to figure it out for themselves (author= lazy)
 - You figure it out = vague ending, treats characters and plot as crossword puzzle.
 
-## GOOD ENDINGS:
+### GOOD ENDINGS:
 - The Act - initiate action
 - The Fall Out - the conflict =- hero realizes stuff
 - The Reconciliation = reflect on action
@@ -233,18 +236,18 @@ An ending must seem inevitable but not predictable.
 Good endings RESOLVE QUESTIONS and is a LOGICAL CONCLUSION from previous scenes
 But done in a way that expalins everything.
 
-# STICK TO A 3-4 HOUR WRITING SCHEDULE NOT FOR SELF-DISCIPLINE BUT FOR RHYTHM
+**STICK TO A 3-4 HOUR WRITING SCHEDULE NOT FOR SELF-DISCIPLINE BUT FOR RHYTHM**
 
 ## REVISIONS AND STRUCTURE
 Revise each scene as you write
 Keeps options open
 Each ACT must end in MAJOR ACTION SCENE
 
-## 1 STRUCTURE = 
+### 1 STRUCTURE = 
 use scene cards, BME, hot spot, setting, passive/action, talking heads,
 No build up, anticlimax, builds to satifying dramatic payoff.
 
-## 2. TEXTURE = Clear compelling PLOT
+### 2. TEXTURE = Clear compelling PLOT
 - too much/too little description (anytime it gest poetic, cut it. Focus on one aspect, like smell)
 - cliches
 - too many adjectives
@@ -254,7 +257,7 @@ No build up, anticlimax, builds to satifying dramatic payoff.
 DON'T USE A THESAURUS. YOU'LL JUST REPLACE A DULL WORD WITH A DULL AND COMPLEX WORD.
 THE WORD yoU"RE LOOKING FOR ISN'T A SYNONYM. IT'S SOMETHING RICHER AND MORE EVOCATIVE
 
-## 3. DIALOGUE = Elicity personality through conversation
+### 3. DIALOGUE = Elicity personality through conversation
 - too many tag lines
 - too little tag lines
 - tag lines in wrong place
@@ -269,11 +272,11 @@ It's not WHAT they say, but HOW they say it.
 DIALOGUE - check out
 Elmore Leonard, Ross Thomas, Lorrie Moore, Jane Smiley, Petter De Vries
 
-## 4. EDITING = tighten pace and continuity
+### 4. EDITING = tighten pace and continuity
 -Repetitions thru implication
 - Slow passages  CUT CUT CUT
 
-## 5. BLENDING - SEARCH AND DESTROY
+### 5. BLENDING - SEARCH AND DESTROY
 - soft spots
 - unclear character motivations
 - contrived actions
