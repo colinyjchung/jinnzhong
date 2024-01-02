@@ -30,8 +30,8 @@ pygmentsUseClasses = true
     
 [[menu.main]]
     identifier = "tags"
-    name = "tags"
-    title = "tags"
+    name = "idx"
+    title = "Index"
     url = "/tags/"
     weight = 30
 
