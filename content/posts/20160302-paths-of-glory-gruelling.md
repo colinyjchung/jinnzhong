@@ -7,6 +7,7 @@ tags = [
     "Wargames",
     "AAR",
     "Media Consumption",
+    "Paths of Glory (1999)",
 ]
 categories = [
     "Wargames",
