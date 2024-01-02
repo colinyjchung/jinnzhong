@@ -28,18 +28,19 @@ A non-exhaustive dictionary of abbreviations used in my notes.
 
 * **18X**: Rules-enforced website to play 18XX games: https://18xx.games
 * **BCN**: Bottoscon, an annual wargaming con in Vancouver: https://sites.google.com/site/bottoscon/home 
-* **BGA**: Rules-enforced website to hundreds of board games: http://boardgamearena.com
-* **BGC**: Rules-enforced website to play the below games: http://play.boardgamecore.net
+* **BGA**: Board Game Arena: Rules-enforced website to hundreds of board games: http://boardgamearena.com
+* **BGC**: Board Game Core: Rules-enforced website to play the below games: http://play.boardgamecore.net
    * Antiquity
    * The Great Zimbabwe
    * Food Chain Magnate
    * Wir sind das Volk!
-* **CTY**: Formerly a place to play rules-enforced Twilight Struggle. Now 13 Days. https://chantry-games.com
+* **BoJ**: Boite-a-Jeux: Rules-enforced website to play board games: Defunct.
+* **CTY**: Chantry: Formerly a place to play rules-enforced Twilight Struggle. Now 13 Days. https://chantry-games.com
 * **DCC**: Dungeon Crawl Classics. A gonzo science-fantasy RPG based on 3.5e.
 * **DNT**: Did Not Track Score
 * **L**: Loss
 * **RAND**: Random online strangers
 * **RTT**: Rules-enforced website to play wargames: http://rally-the-troops.com
 * **V**: Victory
-* **VSL**: What wargamers use to play online: https://vassalengine.org
+* **VSL**: VASSAL: What wargamers use to play online: https://vassalengine.org
 
