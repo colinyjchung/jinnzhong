@@ -7,6 +7,7 @@ tags = [
     "Wargames",
     "AAR",
     "Media Consumption",
+    "Twilight Struggle (2005)",
 ]
 categories = [
     "Wargames",
