@@ -34,13 +34,16 @@ A non-exhaustive dictionary of abbreviations used in my notes.
    * The Great Zimbabwe
    * Food Chain Magnate
    * Wir sind das Volk!
-* **BoJ**: Boite-a-Jeux: Rules-enforced website to play board games: Defunct.
+* **BaJ**: Boite-a-Jeux: Rules-enforced website to play board games: Defunct.
 * **CTY**: Chantry: Formerly a place to play rules-enforced Twilight Struggle. Now 13 Days. https://chantry-games.com
 * **DCC**: Dungeon Crawl Classics. A gonzo science-fantasy RPG based on 3.5e.
+* **DGr**: _Delta Green_ RPG
 * **DNT**: Did Not Track Score
+* **HtR5e**: _Hunter: The Reckoning 5e_ RPG
 * **L**: Loss
 * **RAND**: Random online strangers
 * **RTT**: Rules-enforced website to play wargames: http://rally-the-troops.com
 * **V**: Victory
+* **VtM5e**: _Vampire: The Masquerade 5e_ RPG
 * **VSL**: VASSAL: What wargamers use to play online: https://vassalengine.org
 
