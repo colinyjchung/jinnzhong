@@ -39,17 +39,6 @@ categories = [
 * The fiction I write has to be something I'm proud of because it's inherently me: Someone who likes puzzles, games, rabbit holes, references, playing with genre/med aim/style?
 * I don't want to just "check this off the list". It has to be good. I want the work to have the potential of becoming culturally significant (it has to have meaning and layers. I want to get recognition points for that (insight, wit, cleverness)). And it's fine if it doesn't make money.
 
-## Themes & Story Ideas
-* **Femme-bots** - our relationship with technology, control, servitude, "benevolent masters", avoiding real relationships, the messiness of reality, fake Internet friends, power dynamics.
-* **Ghost Counseling** - The regret of not saying what you wanted to say, the regret of leaving things undone, the regret of not addressing things until they change. The power dynamics of a mediator, the potential abuse of being the middle-person. A unique skillset that highly sought after, but is at constant risk due to freelance nature of job.
-* **Dark Plague due to Abuse of Magick** - An allegory of unrestrained power, unmitigated. Climate change. Destruction of the world and the fallout. A post-apocalyptic medieval world. Dark, grimy. Everything sucks.
-* **Romantic poets in sci-fi world** - Not fully realized. Should drop.
-* **Anglerfish women battalion** - Militant-Matriarchy society. Men are small parasitic fish that meld with the humanoid women. Something-something gender roles reversed.
-* **Exile & Diplomats** - What it means to lose your home and to be immortal and powerful, shaping the direction of a primitive society, and ancient civilizations. A history of the Gods. Dream of dead home. Idealizing the past. Holding on to the past.
-* **What if the socioeconomics of D&D was real?** That there were infinite ruins, lairs, and graves to explore, loot, and get rich from? A commentary on hustle bro culture. Bards are affiliates pushing their favorite groups. A large percentage of failures, just like in biz-op. Retired bands sell old maps, leads, systems, training. And the people who are actually making money safely are them. Big reveal later is that the elves created this socioeconomic world to keep humans under control.
-* **Irish pantheon as key figures during the Irish war of independence** - not fully realized. 
-* **Janio Igby**: space adventures a la pulps, each "episode" is named after a piece of classical music. Inject composers as NPCs, enemies, allies. But show how broken the protagonist is. Loneliness. <- this is just a concept. No further substance.
-
 ### What Research do I have to do?
 * Daily Life of 1300-1500s?
 * Political/Religious factions-six at least
