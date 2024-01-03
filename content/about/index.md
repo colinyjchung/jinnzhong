@@ -12,4 +12,9 @@ Jinn is a founding member of the Garage Fiction Podcast.
 
 ![Alt text](https://miro.medium.com/v2/resize:fit:1400/1*sVjuuC3VmxktKubmMuiX0A.jpeg)
 
-IRL, Jinn is a marketing consultant based in Vancouver BC, a historical wargame & OSR enthusiast, and father of three monsters: a sphinx, a wyrm, and a chimera. 
+IRL, Jinn is a marketing consultant based in Vancouver BC, a historical wargame & OSR enthusiast, and father of three monsters: a sphinx, a wyrm, and a chimera.
+
+<details>
+  <summary><i>Wow, so fancy</i></summary>
+  <b>WOW, SO BOLD</b>
+</details>
