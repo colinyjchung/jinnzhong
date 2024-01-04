@@ -71,6 +71,7 @@ Robert, my mentor sent me this recently:
 > not doing what you want 
 > on the bet you can buy yourself 
 > the freedom to do it later.
+
 _Randy Komisar_
 
 Start now. And Commit.
@@ -81,4 +82,5 @@ It's OKAY to take 5 - 6 years to complete one of these lists.
 Another quote:
 
 > Once you have mastered time, you will understand how true it is that most people overestimate what they can accomplish in a year - and underestimate what they can achieve in a decade!
-- Tony Robbins, sometimes attributed to Bill Gates (but actually based on a Bill Gates quote in a different context)
+
+Tony Robbins, stolen from Bill Gates
