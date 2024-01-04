@@ -14,13 +14,15 @@ categories = [
 
 I realized recently that for the past ten years plus...  
 I've read nothing but self-help, business and how-to books.  
-Sure, I got my fiction habit back two years ago, but there was something "missing".  
+Sure, I got my fiction habit back two years ago,  
+but there was something "missing".  
 What I think is missing is the "hard science" and "practical" stuff:  
 History, biographies, economics, politics, science, classics, etc.  
 
 And I noticed I do have quite a few of these books on the shelves...  
 But I kept putting them off for the quick-and-easy self-help/business...  
-Justifying it as growing my business, and I should feel guilty for reading anything else.  
+Justifying it as growing my business,  
+and I should feel guilty for reading anything else.  
 Or I'd just rather read fiction because I personally want to become a fiction writer.  
 
 So what I'd like for us to accomplish in this group is to pick books that..  
@@ -38,9 +40,12 @@ Instead of having it spoon-fed to us in 7 steps, a listicle or some cute acronym
 
 **SECOND (2)**
 
-Earlier this year I was looking at the Modern Library and Easton Press top 100 list.  
-The classics - And man. Wow. For being a "well-read" guy, I realized I wasn't really well-read at all.  
-50 "how-to" books on the same subject (how to make money)... doesn't really count for one good classic.  
+Earlier this year I was looking at the Modern Library  
+and Easton Press top 100 list.  
+The classics - And man. Wow. For being a "well-read" guy,  
+I realized I wasn't really well-read at all.  
+50 "how-to" books on the same subject (how to make money)...  
+doesn't really count for one good classic.  
 So that's something I'd like to START tackling this year.  
 
 In case you guys are wondering:  
@@ -53,12 +58,16 @@ In case you guys are wondering:
 
 And the key word I just used was "START".   
 I used to look at these lists and just get overwhelmed.  
-I kept thinking I had to tackle them all in one go  -- in one long continuous streak.  
-That's a really weird and absurd way to think. I don't know why I have that in me.  
+I kept thinking I had to tackle them all in one go  
+-- in one long continuous streak.  
+That's a really weird and absurd way to think.  
+I don't know why I have that in me.  
 It's the OCD part plus the "saving for heaven" part of me...  
-I.E. WHEN I have enough money, THEN I'll sit down and watch the Criterion Collection of films.  
+I.E. WHEN I have enough money, THEN I'll sit down  
+and watch the Criterion Collection of films.  
 
-It's really dumb. It's the same idiotic mentality that most people have about investing as well.  
+It's really dumb.  
+It's the same idiotic mentality that most people have about investing as well.  
 I.E. WHEN I have enough money, THEN I'll start investing.  
 Or  
 WHEN I'm good enough, THEN I'll ask her out on a date  
