@@ -26,9 +26,9 @@ A non-exhaustive dictionary of abbreviations used in my notes.
 
 ## GAMES
 
-* **18X**: [18XX.games](https://18xx.games) a rules-enforced website to play 18XX games
-* **BCN**: [Bottoscon](https://sites.google.com/site/bottoscon/home), an annual wargaming con in Vancouver  
-* **BGA**: [Board Game Arena](http://boardgamearena.com): Rules-enforced website to hundreds of board games
+* **18X**: [18XX.games](https://18xx.games): a rules-enforced website to play 18XX games
+* **BCN**: [Bottoscon](https://sites.google.com/site/bottoscon/home): an annual wargaming con in Vancouver  
+* **BGA**: [Board Game Arena](http://boardgamearena.com): Rules-enforced website to play hundreds of board games
 * **BGC**: [Board Game Core](http://play.boardgamecore.net): Rules-enforced website to play the below games
    * Antiquity
    * The Great Zimbabwe
@@ -42,7 +42,7 @@ A non-exhaustive dictionary of abbreviations used in my notes.
 * **HtR5e**: _Hunter: The Reckoning 5e_ RPG
 * **L**: Loss
 * **RAND**: Random online strangers
-* **RTT**: [Rally the Troops]([XXX](http://rally-the-troops.com)) a rules-enforced website to play wargames.
+* **RTT**: [Rally the Troops](http://rally-the-troops.com): a rules-enforced website to play wargames.
 * **V**: Victory
 * **VtM5e**: _Vampire: The Masquerade 5e_ RPG
 * **VSL**: [VASSAL](https://vassalengine.org): What wargamers use to play games via play-by-email. 
