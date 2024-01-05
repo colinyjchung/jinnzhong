@@ -39,7 +39,7 @@ That said, the new group thrived with JH, L, R, T, and OH from mid-2016 onwards.
 
 So had this been a game on who picks the best books, the winner is clearly OH.
 
-## A Reading History of the Weird Loner Club (2015-2020)
+## A Reading History of the Weird Loner Club
 
 || Title | Author | Call Date | Picker | AVG |
 |:---: | :--- | :--- | :--- | :--- | :---: |
