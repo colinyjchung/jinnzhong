@@ -27,9 +27,9 @@ A non-exhaustive dictionary of abbreviations used in my notes.
 ## GAMES
 
 * **18X**: [18XX.games](https://18xx.games) a rules-enforced website to play 18XX games
-* **BCN**: [Bottoscon]([XXX](https://sites.google.com/site/bottoscon/home)), an annual wargaming con in Vancouver  
-* **BGA**: [Board Game Arena]([XXX](http://boardgamearena.com)): Rules-enforced website to hundreds of board games
-* **BGC**: [Board Game Core]([XXX](http://play.boardgamecore.net)): Rules-enforced website to play the below games
+* **BCN**: [Bottoscon](https://sites.google.com/site/bottoscon/home), an annual wargaming con in Vancouver  
+* **BGA**: [Board Game Arena](http://boardgamearena.com): Rules-enforced website to hundreds of board games
+* **BGC**: [Board Game Core](http://play.boardgamecore.net): Rules-enforced website to play the below games
    * Antiquity
    * The Great Zimbabwe
    * Food Chain Magnate
