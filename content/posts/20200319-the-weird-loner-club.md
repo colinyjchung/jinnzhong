@@ -43,8 +43,6 @@ So had this been a game on who picks the best books, the winner is clearly OH.
 
 || Title | Author | Call Date | Picker | AVG |
 |:---: | :--- | :--- | :--- | :--- | :---: |
-|    | Title                                     | Author                   | Call Date    | Picker | AVG  |
-| -- | ----------------------------------------- | ------------------------ | ------------ | ------ | ---- |
 | 1  | The Snowball                              | Alice Schroeder          | Jan 23, 2015 | LB     | 5.00 |
 | 2  | Economics in One Lesson                   | Henry Hayzlitt           | Feb 13, 2015 | C      | 4.33 |
 | 3  | The True Believer                         | Eric Hoffer              | Mar 6, 2015  | X      | 4.67 |
