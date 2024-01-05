@@ -65,8 +65,6 @@ The next one will be "People's History of the United States" by Howard Zinn.
 
 Given Bernie Sanders most recent amazing run, showing us that a new generation of leftists  are not putting up with the Establishment anymore... I felt it was relevant to read Zinn or Chomsky.  
 
-Laura's pick is in August, and it will be Matt Ridley's "The Origins of Virtue".  
-This is surprisingly our first official science book.  
-This is also where the 150 argument stems from.  
+LK's pick is in August, and it will be Matt Ridley's "The Origins of Virtue". This is surprisingly our first official science book. This is also where the 150 argument stems from.  
 
 Let me know.
