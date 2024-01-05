@@ -9,6 +9,8 @@ tags = [
 "Books Read",
 "Heavies",
 "Heavy Books",
+"Olivia Hofer",
+"LK"
 ]
 categories = [
 "Unnecessary Tracking",
