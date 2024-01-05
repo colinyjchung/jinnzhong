@@ -5,6 +5,7 @@ date = "2015-01-23"
 description = "When I convinced people to read super long, super dense books"
 tags = [
     "Heavy Books",
+    "Heavies",
 ]
 categories = [
 ]
