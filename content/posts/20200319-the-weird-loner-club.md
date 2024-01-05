@@ -48,7 +48,7 @@ So had this been a game on who picks the best books, the winner is clearly OH.
 | 1  | The Snowball                              | Alice Schroeder          | 15/01/23 | LB     | 5.00 |
 | 2  | Economics in One Lesson                   | Henry Hayzlitt           | 15/02/13 | C      | 4.33 |
 | 3  | The True Believer                         | Eric Hoffer              | 15/03/06 | X      | 4.67 |
-| 4  | Warren Buffett Accounting Book            | P. Pysh & S. Brodersen   | 15/03/27 | LB     | 1.00 |
+| 4  | Warren Buffett Accounting Book            | Pysh & Brodersen         | 15/03/27 | LB     | 1.00 |
 | 5  | Competition Demystified                   | Bruce Greenwald          | 15/04/03 | LB     | 4.00 |
 | 6  | The Black Swan                            | Nassim Nicholas Taleb    | 15/05/05 | JH     | 4.40 |
 | 7  | Thinking, Fast and Slow                   | Daniel Kahneman          | 15/06/26 | C      | 3.00 |
@@ -63,14 +63,14 @@ So had this been a game on who picks the best books, the winner is clearly OH.
 | 16 | The Power of Now                          | Eckhart Tolle            | 16/02/26 | X      | 4.50 |
 | 17 | Dying Every Day                           | James Romm               | 16/03/31 | JH     | 4.67 |
 | 18 | The Punic Wars                            | Adrian Goldsworthy       | 16/04/28 | C      | 4.33 |
-| 19 | A Path Appears                            | N.D. Kristof & S. WuDunn | 16/05/19 | L      | 4.00 |
+| 19 | A Path Appears                            | Kristof & WuDunn         | 16/05/19 | LK     | 4.00 |
 | 20 | Business Adventures                       | John Brooks              | 16/06/09 | X      | 1.33 |
 | 21 | Gates of Fire                             | Steven Pressfield        | 16/06/30 | JH     | 3.00 |
 | 22 | A People's History of the United States   | Howard Zinn              | 16/08/11 | C      | 4.60 |
-| 23 | The Origin of Virtue                      | Matt Ridley              | 16/09/01 | L      | 3.80 |
+| 23 | The Origin of Virtue                      | Matt Ridley              | 16/09/01 | LK     | 3.80 |
 | 24 | Oryx & Crake                              | Margaret Atwood          | 16/10/06 | R      | 3.67 |
 | 25 | One Hundred Years of Solitude             | Gabriel Garcia Marquez   | 16/11/03 | T      | 4.33 |
-| 26 | Console Wars                              | Blake J. Harris          | 16/12/08 | L      | 4.00 |
+| 26 | Console Wars                              | Blake J. Harris          | 16/12/08 | LB     | 4.00 |
 | 27 | The Year of the Flood                     | Margaret Atwood          | 17/01/19 | D      | 2.67 |
 | 28 | Open                                      | Andre Agassi             | 17/02/09 | JH     | 4.60 |
 | 29 | Alexander Hamilton                        | Ron Chernow              | 17/03/30 | OH     | 5.00 |
@@ -80,7 +80,7 @@ So had this been a game on who picks the best books, the winner is clearly OH.
 | 33 | The Master and Margarita                  | Mikhail Bulgakov         | 17/08/17 | LL     | 2.71 |
 | 34 | Musashi                                   | Eiji Yoshikawa           | 17/10/19 | JH     | 3.14 |
 | 35 | Debt: The First 5000 Years                | David Graeber            | 17/11/16 | OH     | 4.50 |
-| 36 | Gödel, Escher, Bach                       | Douglas Hofstadter       | 18/03/08 | Y      | 4.08 |
+| 36 | Gödel, Escher, Bach                       | Douglas Hofstadter       | 18/03/08 | X^2^   | 4.08 |
 | 37 | When China Rules The World                | Martin Jacques           | 18/05/31 | C      | 2.50 |
 | 38 | House of Leaves                           | Mark Z. Danielewski      | 18/07/19 | P      | 3.83 |
 | 39 | A Thousand Naked Strangers                | Kevin Hazzard            | N/A      | R      | 4.50 |
@@ -88,16 +88,16 @@ So had this been a game on who picks the best books, the winner is clearly OH.
 | 41 | Bad Blood                                 | John Carreyrou           | 18/10/11 | T      | 5.00 |
 | 42 | Lincoln's Melancholy                      | Joshua Wolf Shenk        | 18/11/15 | JH     | 3.92 |
 | 43 | Congo                                     | David Van Reybrouck      | 19/03/07 | OH     | 4.08 |
-| 44 | Flatland                                  | Edwin Abbott             | NA       | Y      | 2.25 |
-| 45 | Against Empathy                           | Paul Bloom               | 19/05/09 | Y      | 1.75 |
+| 44 | Flatland                                  | Edwin Abbott             | NA       | X^2^   | 2.25 |
+| 45 | Against Empathy                           | Paul Bloom               | 19/05/09 | X^2^   | 1.75 |
 | 46 | Circe                                     | Madeline Miller          | 19/05/30 | OH     | 5.00 |
 | 47 | The Caine Mutiny                          | Herman Wouk              | 19/08/15 | T      | 4.20 |
 | 48 | Making Sense of the Troubles              | David McKittrick         | 19/11/14 | C      | 2.83 |
 | 49 | Foucault's Pendulum                       | Umberto Eco              | 20/01/23 | OH     | 2.92 |
 | 50 | Under the Volcano                         | Malcolm Lowry            | 20/03/19 | R      | 2.50 |
-| 51 | The Empire of the Summer Moon             | S.C. Gwynne              |          | J      |      |
-| 52 | The Age of Insight                        | Eric Kandel              |          | O      |      |
-| 53 | Exhalation                                | Ted Chiang               |          | J      |      |
+| 51 | The Empire of the Summer Moon             | S.C. Gwynne              |          | JH     |      |
+| 52 | The Age of Insight                        | Eric Kandel              |          | OH     |      |
+| 53 | Exhalation                                | Ted Chiang               |          | JH     |      |
 | 54 | Song of Solomon                           | Toni Morrison            |          | T      |      |
 | 55 | Code                                      | Charles Petzold          |          | C      |      |
 | 56 | Killers of the Flower Moon                | David Grann              |          | R      |
