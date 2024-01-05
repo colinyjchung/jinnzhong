@@ -17,7 +17,7 @@ categories = [
 ]
 +++
 
-The _Weird Loner Club_ (2015-2020) was a book club I started to focus on "heavy books". That is, dense, difficult books on politics, history, science, religion, economics, biographies, and the like. My initial proposal email to JH, LB, and X can be [found here](https://journal.jinnzhong.com/heavy-book-club-proposal/). Basically, we'd rotate picking the books and every four weeks, we'd jump on a conference line (back in the days of yore pre-Zoom), and discuss the book we'd just read.
+The _Weird Loner Club_ (2015-2020) was a book club I started with a few colleagues to focus on "heavy books". That is, dense, difficult books on politics, history, science, religion, economics, biographies, and the like. My initial proposal email to JH, LB, and X can be [found here](https://journal.jinnzhong.com/heavy-book-club-proposal/). Basically, we'd rotate picking the books and every four weeks, we'd jump on a conference line (back in the days of yore pre-Zoom), and discuss the book we'd just read.
 
 We eventually had to kick X out due to a business deal gone wrong (he ghosted on a contract and he's X because he doesn't even deserve an initial for what he did, costing me tens of thousands in business), and then LB went back to school to get a MBA, at which point, I reached out to some new blood with a revised [invitation email](https://journal.jinnzhong.com/heavy-book-club-invitation/). 
 
