@@ -80,7 +80,7 @@ So had this been a game on who picks the best books, the winner is clearly OH.
 | 33 | The Master and Margarita                  | Mikhail Bulgakov         | 17/08/17 | LL     | 2.71 |
 | 34 | Musashi                                   | Eiji Yoshikawa           | 17/10/19 | JH     | 3.14 |
 | 35 | Debt: The First 5000 Years                | David Graeber            | 17/11/16 | OH     | 4.50 |
-| 36 | Gödel, Escher, Bach                       | Douglas Hofstadter       | 18/03/08 | X^2^   | 4.08 |
+| 36 | Gödel, Escher, Bach                       | Douglas Hofstadter       | 18/03/08 | X<sup>2</sup>   | 4.08 |
 | 37 | When China Rules The World                | Martin Jacques           | 18/05/31 | C      | 2.50 |
 | 38 | House of Leaves                           | Mark Z. Danielewski      | 18/07/19 | P      | 3.83 |
 | 39 | A Thousand Naked Strangers                | Kevin Hazzard            | N/A      | R      | 4.50 |
@@ -88,8 +88,8 @@ So had this been a game on who picks the best books, the winner is clearly OH.
 | 41 | Bad Blood                                 | John Carreyrou           | 18/10/11 | T      | 5.00 |
 | 42 | Lincoln's Melancholy                      | Joshua Wolf Shenk        | 18/11/15 | JH     | 3.92 |
 | 43 | Congo                                     | David Van Reybrouck      | 19/03/07 | OH     | 4.08 |
-| 44 | Flatland                                  | Edwin Abbott             | NA       | X^2^   | 2.25 |
-| 45 | Against Empathy                           | Paul Bloom               | 19/05/09 | X^2^   | 1.75 |
+| 44 | Flatland                                  | Edwin Abbott             | NA       | X<sup>2</sup>   | 2.25 |
+| 45 | Against Empathy                           | Paul Bloom               | 19/05/09 | X<sup>2</sup>   | 1.75 |
 | 46 | Circe                                     | Madeline Miller          | 19/05/30 | OH     | 5.00 |
 | 47 | The Caine Mutiny                          | Herman Wouk              | 19/08/15 | T      | 4.20 |
 | 48 | Making Sense of the Troubles              | David McKittrick         | 19/11/14 | C      | 2.83 |
