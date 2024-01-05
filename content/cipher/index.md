@@ -35,7 +35,7 @@ A non-exhaustive dictionary of abbreviations used in my notes.
    * Food Chain Magnate
    * Wir sind das Volk!
 * **BaJ**: Boite-a-Jeux: a now-defunct rules-enforced website to play board games.
-* **CTY**: [Chantry]([XXX](https://chantry-games.com)): Formerly a place to play rules-enforced Twilight Struggle. Now 13 Days. 
+* **CTY**: [Chantry](https://chantry-games.com): Formerly a place to play rules-enforced Twilight Struggle. Now 13 Days. 
 * **DCC**: Dungeon Crawl Classics. A gonzo science-fantasy RPG based on 3.5e.
 * **DGr**: _Delta Green_ RPG
 * **DNT**: Did Not Track Score
