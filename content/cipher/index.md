@@ -21,29 +21,29 @@ A non-exhaustive dictionary of abbreviations used in my notes.
    * **A-PROG**: Arc Progress - the emotional arc of a character
    * **P-PROG**: Plot Progress - the events that drive a plot
 * **PROT**: Protagonist
-* **SIWC**: [Surrey International Writers' Conference](https://www.siwc.ca){:target="_blank"}, an annual writers' conference 
+* **SIWC**: [Surrey International Writers' Conference](https://www.siwc.ca), an annual writers' conference 
 * **TTB**: Ticking Time Bomb
 
 ## GAMES
 
-* **18X**: [18XX.games](https://18xx.games){:target="_blank"} a rules-enforced website to play 18XX games
-* **BCN**: [Bottoscon]([XXX](https://sites.google.com/site/bottoscon/home)){:target="_blank"}, an annual wargaming con in Vancouver  
-* **BGA**: [Board Game Arena]([XXX](http://boardgamearena.com)){:target="_blank"}: Rules-enforced website to hundreds of board games
-* **BGC**: [Board Game Core]([XXX](http://play.boardgamecore.net)){:target="_blank"}: Rules-enforced website to play the below games
+* **18X**: [18XX.games](https://18xx.games) a rules-enforced website to play 18XX games
+* **BCN**: [Bottoscon]([XXX](https://sites.google.com/site/bottoscon/home)), an annual wargaming con in Vancouver  
+* **BGA**: [Board Game Arena]([XXX](http://boardgamearena.com)): Rules-enforced website to hundreds of board games
+* **BGC**: [Board Game Core]([XXX](http://play.boardgamecore.net)): Rules-enforced website to play the below games
    * Antiquity
    * The Great Zimbabwe
    * Food Chain Magnate
    * Wir sind das Volk!
 * **BaJ**: Boite-a-Jeux: a now-defunct rules-enforced website to play board games.
-* **CTY**: [Chantry]([XXX](https://chantry-games.com)){:target="_blank"}: Formerly a place to play rules-enforced Twilight Struggle. Now 13 Days. 
+* **CTY**: [Chantry]([XXX](https://chantry-games.com)): Formerly a place to play rules-enforced Twilight Struggle. Now 13 Days. 
 * **DCC**: Dungeon Crawl Classics. A gonzo science-fantasy RPG based on 3.5e.
 * **DGr**: _Delta Green_ RPG
 * **DNT**: Did Not Track Score
 * **HtR5e**: _Hunter: The Reckoning 5e_ RPG
 * **L**: Loss
 * **RAND**: Random online strangers
-* **RTT**: [Rally the Troops]([XXX](http://rally-the-troops.com)){:target="_blank"} a rules-enforced website to play wargames.
+* **RTT**: [Rally the Troops]([XXX](http://rally-the-troops.com)) a rules-enforced website to play wargames.
 * **V**: Victory
 * **VtM5e**: _Vampire: The Masquerade 5e_ RPG
-* **VSL**: [VASSAL](https://vassalengine.org){:target="_blank"}: What wargamers use to play games via play-by-email. 
+* **VSL**: [VASSAL](https://vassalengine.org): What wargamers use to play games via play-by-email. 
 
