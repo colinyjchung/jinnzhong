@@ -5,6 +5,7 @@ date = "2016-07-14"
 description = "The invitation I used to convince people to read heavy books"
 tags = [
     "Heavy Books",
+    "Heavies",
 ]
 categories = [
 ]
