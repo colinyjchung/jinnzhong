@@ -41,61 +41,61 @@ So had this been a game on who picks the best books, the winner is clearly OH.
 
 ## A Reading History of the Weird Loner Club
 
-|| Title | Author | Call Date | Picker | AVG |
+|| Title | Author | Call | Pkr | AVG |
 |:---: | :--- | :--- | :--- | :--- | :---: |
-| 1  | The Snowball                              | Alice Schroeder          | Jan 23, 2015 | LB     | 5.00 |
-| 2  | Economics in One Lesson                   | Henry Hayzlitt           | Feb 13, 2015 | C      | 4.33 |
-| 3  | The True Believer                         | Eric Hoffer              | Mar 6, 2015  | X      | 4.67 |
-| 4  | Warren Buffett Accounting Book            | P. Pysh & S. Brodersen   | Mar 27, 2015 | LB     | 1.00 |
-| 5  | Competition Demystified                   | Bruce Greenwald          | Apr 3, 2015  | LB     | 4.00 |
-| 6  | The Black Swan                            | Nassim Nicholas Taleb    | May 5, 2015  | JH     | 4.40 |
-| 7  | Thinking, Fast and Slow                   | Daniel Kahneman          | Jun 26, 2015 | C      | 3.00 |
-| 8  | Surely, You're Joking Mr. Feynman         | Richard P. Feynman       | Jul 24, 2015 | X      | 4.50 |
-| 9  | The Art of Learning                       | Joshua Waitzkin          | Aug 15, 2015 | LB     | 5.00 |
-| 10 | Zen and the Art of Motorcycle Maintenance | Robert M. Pirsig         | Sep 11, 2015 | JH     | 2.33 |
-| 11 | The Cold War                              | John Gaddis              | Oct 16, 2015 | C      | 4.00 |
-| 12 | The Age of Spiritual Machines             | Ray Kurzweil             | Nov 13, 2015 | X      | 3.00 |
-| 13 | The Three Rules                           | Mumtaz Ahmed             | Dec 18, 2015 | LB     | 1.00 |
-| 14 | When Things Fall Apart                    | Pema Chodron             | Dec 29, 2015 | JH     | 5.00 |
-| 15 | The Audacity to Win                       | David Plouffe            | Jan 22, 2016 | C      | 5.00 |
-| 16 | The Power of Now                          | Eckhart Tolle            | Feb 26, 2016 | X      | 4.50 |
-| 17 | Dying Every Day                           | James Romm               | Mar 31, 2016 | JH     | 4.67 |
-| 18 | The Punic Wars                            | Adrian Goldsworthy       | Apr 28, 2016 | C      | 4.33 |
-| 19 | A Path Appears                            | N.D. Kristof & S. WuDunn | May 19, 2016 | L      | 4.00 |
-| 20 | Business Adventures                       | John Brooks              | Jun 9, 2016  | X      | 1.33 |
-| 21 | Gates of Fire                             | Steven Pressfield        | Jun 30, 2016 | JH     | 3.00 |
-| 22 | A People's History of the United States   | Howard Zinn              | Aug 11, 2016 | C      | 4.60 |
-| 23 | The Origin of Virtue                      | Matt Ridley              | Sep 1, 2016  | L      | 3.80 |
-| 24 | Oryx & Crake                              | Margaret Atwood          | Oct 6, 2016  | R      | 3.67 |
-| 25 | One Hundred Years of Solitude             | Gabriel Garcia Marquez   | Nov 3, 2016  | T      | 4.33 |
-| 26 | Console Wars                              | Blake J. Harris          | Dec 8, 2016  | L      | 4.00 |
-| 27 | The Year of the Flood                     | Margaret Atwood          | Jan 19, 2017 | D      | 2.67 |
-| 28 | Open                                      | Andre Agassi             | Feb 9, 2017  | JH     | 4.60 |
-| 29 | Alexander Hamilton                        | Ron Chernow              | Mar 30, 2017 | OH     | 5.00 |
-| 30 | On Looking                                | Alexandra Horowitz       | Apr 20, 2017 | C      | 1.90 |
-| 31 | East of Eden                              | John Steinbeck           | Jun 8, 2017  | R      | 4.25 |
-| 32 | American Pastoral                         | Philip Roth              | Jul 6, 2017  | T      | 3.00 |
-| 33 | The Master and Margarita                  | Mikhail Bulgakov         | Aug 17, 2017 | LL     | 2.71 |
-| 34 | Musashi                                   | Eiji Yoshikawa           | Oct 19, 2017 | JH     | 3.14 |
-| 35 | Debt: The First 5000 Years                | David Graeber            | Nov 16, 2017 | OH     | 4.50 |
-| 36 | Gödel, Escher, Bach                       | Douglas Hofstadter       | Mar 8, 2018  | Y      | 4.08 |
-| 37 | When China Rules The World                | Martin Jacques           | May 31, 2018 | C      | 2.50 |
-| 38 | House of Leaves                           | Mark Z. Danielewski      | Jul 19, 2018 | P      | 3.83 |
-| 39 | A Thousand Naked Strangers                | Kevin Hazzard            | NA           | R      | 4.50 |
-| 40 | The Importance of Living                  | Lin Yutang               | Sep 20, 2018 | R      | 3.25 |
-| 41 | Bad Blood                                 | John Carreyrou           | Oct 11, 2018 | T      | 5.00 |
-| 42 | Lincoln's Melancholy                      | Joshua Wolf Shenk        | Nov 15, 2018 | JH     | 3.92 |
-| 43 | Congo                                     | David Van Reybrouck      | Mar 7, 2019  | OH     | 4.08 |
-| 44 | Flatland                                  | Edwin Abbott             | NA           | Y      | 2.25 |
-| 45 | Against Empathy                           | Paul Bloom               | May 9, 2019  | Y      | 1.75 |
-| 46 | Circe                                     | Madeline Miller          | May 30, 2019 | OH     | 5.00 |
-| 47 | The Caine Mutiny                          | Herman Wouk              | Aug 15, 2019 | T      | 4.20 |
-| 48 | Making Sense of the Troubles              | David McKittrick         | Nov 14, 2019 | C      | 2.83 |
-| 49 | Foucault's Pendulum                       | Umberto Eco              | Jan 23, 2020 | OH     | 2.92 |
-| 50 | Under the Volcano                         | Malcolm Lowry            | Mar 19, 2020 | R      | 2.50 |
-| 51 | The Empire of the Summer Moon             | S.C. Gwynne              |              | J      |      |
-| 52 | The Age of Insight                        | Eric Kandel              |              | O      |      |
-| 53 | Exhalation                                | Ted Chiang               |              | J      |      |
-| 54 | Song of Solomon                           | Toni Morrison            |              | T      |      |
-| 55 | Code                                      | Charles Petzold          |              | C      |      |
-| 56 | Killers of the Flower Moon                | David Grann              |              | R      |
+| 1  | The Snowball                              | Alice Schroeder          | 15/01/23 | LB     | 5.00 |
+| 2  | Economics in One Lesson                   | Henry Hayzlitt           | 15/02/13 | C      | 4.33 |
+| 3  | The True Believer                         | Eric Hoffer              | 15/03/06 | X      | 4.67 |
+| 4  | Warren Buffett Accounting Book            | P. Pysh & S. Brodersen   | 15/03/27 | LB     | 1.00 |
+| 5  | Competition Demystified                   | Bruce Greenwald          | 15/04/03 | LB     | 4.00 |
+| 6  | The Black Swan                            | Nassim Nicholas Taleb    | 15/05/05 | JH     | 4.40 |
+| 7  | Thinking, Fast and Slow                   | Daniel Kahneman          | 15/06/26 | C      | 3.00 |
+| 8  | Surely, You're Joking Mr. Feynman         | Richard P. Feynman       | 15/07/24 | X      | 4.50 |
+| 9  | The Art of Learning                       | Joshua Waitzkin          | 15/08/15 | LB     | 5.00 |
+| 10 | Zen and the Art of Motorcycle Maintenance | Robert M. Pirsig         | 15/09/11 | JH     | 2.33 |
+| 11 | The Cold War                              | John Gaddis              | 15/10/16 | C      | 4.00 |
+| 12 | The Age of Spiritual Machines             | Ray Kurzweil             | 15/11/13 | X      | 3.00 |
+| 13 | The Three Rules                           | Mumtaz Ahmed             | 15/12/18 | LB     | 1.00 |
+| 14 | When Things Fall Apart                    | Pema Chodron             | 15/12/29 | JH     | 5.00 |
+| 15 | The Audacity to Win                       | David Plouffe            | 16/01/22 | C      | 5.00 |
+| 16 | The Power of Now                          | Eckhart Tolle            | 16/02/26 | X      | 4.50 |
+| 17 | Dying Every Day                           | James Romm               | 16/03/31 | JH     | 4.67 |
+| 18 | The Punic Wars                            | Adrian Goldsworthy       | 16/04/28 | C      | 4.33 |
+| 19 | A Path Appears                            | N.D. Kristof & S. WuDunn | 16/05/19 | L      | 4.00 |
+| 20 | Business Adventures                       | John Brooks              | 16/06/09 | X      | 1.33 |
+| 21 | Gates of Fire                             | Steven Pressfield        | 16/06/30 | JH     | 3.00 |
+| 22 | A People's History of the United States   | Howard Zinn              | 16/08/11 | C      | 4.60 |
+| 23 | The Origin of Virtue                      | Matt Ridley              | 16/09/01 | L      | 3.80 |
+| 24 | Oryx & Crake                              | Margaret Atwood          | 16/10/06 | R      | 3.67 |
+| 25 | One Hundred Years of Solitude             | Gabriel Garcia Marquez   | 16/11/03 | T      | 4.33 |
+| 26 | Console Wars                              | Blake J. Harris          | 16/12/08 | L      | 4.00 |
+| 27 | The Year of the Flood                     | Margaret Atwood          | 17/01/19 | D      | 2.67 |
+| 28 | Open                                      | Andre Agassi             | 17/02/09 | JH     | 4.60 |
+| 29 | Alexander Hamilton                        | Ron Chernow              | 17/03/30 | OH     | 5.00 |
+| 30 | On Looking                                | Alexandra Horowitz       | 17/04/20 | C      | 1.90 |
+| 31 | East of Eden                              | John Steinbeck           | 17/06/08 | R      | 4.25 |
+| 32 | American Pastoral                         | Philip Roth              | 17/07/06 | T      | 3.00 |
+| 33 | The Master and Margarita                  | Mikhail Bulgakov         | 17/08/17 | LL     | 2.71 |
+| 34 | Musashi                                   | Eiji Yoshikawa           | 17/10/19 | JH     | 3.14 |
+| 35 | Debt: The First 5000 Years                | David Graeber            | 17/11/16 | OH     | 4.50 |
+| 36 | Gödel, Escher, Bach                       | Douglas Hofstadter       | 18/03/08 | Y      | 4.08 |
+| 37 | When China Rules The World                | Martin Jacques           | 18/05/31 | C      | 2.50 |
+| 38 | House of Leaves                           | Mark Z. Danielewski      | 18/07/19 | P      | 3.83 |
+| 39 | A Thousand Naked Strangers                | Kevin Hazzard            | N/A      | R      | 4.50 |
+| 40 | The Importance of Living                  | Lin Yutang               | 18/09/20 | R      | 3.25 |
+| 41 | Bad Blood                                 | John Carreyrou           | 18/10/11 | T      | 5.00 |
+| 42 | Lincoln's Melancholy                      | Joshua Wolf Shenk        | 18/11/15 | JH     | 3.92 |
+| 43 | Congo                                     | David Van Reybrouck      | 19/03/07 | OH     | 4.08 |
+| 44 | Flatland                                  | Edwin Abbott             | NA       | Y      | 2.25 |
+| 45 | Against Empathy                           | Paul Bloom               | 19/05/09 | Y      | 1.75 |
+| 46 | Circe                                     | Madeline Miller          | 19/05/30 | OH     | 5.00 |
+| 47 | The Caine Mutiny                          | Herman Wouk              | 19/08/15 | T      | 4.20 |
+| 48 | Making Sense of the Troubles              | David McKittrick         | 19/11/14 | C      | 2.83 |
+| 49 | Foucault's Pendulum                       | Umberto Eco              | 20/01/23 | OH     | 2.92 |
+| 50 | Under the Volcano                         | Malcolm Lowry            | 20/03/19 | R      | 2.50 |
+| 51 | The Empire of the Summer Moon             | S.C. Gwynne              |          | J      |      |
+| 52 | The Age of Insight                        | Eric Kandel              |          | O      |      |
+| 53 | Exhalation                                | Ted Chiang               |          | J      |      |
+| 54 | Song of Solomon                           | Toni Morrison            |          | T      |      |
+| 55 | Code                                      | Charles Petzold          |          | C      |      |
+| 56 | Killers of the Flower Moon                | David Grann              |          | R      |
