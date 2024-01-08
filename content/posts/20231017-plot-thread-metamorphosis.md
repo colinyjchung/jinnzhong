@@ -16,6 +16,7 @@ tags = [
     "Howard Tayler",
     "Dan Wells",
     "BYU Writing SF&F Lectures"
+    "Plot Thread: Metamorphosis",
 ]
 categories = [
     "Story Dissection",
