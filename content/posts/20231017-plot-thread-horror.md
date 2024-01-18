@@ -15,7 +15,7 @@ tags = [
     "Mary Robinette Kowal",
     "Howard Tayler",
     "Dan Wells",
-    "BYU Writing SF&F Lectures"
+    "BYU Writing SF&F Lectures",
     "Plot Thread: Horror",
 ]
 categories = [
