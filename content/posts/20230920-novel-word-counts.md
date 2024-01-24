@@ -53,6 +53,40 @@ Word Count for Novels
 * Alias Grace, Margaret Atwood – 157,665 words 
 * The Adventures of Huck Finn, Mark Twain – 109,571 words 
 * Life on the Mississippi, Mark Twain – 127,776 words 
+## 150-200K
+
+| Title | Author | Word Count |
+| :--- | :--- | :---: |
+| Harry Potter and the Deathly Hallows | J. K. Rowling | 198,227 |
+| The Corrections | Jonathan Franzen | 196,774 |
+| Harry Potter and the Goblet of Fire | J. K. Rowling | 190,858 |
+| The Fellowship of the Ring | J. R. R. Tolkien | 187,790 |
+| Dune | Frank Herbert | 187,240 |
+| Memoirs of a Geisha | Arthur Golden | 186,418 |
+| Jane Eyre | Charlotte Brontë | 183,858 |
+| Little Women (Books 1 and 2) | Louisa May Alcott | 183,833 |
+| Great Expectations | Charles Dickens | 183,349 |
+| American Gods | Neil Gaiman | 183,222 |
+| The Poisonwood Bible | Barbara Kingsolver | 177,679 |
+| Catch-22 | Joseph Heller | 174,269 |
+| For Whom the Bell Tolls | Ernest Hemingway | 174,106 |
+| The Grapes of Wrath | John Steinbeck | 169,481 |
+| Harry Potter and the Half Blood Prince | J. K. Rowling | 169,441 |
+| White Teeth | Zadie Smith | 169,389 |
+| The Amber Spyglass | Philip Pullman | 168,640 |
+| Uncle Tom’s Cabin | Harriet Beecher Stowe | 166,622 |
+| The Shining | Stephen King | 165,581 |
+| Cold Mountain | Charles Frazier | 161,511 |
+| Dracula | Bram Stoker | 160,363 |
+| The Kitchen God’s Wife | Amy Tan | 159,276 |
+| Alias Grace | Margaret Atwood | 157,665 |
+| Eragon | Christopher Paolini | 157,000 |
+| The Two Towers | J. R. R. Tolkien | 156,198 |
+| Watership Down | Richard Adams | 156,154 |
+| Oliver Twist | Charles Dickens | 155,960 |
+| Emma | Jane Austen | 155,887 |
+| The Time Traveler’s Wife | Audrey Niffenegger | 155,717 |
+| ‘Salem’s Lot | Stephen King | 152,204 |
 
 ## 100-150K
 
@@ -120,7 +154,6 @@ Word Count for Novels
 | The Dark Is Rising | Susan Cooper | 82,143 |
 | The Secret Garden | Frances Hodgson Burnett | 80,398 |
 | Do Androids Dream of Electric Sheep | Phillip K. Dick | 79,360 |
-| On Writing | Stephen King | 79,139 |
 | The Picture of Dorian Gray | Oscar Wilde | 78,462 |
 | Harry Potter and the Sorcerer’s Stone | J. K. Rowling | 77,325 |
 | Frankenstein | Mary Shelley | 74,800 |
