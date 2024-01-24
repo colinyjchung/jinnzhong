@@ -10,7 +10,7 @@ A non-exhaustive dictionary of abbreviations used in my notes.
 * **BWO**: B-World aka Belly of the Whale
 * **CDA**: Central Dramatic Argument. See my notes on Scriptnotes Ep. 403 [here](https://journal.jinnzhong.com/scriptnotes-403-craig-mazin/) and [here](https://journal.jinnzhong.com/notes-scriptnotes-403-redux/)
 * **CMX**: Climax
-* **DNE**: Denoument
+* **DNM**: Denoument
 * **DYNA**: Dynamic Character (the one the main/PROT plays off of)
 * **EGP**: Emotional Gut Punch
 * **LOW**: Low Point aka Dark Night of the Soul, usually penultimate scene (before CMX)
