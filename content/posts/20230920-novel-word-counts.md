@@ -11,48 +11,47 @@ categories = [
     "Unnecessary Tracking",
 ]
 +++
+{{< toc >}}
 
-Word Count for Novels
+## >200K
 
-* Harry Potter and the Philosopher’s Stone – 77,325 words 
-* Harry Potter and the Chamber of Secrets – 84,799 words
-* Harry Potter and the Prisoner of Azkaban – 106,821 words
-* Harry Potter and the Goblet of Fire – 190,858 words 
-* Harry Potter and the Order of the Phoenix – 257,154 words 
-* Harry Potter and the Half Blood Prince – 169,441 words 
-* Harry Potter and the Deathly Hallows – 198,227 words
-* A Game Of Thrones – 298,000 
-* A Clash Of Kings – 326,000 
-* A Storm of Swords – 424,000 
-* A Feast For Crows – 300,000 
-* A Dance With Dragons – 422,000
-* To Kill A Mockingbird, Harper Lee – 100,388 words 
-* The Time Traveller’s Wife, Audrey Niffenegger – 155,717 words 
-* Gone with the Wind, Margaret Mitchell – 418,053 words 
-* Moby Dick, Herman Melville – 206,052 words 
-* Anna Karenina, Leo Tolstoy – 349,736 words 
-* For Whom the Bell Tolls, Ernest Hemingway – 174,106 words 
-* Memoirs of a Geisha, Arthur Golden – 186,418 words 
-* Jane Eyre, Charlotte Brontë – 183,858 words 
-* Ulysses, James Joyce – 265,222 words 
-* Bleak House, Charles Dickens – 360,947 words 
-* Great Expectations, Charles Dickens – 183,349 words 
-* Les Miserables, Victor Hugo – 530,982 words 
-* Catch-22, Joseph Heller – 174,269 words 
-* Sense and Sensibility, Jane Austen – 126,194 words 
-* A Tale of Two Cities, Charles Dickens – 135,420 words 
-* One Hundred Years of Solitude, Gabriel Garcia Marquez – 144,523 words 
-* Moll Flanders, Daniel Defoe – 138,087 words 
-* Wuthering Heights, Emily Bronte – 107,945 words 
-* Uncle Tom’s Cabin, Harriet Beecher Stow – 166,622 words 
-* Walden, Henry David Thoreau – 114,634 words Pere 
-* Last of the Mohicans, James Fenimore Cooper – 145,469 words 
-* The Grapes of Wrath, John Steinback – 169,481 words 
-* East of Eden, John Steinback – 225,395 words 
-* War and Peace, Leo Tolstoy – 587,287 words 
-* Alias Grace, Margaret Atwood – 157,665 words 
-* The Adventures of Huck Finn, Mark Twain – 109,571 words 
-* Life on the Mississippi, Mark Twain – 127,776 words 
+| Title | Author | Word Count |
+| :--- | :--- | :---: |
+| A Suitable Boy | Vikram Seth | 591,554 |
+| Atlas Shrugged | Ayn Rand | 561,996 |
+| War and Peace | Leo Tolstoy | 561,304 |
+| Les Miserables | Victor Hugo | 530,982 |
+| Infinite Jest | David Foster Wallace | 488,940 |
+| The Stand (uncut version) | Stephen King | 471,485 |
+| It | Stephen King | 445,134 |
+| A Storm of Swords | George R. R. Martin | 424,000 |
+| A Dance with Dragons | George R. R. Martin | 422,000 |
+| Gone with the Wind | Margaret Mitchell | 418,053 |
+| The Count of Monte Cristo | Alexandre Dumas | 375,695 |
+| Lonesome Dove | Larry McMurtry | 365,712 |
+| The Brothers Karamazov | Fyodor Dostoyevsky | 364,153 |
+| Bleak House | Charles Dickens | 360,947 |
+| David Copperfield | Charles Dickens | 358,000 |
+| Anna Karenina | Leo Tolstoy | 349,736 |
+| Don Quixote | Miguel de Cervantes | 344,665 |
+| A Clash of Kings | George R. R. Martin | 326,000 |
+| Gravity’s Rainbow | Thomas Pynchon | 324,945 |
+| Middlemarch | George Eliot | 316,059 |
+| The Fountainhead | Ayn Rand | 311,596 |
+| Jonathan Strange and Mr Norrell | Susanna Clarke | 308,931 |
+| Outlander | Diana Gabaldon | 305,000 |
+| A Feast for Crows | George R. R. Martin | 300,000 |
+| A Game of Thrones | George R. R. Martin | 298,000 |
+| Ulysses | James Joyce | 265,222 |
+| Cloudsplitter | Russell Banks | 260,742 |
+| Harry Potter: Order of the Phoenix | J. K. Rowling | 257,154 |
+| A Prayer for Owen Meany | John Irving | 236,061 |
+| East of Eden | John Steinbeck | 225,395 |
+| Amazing Adventures of Kavalier & Clay | Michael Chabon | 216,020 |
+| Crime and Punishment | Fyodor Dostoyevsky | 211,591 |
+| Midnight’s Children | Salman Rushdie | 208,773 |
+| Moby Dick | Herman Melville | 206,052 |
+
 ## 150-200K
 
 | Title | Author | Word Count |
@@ -124,7 +123,6 @@ Word Count for Novels
 | A Distant Shore | Caryl Phillips | 103,090 |
 | Ender’s Game | Orson Scott Card | 100,609 |
 | To Kill a Mockingbird | Harper Lee | 100,388 |
-
 
 ## 50-100K
 
