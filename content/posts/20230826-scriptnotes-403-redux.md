@@ -51,7 +51,7 @@ Character motivation IS structure
 * Technology, rituals, and institutions dehumanize us
 * Unresolved trauma, unaddressed mistakes, ignored resentment manifests in unpredictable (and fantastical) ways
 
-# STORY VIA THEMATIC STRUCTURE
+## STORY VIA THEMATIC STRUCTURE
 
 ### 0. Backstory = WOUND/GHOST. 
 What's the most horrific thing you can do to the character for them to embody the antithesis of the CDA? Marlin in Finding Nemo isn't just a single dad. His wife and children were eaten in front of him. He couldn't protect them. He only has one egg left, but what's more, the one surviving child is disabled.
