@@ -45,7 +45,7 @@ And again, to help with the analysis, here are the acronym IDs I assigned to eac
 * Cat Pictures Please - CPP
 * Ten Deals with the Indigo Snake - TDIS
 
-## Stories Data Points
+## Story Data Points
 
 To start with, I broke the stories further down into wordcount, number of scenes, where I believe the midpoint is (what scene, wordcount, and approximate percentage), where the lowpoint is (scene, wordcount, and approximate percentage), and climax (unless it's merged with the lowpoint due to the short length of these stories).
 
