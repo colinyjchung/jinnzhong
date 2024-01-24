@@ -147,7 +147,6 @@ categories = [
 | Gilead | Marilynne Robinson | 84,845 |
 | Harry Potter: Chamber of Secrets | J. K. Rowling | 84,799 |
 | Cry, the Beloved Country | Alan Paton | 83,774 |
-| The Diary of a Young Girl | Anne Frank | 82,762 |
 | The English Patient | Michael Ondaatje | 82,370 |
 | The Dark Is Rising | Susan Cooper | 82,143 |
 | The Secret Garden | Frances Hodgson Burnett | 80,398 |
