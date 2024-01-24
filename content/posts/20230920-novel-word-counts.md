@@ -54,7 +54,45 @@ Word Count for Novels
 * The Adventures of Huck Finn, Mark Twain – 109,571 words 
 * Life on the Mississippi, Mark Twain – 127,776 words 
 
-## Between 50-100K
+## 100-150K
+
+| Title | Author | Word Count |
+| :--- | :--- | :---: |
+| Gone Girl | Gillian Flynn | 145,719 |
+| The Last of the Mohicans | James Fenimore Cooper | 145,469 |
+| A Tree Grows in Brooklyn | Betty Smith | 145,092 |
+| One Hundred Years of Solitude | Gabriel Garcia Marquez | 144,523 |
+| Pet Sematary | Stephen King | 142,664 |
+| 20,000 Leagues Under the Sea | Jules Verne | 138,128 |
+| Snow Falling on Cedars | David Guterson | 138,098 |
+| Moll Flanders | Daniel Defoe | 138,087 |
+| The Return of the King | J. R. R. Tolkien | 137,115 |
+| A Tale of Two Cities | Charles Dickens | 135,420 |
+| Schindler’s List | Thomas Keneally | 134,710 |
+| The Silmarillion | J. R. R. Tolkien | 130,115 |
+| Tales from Earthsea | Ursula K. Le Guin | 128,960 |
+| Sense and Sensibility | Jane Austen | 126,194 |
+| Atonement | Ian McEwan | 123,378 |
+| Pride and Prejudice | Jane Austen | 120,697 |
+| My Sister’s Keeper | Jodi Picoult | 119,529 |
+| Twilight | Stephanie Meyer | 118,875 |
+| The Tenth Circle | Jodi Picoult | 114,779 |
+| Walden | Henry David Thoreau | 114,634 |
+| Throne of Glass | Sarah J. Maas | 113,665 |
+| The Golden Compass | Philip Pullman | 112,815 |
+| McTeague | Frank Norris | 112,737 |
+| The Adventures of Huckleberry Finn | Mark Twain | 109,571 |
+| The Subtle Knife | Philip Pullman | 109,120 |
+| Wuthering Heights | Emily Brontë | 107,945 |
+| Gullivers Travels | Jonathan Swift | 107,349 |
+| Harry Potter: Prisoner of Azkaban | J. K. Rowling | 106,821 |
+| Divergent | Veronica Roth | 105,143 |
+| A Distant Shore | Caryl Phillips | 103,090 |
+| Ender’s Game | Orson Scott Card | 100,609 |
+| To Kill a Mockingbird | Harper Lee | 100,388 |
+
+
+## 50-100K
 
 | Title | Author | Word Count |
 | :--- | :--- | :---: |
@@ -118,7 +156,7 @@ Word Count for Novels
 | The Voyage of the Dawn Treader | C.S. Lewis | 53,960 |
 | The Silver Chair | C.S. Lewis | 51,022 |
 
-## Under 50K 
+## <50K 
 (More Novella Size Than Novel)
 
 | Title | Author | Word Count |
