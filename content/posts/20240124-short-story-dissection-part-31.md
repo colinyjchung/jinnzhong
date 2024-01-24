@@ -163,7 +163,7 @@ Is the **MID** when PROT deal four where she messes with Simone's brain, or when
 
 
 
-[1]: I have removed P. Djèlí Clark's "The Secret Lives of the Nine Negro Teeth of George Washington" from analysis as it doesn't exactly fit the mold of a short story with beginning, middle, and end.
+[^1]: I have removed P. Djèlí Clark's "The Secret Lives of the Nine Negro Teeth of George Washington" from analysis as it doesn't exactly fit the mold of a short story with beginning, middle, and end.
 
 
 
