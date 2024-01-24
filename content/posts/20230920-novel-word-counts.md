@@ -54,7 +54,7 @@ Word Count for Novels
 * The Adventures of Huck Finn, Mark Twain – 109,571 words 
 * Life on the Mississippi, Mark Twain – 127,776 words 
 
-## Under 50-100K
+## Between 50-100K
 
 | Title | Author | Word Count |
 | :--- | :--- | :---: |
@@ -136,7 +136,7 @@ Word Count for Novels
 | The Lion, The Witch, and the Wardrobe | C.S. Lewis | 38,421 |
 | The Stranger | Albert Camus | 36,014 |
 | Old Yeller | Fred Gipson | 35,978 |
-| The Time Machine	H.G. Wells	32,149 |
+| The Time Machine | H.G. Wells | 32,149 |
 | Charlie and the Chocolate Factory | Roald Dahl | 30,644 |
 | Double Indemnity | James M. Cain | 30,072 |
 | Animal Farm | George Orwell | 29,966 |
