@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "Acccountability Systems"
+title = "Accountability Systems"
 date = "2024-02-01"
 description = "What's worked? What hasn't? What's next?"
 tags = [
