@@ -19,6 +19,7 @@ tags = [
 ]
 categories = [
     "Chasing Black Swans",
+    "Doing the Work",
 ]
 +++
 {{< toc >}}
