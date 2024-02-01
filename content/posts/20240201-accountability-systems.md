@@ -7,6 +7,16 @@ tags = [
     "Creative Process",
     "Olivia Hofer",
     "Mary Robinette Kowal",
+    "Bryan Cheyne",
+    "Anthony Rhone",
+    "Dave Dixon",
+    "John Pedersen",
+    "L.L. Macrae",
+    "Dogwood Daniels",
+    "Nicholas Brack",
+    "LK",
+    "Osmosis",
+    "Garage Fiction Podcast",
 ]
 categories = [
     "Doing the Work",
