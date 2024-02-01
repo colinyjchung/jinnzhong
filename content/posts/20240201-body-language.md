@@ -444,7 +444,7 @@ Don't know where I found this resource, but the following is a list of emotions 
 </details>
 
 <details>
-<summary>-Secretiveness</summary>
+<summary>Secretiveness</summary>
 
 - tight-lipped smile
 - hands in pockets
