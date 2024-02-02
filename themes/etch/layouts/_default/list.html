@@ -1,7 +1,9 @@
 {{ define "main" }}
 {{- partial "posts.html" . -}}
-{{ range (.Paginate (where .Data.Pages "Type" "post")).Pages }}
-     {{ .Title }}
-{{end}}
+{{ $paginator := .Paginate (where .Pages "Type" "posts") }}
+{{ template "_internal/pagination.html" . }}
+{{ range $paginator.Pages }}
+  {{ .Title }}
+{{ end }}
 {{ template "_internal/pagination.html" . }}
 {{ end }}
