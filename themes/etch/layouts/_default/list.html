@@ -3,4 +3,5 @@
 {{ range (.Paginate (where .Data.Pages "Type" "post")).Pages }}
      {{ .Title }}
 {{end}}
+{{ template "_internal/pagination.html" . }}
 {{ end }}
