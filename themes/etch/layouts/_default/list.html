@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{- partial "posts.html" . -}}
-{{ range .Paginator.Pages }}
+{{ range (.Paginate (where .Data.Pages "Type" "post")).Pages }}
      {{ .Title }}
 {{end}}
 {{ end }}
