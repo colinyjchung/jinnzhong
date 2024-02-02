@@ -1,5 +1,5 @@
 {{ define "main" }}
 {{ .Content }}
 {{- partial "posts.html" . -}}
-{{- partial "pagination.html" .}}
+{{ template "_internal/pagination.html" . }}
 {{ end }}
