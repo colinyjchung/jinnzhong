@@ -1,0 +1,41 @@
+.pagination {
+ display: flex;
+ list-style: none;
+ border-radius: .25rem;
+ margin: 20px 0;
+ padding: 0;
+ justify-content: center;
+ flex-wrap: wrap;
+}
+
+.page-link {
+ padding: 0.55rem 0.75rem;
+ font-weight: 700;
+ text-align: center;
+ color: #637b93;
+}
+
+.homepage .page-link,
+.listing .page-link {
+ background-color: #fff;
+}
+
+.page-item.disabled .page-link {
+ color: #6c757d;
+ pointer-events: none;
+ cursor: auto;
+ background-color: #fff;
+ border-color: #dee2e6;
+}
+
+.page-item.active .page-link {
+ z-index: 1;
+ border-radius: 20%;
+ color: #227b9d;
+ background-color: #2aa8d229;
+}
+
+li.page-item:hover a {
+ border-radius: 20%;
+ background-color: #90d8f029;
+}
