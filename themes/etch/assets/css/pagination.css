@@ -2,7 +2,7 @@
  display: inline;
  list-style: none;
  border-radius: .25rem;
- margin: 20px 0;
+ margin: 10px 0;
  padding: 0;
  justify-content: center;
 }
@@ -16,14 +16,14 @@
 
 .homepage .page-link,
 .listing .page-link {
- background-color: #000;
+ background-color: #121212;
 }
 
 .page-item.disabled .page-link {
  color: #6c757d;
  pointer-events: none;
  cursor: auto;
- background-color: #000;
+ background-color: #121212;
  border-color: #dee2e6;
 }
 
