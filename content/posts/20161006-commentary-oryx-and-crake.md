@@ -14,7 +14,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ reading _Oryx and Crake_ (2003) by Margaret Atwood. They do not reflect my overall post-reading opinion of the work. 
 
-**SPOILER ALERTS AHEAD** (_obviously_).
+:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
 
 * Pg.58 - because she's a literary writer first, she captures the emotional trauma of a dysfunctional family and the dynamics so damn well. The science is still well researched but it's not the star. Character is. Deeply flawed, broken people playing god. It's lovely.
 * Pg.92 - was totally not expecting child porn to show up as a subject matter and for the title character to be the subject...
