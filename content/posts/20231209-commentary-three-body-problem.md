@@ -14,7 +14,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ reading _The Three-Body Problem_ (2006) by Cixin Liu. They do not reflect my overall post-reading opinion of the work. 
 
-**SPOILER ALERTS AHEAD** (_obviously_).
+:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
 
 * Ch01. Boy there’s a lot of telling and info-dumping. Why not dramatize one of these struggle sessions?
 * Omg, this is horribly written prose wise. It’s just platforming and ideas.
