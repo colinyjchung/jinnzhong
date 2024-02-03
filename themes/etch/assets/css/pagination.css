@@ -10,21 +10,20 @@
 
 .page-link {
  padding: 0.55rem 0.75rem;
- font-weight: 700;
+ font-weight: normal;
  text-align: center;
  color: #637b93;
 }
 
 .homepage .page-link,
 .listing .page-link {
- background-color: #fff;
+ background-color: #000;
 }
 
 .page-item.disabled .page-link {
  color: #6c757d;
  pointer-events: none;
  cursor: auto;
- background-color: #fff;
  border-color: #dee2e6;
 }
 
