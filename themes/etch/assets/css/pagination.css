@@ -1,5 +1,5 @@
 .pagination {
- display: inline;
+ display: flex;
  list-style: none;
  border-radius: .25rem;
  margin: 20px 0;
@@ -24,6 +24,7 @@
  color: #6c757d;
  pointer-events: none;
  cursor: auto;
+ background-color: #000;
  border-color: #dee2e6;
 }
 
