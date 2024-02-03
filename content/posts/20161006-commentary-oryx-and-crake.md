@@ -30,6 +30,8 @@ The following are thoughts and reactions I had _while_ reading _Oryx and Crake_ 
 * Pg. 329 - this is getting too Shakespearean for me. It's forced dramatics.
 
 Snowman = Advertising - Man
+
 Crake = Genetic engineering - God
+
 Oryx = Sexuality - Jesus
 
