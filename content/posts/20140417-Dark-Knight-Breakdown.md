@@ -6,6 +6,8 @@ description = "Breakdown of The Dark Knight (2008)"
 tags = [
     "The Dark Knight (2008)",
     "Christopher Nolan",
+    "Jonathan Nolan",
+    "David S. Goyer",
     "Story Analysis",
 ]
 categories = [
@@ -14,6 +16,8 @@ categories = [
 +++
 * **TITLE:** The Dark Knight
 * **DIRECTOR:** Christopher Nolan
+* **SCREENPLAY:** Jonathan Nolan & Christopher Nolan
+* **STORY:** David S. Goyer & Christopher Nolan
 * **TIME:** 2 hours 24 minutes (144 minutes)
 
 {{< toc >}}
