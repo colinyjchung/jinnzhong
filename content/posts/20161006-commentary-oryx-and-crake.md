@@ -12,7 +12,9 @@ categories = [
     "Live Commentary",
 ]
 +++
-The following are thoughts and reactions I had _while_ reading _One Hundred Years of Solitude_ (1967) by Gabriel García Márquez. They do not reflect my overall post-reading opinion of the work. **SPOILER ALERTS AHEAD** (_obviously_).
+The following are thoughts and reactions I had _while_ reading _One Hundred Years of Solitude_ (1967) by Gabriel García Márquez. They do not reflect my overall post-reading opinion of the work. 
+
+**SPOILER ALERTS AHEAD** (_obviously_).
 
 * Pg.58 - because she's a literary writer first, she captures the emotional trauma of a dysfunctional family and the dynamics so damn well. The science is still well researched but it's not the star. Character is. Deeply flawed, broken people playing god. It's lovely.
 * Pg.92 - was totally not expecting child porn to show up as a subject matter and for the title character to be the subject...
