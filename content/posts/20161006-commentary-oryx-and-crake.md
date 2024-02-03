@@ -12,7 +12,7 @@ categories = [
     "Live Commentary",
 ]
 +++
-The following are thoughts and reactions I had _while_ reading _One Hundred Years of Solitude_ (1967) by Gabriel García Márquez. They do not reflect my overall post-reading opinion of the work. 
+The following are thoughts and reactions I had _while_ reading _Oryx and Crake_ (2003) by Margaret Atwood. They do not reflect my overall post-reading opinion of the work. 
 
 **SPOILER ALERTS AHEAD** (_obviously_).
 
