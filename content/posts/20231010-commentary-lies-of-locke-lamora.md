@@ -14,7 +14,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ reading _Lies of Locke Lamora_ (2006) by Scott Lynch. They do not reflect my overall post-reading opinion of the work. 
 
-**SPOILER ALERTS AHEAD** (_obviously_).
+:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
 
 * Everything is named in a silly D&D way. 77th year of ___, ___maker of ___, ____ priest, temple of _____. It’s too much data dump. What’s more, little to none of it is relevant to the plot or characters. It’s a pointless history lesson in a made up world that doesn’t add anything to the story. The only few times it was plot-relevant was the glass rose garden, the trellis outside the Broken Tower. The missing gladiator twin sisters was a foreshadow that amounted to very little.
 * The dialogue sounds goofy. It sounds like people who don’t do dangerous/serious things pretending to be dangerous/serious, but talking way too much without subtlety/subtext. It’s spoonfeeding the audience
