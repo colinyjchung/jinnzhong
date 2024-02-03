@@ -1,7 +1,7 @@
 +++
 author = "Jinn Zhong"
 title = "COMMENTARY: Too Like the Lightning (2016)"
-date = "2016-10-06"
+date = "2023-11-23"
 description = "Live Commentary to Too Like the Lightning (2016)"
 tags = [
     "Too Like the Lightning (2016)",
