@@ -14,7 +14,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ reading _The Final Empire_ (2006) by Brandon Sanderson. They do not reflect my overall post-reading opinion of the work. 
 
-**SPOILER ALERTS AHEAD** (_obviously_).
+:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
 
 * the prose is so functional, workmanlike, and generic. I am listening to this at 2.5X and not missing a beat.
 * Oh, so this is like the predecessor to Locke Lamora then? You got your smug unflappable hero leading a crew to mess with the nobles. Except the story is far superior here
