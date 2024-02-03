@@ -1,7 +1,7 @@
 +++
 author = "Jinn Zhong"
 title = "COMMENTARY: Helpmeet (2022)"
-date = "2016-10-06"
+date = "2023-10-23"
 description = "Live Commentary to Helpmeet (2022)"
 tags = [
     "Helpmeet (2022)",
