@@ -1,11 +1,10 @@
 .pagination {
- display: flex;
+ display: inline;
  list-style: none;
  border-radius: .25rem;
  margin: 20px 0;
  padding: 0;
  justify-content: center;
- flex-wrap: wrap;
 }
 
 .page-link {
