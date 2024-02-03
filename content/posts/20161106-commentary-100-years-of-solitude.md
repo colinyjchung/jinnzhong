@@ -14,7 +14,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ reading _One Hundred Years of Solitude_ (1967) by Gabriel García Márquez. They do not reflect my overall post-reading opinion of the work.
 
-**SPOILER ALERTS AHEAD** (_Obviously_)
+:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
 
 * Chapter 2. I read the dust jacket. I don't know if that spoiled anything or not. But it said. "does nothing less than recapitulate the entire history of the human race"... and I recalled chapter 1, page 1 when it said "The world was so recent that many things lacked names, and in order to indicate them it was necessary to point". So I started looking for allegory again. Is Melquíades the devil who brings weird inventions and temptations to innocent Adam and Eve (José Arcadio Buendia & Úrsula Iguarán)? The Tree of Knowledge, right? And then they leave Riohacha to go found Macondo... Like Moses leading the exodus to the promised land.
 * Pg. 31 - Is this... incest? Is José Arcadio the younger sleeping with his mom?... [next page later], nvm. Pilar Ternera.
