@@ -1,5 +1,5 @@
 .pagination {
- display: inline;
+ display: inline-flex;
  list-style: none;
  border-radius: .25rem;
  margin: 10px 0;
