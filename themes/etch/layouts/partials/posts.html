@@ -1,8 +1,8 @@
 <h3>{{ i18n "posts.title" }}</h3>
 <ul id="posts">
 {{ $paginator := .Paginate (where .Pages "Type" "posts") }}
-{{ template "_internal/pagination.html" . }}
 {{ range $paginator.Pages }}
     {{ .Render "li" }}
 {{- end }}
+    {{ template "_internal/pagination.html" . }}
 </ul>
