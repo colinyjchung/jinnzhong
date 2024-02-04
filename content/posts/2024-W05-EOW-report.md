@@ -54,6 +54,8 @@ This will be the future space for tracking either daily time spent, or daily wor
 
 ## EOW Time Tracking
 
+The following is based on logged productive hours using [Timeular](https://timeular.com/?linkId=lp_182779&sourceId=colin-yj-chung&tenantId=timeular). F = Fiction writing work. Biz/Mrk/Edu = Business, Marketing, & Education related to fiction writing work. C = Client work. P = Prospecting, administrative, and running of business related work. The key here is to ensure there is proper balance and hours _are_ dedicated to fiction vs. procrastination or using "too busy at work" as an excuse.
+
 | TYPE | % | BAR |
 | :--- | :---: | :--- |
 | F0: Research | 00% | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:15px;background:#0492C2;font-size:15px; color:white; line-height:15px;"></div></div> |
