@@ -1,5 +1,5 @@
 +++
-author = "Colin Y.J. Chung"
+author = "Jinn Zhong"
 title = "TSC-E02: Lankmar's Ocean's Six"
 date = "2021-05-30"
 description = "Desert Jaguars Like Pizza"
