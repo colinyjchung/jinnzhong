@@ -1,7 +1,7 @@
 +++
 author = "Jinn Zhong"
 title = "RCR-HtR-E10: Making Friends"
-date = "2024-02-04"
+date = "2024-02-03"
 description = "Let's make a lot of friends tonight!"
 tags = [
     "Ogrebeef",
