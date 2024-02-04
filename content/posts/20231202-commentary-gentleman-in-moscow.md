@@ -14,7 +14,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ reading _A Gentleman in Moscow_ (2016) by Amor Towles. They do not reflect my overall post-reading opinion of the work. 
 
-**SPOILER ALERTS AHEAD** (_obviously_).
+:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
 
 * pg 130. Wait so this is a love story between Anna and Alexander? She doesn’t show up until the 25% mark. Which I mean, makes sense structurally… but what was all that with Nina? Just to establish the world for a hundred pages? I seriously thought this was a “quiet novel” given the first hundred pages.
 * wait, and he’s turning invisible now? Like literally in a magical realism way or metaphorically?
