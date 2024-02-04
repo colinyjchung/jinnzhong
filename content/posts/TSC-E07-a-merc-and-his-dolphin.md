@@ -1,5 +1,5 @@
 +++
-author = "Colin Y.J. Chung"
+author = "Jinn Zhong"
 title = "TSC-E07: A Merc and his Dolphin Go A-Swimmin'"
 date = "2021-07-25"
 description = "Can't go there either"
