@@ -1,7 +1,7 @@
 +++
 author = "Jinn Zhong"
-title = "RCR-HtR-E06: Introducing Sam Spade"
-date = "2023-04-14"
+title = "RCR-HtR-E07: Introducing Sam Spade"
+date = "2023-08-11"
 description = "I feel so damn happy"
 tags = [
     "Ogrebeef",
