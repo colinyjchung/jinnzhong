@@ -1,5 +1,5 @@
 +++
-author = "Colin Y.J. Chung"
+author = "Jinn Zhong"
 title = "TSC-E19: Vampyr Slayers?"
 date = "2021-10-31"
 description = "Fireball"
