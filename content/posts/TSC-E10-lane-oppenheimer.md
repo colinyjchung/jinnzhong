@@ -1,5 +1,5 @@
 +++
-author = "Colin Y.J. Chung"
+author = "Jinn Zhong"
 title = "TSC-E10: Lane Oppenheimer, Destroyer of Worlds"
 date = "2021-08-15"
 description = "A Drink of Despair"
