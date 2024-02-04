@@ -1,5 +1,5 @@
 +++
-author = "Colin Y.J. Chung"
+author = "Jinn Zhong"
 title = "TSC-E03: Introducing The Snack Club"
 date = "2021-06-06"
 description = "A Game of Dice"
