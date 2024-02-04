@@ -24,6 +24,9 @@ tags = [
     "Gang Lords of Lankhmar",
     "Harley Stroh",
     "RPG",
+    "The Snack Club",
+    "Roleplaying Games",
+    "RPG Session",
 ]
 categories = [
     "Roleplaying Games",
