@@ -2,7 +2,7 @@
 author = "Jinn Zhong"
 title = "RCR-HtR-E07: Introducing Sam Spade"
 date = "2023-08-11"
-description = "I feel so damn happy"
+description = "Turn Bing into an Ally Mentor"
 tags = [
     "Ogrebeef",
     "FC",
