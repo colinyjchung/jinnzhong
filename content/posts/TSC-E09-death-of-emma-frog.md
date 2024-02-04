@@ -1,5 +1,5 @@
 +++
-author = "Colin Y.J. Chung"
+author = "Jinn Zhong"
 title = "TSC-E09: The Death of Emma Frog"
 date = "2021-08-08"
 description = "It's pronounced skon"
