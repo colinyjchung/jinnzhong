@@ -18,6 +18,8 @@ tags = [
     "Masks of Lankhmar",
     "Michael Curtis",
     "RPG",
+    "The Snack Club",
+    "Roleplaying Games",
 ]
 categories = [
 "Roleplaying Games",
