@@ -25,6 +25,9 @@ tags = [
     "The Black Wyrm of Brandonsford",
     "Chance Dudinack",
     "RPG",
+    "The Snack Club",
+    "Roleplaying Games",
+    "RPG Session",
 ]
 categories = [
     "Roleplaying Games",
