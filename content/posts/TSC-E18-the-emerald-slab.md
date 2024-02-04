@@ -25,6 +25,9 @@ tags = [
     "The Jeweler that Dealt in Stardust",
     "Harley Stroh",
     "RPG",
+    "The Snack Club",
+    "Roleplaying Games",
+    "RPG Session",
 ]
 categories = [
     "Roleplaying Games",
