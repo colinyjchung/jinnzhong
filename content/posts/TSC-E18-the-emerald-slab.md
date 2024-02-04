@@ -1,5 +1,5 @@
 +++
-author = "Colin Y.J. Chung"
+author = "Jinn Zhong"
 title = "TSC-E18: The Emerald Slab"
 date = "2021-10-17"
 description = "Spiders Everywhere"
