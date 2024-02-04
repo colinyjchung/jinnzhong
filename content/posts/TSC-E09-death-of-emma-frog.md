@@ -20,6 +20,9 @@ tags = [
     "Toaf Frog, Spy",
     "OSR",
     "RPG",
+    "The Snack Club",
+    "Roleplaying Games",
+    "RPG Session",
 ]
 categories = [
     "Roleplaying Games",
