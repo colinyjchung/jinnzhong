@@ -54,20 +54,20 @@ This will be the future space for tracking either daily time spent, or daily wor
 
 ## EOW Time Tracking
 
-| TYPE | %TIME |
-| :--- | :--- |
-| F0: Research | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:15px;background:#0492C2;font-size:15px; color:white; line-height:15px;">00%</div></div> |
-| F1: Prewrite | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:03%;height:15px;background:#0492C2;font-size:15px; color:white; line-height:15px;">03%</div></div> |
-| F2: Drafting | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:13%;height:15px;background:#051094;font-size:15px; color:white; line-height:15px;">13%</div></div> |
-| F3: Editing | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:05%;height:15px;background:#051094;font-size:15px; color:white; line-height:15px;">05%</div></div> |
-| X: Biz/Mrk/Edu | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:14%;height:15px;background:#BC544B;font-size:15px; color:white; line-height:15px;">14%</div></div> |
-| X: Critique | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:13%;height:15px;background:#D21404;font-size:15px; color:white; line-height:15px;">13%</div></div> |
-| C0: Meetings/Emails | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:23%;height:15px;background:#48AAAD;font-size:15px; color:white; line-height:15px;">23%</div></div> |
-| C0: PrepWork | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:15px;background:#028A0F;font-size:15px; color:white; line-height:15px;">00%</div></div> |
-| C0: ActualWork | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:15%;height:15px;background:#028A0F;font-size:15px; color:white; line-height:15px;">15%</div></div> |
-| P: Admin | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:07%;height:15px;background:#59515e;font-size:15px; color:white; line-height:15px;">07%</div></div> |
-| P: Networking | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:15px;background:#59515e;font-size:15px; color:white; line-height:15px;">00%</div></div> |
-| P: Newsletter | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:15px;background:#59515e;font-size:15px; color:white; line-height:15px;">00%</div></div> |
+| TYPE | % | BAR |
+| :--- | :---: | :--- |
+| F0: Research | 00% | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:15px;background:#0492C2;font-size:15px; color:white; line-height:15px;"></div></div> |
+| F1: Prewrite | 03% | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:03%;height:15px;background:#0492C2;font-size:15px; color:white; line-height:15px;"></div></div> |
+| F2: Drafting | 13% | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:13%;height:15px;background:#051094;font-size:15px; color:white; line-height:15px;"></div></div> |
+| F3: Editing | 05% | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:05%;height:15px;background:#051094;font-size:15px; color:white; line-height:15px;"></div></div> |
+| X: Biz/Mrk/Edu | 14% | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:14%;height:15px;background:#BC544B;font-size:15px; color:white; line-height:15px;"></div></div> |
+| X: Critique | 13% | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:13%;height:15px;background:#D21404;font-size:15px; color:white; line-height:15px;"></div></div> |
+| C0: Meetings/Emails | 23% |<div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:23%;height:15px;background:#48AAAD;font-size:15px; color:white; line-height:15px;"></div></div> |
+| C0: PrepWork | 00% | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:15px;background:#028A0F;font-size:15px; color:white; line-height:15px;"></div></div> |
+| C0: ActualWork | 15% | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:15%;height:15px;background:#028A0F;font-size:15px; color:white; line-height:15px;"></div></div> |
+| P: Admin | 07% | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:07%;height:15px;background:#59515e;font-size:15px; color:white; line-height:15px;"></div></div> |
+| P: Networking | 00% | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:15px;background:#59515e;font-size:15px; color:white; line-height:15px;"></div></div> |
+| P: Newsletter | 00% | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:15px;background:#59515e;font-size:15px; color:white; line-height:15px;"></div></div> |
 
 ## Four Thousand Weeks
 
