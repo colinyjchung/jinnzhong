@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "RCR-VtM-E04: Adam the Not-Werewolf"
+title = "RCR-HtR-E04: Adam the Not-Werewolf"
 date = "2023-03-21"
 description = "Mirrors are Portals"
 tags = [
