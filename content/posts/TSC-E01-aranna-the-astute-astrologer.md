@@ -20,6 +20,8 @@ tags = [
 "Winter's Daughter",
 "Gavin Norman",
 "RPG",
+"The Snack Club",
+"Roleplaying Games",
 ]
 categories = [
 "Roleplaying Games",
