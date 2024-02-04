@@ -25,7 +25,7 @@ categories = [
 * Meth factory-tubes-hazmat
 * Rap sheet on one guy-nice suit
    * Minor drug trafficking 80s
-   * * But in the scene since 90s
+   * But in the scene since 90s
 * James - cameras - just walk in-set up cameras all have access. Blocking oversight fire guys - 2 no heat, 2 fluctuate, 1 human 
 * Nice clothes shotgun - George- box halfway house - rarely follows
 * James - truck at rich neighborhood 
