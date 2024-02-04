@@ -1,5 +1,5 @@
 +++
-author = "Colin Y.J. Chung"
+author = "Jinn Zhong"
 title = "TSC-E11: Mildred!!!"
 date = "2021-08-22"
 description = "Crispy Chicken Nuggets"
