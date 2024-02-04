@@ -23,6 +23,9 @@ tags = [
     "The Seers Sanctum",
     "Directsun",
     "RPG",
+    "The Snack Club",
+    "Roleplaying Games",
+    "RPG Session",
 ]
 categories = [
     "Roleplaying Games",
