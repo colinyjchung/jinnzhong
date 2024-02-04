@@ -35,9 +35,9 @@ categories = [
 * Folkloric Black
 
 ## Chronicle Tenets 
-Family: "Here in this together" 
-Tyranny must be overthrown
-High targets at any cost 
+* Family: "Here in this together" 
+* Tyranny must be overthrown
+* High targets at any cost 
 
 ## Story
 * Not a lot of say in the situation-stuck in Vancouver 
