@@ -24,6 +24,9 @@ tags = [
     "The Emerald Enchanter",
     "Joseph Goodman",
     "RPG",
+    "The Snack Club",
+    "Roleplaying Games",
+    "RPG Session",
 ]
 categories = [
     "Roleplaying Games",
