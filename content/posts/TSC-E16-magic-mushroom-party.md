@@ -22,6 +22,9 @@ tags = [
     "The Imperishable Sorceress",
     "Daniel J. Bishop",
     "RPG",
+    "The Snack Club",
+    "Roleplaying Games",
+    "RPG Session",
 ]
 categories = [
     "Roleplaying Games",
