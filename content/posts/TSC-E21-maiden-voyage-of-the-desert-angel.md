@@ -1,5 +1,5 @@
 +++
-author = "Colin Y.J. Chung"
+author = "Jinn Zhong"
 title = "TSC-E21: Maiden Voyage of the Desert Angel"
 date = "2021-11-14"
 description = "Magical Amigos"
