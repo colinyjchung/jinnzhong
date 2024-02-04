@@ -21,6 +21,9 @@ tags = [
     "Halls of the Blood King",
     "Diogo Nogueira",
     "RPG",
+    "The Snack Club",
+    "Roleplaying Games",
+    "RPG Session",
 ]
 categories = [
     "Roleplaying Games",
