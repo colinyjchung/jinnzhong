@@ -1,5 +1,5 @@
 +++
-author = "Colin Y.J. Chung"
+author = "Jinn Zhong"
 title = "TSC-E15: Emerald Enchanter Engulfed"
 date = "2021-09-26"
 description = "Stop, Drop, & Roll"
