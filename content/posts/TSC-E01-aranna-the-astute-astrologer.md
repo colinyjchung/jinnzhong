@@ -1,5 +1,5 @@
 +++
-author = "Colin Y.J. Chung"
+author = "Jinn Zhong"
 title = "TSC-E01: Aranna, the Astute Astrologer"
 date = "2021-05-23"
 description = "Six Dead & Took Credit"
