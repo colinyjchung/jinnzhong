@@ -1,5 +1,5 @@
 +++
-author = "Colin Y.J. Chung"
+author = "Jinn Zhong"
 title = "TSC-E14: Thesdi... What Now?"
 date = "2021-09-19"
 description = "Failed Experiments"
