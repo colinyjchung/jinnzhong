@@ -1,5 +1,5 @@
 +++
-author = "Colin Y.J. Chung"
+author = "Jinn Zhong"
 title = "TSC-E17: Moonwalk Conga Line"
 date = "2021-10-10"
 description = "Destroy All Evidence"
