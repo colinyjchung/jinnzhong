@@ -1,5 +1,5 @@
 +++
-author = "Colin Y.J. Chung"
+author = "Jinn Zhong"
 title = "TSC-E05: Eyeball Fight!"
 date = "2021-07-11"
 description = "We should eat them"
