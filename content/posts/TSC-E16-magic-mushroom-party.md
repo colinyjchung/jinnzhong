@@ -1,5 +1,5 @@
 +++
-author = "Colin Y.J. Chung"
+author = "Jinn Zhong"
 title = "TSC-E16: Magic Mushroom Party!"
 date = "2021-10-03"
 description = "Your Mom..."
