@@ -27,3 +27,5 @@ categories = [
 * Back at Cauldron. Frenchman not happy with missing vial. Mother is seen. Pick Lawrence to get his line of sight. Andre attempts control. Fails.
 * James, Evelyn fire, George Katana. Blood whip. James and Evelyn go down. Bingwen tear woman in half. Vivian fainted a while back. Sam sics Bingwen on henchman who has Lawrence. Under control, fires at Bing, misses. Andre tells Bing to let him go. Bing crushes henchman's arm. Andre leaves.
 * George pulls James out. Evelyn stays on ground to get ot hospital. James is not in system. Sam gets him a Czech doctor.
+
+_An index of all "Rain City Reckoning" RPG sessions can be found [here](https://journal.jinnzhong.com/tags/rain-city-reckoning/)_
