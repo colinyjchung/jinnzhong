@@ -135,3 +135,5 @@ _/end session_
 ## DM Notes to Myself
 
 So that _fireball_ was a little OP.
+
+_An index of all the RPG sessions of "The Snack Club" can be found [here](https://journal.jinnzhong.com/tags/the-snack-club/)_
