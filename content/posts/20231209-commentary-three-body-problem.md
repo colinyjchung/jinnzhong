@@ -28,3 +28,5 @@ The following are thoughts and reactions I had _while_ reading _The Three-Body P
 * 40%. Nothing’s happening. And what I mean by that is nothing of importance with stakes is happening. It’s just incident after incident. This is like Musashi. Just events. And not even strong cause and effect events. 
 * omg. I don’t need all the reports in detail. You can summarize it for me and move on. You can tell me how it affects the characters and move on.
 * 64%. How is everything barely moving? Wang goes to the meetups. The game progresses to the 192 iteration. More textbook science.
+
+[All other "Live Commentaries" here](https://journal.jinnzhong.com/categories/live-commentary/)
