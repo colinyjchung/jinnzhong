@@ -28,3 +28,5 @@ Desperation 3 / Danger 3
 * **James** gets back to biz 
 * **George** & Orpheus: ghost 
 * Father visits Evelyn
+
+_An index of all "Rain City Reckoning" RPG sessions can be found [here](https://journal.jinnzhong.com/tags/rain-city-reckoning/)_
