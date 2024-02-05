@@ -222,3 +222,5 @@ OK, OK. NGL, I was giggling uncontrollably in my head the _entire time_ while I 
 In other news, we are now tracking "heat" and "reputation" in each of the fifteen major cities in Nehwon. Heat is how much trouble they're in, how upset that particular city's watch/guard/government is with the Snack Club. And reputation is how famous or notorious they are for their deeds. If they have high "heat", they run into more trouble whenever they head into the city. If they have high "rep", it's easier for them to buy things, find people, and get stuff. If they have low "rep", the opposite happens.
 
 Oh, and I've added a new section in the graveyard to honor the death of Glavas Roh. Someone who died doing the right thing. The first time it has _ever_ happened with The Snack Club.
+
+_An index of all the RPG sessions of "The Snack Club" can be found [here](https://journal.jinnzhong.com/tags/the-snack-club/)_
