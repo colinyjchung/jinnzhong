@@ -21,3 +21,5 @@ The following are thoughts and reactions I had _while_ reading _The Final Empire
 * There are so many stand up and cheer moments. Can’t help but like Vin.
 * Chapter 17. Ok. I teared up on Kezior’s backstory.
 * 85%. They killed Marsh.
+
+[All other "Live Commentaries" here](https://journal.jinnzhong.com/categories/live-commentary/)
