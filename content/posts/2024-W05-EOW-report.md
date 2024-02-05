@@ -89,13 +89,13 @@ Was told by my optometrist I had early signs of cataracts after he dilated my pu
 
 [^1]: LEGEND for **Project Status Dashboard**
 
-    * **pj = project**: codename for project.
-    * **st = start**: start date.
-    * **dr = draft**: first draft completed.
-    * **ed = edits**: edits (before beta/crits) completed.
-    * **rv = revisions**: revisions (post-feedback)  completed.
-    * **fn = finished**: story/chapter completed.
-    * **sb = submitted**: story begins sales process.
+    * **pj** = project codename
+    * **st** = start date
+    * **dr** = 1st draft completed
+    * **ed** = edits (before beta/crits) completed
+    * **rv** = revisions (post-feedback) completed
+    * **fn** = finished (story or chapter) completed
+    * **sb** = submission process begins
 
 [^2]: The most important objective of the **EOW Time Tracking** is to ensure that productive hours _are_ dedicated to actual fiction writing. This is to prevent excuses, distractions, and procrastination activities like... Using "I'm too busy with client work" as an excuse or doing unnecessary "fiction-related" activities (like consuming more craft education, excessive world-building research, and working on marketing stuff when I'm not even published yet!)
     
