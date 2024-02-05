@@ -108,3 +108,5 @@ Angry's system for [random encounters](https://theangrygm.com/redesigning-random
 Secondly, I was also quite pleased with my small modification of this module. It was not originally a planned heist. The module calls for the party to begin in the cellar _in medias res_. By having Nylokk sell them a map, this allowed the players to work together, plan, scheme and execute. This triggered a fountain of creativity and strategic thinking, which aligns with my goal of making my RPGs more OSR-imagination-driven versus stare-at-character-sheet-and-kill-everything.
 
 The group came up with and executed on a plan worthy of a heist movie. I couldn't ask for anything more. Great game, guys.
+
+_An index of all the RPG sessions of "The Snack Club" can be found [here](https://journal.jinnzhong.com/tags/the-snack-club/)_
