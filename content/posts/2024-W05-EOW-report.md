@@ -88,20 +88,21 @@ Was told by my optometrist I had early signs of cataracts after he dilated my pu
 * I am _almost_ done Ralph Ellison's _Invisible Man_ (1952). Really want to move on to Jane Austen next. Feel terrible that at age 43, I still haven't read a single Austen novel. Want to knock off all six this year. Also want to start Highsmith's Ripley trilogy. Still struggling with _Stranger in a Strange Land_ (1961).
 
 [^1]: LEGEND for **Project Status Dashboard**
-  * **pj = project**: codename for project.
-  * **st = start**: start date.
-  * **dr = draft**: first draft completed.
-  * **ed = edits**: edits (before beta/crits) completed.
-  * **rv = revisions**: revisions (post-feedback)  completed.
-  * **fn = finished**: story/chapter completed.
-  * **sb = submitted**: story begins sales process.
+    
+    * **pj = project**: codename for project.
+    * **st = start**: start date.
+    * **dr = draft**: first draft completed.
+    * **ed = edits**: edits (before beta/crits) completed.
+    * **rv = revisions**: revisions (post-feedback)  completed.
+    * **fn = finished**: story/chapter completed.
+    * **sb = submitted**: story begins sales process.
 
 [^2]: The most important objective of the **EOW Time Tracking** is to ensure that productive hours _are_ dedicated to actual fiction writing. This is to prevent excuses, distractions, and procrastination activities like... Using "I'm too busy with client work" as an excuse or doing unnecessary "fiction-related" activities (like consuming more craft education, excessive world-building research, and working on marketing stuff when I'm not even published yet!)
-
-  LEGEND for **EOW Time Tracking**
-  * F = Actual fiction writing work (drafting, editing).
-  * X = Activities related to fiction, but not actual writing!
-  * C = Paid client work.
-  * P = Business related work.
+    
+    LEGEND for **EOW Time Tracking**
+    * F = Actual fiction writing work (drafting, editing).
+    * X = Activities related to fiction, but not actual writing!
+    * C = Paid client work.
+    * P = Business related work.
 
 
