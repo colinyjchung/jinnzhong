@@ -215,3 +215,5 @@ _/end session on the Year of the Worm, Month of the Wolf, Day of the Stoat_
 Well, that was not what I had expected for the final fight. Here I was thinking there would be an epic fight in the vat room as the module was written, but the Snack Club decide to fight from the underground caves instead. What really got me were the deaths this session. Slane sacrificed himself for the villagers. Perrin could've helped too, but didn't. Ogo died because the Snack Club couldn't think of any way to get rid of the severed hands in an efficient way. And Squidward. That was the most confusing decision of all. Why would he push Aranna down the hole?
 
 Regardless. This ends a fifteen-session arc where, in our very first session, Aranna killed Dolmenwood drunes... only to have them chase the Snack Club throughout this campaign... leading them to destroying the drunes' leader, the Emerald Enchanter. But is he _really_ dead? I mean, this is genre fiction. Nobody ever really dies in comic books and serial sci-fi/fantasy.
+
+_An index of all the RPG sessions of "The Snack Club" can be found [here](https://journal.jinnzhong.com/tags/the-snack-club/)_
