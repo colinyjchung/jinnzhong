@@ -240,3 +240,5 @@ When I was a kid playing video game RPGs like _Final Fantasy_, I made it an obse
 
 Of course, of course... I get it, I get it. I'm the DM here and I read the entire module twice and took notes in preparation of running it. _I_ know about _all_ the different rooms and _all_ the different treasure. So there's definitely a curse of knowledge here, me wishing The Snack Club would explore more rooms and interact with the elements more, and uncovering more of the secrets. /shrug.
 
+_An index of all the RPG sessions of "The Snack Club" can be found [here](https://journal.jinnzhong.com/tags/the-snack-club/)_
+
