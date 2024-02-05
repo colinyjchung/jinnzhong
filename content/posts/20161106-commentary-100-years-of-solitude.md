@@ -38,3 +38,5 @@ The following are thoughts and reactions I had _while_ reading _One Hundred Year
 * End of ch17 - holy cow Benjamin button, six feet under series finale... everyone's dying. Ursula, Rebeca, Aureliano Segundo, José Arcadio Segundo. Petra Cotes
 * End of Ch18 - excess, remorse and blowback of twentieth century? 1920s? More dead. Jose Arcadio the non-priest and the 17th Aureliano of the Colonel.
 * End of ch19 - hahaha. Pilar Ternera is still alive and instigating one last incestual relationship in the Buendia family.
+
+[All other "Live Commentaries" here](https://journal.jinnzhong.com/categories/live-commentary/)
