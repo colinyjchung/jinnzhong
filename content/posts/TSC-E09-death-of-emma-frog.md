@@ -178,3 +178,5 @@ Also, Patrick Weaver turning into a small insect in a roomful of enemies? There 
 Finally -- storming a castle by arguing loudly about how to do so... _in front of said castle_ is not only utterly insane and stupid... it is mind-boggling.
 
 I repeat: **Magic weapons will not save you.** You have been warned.
+
+_An index of all the RPG sessions of "The Snack Club" can be found [here](https://journal.jinnzhong.com/tags/the-snack-club/)_
