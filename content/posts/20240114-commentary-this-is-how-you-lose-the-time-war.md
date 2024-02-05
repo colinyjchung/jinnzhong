@@ -21,3 +21,5 @@ The following are thoughts and reactions I had _while_ reading _This Is How You 
 * there’s so much telling and show offy variations on a theme.
 * The world building just feels so slipshod too. Red is like a robot but has a husband and has had sex. Blue is part of this organic mass consciousness and can embed herself into matter? It’s just not explained or hinted at very well. 
 * I’m also getting tired of the poetic prose that goes nowhere, had no stakes I can feel. Logically I know they’re risking their lives by messaging an enemy, but I don’t know what the consequences are. And if it’s a court martial or death, I don’t really care about them either. It’s just pretty show-offy prose. It’s a distraction from the fact that the actual story underneath lacks genuine emotional substance
+
+[All other "Live Commentaries" here](https://journal.jinnzhong.com/categories/live-commentary/)
