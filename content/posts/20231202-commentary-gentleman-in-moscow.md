@@ -21,3 +21,5 @@ The following are thoughts and reactions I had _while_ reading _A Gentleman in M
 * pg. 149 - theory. Anna is pregnant with Alexander’s child and for some reason he has to raise her in the hotel.
 * pg. 232 - well. It wasn’t Anna’s child he’s burdened with, but Nina. Interesting.
 * pg. 379 - from page 274 onwards, it is like a season of _This is Us_ (2016-2022). Just so many memorable scenes. Whimsical ones, sad ones, joyful ones. But like _Friends_ (1994-2004) rarely anything super tragic or dark, very low stakes, and just a nice quiet novel filled with sweet drama. 
+
+[All other "Live Commentaries" here](https://journal.jinnzhong.com/categories/live-commentary/)
