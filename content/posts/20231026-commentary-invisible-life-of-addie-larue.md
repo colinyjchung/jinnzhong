@@ -25,3 +25,5 @@ The following are thoughts and reactions I had _while_ reading _The Invisible Li
 * 48% the parallels between flashback and present are delightful.
 * 72% oooh good fight. Adeline is invisible and Henry is offering to take care of her by paying for stuff. So simple and works so well given the magical circumstances.
 * 85% of course they were lovers at one point.
+
+[All other "Live Commentaries" here](https://journal.jinnzhong.com/categories/live-commentary/)
