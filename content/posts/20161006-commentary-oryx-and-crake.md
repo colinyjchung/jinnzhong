@@ -35,3 +35,4 @@ Crake = Genetic engineering - God
 
 Oryx = Sexuality - Jesus
 
+**[All other "Live Commentaries" here](https://journal.jinnzhong.com/categories/live-commentary/)**
