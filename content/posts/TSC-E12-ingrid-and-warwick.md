@@ -171,3 +171,5 @@ _/end session_
 ## DM Notes to Myself
 
 No major notes. The Snack Club are planning, retreating and gathering intelligence now. It's good.
+
+_An index of all the RPG sessions of "The Snack Club" can be found [here](https://journal.jinnzhong.com/tags/the-snack-club/)_
