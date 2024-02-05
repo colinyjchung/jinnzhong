@@ -44,4 +44,6 @@ categories = [
 * People in masks-Kevlar Tonga-teenage girl-silver cup
 * Ask Carroll to teach me how to Bloodwalk
 * give Carroll the blessed smooth stone
-* George's family being offered lot property value widened 
+* George's family being offered lot property value widened
+
+_An index of all "Rain City Reckoning" RPG sessions can be found [here](https://journal.jinnzhong.com/tags/rain-city-reckoning/)_
