@@ -28,3 +28,5 @@ categories = [
 * Orpheus Group - Spiritual Research / Ghost Hunters / TM spiritual projections - Herschell Von Kleef, Director of Canadian Operations
 * Boutique tech reader 
 * Acquisitions Inc. the contract/accounts straightfoward. Out of NYC. Offers to buy George's house with everything included. That means grandfather's watch, antiques and all else. Angus Dunsirn / Franco Puttanesca. Contacts that brother spoke to.
+
+_An index of all "Rain City Reckoning" RPG sessions can be found [here](https://journal.jinnzhong.com/tags/rain-city-reckoning/)_
