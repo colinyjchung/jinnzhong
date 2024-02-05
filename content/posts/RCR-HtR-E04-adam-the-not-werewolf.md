@@ -29,3 +29,5 @@ categories = [
 * Evelyn runs across the street to fire
 * George's Mom-apartment? 
 * Evelyn home-no messages-Fraser river
+
+_An index of all "Rain City Reckoning" RPG sessions can be found [here](https://journal.jinnzhong.com/tags/rain-city-reckoning/)_
