@@ -31,3 +31,5 @@ categories = [
 * FINAL ROUND: Sam shoots shotgun guy while he tries to grab the gun. Shotgun guy is dead. Evelyn gets four damage, somehow Andre avoids. Punches Evelyn so hard her neck breaks. James fires desert eagle into Andre. Staggering. George comes in and decapitates Andre. James makes one final check.
 * Evelyn wakes up, dripping with liquid, naked. Middle aged gentleman carries me into the swirl.
 * George's home... Orpheus people all dead on the floor. Several shadows looming over them.
+
+_An index of all "Rain City Reckoning" RPG sessions can be found [here](https://journal.jinnzhong.com/tags/rain-city-reckoning/)_
