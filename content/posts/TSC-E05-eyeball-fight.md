@@ -152,3 +152,5 @@ _/end session_
 With running this campaign, I'm trying to keep "extra accessories" low. No wet-erase board, no miniatures, no terrain.  All "theatre of the mind". It's a challenge, but I prefer this to the mess of stuff that ends up on the table. With that said, the third floor of _People of the Pit_ was a little hairy... and keeping track of all the enemies in the final battle was a lot of accounting. I was tempted to pull out some meeples at one point.
 
 I also feel bad for the deaths of Orlan and Purple Nurple. They lasted five sessions before they gave their lives. This was, however, a dangerous module. It wasn't one big reckless move that got them killed... it was a series of small paper cuts... like wading into the brown murky water unnecessarily, or getting bounced around by the tentacle cave, or fighting and killing everything when they didn't need to. Maybe they'll learn their lesson to be more careful. Or not.
+
+_An index of all the RPG sessions of "The Snack Club" can be found [here](https://journal.jinnzhong.com/tags/the-snack-club/)_
