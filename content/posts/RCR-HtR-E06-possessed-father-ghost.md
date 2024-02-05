@@ -28,3 +28,5 @@ Desperation 2 Danger 4
 * Doesn't know who Chow Yun Fat is. 
 * Walter bought so much property 
 * Table flip, George in front of Evelyn, James fires gun.
+
+_An index of all "Rain City Reckoning" RPG sessions can be found [here](https://journal.jinnzhong.com/tags/rain-city-reckoning/)_
