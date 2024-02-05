@@ -40,13 +40,23 @@ categories = [
 
 ## Project Status Dashboard
 
-| # | prjt | strt | drft | edit | rvsn | fnsh | sbmt | ntes |
-| :---: | :--- | :---: | :---: | :---: |  :---: |  :---: | :---: | :--- |
-| 1 | AURA | 1/6 | 1/6 | X | X | X | X | MSC-00 |
-| 2 | BECKY | 1/7 | X | X | X | X | X | MSC-01 |
-| 3 | MEMPHIS | 1/14 | X | X | X | X | X | MSC-02 |
-| 4 | MOKUSATSU | 1/21 | X | X | X | X | X | MSC-03 |
-| 5 | VARIANT | 1/28 | 1/29 | X | X | X | X | X | MSC-04 |
+The following are ongoing fiction writing projects broken down to what stage they're in.
+
+* **pj = project**: codename for project.
+* **st = start**: start date.
+* **dr = draft**: first draft completed.
+* **ed = edits**: edits (before beta/crits) completed.
+* **rv = revisions**: revisions (post-feedback)  completed.
+* **fn = finished**: story/chapter completed.
+* **sb = submitted**: story begins sales process.
+
+| # | pj | st | dr | ed | rv | fn | sb |
+| :---: | :--- | :---: | :---: | :---: |  :---: |  :---: | :---: |
+| 1 | AURA | 1/6 | 1/6 | X | X | X | X |
+| 2 | BECKY | 1/7 | X | X | X | X | X |
+| 3 | MEMPHIS | 1/14 | X | X | X | X | X |
+| 4 | MOKUSATSU | 1/21 | X | X | X | X | X |
+| 5 | VARIANT | 1/28 | 1/29 | X | X | X | X | X |
 
 ## Daily Tracking
 
@@ -54,28 +64,33 @@ This will be the future space for tracking either daily time spent, or daily wor
 
 ## EOW Time Tracking
 
-The following is based on logged productive hours using [Timeular](https://timeular.com/?linkId=lp_182779&sourceId=colin-yj-chung&tenantId=timeular). F = Fiction writing work. Biz/Mrk/Edu = Business, Marketing, & Education related to fiction writing work. C = Client work. P = Prospecting, administrative, and running of business related work. The key here is to ensure there is proper balance and hours _are_ dedicated to fiction vs. procrastination or using "too busy at work" as an excuse.
+The following is based on logged productive hours using [Timeular](https://timeular.com/?linkId=lp_182779&sourceId=colin-yj-chung&tenantId=timeular). The key here is to ensure there is a good balance between fiction writing and client work, and that hours _are_ dedicated to actual fiction writing versus procrastination, using "too busy at work" as an excuse, or other "safe, related distractions" like craft education, or doing unnecessary "fiction-related" activities.
+
+* F = Fiction writing work. <-- increase
+* X = Activities related to fiction, but not actual writing! <-- minimize
+* C = Paid client work. <-- maintain
+* P = Business related work. <-- maintain
 
 | TYPE | % | BAR |
 | :--- | :---: | :--- |
-| F0: Research | 00% | <div style="width:150px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:14px;background:#0492C2;font-size:15px; color:white; line-height:15px;"></div></div> |
-| F1: Prewrite | 03% | <div style="width:150px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:03%;height:14px;background:#0492C2;font-size:15px; color:white; line-height:15px;"></div></div> |
-| F2: Drafting | 13% | <div style="width:150px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:13%;height:14px;background:#051094;font-size:15px; color:white; line-height:15px;"></div></div> |
-| F3: Editing | 05% | <div style="width:150px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:05%;height:14px;background:#051094;font-size:15px; color:white; line-height:15px;"></div></div> |
-| X: Biz/Mrk/Edu | 14% | <div style="width:150px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:14%;height:14px;background:#BC544B;font-size:15px; color:white; line-height:15px;"></div></div> |
-| X: Critique | 13% | <div style="width:150px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:13%;height:14px;background:#D21404;font-size:15px; color:white; line-height:15px;"></div></div> |
-| C0: Meetings/Emails | 23% |<div style="width:150px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:23%;height:14px;background:#48AAAD;font-size:15px; color:white; line-height:15px;"></div></div> |
-| C0: PrepWork | 00% | <div style="width:150px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:14px;background:#028A0F;font-size:15px; color:white; line-height:15px;"></div></div> |
-| C0: ActualWork | 15% | <div style="width:150px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:15%;height:14px;background:#028A0F;font-size:15px; color:white; line-height:15px;"></div></div> |
-| P: Admin | 07% | <div style="width:150px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:07%;height:14px;background:#59515e;font-size:15px; color:white; line-height:15px;"></div></div> |
-| P: Networking | 00% | <div style="width:150px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:14px;background:#59515e;font-size:15px; color:white; line-height:15px;"></div></div> |
-| P: Newsletter | 00% | <div style="width:150px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:14px;background:#59515e;font-size:15px; color:white; line-height:15px;"></div></div> |
+| F0: Research | 00% | <div style="width:100px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:14px;background:#0492C2;font-size:12px; color:white; line-height:12px;"></div></div> |
+| F1: Prewrite | 03% | <div style="width:100px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:03%;height:14px;background:#0492C2;font-size:12px; color:white; line-height:12px;"></div></div> |
+| F2: Drafting | 13% | <div style="width:100px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:13%;height:14px;background:#051094;font-size:12px; color:white; line-height:12px;"></div></div> |
+| F3: Editing | 05% | <div style="width:100px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:05%;height:14px;background:#051094;font-size:12px; color:white; line-height:12px;"></div></div> |
+| X: Biz/Mrk/Edu | 14% | <div style="width:100px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:14%;height:14px;background:#BC544B;font-size:12px; color:white; line-height:12px;"></div></div> |
+| X: Critique | 13% | <div style="width:100px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:13%;height:14px;background:#D21404;font-size:12px; color:white; line-height:12px;"></div></div> |
+| C0: Meetngs/Emls | 23% |<div style="width:100px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:23%;height:14px;background:#48AAAD;font-size:12px; color:white; line-height:12px;"></div></div> |
+| C0: PrepWork | 00% | <div style="width:100px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:14px;background:#028A0F;font-size:12px; color:white; line-height:12px;"></div></div> |
+| C0: ActualWork | 15% | <div style="width:100px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:15%;height:14px;background:#028A0F;font-size:12px; color:white; line-height:12px;"></div></div> |
+| P: Admin | 07% | <div style="width:100px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:07%;height:14px;background:#59515e;font-size:12px; color:white; line-height:12px;"></div></div> |
+| P: Networking | 00% | <div style="width:100px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:14px;background:#59515e;font-size:12px; color:white; line-height:12px;"></div></div> |
+| P: Newsletter | 00% | <div style="width:100px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:14px;background:#59515e;font-size:12px; color:white; line-height:12px;"></div></div> |
 
 ## Four Thousand Weeks
 
 | Wks Lft | HP |
 | :--- | :--- |
-| 1759/4000 | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:60%;height:15px;background:#006600;font-size:15px; color:white; line-height:15px;">44%</div></div> |
+| 1759/4000 | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:44%;height:15px;background:#006600;font-size:12px; color:white; line-height:12px;">44%</div></div> |
 
 Was told by my optometrist I had early signs of cataracts after he dilated my pupils with drops. I won't notice anything because they haven't reached my line-of-sight yet. So it's like what I would imagine, branching lines on my irises that are currently growing every so slowly, creeping towards my pupil? The thought of it unsettled me. It's hard not to think of your mortality and aging when you start hearing these things. Especially since, for some reason, they put my 16yo son in the exam room at the same time because I booked the appointments so close together. Later, my wife had to drive us to brunch because everything was so bright. Felt like an useless injured animal. Feeling my mortality alright.
 
