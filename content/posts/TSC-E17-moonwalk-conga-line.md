@@ -228,3 +228,5 @@ _/end session on the Year of the Leviathan, Month of the Panther, Day of the Toa
 ## DM Notes to Myself
 
 Holy cow that's a lot of dead people due to a natural gas explosion. And EB with Nightraker. I wonder how the rest of the Snack Club who weren't here today would react to this weapon. Finally, the module-of-the-week, Seers Sanctum. What a great module. No combat necessary. Just a ton of puzzles. I like puzzles. Maybe I'll just stick more puzzles in the campaign.
+
+_An index of all the RPG sessions of "The Snack Club" can be found [here](https://journal.jinnzhong.com/tags/the-snack-club/)_
