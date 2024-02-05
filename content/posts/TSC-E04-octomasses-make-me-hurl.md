@@ -160,3 +160,5 @@ _/end session_
 ## DM Notes to Myself
 
 Keeping track of hench people and octo-masses is hard. Also, a party of ten is much harder to threaten. Throughout the module I adjusted the number of cultists to ensure a sense of danger.
+
+_An index of all the RPG sessions of "The Snack Club" can be found [here](https://journal.jinnzhong.com/tags/the-snack-club/)_
