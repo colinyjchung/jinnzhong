@@ -177,3 +177,5 @@ And yes, let's talk about OR's strange enthusism for murdering an innocent perso
 Where is the Snack Club from the heist four sessions ago?
 
 One last note -- this is one heck of a module. I like how there are subrules for tracking tension in the city. As the stakes rise, the Thieves Guild and City Watch's involvement rises as well. I can't wait to see what The Snack Club does to anger both the Thieves Guild and the City Watch. :)
+
+_An index of all the RPG sessions of "The Snack Club" can be found [here](https://journal.jinnzhong.com/tags/the-snack-club/)_
