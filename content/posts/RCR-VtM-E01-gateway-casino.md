@@ -57,3 +57,5 @@ categories = [
 * Middle East Vampire 7- foot tall murder machines /instinctive conflict / just kills us / most keep to the wolves / packs 
 * Prince Stablest Corsaire - Vancouver Venture - Gateway Casino - Derek FFS - private gambling room.
 * Werewolves-can't trust them / moon hugging hippies / borders / White Rock - Australia / Docks but not airport -contacts / duke
+
+_An index of all "Rain City Reckoning" RPG sessions can be found [here](https://journal.jinnzhong.com/tags/rain-city-reckoning/)_
