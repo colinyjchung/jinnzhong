@@ -42,4 +42,6 @@ categories = [
 * CUT TO: Sam is standing in a room in an office building. Stale white room.  In a office closet. In a big empty office. You are downtown Vancouver, 40th floor. All empty. Cubicles. Guy at desk typing on laptop. He's in casual shirt and pants. Tie on desk. Are you security? Passes. Introduces himself as Adam. I'm a tech startup, software for irrigation. Rainmaker. Adam Cheswick Esq. Walks with a limp. 
 * CUT TO: Grandpa's watch. George feels warmth in watch. Hears two words in a whisper: leave me. Are you safe? Watch goes cold. George takes watch. Kassie sees static. James picks up Sam. Watch feels like ice.
 * Back at Kassie's watch is fine to others. Sam related his story. We connect Adam. His blood was an ingredient for Joy, the drug. 
-* Kassie gets an email. Reply - don't contact me anymore. "why/what happened?" Send email. Five monitors go black. Power lights dim. Five words: Don't contact me anymore, Kassie. 
+* Kassie gets an email. Reply - don't contact me anymore. "why/what happened?" Send email. Five monitors go black. Power lights dim. Five words: Don't contact me anymore, Kassie.
+
+_An index of all "Rain City Reckoning" RPG sessions can be found [here](https://journal.jinnzhong.com/tags/rain-city-reckoning/)_
