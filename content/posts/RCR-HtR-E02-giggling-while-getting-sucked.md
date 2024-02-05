@@ -34,3 +34,5 @@ categories = [
 * James - sees drug deal with rich 
 * George-shot 
 * Get her to church
+
+_An index of all "Rain City Reckoning" RPG sessions can be found [here](https://journal.jinnzhong.com/tags/rain-city-reckoning/)_
