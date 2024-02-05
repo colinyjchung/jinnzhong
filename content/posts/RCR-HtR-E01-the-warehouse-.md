@@ -48,3 +48,5 @@ categories = [
 * Parent Company: Pentax Trading est. 1703: Financial records going back 240 years on retainer 
 * **Drug**: Joy / Powers / Warehouse
 * Ghost Hunter organization? **Orpheus Group** rented out George's house. 
+
+_An index of all "Rain City Reckoning" RPG sessions can be found [here](https://journal.jinnzhong.com/tags/rain-city-reckoning/)_
