@@ -17,7 +17,7 @@ tags = [
     "Open House on Haunted Hill",
     "The Court Magician",
     "Mary Robinette Kowal",
-    "Short Story Cohort",
+    "MRK Short Story Cohort",
 ]
 categories = [
     "Story Dissection",
