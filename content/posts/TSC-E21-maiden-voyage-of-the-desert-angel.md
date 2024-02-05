@@ -242,3 +242,5 @@ Two, there's an overused platitude that says: when you're a hammer, everything l
 Three, maybe stop talking when I'm giving clues and exposition. Because the Snack Club are clearly missing obvious clues I'm doling out. More importantly, TAKE NOTES and DRAW MAPS. We're twenty-one sessions in and the story is getting unwieldy like a fantasy series. Old NPCs and plot hooks from past sessions are going to start cropping up and if you're not taking notes, you're going to get punished. With a group of seven players, you should probably have two mappers instead of just relying on SB, especially when SB's maps seem to confuse you all instead of helping you.
 
 Have a great winter break. We'll return to the Nehwon in 2022.
+
+_An index of all the RPG sessions of "The Snack Club" can be found [here](https://journal.jinnzhong.com/tags/the-snack-club/)_
