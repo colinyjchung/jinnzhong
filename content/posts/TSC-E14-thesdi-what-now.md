@@ -155,3 +155,5 @@ _/end session on the Year of the Worm, Month of the Wolf, Day of the Catamount_
 ## DM Notes to Myself
 
 What a huge difference from last week. The Snack Club spent this week's session threatening their own teammates, doing silly things that drained their hp, and rolling up new characters while having tons of side conversations about non-D&D stuff. I can't imagine what they'll do when they finally meet the Emerald Enchanter. [TPK](https://www.urbandictionary.com/define.php?term=TPK), perhaps? We'll see next week!
+
+_An index of all the RPG sessions of "The Snack Club" can be found [here](https://journal.jinnzhong.com/tags/the-snack-club/)_
