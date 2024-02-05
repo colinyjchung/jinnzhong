@@ -30,3 +30,5 @@ The following are thoughts and reactions I had _while_ reading _Lies of Locke La
 * so much description of food that doesn’t really add anything to the plot or character.
 * I’m at the 86% mark and I’m realizing there’s only so many pages left and if this ends up with a lot of loose ends for the sequel I am going to be really pissed off.
 * 70% of the interludes are more lore dumps that I don’t need or don’t care for 
+
+[All other "Live Commentaries" here](https://journal.jinnzhong.com/categories/live-commentary/)
