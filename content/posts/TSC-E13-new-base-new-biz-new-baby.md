@@ -145,3 +145,5 @@ _/end session on the Year of the Worm, Month of the Wolf, Day of the Catamount_
 ## DM Notes to Myself
 
 Great job, Snack Club, on planning the attack on the black wyrm of Brandonsford. Also, great job on hiring security for your treasure. Lots and lots of fun downtime activities this session.
+
+_An index of all the RPG sessions of "The Snack Club" can be found [here](https://journal.jinnzhong.com/tags/the-snack-club/)_
