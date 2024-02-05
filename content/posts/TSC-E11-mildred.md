@@ -165,3 +165,5 @@ _/end session_
 ## DM Notes to Myself
 
 **The Waking of Willowby Hall** was actually nominated for an ENnie this past week... for "best adventure". ("ENnies" are the [Oscars of the RPG world](https://en.wikipedia.org/wiki/ENnie_Awards)). I can see why. This adventure is full of fun interactive elements, a ticking countdown clock where the giant smashes the house and danger escalates, a runaway goose, three trapped heroes. It's a lot of fun. Highly recommend.
+
+_An index of all the RPG sessions of "The Snack Club" can be found [here](https://journal.jinnzhong.com/tags/the-snack-club/)_
