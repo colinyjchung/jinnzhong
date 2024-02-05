@@ -40,15 +40,7 @@ categories = [
 
 ## Project Status Dashboard
 
-The following are ongoing fiction writing projects broken down to what stage they're in.
-
-* **pj = project**: codename for project.
-* **st = start**: start date.
-* **dr = draft**: first draft completed.
-* **ed = edits**: edits (before beta/crits) completed.
-* **rv = revisions**: revisions (post-feedback)  completed.
-* **fn = finished**: story/chapter completed.
-* **sb = submitted**: story begins sales process.
+The following are ongoing fiction writing projects broken down to what stage they're in. Legend in footnote[^1].
 
 | # | pj | st | dr | ed | rv | fn | sb |
 | :---: | :--- | :---: | :---: | :---: |  :---: |  :---: | :---: |
@@ -64,12 +56,7 @@ This will be the future space for tracking either daily time spent, or daily wor
 
 ## EOW Time Tracking
 
-The following is based on logged productive hours using [Timeular](https://timeular.com/?linkId=lp_182779&sourceId=colin-yj-chung&tenantId=timeular). The key here is to ensure there is a good balance between fiction writing and client work, and that hours _are_ dedicated to actual fiction writing versus procrastination, using "too busy at work" as an excuse, or other "safe, related distractions" like craft education, or doing unnecessary "fiction-related" activities.
-
-* F = Fiction writing work. <-- increase
-* X = Activities related to fiction, but not actual writing! <-- minimize
-* C = Paid client work. <-- maintain
-* P = Business related work. <-- maintain
+The following is based on logged productive hours using [Timeular](https://timeular.com/?linkId=lp_182779&sourceId=colin-yj-chung&tenantId=timeular). Parameters and definitions in footnote[^2].
 
 | TYPE | % | BAR |
 | :--- | :---: | :--- |
@@ -99,5 +86,22 @@ Was told by my optometrist I had early signs of cataracts after he dilated my pu
 * Realized I only had seven days left on my loan of _The Vietnam War: An Intimate History_ (2017) and was 45% in on Libby. So I burnt through a lot of it and got to 63%. Tried playing it at 1.5X while working out Friday morning, but it didn't feel right. I was OK with doing 2X with _Leonardo Da Vinci_ (2017) because Alfred Molina read it so slow, and Walter Isaacson paced it nicely... but Vietnam is history, the every sentence an important detail, so I dunno. I wanted to let it all sink in at a proper pace. But I am behind, and had to extend my hold on _A Promised Land_ (2020).
 * It's February and I still haven't bought a single book, board game, or RPG in 2024. This is a huge success compared to when I wrote about [Running Numbers](https://journal.jinnzhong.com/running-numbers/). Of course, I'm also restraining myself because one, MRK's Short Story Cohort is where I'm putting the budget... and two, I picked up a huge bag of books that had collected over the last three months at the Glausers. Books I had ordered from Thriftbooks. I'm talking at least 30 books. So yeah, I'm good.
 * I am _almost_ done Ralph Ellison's _Invisible Man_ (1952). Really want to move on to Jane Austen next. Feel terrible that at age 43, I still haven't read a single Austen novel. Want to knock off all six this year. Also want to start Highsmith's Ripley trilogy. Still struggling with _Stranger in a Strange Land_ (1961).
+
+[^1]: LEGEND for **Project Status Dashboard**
+* **pj = project**: codename for project.
+* **st = start**: start date.
+* **dr = draft**: first draft completed.
+* **ed = edits**: edits (before beta/crits) completed.
+* **rv = revisions**: revisions (post-feedback)  completed.
+* **fn = finished**: story/chapter completed.
+* **sb = submitted**: story begins sales process.
+
+[^2]: The most important objective of the **EOW Time Tracking** is to ensure that productive hours _are_ dedicated to actual fiction writing. This is to prevent excuses, distractions, and procrastination activities like... Using "I'm too busy with client work" as an excuse or doing unnecessary "fiction-related" activities (like consuming more craft education, excessive world-building research, and working on marketing stuff when I'm not even published yet!)
+
+LEGEND for **EOW Time Tracking**
+* F = Actual fiction writing work (drafting, editing).
+* X = Activities related to fiction, but not actual writing!
+* C = Paid client work.
+* P = Business related work.
 
 
