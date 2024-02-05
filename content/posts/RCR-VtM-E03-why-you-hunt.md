@@ -22,3 +22,5 @@ categories = [
 * domint / prepare / outed / pride / Mtorerent
 
 _These notes were converted via OCR from my handwriting in reMarkable (hence garbled), and this was the final sessions of VtM5e before we moved over to HtR5e_
+
+_An index of all "Rain City Reckoning" RPG sessions can be found [here](https://journal.jinnzhong.com/tags/rain-city-reckoning/)_
