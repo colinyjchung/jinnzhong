@@ -22,3 +22,5 @@ The following are thoughts and reactions I had _while_ reading _Too Like the Lig
 * OMG. The no-no box. The things Bridger could miracle into existence. The stakes just went off the charts.
 * 55% mark reveals Mycroft Canner’s evil and the above stakes.
 * “animals may hunt by speed, by trap, by disguise, by ambush, but name for me another besides mankind that hunts by trust.” Pg. 400
+
+[All other "Live Commentaries" here](https://journal.jinnzhong.com/categories/live-commentary/)
