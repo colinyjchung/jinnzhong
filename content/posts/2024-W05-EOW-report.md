@@ -73,6 +73,14 @@ The following is based on logged productive hours using [Timeular](https://timeu
 | P: Networking | 00% | <div style="width:100px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:14px;background:#59515e;font-size:12px; color:white; line-height:12px;"></div></div> |
 | P: Newsletter | 00% | <div style="width:100px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:00%;height:14px;background:#59515e;font-size:12px; color:white; line-height:12px;"></div></div> |
 
+**In Summary:**
+* F = 21%
+* X = 27% <-- minimize!
+* C = 38%
+* P = 7%
+
+Doesn't add up to 100% as it excludes the journaling done on Thursday. Not sure if I should include it or not track it or what. Arguably, it would fall under "X" which is already looking really bad.
+
 ## Four Thousand Weeks
 
 | Wks Lft | HP |
