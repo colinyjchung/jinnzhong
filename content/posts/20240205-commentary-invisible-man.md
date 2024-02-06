@@ -27,8 +27,8 @@ The following are thoughts and reactions I had _while_ reading _Invisible Man_ (
 * pg.484 is this how he becomes invisible? With sunglasses and a hat? lol.
 * Is being Rinehart the apex of the theme of the book? That the POV has no identity and it’s all imposed on him to the point where he’s mistaken for one simply by putting on a white hat and dark glasses?
 * or… is being Rinehart the most empowering thing you can do? POv has had no power the entire novel. When he could act, the Brotherhood shot him down for taking initiative. But as Rinehart, he is free to play all these different roles. It’s still not his “true identity”… but there’s power. Power requires us to put on this mask.
-* pg. 498 - He was years ahead of me and I was a fool. I must have been crazy and blind. The world in which we lived was without boundaries. A vast seething, hot world of fluidity, and Rine the rascal was at home. Perhaps _only_ Rine the rascal was at home in it. It was unbelievable, but perhaps only the unbelievable could be believed. Perhaps the truth was always a lie.
-* Pg. 506 - Jumping from the pot of absurdity to the fire of the ridiculous.
+* pg. 498 - "He was years ahead of me and I was a fool. I must have been crazy and blind. The world in which we lived was without boundaries. A vast seething, hot world of fluidity, and Rine the rascal was at home. Perhaps _only_ Rine the rascal was at home in it. It was unbelievable, but perhaps only the unbelievable could be believed. Perhaps the truth was always a lie."
+* Pg. 506 - "Jumping from the pot of absurdity to the fire of the ridiculous."
 * ch.24 what the fuck man.
 
 [All other "Live Commentaries" here](https://journal.jinnzhong.com/categories/live-commentary/)
