@@ -42,7 +42,7 @@ Burke says that in order to make room for "Life Projects that Matter" (LPM), you
 
 In other words, you need to **GIVE UP** control and planning. Recognize you might fail, you risk embarrassment, you'll have difficult conversations, disappoint some people, and add suffering to your life.
 
-The alternative to this is you **maintain the illusion you're in chrage**. When you do this, when you **avoid anxiety**, you do the following:
+The alternative to this is you **maintain the illusion you're in charge**. When you do this, when you **avoid anxiety**, you do the following:
 * Procrastinate
 * Distract Yourself
 * Commitment-Phobia
