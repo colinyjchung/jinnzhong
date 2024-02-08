@@ -113,7 +113,7 @@ You do not have a cosmically significant life purpose. And that's OK.
 >
 > Pema Chödrön
 
-**Train yourself to get incrementally better at tolerating that anxiety, by consciously postponeing everything you possibly can, except for one thing.**
+**Train yourself to get incrementally better at tolerating that anxiety, by consciously postponing everything you possibly can, except for one thing.**
 
 
 
