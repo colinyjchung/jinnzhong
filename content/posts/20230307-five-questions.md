@@ -51,8 +51,8 @@ The alternative to this is you **maintain the illusion you're in chrage**. When 
 
 Learning how to say no comes down to asking this question: **Does this decision diminish or enlarge me?**. You don't alleviate anxiety. You don't ask "what would make me happiest?" (that question lures you into the comfortable option or paralyzses you with indecision).
 
-Englargement = Grow as a person
-Diminishment = Shrink with every passing week
+* Enlargement = Grow as a person
+* Diminishment = Shrink with every passing week
 
 ## In Order To
 
