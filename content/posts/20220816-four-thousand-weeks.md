@@ -55,7 +55,7 @@ And I kept believing that if I was only _better_ and more efficient, I'd be able
 
 ## Refusing to Face Our Limitations
 
-And that brings us back to the crux of the book: That we know we're mortal (that we only have 4,000 weeks on average)... but "time management", productivity hackers, and self-help gurus tell us we can live, experience, and do more than the time alloted to us...
+And that brings us back to the crux of the book: That we are indeed mortal (4,000 weeks on average)... but "time management", productivity hackers, and self-help gurus tell us we can live, experience, and do more than the time alloted to us. That we can "have it all" if we only do more.
 
 From the book:
 > _We recoil from the notion that this is it – that this life, with all its flaws and inescapable vulnerabilities, its extreme brevity, and our limited influence over how it unfolds, is the only one we'll get a shot at._
@@ -68,9 +68,9 @@ There's a lot to unpack here.
 
 We use avoidance strategies to feel limitless. Avoidance strategies may include:
 
-* Saying yes to everything and not cutting anything. That way, we _believe_ we can have it all. You don't have to say "no" to anything. No tough choices.
+* Saying yes to everything and not cutting anything. That way, we _believe_ we can have it all. We don't have to say "no" to anything (or anyone). Short-term we don't have to make the tough choices of upsetting people.
 * Procrastinating means we don't actually _do_ the thing we want to do... which prevents actual failure, getting stuck in the uncomfortable muck of learning, and never facing the uncertainty/chaos of the actual activity.
-* Distract ourselves with busyness. Shopping, ranking, collecting, and circling the project/craft/hobby... but never actually pushing forward to do it. Busyness is easier to do, and easier to find time for.
+* Distract ourselves with busyness. Shopping, ranking, collecting, reading about, going through reviews, and generally circling the project/craft/hobby... or organizing, cleaning, and rearranging furniture/books/stationary... but never actually pushing forward to do the thing we say we want to do. Busyness is easier to do, and easier to find time for.
 
 In other words, it's simply _easier_ to do these short-term, low-risk activities: saying yes to everything, procrastinating, and distracting busyness. They give us a hit of joy, making us feel invincible or safe (we don't upset anyone, we never face failure, and we get a fake sense of progress). Of course, the cost is never actually going after and acheiving the goals we _want_ to pursue.
 
