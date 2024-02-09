@@ -45,7 +45,7 @@ This message was especially hard for me to swallow despite immediately seeing th
 
 In my twenties and thirties, I fell into the typical ["Ascension Plot Thread"](https://journal.jinnzhong.com/plot-thread-ascension/). I grew up in a lower-class, immigrant blue collar family. We were poor, I didn't want that, and climbing the ladder drove me. 
 
-Fortunately/unfortunately, I was/am too much of an anti-authoritarian individual/weirdo to climb the _corporate_ ladder. But freelancing, business, and investing made sense to me. It was _different_, and because I was (and most likely still am) under the delusion that "I'm special/unique", I should go do that instead. After all, why would I do what the rest of the 9-5 population did? 
+Fortunately/unfortunately, I was/am too much of an anti-authoritarian individual/weirdo to climb the _corporate_ ladder. But freelancing, business, and investing made sense to me. It was _different_, and because I was (and most likely still am) under the delusion that "I'm special/unique", I decided that I should go do that instead. After all, why would I do what the rest of the 9-5 population did? 
 
 So from the early aughts onwards... I climbed. And blessed with nearly inexhaustible energy, resilient health, and unparalleled focus/drive... I kept climbing. As an entrepreneur, I was taught (and believed in) the maxims of "act first, and apologize later", "say yes to everything", and "sleep when you're dead". I read nothing but self-help, business, and investing books from 2001-2012 (minus Harry Potter and a few novels).
 
@@ -68,15 +68,15 @@ There's a lot to unpack here.
 
 We use avoidance strategies to feel limitless. Avoidance strategies may include:
 
-* Saying yes to everything and not cutting anything. That way, we _believe_ we can have it all. We don't have to say "no" to anything (or anyone). Short-term we don't have to make the tough choices of upsetting people.
-* Procrastinating means we don't actually _do_ the thing we want to do... which prevents actual failure, getting stuck in the uncomfortable muck of learning, and never facing the uncertainty/chaos of the actual activity.
+* Saying yes to everything and not cutting anything. That way, we _believe_ we can have it all. We don't have to say "no" to anything (or anyone). Short-term, we don't have to make the tough choices of upsetting people.
+* Procrastinating means we don't actually _do_ the thing we want to do... which prevents actual failure, getting stuck in the uncomfortable muck of struggling against resistance, and never facing the uncertainty/chaos of the actual activity.
 * Distract ourselves with busyness. Shopping, ranking, collecting, reading about, going through reviews, and generally circling the project/craft/hobby... or organizing, cleaning, and rearranging furniture/books/stationary... but never actually pushing forward to do the thing we say we want to do. Busyness is easier to do, and easier to find time for.
 
 In other words, it's simply _easier_ to do these short-term, low-risk activities: saying yes to everything, procrastinating, and distracting busyness. They give us a hit of joy, making us feel invincible or safe (we don't upset anyone, we never face failure, and we get a fake sense of progress). Of course, the cost is never actually going after and acheiving the goals we _want_ to pursue.
 
 These are all avoidant strategies I've used in one way or another in business, new ventures, and projects I keep saying I want to do... but don't do anything about.
 
-Burkeman goes on to dismantle each of these strategies.
+Burkeman goes on to dismantle each of these strategies and why they're each broken (and severely flawed) in their own ways.
 
 ## The Efficiency Trap & Shifting Goal Posts
 
@@ -84,7 +84,7 @@ You can't do it all. There is no circumstance where you'll reach a state in your
 
 What's more – it doesn't matter if you "stay on top of things" and accomplish all your goals. Because the truth is, once you've checked off your list, that list fills up again. Once you've accomplished your first set of goals, the goal posts shifts again and again, and you want more. Once you've reached the "next level"... you realize there's another level.
 
-Burkeman references  _More Work for Mother_ (1985) by Ruth Schwartz Cowan (with the lengthy subtitle The Ironies Of Household Technology From The Open Hearth To The Microwave). In that book, Cowan argues that: 
+Burkeman references  _More Work for Mother_ (1985) by Ruth Schwartz Cowan (with the lengthy subtitle _The Ironies Of Household Technology From The Open Hearth To The Microwave_). In that book, Cowan argues that: 
 
 > _When housewives first got access to 'labor-saving' devices like washing machines and vacuum cleaners, no time was saved at all, because society's standards of cleanliness simply rose to offset the benefits_
 
@@ -104,7 +104,10 @@ But it gets worse. From the book...
 > The worst aspect of the trap, though, is that it's also a matter of quality. The harder you struggle to fit everything in, the more of your time you'll find yourself spending on the least meaningful things.
 >
 > The reason for this is straightforward: the more firmly you believe it ought to be possible to find time for everything, the less pressure you'll feel to ask whether any given activity is the best use for a portion of your time. Whenever you encounter some potential new item for your to-do list or your social calendar, you'll be strongly biased in favor of accepting it, because you'll assume you needn't sacrificed any other tasks or opportunities in order to make space for it.
-But... you can't. Remember. Your life is finite. By definition, you cannot do everything. When you put everything of equal value, when you say "yes" to everything, then nothing is of higher value. Nothing gets prioritized. Everything just ends up being another task on your to-do list that you have to apologize for later because you couldn't get around to it... while also creating this culture around you that you can't keep promises, or you're unreliable. Saying "no" is not just about respecting your own time, it's also respecting others by short-term, disappointing them with a refusal, but long-term, letting them know what your boundaries are.
+
+But... you can't. Remember. Your life is finite. By definition, you cannot do everything. When you put everything of equal value, when you say "yes" to everything, then nothing is of higher value. Nothing gets prioritized. Everything just ends up being another task on your to-do list that you have to apologize for later because you couldn't get around to it... while also creating this culture around you that you can't keep promises, or you're unreliable. 
+
+Saying "no" is not just about respecting your own time, it's also respecting others by short-term, disappointing them with a refusal, but long-term, letting them know what your boundaries are.
 
 ## Facing Our Mortality Upfront
 
