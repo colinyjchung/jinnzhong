@@ -35,7 +35,7 @@ With hobbies, a lot of it are these weird excuses of "in order to" activities. I
 
 And I hate writing this -- but at this moment, I am on automatic with my family. I am doing the bare minimum. I am not putting in energy and intent into making their lives better. I have failed them. There is a guilt/exhaustion cycle here. "I feel bad but I'm also so tired".
 
-| BE | DO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | HAVE |
+| <div style="width:100px">BE</div> |<div style="width:200px">DO</div>| <div style="width:100px">HAVE</div> |
 |:---|:---|:---|
 |Resentful responsibility | <ul><li>work you hate</li><li>work "in order to"</li><li>work for money</li><li>chase at any cost</li><li>work under delusion</li></ul> | the financial resources to fund a middle class family, house, and life you don't fully appreciate or take joy in|
 
