@@ -23,6 +23,8 @@ Here are the five questions found at the end of Oliver Burkeman's _Four Thousand
 4. In which areas of your life are you still holding back until you feel like you know what you are doing?
 5. How would you spend your days differently if you didn't care so muhc abou tseeing your actions reach fruition?
 
+(SIDE NOTE: My notes on _Four Thousand Weeks_ can be found [here](https://journal.jinnzhong.com/notes-four-thousand-weeks-2021/))
+
 And here are the difficult realizations I came to realize in doing this exercise and answering these questions. (I didn't end up answering them all, but it sparked the following meditation):
 
 ## Comfort > Discomfort
