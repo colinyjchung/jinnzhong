@@ -183,7 +183,7 @@ To summarize Burke's strategies:
 1. Block out time at the cost of upsetting/disappointing people and/or letting a few tasks drop. Those are simply the trade-offs.
 2. Only work on three things at any time. Do not add any project until a slot frees up (either through completion or you've given up on it).
 3. Say no to middling obligations. Say no to unclear requests. Say no to small favors.
-4. Watch out for distractions, procrastination, and busyness. You will be tempted to fall back on these default activities.
+4. Watch out for distractions, procrastination, and busyness. Busyness isn't just organizing, cleaning, and rearranging furniture. It can also be more education (books and courses), reading reviews, shopping, creating lists, and ranking things. You will be tempted to fall back on these default activities.
 5. Accept that your dream will never match reality when you do it. You are walking into uncertainty and chaos. You will face your limits.
 6. Train yourself to get incrementally better at tolerating the anxiety that comes with uncertainty and chaos. That is the cost of projects/crafts/goals worth pursuing.
 
