@@ -22,7 +22,7 @@ In other words -- _Four Thousand Weeks_'s message to stop trying to _do everythi
 
 I wrote about  Burkeman's book in a newsletter I was working on at that time, and that one issue got the most feedback (from the most diverse range of people) I had ever gotten in that newsletter's entire two year run. It resonated with a LOT of people. I'm not surprised in retrospect. I think Burkeman's book was published at just the right time. After all, the entire world had just stopped completely. And many of us finally began to question what all the hustling, grinding, and side-gigging in the pre-pandemic days really meant.
 
-As I review various old journal entries, I could see that this was definitely a theme I was going through (See [here](https://journal.jinnzhong.com/shopping-paralysis/), [here](https://journal.jinnzhong.com/reaching-end-of-rope/), and [here](https://journal.jinnzhong.com/misery/). 
+As I review various old journal entries, I could see that this was definitely a theme I was going through (See [here](https://journal.jinnzhong.com/shopping-paralysis/), [here](https://journal.jinnzhong.com/reaching-end-of-rope/), and [here](https://journal.jinnzhong.com/misery/).) 
 
 For me, as well, I was also beginning to question all my hobbies. Especially since I wasn't so much _doing_ hobbies so much as shopping, ranking, and collecting things in my hobbies in-between and during client meetings. My hobbies were more of an escapist distraction to numb myself from my work life than the act of the hobby itself giving me actual satisfying fulfilment. (Mostly because I wasn't actually _doing_ them so much as _circling_ them).
 
