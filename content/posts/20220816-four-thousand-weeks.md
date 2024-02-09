@@ -24,13 +24,13 @@ I wrote about  Burkeman's book in a newsletter I was working on at that time, an
 
 As I review various old journal entries, I could see that this was definitely a theme I was going through (See [here](https://journal.jinnzhong.com/shopping-paralysis/), [here](https://journal.jinnzhong.com/reaching-end-of-rope/), and [here](https://journal.jinnzhong.com/misery/).) 
 
-For me, as well, I was also beginning to question all my hobbies. Especially since I wasn't so much _doing_ hobbies so much as shopping, ranking, and collecting things in my hobbies in-between and during client meetings. My hobbies were more of an escapist distraction to numb myself from my work life than the act of the hobby itself giving me actual satisfying fulfilment. (Mostly because I wasn't actually _doing_ them so much as _circling_ them).
+For me, as well, I was also beginning to question all my hobbies. Especially since I wasn't so much _doing_ hobbies so much as shopping, ranking, and collecting things in my hobbies in-between and during client meetings. My hobbies were more of an escapist distraction to numb myself from my work life than the act of the hobby itself giving me actual satisfying fulfilment. (Mostly because I wasn't actually _doing_ them so much as _circling around_ them).
 
 I have continued to think about this book nonstop since. I am writing this in early 2024, but I'm retroactively dating this journal entry to August of 2022 as most of what I wrote below is a revision of the original newsletter issue I mentioned above.
 
 ## You Are Going to Die One Day
 
-Burkman's _Four Thousand Weeks_ forces us to face two uncomfortable truths that becomes the basis of the entire book:
+Burkeman's _Four Thousand Weeks_ forces us to face two uncomfortable truths that becomes the basis of the entire book:
 
 * One, if you live the average lifespan, you will have about 4,000 weeks on this planet. In other words, there is a finitude to your existence. You don't know when it will end, _but it will end._
 * Two, given that your life is finite... you will **NOT** be able to do everything you want to do. At the end of your life, you will have not checked off everything on your list.
@@ -45,17 +45,17 @@ This message was especially hard for me to swallow despite immediately seeing th
 
 In my twenties and thirties, I fell into the typical ["Ascension Plot Thread"](https://journal.jinnzhong.com/plot-thread-ascension/). I grew up in a lower-class, immigrant blue collar family. We were poor, I didn't want that, and climbing the ladder drove me. 
 
-Fortunately/unfortunately, I was/am too much of an anti-authoritarian individual/weirdo to climb the _corporate_ ladder. But freelancing, business, and investing made sense to me. It was _different_, and because I was (and quite possibly still am) under the delusion that "I'm special/unique", I should go do that instead. After all, why would I do what the rest of the 9-5 population did? 
+Fortunately/unfortunately, I was/am too much of an anti-authoritarian individual/weirdo to climb the _corporate_ ladder. But freelancing, business, and investing made sense to me. It was _different_, and because I was (and most likely still am) under the delusion that "I'm special/unique", I should go do that instead. After all, why would I do what the rest of the 9-5 population did? 
 
-So from the early aughts onwards... I climbed. And blessed with nearly inexhaustible energy, resilient health, and focus/drive... I kept climbing. As an entrepreneur, I was taught (and believed in) the maxims of "act first, and apologize later", "say yes to everything", and "sleep when you're dead". I read nothing but self-help, business, and investing books from 2001-2012 (minus Harry Potter and a few novels).
+So from the early aughts onwards... I climbed. And blessed with nearly inexhaustible energy, resilient health, and unparalleled focus/drive... I kept climbing. As an entrepreneur, I was taught (and believed in) the maxims of "act first, and apologize later", "say yes to everything", and "sleep when you're dead". I read nothing but self-help, business, and investing books from 2001-2012 (minus Harry Potter and a few novels).
 
-At that time, if I didn't reach my goals "fast enough", I truly believed it was because I didn't "manage my time" well enough. That I wasn't hacking my life to be the most efficient enough. That I simply wasn't doing enough, that I needed to focus better, block distractions, to "make time", dissect my days, prioritize, get to inbox zero, use pomodoros, just _get... things... done_.
+At that time, if I didn't reach my goals "fast enough", I truly believed it was because I didn't "manage my time" well enough. That I wasn't hacking my life to be the most efficient enough. That I simply wasn't doing enough, that I just needed to focus better, block distractions, to "make time", dissect my days, prioritize, get to inbox zero, use pomodoros, just _get... things... done_.
 
 And I kept believing that if I was only _better_ and more efficient, I'd be able to _do everything_ and _have it all_.
 
 ## Refusing to Face Our Limitations
 
-And that brings us back to the crux of the book: That we know we're mortal (that we only have 4,000 weeks on average)... but "time management", productivity hackers, and self-help gurus tell us we can live, experience, and do more than the time alloted to us.
+And that brings us back to the crux of the book: That we know we're mortal (that we only have 4,000 weeks on average)... but "time management", productivity hackers, and self-help gurus tell us we can live, experience, and do more than the time alloted to us...
 
 From the book:
 > _We recoil from the notion that this is it – that this life, with all its flaws and inescapable vulnerabilities, its extreme brevity, and our limited influence over how it unfolds, is the only one we'll get a shot at._
@@ -70,9 +70,11 @@ We use avoidance strategies to feel limitless. Avoidance strategies may include:
 
 * Saying yes to everything and not cutting anything. That way, we _believe_ we can have it all. You don't have to say "no" to anything. No tough choices.
 * Procrastinating means we don't actually _do_ the thing we want to do... which prevents actual failure, getting stuck in the uncomfortable muck of learning, and never facing the uncertainty/chaos of the actual activity.
-* Distract ourselves with busyness. Shopping, ranking, collecting, and circling the project/craft/hobby... but never actually pushing forward to do it. It's easier to do, and easier to find time for.
+* Distract ourselves with busyness. Shopping, ranking, collecting, and circling the project/craft/hobby... but never actually pushing forward to do it. Busyness is easier to do, and easier to find time for.
 
-These are all avoidant strategies I've used in one way or another in business, new ventures, and projects I keep saying I want to do.
+In other words, it's simply _easier_ to do these short-term, low-risk activities: saying yes to everything, procrastinating, and distracting busyness. They give us a hit of joy, making us feel invincible or safe (we don't upset anyone, we never face failure, and we get a fake sense of progress). Of course, the cost is never actually going after and acheiving the goals we _want_ to pursue.
+
+These are all avoidant strategies I've used in one way or another in business, new ventures, and projects I keep saying I want to do... but don't do anything about.
 
 Burkeman goes on to dismantle each of these strategies.
 
@@ -121,26 +123,26 @@ So to summarize:
 2. We cannot (and will not) be able to do _everything_.
 3. We use avoidant activites to numb ourselves
    - Say yes to everything and work ourselves to death and/or fail to deliver and feel guilty for not doing well enough
-   - Procrastinate or "circle around" what we actually want to do, because if never start, we can't ever fail.
+   - Procrastinate or "circle around" what we actually want to do, because if we never start, we can't ever fail.
    - Distract ourselves with busyness. Organize, clean, collect, rank, shop... but never actually _doing_ the thing.
 
-What are three "time management" strategies that actually work?
+What are three "time management" strategies that Burkeman actually recommends?
 
-### Pay Yourself First
+### 1. Pay Yourself First
 
 Recognize, that unless you're ultra-wealthy (the top 0.01%)... you will always have an endless list of to-dos. It could be your work, your business, your personal social obligations, your household, and/or just daily life stuff. 
 
-**ACCEPT** that it will never end, and in order to do the stuff you REALLY want to do... you just have to pay the price of letting a few of those to-dos drop off and/or be comfortable with the consequences. 
+**ACCEPT** that it will never end, and in order to do the stuff you REALLY want to do... you just have to pay the price of letting a few of those to-dos drop off and/or be comfortable with the consequences. In other words, you need to say "no" and set boundaries, vanish, and go do your thing. It will upset people and you have to accept that.
 
 Set aside an hour a day, or more or whatever, to do what you really want to do.
 
-### Limit Your Work in Progress
+### 2. Limit Your Work in Progress
 
 When you start too many projects, you are living under the delusion that you're making a little progress on each one and you're moving them all forward. That's just a lie you tell yourself. 
 
 Truth is, nothing gets done. Not really. So instead of "doing everything"... **choose three projects you will complete** and until you've finished one (or quit it), you can't let another one in. You have "three slots". That's it.
 
-### Resist the Allure of Middling Priorities
+### 3. Resist the Allure of Middling Priorities
 
 This one is simple. A lot of what we do in life are "middling". They're not high priorities, or low ones even. They just are. The "fairly interesting opportunity" and the "semi-enjoyable friendship". 
 
@@ -160,13 +162,30 @@ In other words - fantasy is easy. You have 100% control. Reality is hard. You do
 You don't have control over how your "perfect plan" will be met when it hits reality. 
 * Maybe your plan requires collaboration with people (uncertainty). 
 * Maybe your plan requires the value judgment and reactions of people (uncertainty). 
-* Maybe your project is stifled by your lack of resources, talent, energy, finance, whatever... (more uncertainty!) and it's not going to be as perfect as what's in your head.
+* Maybe your project is stifled by your lack of resources, talent, energy, finance, whatever... (more uncertainty!)
 
-So you go back to the daydreaming where everything is perfect. But that is exactly what we must avoid.  From the book:
+Point is - when you _do_ actually do the thing you want to do (project/craft/side-gig)... it's not going to be as perfect as what's in your head. Reality will never match your dream and how you've imagined it. But it's so easy to fall back on daydreaming where everything is perfect. HOWEVER -- that is exactly what we must avoid.  From the book:
+
 > When you try to focus on something you deem important, you're forced to face your limits, an experience that feels especially uncomfortable precisely because the task at hand is one you value so much... you're obliged to give up your godlike fantasies and to experience your lack of power over things you care about.
 >
 > And suddenly, the thing you'd resolved to do, because it mattered to you to do it, feels staggeringly tedious that you can't bare to focus on it for one moment.
 > 
 > This is our attempt to flee a painful encounter with our finitude... and we look for ways to relieve the pain by distracting ourselves: by daydreaming, taking an unnecessary nap, or redesigning your to-do list and reorganizing your desk.
-So what can you do? Is there a magic way to stop this pain so we can get on with the work we believe matters so much to us? The short answer is "no". From the book:
+
+So what can you do? Is there a magical way to stop this pain so we can get on with the work we believe matters so much to us? The short answer is "no". From the book:
+
 > Accept that this unpleasantness is simply what it feels like for finite humans to commit ourselves to the kinds of demanding and valuable tasks that force us to confront our limited control over how our lives unfold.
+
+## Conclusion
+
+To summarize Burke's strategies:
+
+1. Block out time at the cost of upsetting/disappointing people and/or letting a few tasks drop. Those are simply the trade-offs.
+2. Only work on three things at any time. Do not add any project until a slot frees up (either through completion or you've given up on it).
+3. Say no to middling obligations. Say no to unclear requests. Say no to small favors.
+4. Watch out for distractions, procrastination, and busyness. You will be tempted to fall back on these default activities.
+5. Accept that your dream will never match reality when you do it. You are walking into uncertainty and chaos. You will face your limits.
+6. Train yourself to get incrementally better at tolerating the anxiety that comes with uncertainty and chaos. That is the cost of projects/crafts/goals worth pursuing.
+
+I wrote about _Four Thousand Weeks_ again in March of 2023 [here](https://journal.jinnzhong.com/five-questions-from-4000-weeks/)
+
