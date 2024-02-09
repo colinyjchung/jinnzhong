@@ -29,11 +29,17 @@ And here are the difficult realizations I came to realize in doing this exercise
 
 ## Comfort > Discomfort
 
-With client work, I'm pursuing as much comfort as possible by doing as little as possible. I'm not quiet quitting, but I am "lying flat". I am drained by meetings and the environment that veers on toxicity. At my agency and in the last two years of attempt to launch a press, I have had persistent and chronic guilt at not delivering. There is "comfort" in that pushing off and procrastination I suppose, but it's also recognizing that I am -- not so much as "doing too much" -- as I have promised and added too much on to my plate. It's the trap Burke talks about where you say yes to everything, but you don't actually deliver on anything, and then feel horrible for doing that.
+With client work, I'm pursuing as much comfort as possible by doing as little as possible. I'm not quiet quitting, but I am "lying flat". I am drained by meetings and the environment that veers on toxicity. At my agency and in the last two years of attempt to launch a press, I have had persistent and chronic guilt at not delivering. There is "comfort" in that pushing off and procrastination I suppose, but it's also recognizing that I am -- not so much as "doing too much" -- as I have promised and added too much on to my plate. It's the trap Burkeman talks about where you say yes to everything, but you don't actually deliver on anything, and then feel horrible for doing that.
 
-With hobbies, a lot of it are these weird excuses of "in order to" activities. I'm playing (or shopping for) wargames because I want to "learn more" about a battle or war which could potentially be an "in order to" create more realism as a setting in my ficiton... which I am not doing any of. Imrov/Sketch/Standup was my first pure hobby in a long time. I actually _did_ stuff. It wasn't just shopping, gathering, and collecting.
+With hobbies, a lot of it are these weird excuses of "in order to" activities. I'm playing (or shopping for) wargames because I want to "learn more" about a battle or war which could potentially be an "in order to" create more realism as a setting in my ficiton... which I am not doing any of. Improv/Sketch/Standup was my first pure hobby in a long time. I actually _did_ stuff. It wasn't just shopping, gathering, and collecting.
 
 And I hate writing this -- but at this moment, I am on automatic with my family. I am doing the bare minimum. I am not putting in energy and intent into making their lives better. I have failed them. There is a guilt/exhaustion cycle here. "I feel bad but I'm also so tired".
+
+| BE | DO &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | HAVE |
+|:---|:---|:---|
+|Resentful responsibility | <ul><li>work you hate</li><li>work "in order to"</li><li>work for money</li><li>chase at any cost</li><li>work under delusion</li></ul> | the financial resources to fund a middle class family, house, and life you don't fully appreciate or take joy in|
+
+There's a bubbling resentment I've felt this year for all these sacrifices I've made. At the work/projects/clients I committed to in the hopes of a "payoff" that never paid off.
 
 ## Life Projects That Matter (Notes)
 
@@ -64,6 +70,8 @@ And that's the chase and hunt of business, isn't it? You use up the energy of yo
 
 **How many "in-order-to" activities have I done to avoid my actual dream of writing ficiton?** How many hobbies did you take on, how many things did you buy (claiming resource collection - for ideas/worlds), how many educational things did you add to the list?
 
+Here is a non-exhaustive list of "in order to" hobbies that I believed "fed" into writing/telling stories when I just needed to "DO THE WORK"...
+
 | | | |
 |:---|:---|:---|
 |Lego|wargames|courses|
@@ -77,15 +85,9 @@ It is consumption, clearing the decks, adjacent, critique, putting off, and comf
 
 Standup was the only "hobby" that actively forced me to create and deliver content. I had to embarrass myself, push myself out of my comfort zone, add more anxiety by facing my creative demons, iterate on content that was initially shitty, and then set up on stage and perform.
 
-| BE | DO | HAVE |
-|---|---|---|
-|Resentful responsibility | <ul><li>work you hate</li><li>work "in order to"</li><li>work for money</li><li>chase at any cost</li><li>work under delusion</li></ul> | the financial resources to fund a middle class family, house, and life you don't fully appreciate or take joy in|
-
-There's a bubbling resentment I've felt this year for all these sacrifices I've made. At the work/projects/clients I committed to in the hopes of a "payoff" that never paid off.
-
 ## What Do I Really Want?
 
-Is it really fiction? That's just the vehicle I'm choosing. When I look back at the values exercise I did in a group therapy session, it's feeling special, that I did something "great", and I'm recognized for it. Yes, it is vain. But after my first ever standup set, pumping with adrenaline, when I got off the stage, I realized... _this has been missing from my life since my music days_. From piano recitals, to standing up in front of a class because Mr. Stokes felt my writing was worth reading to the class, to performing in choir, and the few times with EG/BC/TK/GT during Christmas and EOY performances, the few times I played bass in front of the church, to being the lead trainer in my eBay department... I knew that PERFORMANCE and getting accolades for it was actually built into my DNA. I had forgotten about it in my 15 years of freelancing. I had gone under the radar and forgot that I _liked_ the audience attention.
+Is it really fiction? That's just the vehicle I'm choosing. When I look back at the values exercise I did in a group therapy session, it's feeling special, that I did something "great", and I'm recognized for it. Yes, it is vain. But after my first ever standup set, pumping with adrenaline, when I got off the stage, I realized... _this has been missing from my life since my music days_. From piano recitals, to standing up in front of a class because Mr. Stokes felt my writing was worth reading to the class, to performing in choir, the few times with EG/BC/TK/GT during Christmas and EOY performances, the few times I played bass in front of the church, to being the lead trainer in my eBay department... I knew that PERFORMANCE and getting accolades for it was actually built into my DNA. I had forgotten about it in my 15 years of freelancing. I had gone under the radar and forgot that I _liked_ (needed?) audience attention.
 
 The three values discovered at that group therapy session: Close Relationships, Meaningful Work, Recognition.
 
@@ -93,9 +95,9 @@ Novel writing, I believe, would hit those last two.
 
 ## Conclusions
 
-Stop thinking you have thirty years to make up for the last 42. Recognize you have 8 years to repair the last 42. You may not have hte time or energy to build if you don't build now. Accept that your life is limited and you don't have much left.
+Stop thinking you have thirty years to make up for the last 42. Recognize you have 8 years to repair the last 42. You may not have the time or energy to build if you don't build now. Accept that your life is limited and you don't have much left.
 
-> We labour at our daily work more ardently and thoughtlessly than is necessary to sustain our life because to is it is even more necessary not to have leisure to stop and think. Haste is universal because everyone is in flight of themselves.
+> We labour at our daily work more ardently and thoughtlessly than is necessary to sustain our life because it is even more necessary not to have leisure to stop and think. Haste is universal because everyone is in flight of themselves.
 >
 > Friedrich Nietzsche
 
