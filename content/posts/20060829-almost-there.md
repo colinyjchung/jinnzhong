@@ -17,7 +17,7 @@ It's important you click on that **Big Blue Button**.
 
 Clicking on that **Big Blue Button** will bring you a stroke of serendipitous luck, unfathomable wealth, and true love. 
 
-I can promise you this because my father added an extra, unnecessary "n" to my name, which makes me an honorary jinn. شبيك لبيك!
+I can promise you this because my father added an extra, unnecessary "n" to my Chinese name, which makes me an honorary jinn. شبيك لبيك!
 
 (Not really).
 
