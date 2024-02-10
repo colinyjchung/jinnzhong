@@ -43,7 +43,7 @@ There's a bubbling resentment I've felt this year for all these sacrifices I've 
 
 ## Life Projects That Matter (Notes)
 
-Burke says that in order to make room for "Life Projects that Matter" (LPM), you need to accept the following conditions:
+Burkeman says that in order to make room for "Life Projects that Matter" (LPM), you need to accept the following conditions:
 * You are **NOT** in control of your time
 * You are **NOT** immune to the painful attacks of reality
 * You are **NOT** confident about the future of these projects
@@ -74,10 +74,7 @@ Here is a non-exhaustive list of "in order to" hobbies that I believed "fed" int
 
 | | | |
 |:---|:---|:---|
-|Lego|wargames|courses|
-|D&D|board games|books|
-|screenplays|podcast|edu podcasts|
-|filmmaking|GFP|TV shows/films|
+|<ul><li>Lego</li><li>D&D</li><li>screenplays</li><li>filmmaking</li></ul>|<ul><li>wargames</li><li>board games</li><li>podcasting</li><li>GFP</li></ul>|<ul><li>courses</li><li>books</li><li>edu podcasts</li><li>TV shows/films</li>|
 
 All of these "in-order-to" hobbies were really distractions, commitment-phobia, and some mind-bending logic of "clearing the decks". I need to do this X first, before Y can happen, wherein X is this "in-order-to" preparation before I could actually sit down and write ficiton. It is truly mind-bending.
 
