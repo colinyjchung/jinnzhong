@@ -109,7 +109,7 @@ Of course -- I also recognize that detoxification could ALSO be an elaborate rus
     * **dr** = 1st draft completed
     * **ed** = edits (before beta/crits) completed
     * **rv** = revisions (post-feedback) completed
-    * **fn** = finished (story or chapter) completed
+    * **fn** = story (or chapter) finished
     * **sb** = submission process begins
 
 [^2]: The most important objective of the **EOW Time Tracking** is to ensure that productive hours _are_ dedicated to actual fiction writing. This is to prevent excuses, distractions, and procrastination activities like... Using "I'm too busy with client work" as an excuse or doing unnecessary "fiction-related" activities (like consuming more craft education, excessive world-building research, and working on marketing stuff when I'm not even published yet!)
