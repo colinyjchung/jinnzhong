@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "NOTES: Story Structure Architect (2005)"
+title = "NOTES: Story Structure Architect (2005), 54 Situations"
 date = "2015-11-01"
 description = "Notes on Story Structure Architect (2005) by Victoria Lynn Schmidt"
 tags = [
@@ -335,7 +335,8 @@ Anguish arising from repetence for past misdeeds or bitter regrets. Sin: murder,
 * **M:** Interrogator pesters culprit
 * **E:** The culprit ends things
 
-## 50. Empathy - deeply feeling another's circumstance
+## 50. Empathy
+Deeply feeling another's circumstance
 * **B:** Empath asked to do harm but refuses or witnesses harm and wants to stop it.
 * **M:** Empath gets in trouble
 * **E:** Empath wins or loses but stays true to self.
