@@ -7,10 +7,11 @@ A non-exhaustive dictionary of abbreviations used in my notes.
 ## FICTION
 
 * **ANTG**: Antagonist
-* **BWO**: B-World aka Belly of the Whale
+* **BWO**: B-World aka Belly of the Whale, triggered by Catalyst
 * **CDA**: Central Dramatic Argument. See my notes on Scriptnotes Ep. 403 [here](https://journal.jinnzhong.com/scriptnotes-403-craig-mazin/) and [here](https://journal.jinnzhong.com/notes-scriptnotes-403-redux/)
 * **CMX**: Climax
-* **DNM**: Denoument
+* **DNM**: Denoument, or Ending
+* **DSR**: Disruption or Inciting Incident
 * **DYNA**: Dynamic Character (the one the main/PROT plays off of)
 * **EGP**: Emotional Gut Punch
 * **LOW**: Low Point aka Dark Night of the Soul, usually penultimate scene (before CMX)
@@ -21,8 +22,21 @@ A non-exhaustive dictionary of abbreviations used in my notes.
    * **A-PROG**: Arc Progress - the emotional arc of a character
    * **P-PROG**: Plot Progress - the events that drive a plot
 * **PROT**: Protagonist
+* **STS**: Stasis - or Ordinary World
 * **SIWC**: [Surrey International Writers' Conference](https://www.siwc.ca), an annual writers' conference 
 * **TTB**: Ticking Time Bomb
+* **WLG**: Wound/Lie/Ghost or backstory
+
+## STORY STRUCTURE IN ORDER
+
+0. **WLG**: Wound/Lie/Ghost or backstory
+1. **STS**: Stasis - or Ordinary World
+2. **DSR**: Disruption or Inciting Incident
+3. **BWO**: B-World aka Belly of the Whale, triggered by Catalyst
+4. **MID**: Midpoint aka The Mirror Moment
+5. **LOW**: Low Point aka Dark Night of the Soul, usually penultimate scene (before CMX)
+6. **CMX**: Climax
+7. **DNM**: Denoument, or Ending
 
 ## GAMES
 
