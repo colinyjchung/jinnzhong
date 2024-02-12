@@ -1,4 +1,4 @@
-.+++
++++
 author = "Jinn Zhong"
 title = "NOTES: Story Structure Architect (2005)"
 date = "2015-11-01"
