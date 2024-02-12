@@ -1,6 +1,6 @@
 .+++
 author = "Jinn Zhong"
-title = "NOTES: Story Structure Architect"
+title = "NOTES: Story Structure Architect (2005)"
 date = "2015-11-01"
 description = "Notes on Story Structure Architect (2005) by Victoria Lynn Schmidt"
 tags = [
