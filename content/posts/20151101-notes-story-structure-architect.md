@@ -28,6 +28,7 @@ Conferring aid of some sort, a charitable gift or deed, an act of goodwill, or a
 * **E:** responds to persecutor
 
 **The Petitioner, Power, & Persecutor Triangle**
+
 In both of the above, you need a **petitioner** (supplicant), **power in authority** (benefactor), and a **persecutor** (someone who judges the action). The petitioner has a need/desperation driven by superstition, fear, laziness, or inertia.
 
 ## 3. Deliverance
@@ -43,6 +44,7 @@ A temporary residence. To spend a certain length of time with a visitor.
 * **E:** Sojourner changes lives for better / worst
 
 **The Unfortunate, Threatener, & Rescuer/Sojourner Triangle**
+
 The **unfortunate** is imprisoned either physically or internally (unhappiness due to circumstance, past trauma, or whatever). The **threatener** is the warden. The **rescuer/sojourner** is the dynamic character who dislodges or loosens the unfortunate from their situation.
 
 ## 5. Vengeance for Crime
@@ -91,6 +93,7 @@ Widespread destruction, catastrophe, or grave misfortune. Four stages: disbelief
 * **E:** Vanquished or endures
 
 **The Victorious Enemy, Messenger, & Fugitive Triangle**
+
 The **enemy** won (or will win). They are on the offensive, stirring shit up, starting a war, or the chase. Or if powerful, doesn't like when someone rocks their boat. The **fugitive**'s job is to run, defend, or make a final stand against the disaster. The messenger may be attacked.
 
 ## 12. Miracle
@@ -209,7 +212,7 @@ Unfailing fulfilment of one's duties, obligations, and strict adherence to vows 
 * **M:** Forced to face loneliness
 * **E:** Cleans up and move on
 
-**NOTE TO SELF:** As I type these out, maybe I was wrong to think I need to start with a clear ending in the ["play phase"](https://journal.jinnzhong.com/short-story-dissection-part-2/#play-like-a-puzzle)? Or maybe I do... eventually, but I still need a triggering event to come up with the shape of the plot points? As in, yes, it's important to work on the MECH, POV, and END... but I can't get the PROG or **shift from PLAY to DRAMATIZATION** without a STS or DSR (or beginning). In other words, it's very hard to get to a MID, LOW and CMX without a STS/DSR first.
+**NOTE TO SELF:** (February 11, 2024). As I type these out, maybe I was wrong to think I need to start with a clear ending in the ["play phase"](https://journal.jinnzhong.com/short-story-dissection-part-2/#play-like-a-puzzle)? Or maybe I do... eventually, but I still need a triggering event to come up with the shape of the plot points? As in, yes, it's important to work on the MECH, POV, and END... but I can't get the PROG or **shift from PLAY to DRAMATIZATION** without a STS or DSR (or beginning). In other words, it's very hard to get to a MID, LOW and CMX without a STS/DSR first.
 
 ## 31. Madness
 Quality or condition of being insane and leads to fury, rage, cruel acts without reason (personal or stranger). 
@@ -223,7 +226,8 @@ Mental superiority, uncommon intellectual power, invent, discovers something. Sm
 * **M:** Tries to get help or hides it.
 * **E:** Helps people or hurts people
 
-## 33. Imprudence - being unwise, indiscreet, lacking caution. Gets in trouble through reckless mistake. Fool or rebel. MOtives: curiousity (nosy), credulity (gullible), jealous (desire), passion
+## 33. Imprudence
+Being unwise, indiscreet, lacking caution. Gets in trouble through reckless mistake. Fool or rebel. Motives: curiousity (nosy), credulity (gullible), jealous (desire), passion
 * **B:** Motivation to do something
 * **M:** Makes hasty decision
 * **E:** Punished
