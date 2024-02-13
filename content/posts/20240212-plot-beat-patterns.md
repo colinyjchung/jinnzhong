@@ -41,10 +41,10 @@ I've broken them down into five types.
 
 ## 5 Types of Inciting Incidents / Disruptions (DSR)
 
-### Ally Attacked
-* Ally is cursed, poisoned, or injured
-* Ally is abducted, caught, or imprisoned
-* Ally is murdered, slain, or wronged
+### Prot/Ally Attacked
+* Prot or Ally is cursed, poisoned, or injured
+* Prot or Ally is abducted, caught, imprisoned, lost, or abandoned
+* Prot or Ally is murdered, slain, or wronged
 
 ### Comes/Goes to Town
 * Stranger comes to town: rival, hero, or new ally
@@ -69,17 +69,17 @@ Similar to gifts, but even more mundane life stages: puberty, new love, new frie
 OK, once the DSR occurs, the PROT can choose to ignore it for a while (the reluctance in the Hero's Journey), but I would assume, in a short story, we don't have time for that and the PROT starts moving. In further thinking about this... It seems to me that the middle tends to be Ms (milieu) or Is (inquiries) in the MICE quotient.
 | DSR | BWO | DNM |
 |:---|:---|:---|
-|Ally hurt| <ul><li>If cure known, **milieu** to go get it.</li><li>If cure unknown, **inquiry** to figure out.</li></ul> | Ally healed |
-|Ally caught|<ul><li>If ally, **milieu** rescue mission</li><li>If hero, **milieu** escape mission</li></ul> | Rescue or Escape |
-|Ally wronged|<ul><li>If persecutor know, **event** revenge</li><li>If persecutor unknown, **inquiry** hunt them</li></ul> | Vengeance|
-|Stranger to town|<ul><li>If rival, **event** contest</li><li>If stranger, **inquiry** what's up w/them?</li><li>If newbie, **event** train/haze</li></ul> | Stranger leaves/stays|
+|Prot or Ally hurt| <ul><li>If cure known, **milieu** to go get it.</li><li>If cure unknown, **inquiry** to figure out.</li></ul> | Ally healed or not |
+|Prot or Ally lost|<ul><li>If ally, **milieu** rescue mission</li><li>If hero, **milieu** escape mission</li></ul> | Rescue or Escape |
+|Prot or Ally wronged|<ul><li>If persecutor known, **event** revenge</li><li>Revenge may be: kill, steal, lawsuit, etc.</li><li>If persecutor unknown, **inquiry** hunt them</li></ul> | Vengeance|
+|Stranger to town|<ul><li>If rival, **event** contest</li><li>If stranger, **inquiry** what's up w/them?</li><li>If newbie, **event** train/haze</li></ul> | Stranger leaves or stays|
 |Reunion | <ul><li>**event** dredge up past, chars change</li></ul> | Separate |
 |Fish≠Water|<ul><li>**milieu**, explore, learn, adapt, climb</li></ul> | Get burnt, survive, or rise to top |
 |White Elephant|<ul><li>**milieu**, ring to Mordor</li><li>**milieu** go to place</li></ul>|destroy or destroyed|
 |Monkey's Paw|<ul><li>**event**, enjoy in 2a, learn in 2b</li></ul> |return gift or be one with it|
 |Mystery Box|<ul><li>**event** figure out what it does</li></ul>| use for good or evil|
 |Life Stage|<ul><li>**event** or **milieu** as **char** goes thru DREAM</li></ul>| Self & others accept change or not|
-|Warning|<ul><li>**event** prep, defend</li></ul>| survived or fended off, or overrun|
+|Warning|<ul><li>**event** prep, defend</li><li>OR **milieu** fetch quest, or solicit help</li></ul>| survived or fended off, or overrun|
 |Glimpse|<ul><li>If institution, **milieu** flee and chased</li><li>if ally, **event** confront, blackmail, expose</li></ul> | Secret out or silenced|
 |Doubt|<ul><li>Faith shaken, **character** talk to others, tested</li></ul> | restored or leaves |
 |Temptation|<ul><li>Wants another hit, **milieu** or **event**</li></ul> | Succcumbs with cost, or resists |
