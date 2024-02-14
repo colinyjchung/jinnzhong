@@ -27,7 +27,7 @@ OK, so after yesterday's breakdown of [plot beat patterns](https://journal.jinnz
 | **8**  | **LETTING GO** (midlife, empty nest, retirement, addiction) | <ul><li>Go on **misadventures** (**M**) to reject change before acceptance (**C**)</li></ul> |
 | **9**  | **SEPARATION** (breakup, divorce, empty nest, death, fired) | <ul><li>Go on **misadventures** (**M**) to deal with loss before acceptance (**C**)</li></ul> |
 | **10** | **WARNING** (threat or rumor of villain, disaster, or bad news coming) | <ul><li>If Alamo, **prep defense and fight** (**M**)</li><li>If Overrun, **prep and run** (**M**)</li></ul> |
-| **11** | **GLIMPSE** (Witness crime due to wrong place, wrong time) | <ul><li>If caught, **flee and expose** (**M**)</li><li>Or if caught, **get sucked into underworld** (M)</li><li>If uncaught, work incognito and **plot exposé** (**E**)</li></ul> |
+| **11** | **GLIMPSE** (Witness crime due to wrong place, wrong time) | <ul><li>If caught, **flee and expose** (**M**)</li><li>Or **get sucked into underworld** (M)</li><li>If uncaught, work incognito and **plot exposé** (**E**)</li></ul> |
 | **12** | **SECRET** (Accidentally see affair, real identity, secret life, real age, scandal) | <ul><li>If caught, **abuse & exploit** (**E**)</li><li>If uncaught, **blackmail & expose** (**E**)</li><li>If reverse, **beg or “deal with it”** (**E**)</li></ul> |
 | **13** | **DOUBT** (Routine, ritual, or rite called into question, blind loyalty shaken) | <ul><li>If first time, **crisis of faith** (**C**)</li><li>If last straw, **start rebellion** (**E**)</li></ul> |
 | **14** | **TASTE** (Routine activity gets an extra boost, wants more of that) | <ul><li>If first time, **chase high** (**E**)</li><li>If addict, **deal with excess** (**C**)</li></ul> |
