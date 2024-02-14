@@ -24,7 +24,7 @@ OK, so after yesterday's breakdown of [plot beat patterns](https://journal.jinnz
 | **5**  | **MONKEY’S PAW** (Gift has hidden costs, side effects, consequences) | <ul><li>Enjoy in 2a, learn in 2b (**E**)</li><li>Quest: deliver, fetch, visit, take over, etc.</li><li>If hero, **win hearts and sacrifice (E)**</li> |
 | **6**  | **MYSTERY BOX** (Gift is of unknown qualities, must figure out what it does) | <ul><li>Go **figure it out** (**I**), fuck around and find out</li></ul> |
 | **7**  | **COMING of AGE** (losing virginity, first love/house/job, coming out, pregnancy)   | <ul><li>Go on **misadventures** (**M**) to discover self and mature (**C**)</li></ul> |
-| **8**  | **LETTING GO** (midlife, empty next, retirement, addiction) | <ul><li>Go on **misadventures** (**M**) to reject change before acceptance (**C**)</li></ul> |
+| **8**  | **LETTING GO** (midlife, empty nest, retirement, addiction) | <ul><li>Go on **misadventures** (**M**) to reject change before acceptance (**C**)</li></ul> |
 | **9**  | **SEPARATION** (breakup, divorce, empty nest, death, fired) | <ul><li>Go on **misadventures** (**M**) to deal with loss before acceptance (**C**)</li></ul> |
 | **10** | **WARNING** (threat or rumor of villain, disaster, or bad news coming) | <ul><li>If Alamo, **prep defense and fight** (**M**)</li><li>If Overrun, **prep and run** (**M**)</li></ul> |
 | **11** | **GLIMPSE** (Witness crime due to wrong place, wrong time) | <ul><li>If caught, **flee and expose** (**M**)</li><li>If uncaught, **plot expose** (**E**)</li></ul> |
