@@ -20,9 +20,9 @@ OK, so after yesterday's breakdown of [plot beat patterns](https://journal.jinnz
 | **1**  | **HURT** (Cursed, Poisoned, Injured)  | <ul><li>If cure known, **go get it** (**M**)</li><li>If cure unknown, **figure it out** (**I**)</li></ul> |
 | **2**  | **LOST** (Abducted, abused, caught, imprisoned, missing, or abandoned) | <ul><li>If ally, **rescue op** (**M**)</li><li>If hero, **escape op** (**M**)</li></ul> |
 | **3**  | **WRONGED** (Murdered, betrayed, raped, conned, lied to) | <ul><li>If perp known, **chase &** **revenge** (**E**).</li><li>May be kill, steal, lawsuit, etc.</li><li>If perp unknown, **figure out who** (**I**)</li></ul> |
-| **4**  | **WHITE ELEPHANT** (Gift bad or a trap, must get rid of or get out of it) | <ul><li>If gift, **ring to Mordor** (**M**)</li><li>If job, **walk into trap** (**M**)</li><li>Quest: deliver, fetch, visit, take over, etc.</li></ul>|
-| **5**  | **MONKEY’S PAW** (Gift has hidden costs, side effects, consequences) | <ul><li>Enjoy in 2a, learn in 2b (**E**)</li><li>Quest: deliver, fetch, visit, take over, etc.</li><li>If hero, **win hearts and sacrifice (E)**</li> |
-| **6**  | **MYSTERY BOX** (Gift is of unknown qualities, must figure out what it does) | <ul><li>Go **figure it out** (**I**), fuck around and find out</li></ul> |
+| **4**  | **WHITE ELEPHANT** (Gift or Quest bad or a trap, must get rid of or get out of it) | <ul><li>If gift, **ring to Mordor** (**M**)</li><li>If job, **walk into trap** (**M**)</li><li>Quest: deliver, fetch, visit, take over, etc.</li></ul>|
+| **5**  | **MONKEY’S PAW** (Gift or Quest has hidden costs, side effects, consequences) | <ul><li>Enjoy in 2a, learn in 2b (**E**)</li><li>Quest: deliver, fetch, visit, take over, etc.</li><li>If hero, **win hearts and sacrifice (E)**</li> |
+| **6**  | **MYSTERY BOX** (Gift or Quest is of unknown qualities, must figure out what it does) | <ul><li>Go **figure it out** (**I**), fuck around and find out</li></ul> |
 | **7**  | **COMING of AGE** (losing virginity, first love/house/job, coming out, pregnancy)   | <ul><li>Go on **misadventures** (**M**) to discover self and mature (**C**)</li></ul> |
 | **8**  | **LETTING GO** (midlife, empty nest, retirement, addiction) | <ul><li>Go on **misadventures** (**M**) to reject change before acceptance (**C**)</li></ul> |
 | **9**  | **SEPARATION** (breakup, divorce, empty nest, death, fired) | <ul><li>Go on **misadventures** (**M**) to deal with loss before acceptance (**C**)</li></ul> |
