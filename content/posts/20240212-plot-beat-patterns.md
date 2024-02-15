@@ -8,6 +8,7 @@ tags = [
     "Story Analysis",
     "Creative Process",
     "Plot Thread",
+    "Plot Beat Patterns",
     "MICE Quotient",
     "Mary Robinette Kowal",
     "MRK Short Story Cohort",
