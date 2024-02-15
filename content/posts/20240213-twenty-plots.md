@@ -8,6 +8,7 @@ tags = [
     "Story Analysis",
     "Creative Process",
     "MICE Quotient",
+    "Plot Beat Patterns",
 ]
 categories = [
     "Craft of Storytelling",
