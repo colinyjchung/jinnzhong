@@ -85,7 +85,7 @@ Doesn't add up to 100% as it excludes the journaling done on Thursday. Not sure 
 
 | Wks Lft | HP |
 | :--- | :--- |
-| 1759/4000 | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:44%;height:15px;background:#006600;font-size:12px; color:white; line-height:12px;">44%</div></div> |
+| 1759/4000 | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:44%;height:15px;background:#006600;font-size:12px; color:white; line-height:12px;">43.975%</div></div> |
 
 Was told by my optometrist I had early signs of cataracts after he dilated my pupils with drops. I won't notice anything because they haven't reached my line-of-sight yet. So it's like (what I would imagine), branching lines on my irises that are currently growing ever so slowly, creeping toward my pupils? The thought of it unsettled me. It's hard not to think of your mortality and aging when you start hearing things like this. Especially since, for some reason, they put my 16yo son in the exam room at the same time as me because I booked the appointments so close together. Later, my wife had to drive us to brunch because everything was so bright. Felt like an useless injured animal. Feeling my mortality alright.
 
