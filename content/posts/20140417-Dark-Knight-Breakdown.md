@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "STUDY: The Dark Knight (2008)"
+title = "BREAKDOWN: The Dark Knight (2008)"
 date = "2014-04-17"
 description = "Breakdown of The Dark Knight (2008)"
 tags = [
