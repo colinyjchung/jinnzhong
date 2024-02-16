@@ -81,7 +81,7 @@ The following is based on logged productive hours using [Timeular](https://timeu
 
 | Wks Lft | HP |
 | :--- | :--- |
-| 1758/4000 | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:44%;height:15px;background:#006600;font-size:12px; color:white; line-height:12px;">44%</div></div> |
+| 1758/4000 | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:44%;height:15px;background:#006600;font-size:12px; color:white; line-height:12px;">43.950%</div></div> |
 
 This past week, my son toured the university where his mother and father met. Not a field trip. Not a special event. A tour of consideration. So yeah, there's that. But as I mentioned above, a lot of the non-actual-fiction-writing activities came about because on Thursday, I spent a great deal of energy reviewing my notes from _Four Thousand Weeks_. 
 
