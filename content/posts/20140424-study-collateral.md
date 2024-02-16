@@ -78,4 +78,6 @@ categories = [
 ## S12 - Battle	
 * Run on to Subway
 * Fire at each other, Max dies
-* Train goes off into night	
+* Train goes off into night
+
+More on [The Twelve Sequences](https://journal.jinnzhong.com/the-twelve-sequences-of-story-beta/)
