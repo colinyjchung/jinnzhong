@@ -9,13 +9,13 @@ tags = [
     "Creative Process",
     "Plot Thread",
     "Blake Snyder",
-    "Save the Cat Goes to the Movies",
+    "Save the Cat Goes to the Movies (2007)",
     "Writing Excuses",
     "Brandon Sanderson",
     "Mary Robinette Kowal",
     "Howard Tayler",
     "Dan Wells",
-    "BYU Writing SF&F Lectures",
+    "BYU Writing SF&F Lectures (2020)",
     "Plot Thread: Romance",
 ]
 categories = [
