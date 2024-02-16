@@ -84,3 +84,4 @@ categories = [
 * Batman kills Dent
 * Final Montage	
 
+More on [The Twelve Sequences](https://journal.jinnzhong.com/the-twelve-sequences-of-story-beta/)
