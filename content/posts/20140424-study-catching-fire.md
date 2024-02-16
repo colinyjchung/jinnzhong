@@ -97,3 +97,5 @@ categories = [
 ## S12 - Battle	
 * Katniss sees rebels talking
 * Gale reveals truth
+
+More on [The Twelve Sequences](https://journal.jinnzhong.com/the-twelve-sequences-of-story-beta/)
