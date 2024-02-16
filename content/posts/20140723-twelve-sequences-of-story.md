@@ -15,6 +15,7 @@ tags = [
     "Save the Cat Goes to the Movies (2007)",
     "The Hero's Journey",
     "Writers' Boot Camp",
+    "The Twelve Sequences",
 ]
 categories = [
     "Craft of Storytelling",
