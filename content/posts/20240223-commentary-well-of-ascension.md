@@ -44,3 +44,5 @@ The following are thoughts and reactions I had _while_ reading _The Well of Asce
 * wait a minute. I’m just now realizing Sanderson sent Vin and Elend away just so we can have a “run to the airport” sequence. Goddamit.
 * ooooooh. It’s his Gandalf saving Helm’s Deep moment. That’s why he’s doing it. 
 * 92% - ha. I my theory of the koloss being controlled by Vin came true… But it still is very satisfying. That’s good writing.
+
+[All other "Live Commentaries" here](https://journal.jinnzhong.com/categories/live-commentary/)
