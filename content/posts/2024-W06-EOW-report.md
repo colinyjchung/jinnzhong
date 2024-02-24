@@ -11,7 +11,7 @@ tags = [
     "The Vietnam War: An Intimate History (2017)",
     "Invisible Man (1952)",
     "Pride and Prejudice (1831)",
-    "We've Always Lived in the Castle (1952)",
+    "We've Always Lived in the Castle (1962)",
     "Four Thousand Weeks (2021)",
     "Warhammer 40,000: Rogue Trader (1987)",
     "Oliver Burkeman",
