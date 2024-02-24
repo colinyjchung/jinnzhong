@@ -1,8 +1,8 @@
 +++
 author = "Jinn Zhong"
-title = "COMMENTARY: We Have Always Lived in the Castle (1962)"
+title = "COMMENTARY: The Well of Ascension (2007)"
 date = "2024-02-23"
-description = "Live Commentary to We Have Always Lived in the Castle (1962)"
+description = "Live Commentary to The Well of Ascension (2007)"
 tags = [
     "The Well of Ascension (2007)",
     "Brandon Sanderson",
