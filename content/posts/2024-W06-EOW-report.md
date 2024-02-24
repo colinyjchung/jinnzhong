@@ -19,6 +19,11 @@ tags = [
     "Jane Austen",
     "Shirley Jackson",
     "Rick Priestley",
+    "pj: AURA",
+    "pj: BECKY",
+    "pj: MEMPHIS",
+    "pj: MOKUSATSU",
+    "pj: VARIANT",
 ]
 categories = [
     "Chasing Black Swans",
