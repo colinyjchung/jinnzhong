@@ -24,6 +24,12 @@ tags = [
     "Brandon Sanderson",
     "Barack Obama",
     "Ogrebeef",
+    "pj: AURA",
+    "pj: BECKY",
+    "pj: MEMPHIS",
+    "pj: MOKUSATSU",
+    "pj: VARIANT",
+    "pj: MINOS",
 ]
 categories = [
     "Chasing Black Swans",
