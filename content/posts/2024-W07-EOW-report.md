@@ -24,12 +24,12 @@ tags = [
     "Brandon Sanderson",
     "Barack Obama",
     "Ogrebeef",
-    "pj: AURA",
-    "pj: BECKY",
-    "pj: MEMPHIS",
-    "pj: MOKUSATSU",
-    "pj: VARIANT",
-    "pj: MINOS",
+    "prj: AURA",
+    "prj: BECKY",
+    "prj: MEMPHIS",
+    "prj: MOKUSATSU",
+    "prj: VARIANT",
+    "prj: MINOS",
 ]
 categories = [
     "Chasing Black Swans",
@@ -48,7 +48,7 @@ categories = [
 
 The following are ongoing fiction writing projects broken down to what stage they're in. Legend in footnote[^1].
 
-| # | pj | st | dr | ed | rv | fn | sb |
+| # | prj | st | dr | ed | rv | fn | sb |
 | :---: | :--- | :---: | :---: | :---: |  :---: |  :---: | :---: |
 | 1 | AURA | 1/6 | 1/6 | X | X | X | X |
 | 2 | BECKY | 1/7 | X | X | X | X | X |
@@ -112,7 +112,7 @@ So much so that I didn't read anything for two days and lost my Storygraph strea
 
 [^1]: LEGEND for **Project Status Dashboard**
 
-    * **pj** = project codename
+    * **prj** = project codename
     * **st** = start date
     * **dr** = 1st draft completed
     * **ed** = edits (before beta/crits) completed
