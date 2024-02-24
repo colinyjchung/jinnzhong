@@ -20,6 +20,11 @@ tags = [
     "Patricia Highsmith",
     "Stranger in a Strange Land (1961)",
     "Robert A. Heinlein",
+    "pj: AURA",
+    "pj: BECKY",
+    "pj: MEMPHIS",
+    "pj: MOKUSATSU",
+    "pj: VARIANT",
 ]
 categories = [
     "Chasing Black Swans",
