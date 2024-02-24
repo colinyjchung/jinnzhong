@@ -16,10 +16,11 @@ categories = [
     "Craft of Storytelling",
 ]
 +++
+{{< toc >}}
 
 What drives story? Tension. Tension is what keeps the reader reading. What breaks tension? Relief.
 
-Still having trouble "just going" on the prose and dramatization side... even after doing thumbnail sketches. Went down this rabbit hole this past week after attempting to attack the first scene of prj:MINOS even tho I had it outlined. Was stuck and realized I was still worldbuilding and not creating actual story action. Realized I didn't give the character a clear goal and stakes...but more importantly, realized I wasn't adding tension to the scene.
+Still having trouble "just going" on the prose and dramatization side... even after doing thumbnail sketches and outlines. Went down this rabbit hole this past week after attempting to attack the first scene of [prj:MINOS](https://journal.jinnzhong.com/tags/prj-minos/) even tho I had it outlined. Was stuck and realized I was still worldbuilding and not creating actual story action. Realized I didn't give the character a clear goal and stakes...but more importantly, realized I wasn't adding tension to the scene. So I asked myself, _what drives a story forward_? What causes _story action_? 
 
 ## Existential Life-or-Death
 
