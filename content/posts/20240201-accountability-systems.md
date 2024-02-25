@@ -11,7 +11,7 @@ tags = [
     "Anthony Rhone",
     "Dave Dixon",
     "John Pedersen",
-    "L.L. Macrae",
+    "L.L. MacRae",
     "Dogwood Daniels",
     "Nicholas Brack",
     "LK",
