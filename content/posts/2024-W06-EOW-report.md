@@ -24,6 +24,7 @@ tags = [
     "prj: MEMPHIS",
     "prj: MOKUSATSU",
     "prj: VARIANT",
+    "EOW Reports",
 ]
 categories = [
     "Chasing Black Swans",
