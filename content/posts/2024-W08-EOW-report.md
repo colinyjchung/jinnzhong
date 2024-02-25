@@ -32,6 +32,7 @@ tags = [
     "prj: VARIANT",
     "prj: MINOS",
     "prj: YOKO",
+    "EOW Reports",
 ]
 categories = [
     "Chasing Black Swans",
