@@ -30,6 +30,7 @@ tags = [
     "prj: MOKUSATSU",
     "prj: VARIANT",
     "prj: MINOS",
+    "EOW Reports",
 ]
 categories = [
     "Chasing Black Swans",
