@@ -1,11 +1,36 @@
 +++ 
 author = "Jinn Zhong" 
-title = "Books Read 2024 ()" 
+title = "Books Read 2024 (12)" 
 date = "2024-12-31" 
 description = "None Yet"
 tags = [
     "Books Read",
     "Media Consumption",
+    "Wolf Hall (2009)",
+    "Hilary Mantel",
+    "Leslie F*cking Jones (2023)",
+    "Leslie Jones",
+    "Henry IV: Part 2 (1597)",
+    "William Shakespeare",
+    "This is How You Lose the Time War (2019)",
+    "Amal El-Mohtar",
+    "Max Gladstone",
+    "On Earth We're Briefly Gorgeous (2019),
+    "Ocean Vuong",
+    "No Time Like the Future (2019)",
+    "Michael J. Fox",
+    "Planetfall (2015)",
+    "Emma Newman",
+    "Shubeik Lubeik (2017)",
+    "Deena Mohamed",
+    "Invisible Man (1952)",
+    "Ralph Ellison",
+    "The Vietnam War (2017)",
+    "Geoffrey Ward",
+    "We Have Always Lived in the Castle (1962)",
+    "Shirley Jackson",
+    "The Well of Ascension (2007)",
+    "Brandon Sanderson",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -17,15 +42,15 @@ categories = [
 |1/11| :book: | Wolf Hall | 2009 | Hilary Mantel |
 |1/11| :headphones: | Leslie F*cking Jones | 2023 | Leslie Jones |
 |1/13| :headphones: | Henry IV: Part 2 | 1597 | William Shakespeare |
-|1/14| :book: | This is How You Lose the Time War | 2019 | El-Mohtar & Gladston |
+|1/14| :book: | This is How You Lose the Time War[^1] | 2019 | El-Mohtar & Gladston |
 |1/16| :headphones: | On Earth We're Briefly Gorgeous | 2019 | Ocean Vuong |
 |1/19| :headphones: | No Time Like the Future | 2020 | Micheal J.  Fox |
 |1/21| :book: | Planetfall | 2015 | Emma Newman |
 |1/24|:book:| Shubeik Lubeik | 2017 | Deena Mohamed |
-|2/5|:book:| Invisible Man | 1952 | Ralph Ellison |
+|2/5|:book:| Invisible Man[^2] | 1952 | Ralph Ellison |
 |2/8|:headphones:| The Vietnam War | 2017 | Geoffrey C. Ward |
-|2/16|:headphones:| We Have Always Lived in the Castle | 1962 | Shirley Jackson |
-|2/23|:headphones:| The Well of Ascension | 2007 | Brandon Sanderson |
+|2/16|:headphones:| We Have Always Lived in the Castle[^3] | 1962 | Shirley Jackson |
+|2/23|:headphones:| The Well of Ascension[^4] | 2007 | Brandon Sanderson |
   
 ## YEAR END TOTALS:
 |type|total|%|
@@ -53,3 +78,7 @@ categories = [
 
 [Previous "Book Reads"](https://journal.jinnzhong.com/tags/books-read/)
 
+[^1]: Live Commentary [here](https://journal.jinnzhong.com/commentary-this-is-how-you-lose-the-time-war-2019/)
+[^2]: Live Commentary [here](https://journal.jinnzhong.com/commentary-invisible-man-1952/)
+[^3]: Live Commentary [here](https://journal.jinnzhong.com/commentary-we-have-always-lived-in-the-castle-1962/)
+[^4]: Live Commentary [here](https://journal.jinnzhong.com/commentary-the-well-of-ascension-2007/)
