@@ -108,6 +108,8 @@ Of course -- I also recognize that detoxification could ALSO be an elaborate rus
 * I've pledged my first crowdfunded project of 2024: DCC's Purple Planet module. It won't be charged until early March. If I can keep up this "spending fast" for 2024, it will have been a little over two months. It's a silly metric to track, but the awareness of it prevents me from hoarding books, games, collectibles, RPGs, etc. It's a forcing function for consumption if you will.
 * Started _Pride and Prejudice_ (1813) and also _We've Always Lived in the Castle_ (1952)
 
+Archive all EOW reports [here](https://journal.jinnzhong.com/tags/eow-reports/)
+
 [^1]: LEGEND for **Project Status Dashboard**
 
     * **prj** = project codename
