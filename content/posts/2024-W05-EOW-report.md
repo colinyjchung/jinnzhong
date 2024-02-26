@@ -101,6 +101,8 @@ Was told by my optometrist I had early signs of cataracts after he dilated my pu
 * It's February and I still haven't bought a single book, board game, or RPG in 2024. This is a huge success compared to when I wrote about [Running Numbers](https://journal.jinnzhong.com/running-numbers/). Of course, I'm also restraining myself because one, MRK's Short Story Cohort is where I'm putting the budget... and two, I picked up a huge bag of books that had collected over the last three months at the Glausers. Books I had ordered from Thriftbooks. I'm talking at least 30 books. So yeah, I'm good.
 * I am _almost_ done Ralph Ellison's _Invisible Man_ (1952). Really want to move on to Jane Austen next. Feel terrible that at age 43, I still haven't read a single Austen novel. Want to knock off all six this year. Also want to start Highsmith's Ripley trilogy. Still struggling with _Stranger in a Strange Land_ (1961).
 
+Archive all EOW reports [here](https://journal.jinnzhong.com/tags/eow-reports/)
+
 [^1]: LEGEND for **Project Status Dashboard**
 
     * **prj** = project codename
