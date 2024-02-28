@@ -1,4 +1,4 @@
-+++
+z+++
 title = "About"
 +++
 
@@ -10,6 +10,6 @@ His favorite novels are _Cloud Atlas_ (2004), _Dune_ (1965), and _Ancillary Just
 
 Jinn is a founding member of the [Garage Fiction Podcast](https://www.garagefiction.com).
 
-![Alt text](https://raw.githubusercontent.com/colinyjchung/jinnzhong/main/images/paperfox-full.jpg)
+![Origami Paper Fox](https://raw.githubusercontent.com/colinyjchung/jinnzhong/main/images/paperfox-full.jpg)
 
 IRL, Jinn is a marketing consultant based in Vancouver BC, a historical wargame & OSR enthusiast, and father of three monsters.
