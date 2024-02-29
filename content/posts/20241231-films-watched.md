@@ -1,10 +1,11 @@
 +++
 author = "Jinn Zhong"
-title = "Films & Shows Watched 2024 (8)"
+title = "Films & Shows Watched 2024 (9)"
 date = "2024-12-31"
 description = "All the movies & TV shows I saw in 2024"
 tags = [
     "Films Watched",
+    "TV Shows Watched",
     "Media Consumption",
     "Are You There God? It's Me, Margaret. (2023)",
     "Saltburn (2023)",
@@ -13,6 +14,7 @@ tags = [
     "May December (2023),
     "Still: A Michael J. Fox Movie (2023)",
     "Echo (2024 Miniseries)",
+    "The Bear (2022-)"
 ]
 categories = [
     "Unnecessary Tracking",
@@ -28,6 +30,7 @@ categories = [
 |2/15| :tv: | Still: A Michael J. Fox Movie (2023) | |
 |2/17| :tv: | Echo _miniseries_ (2024) | |
 |2/17| :tv: | The Marvels (2023) | _rewatch_[^1] |
+|2/28| :tv: | The Bear S1 (2022) | |
 
 
 [Previous "Films Watched" Here](https://journal.jinnzhong.com/tags/films-watched/)
