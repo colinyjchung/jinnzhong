@@ -11,10 +11,10 @@ tags = [
     "Saltburn (2023)",
     "Past Lives (2023)",
     "The Marvels (2023)",
-    "May December (2023),
+    "May December (2023)",
     "Still: A Michael J. Fox Movie (2023)",
     "Echo (2024 Miniseries)",
-    "The Bear (2022-)"
+    "The Bear (2022-)",
 ]
 categories = [
     "Unnecessary Tracking",
