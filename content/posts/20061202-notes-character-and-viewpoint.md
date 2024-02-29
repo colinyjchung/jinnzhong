@@ -1,7 +1,7 @@
 +++
 author = "Jinn Zhong"
 title = "NOTES: Characters and Viewpoint (1988) by Orson Scott Card"
-date = "2013-06-03"
+date = "2006-12-02"
 description = "NOTES: Characters and Viewpoint (1988) by Orson Scott Card"
 tags = [
     "Craft of Writing",
