@@ -15,7 +15,7 @@ tags = [
     "This is How You Lose the Time War (2019)",
     "Amal El-Mohtar",
     "Max Gladstone",
-    "On Earth We're Briefly Gorgeous (2019),
+    "On Earth We're Briefly Gorgeous (2019)",
     "Ocean Vuong",
     "No Time Like the Future (2019)",
     "Michael J. Fox",
