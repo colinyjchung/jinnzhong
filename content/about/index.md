@@ -2,7 +2,7 @@
 title = "About"
 +++
 
-Jinn is a paper fox wandering the suburban wilds of the Pacific Northwest. 
+Jinn is a paper fox wandering the suburban wilds of the Pacific Northwest.
 
 As an aspiring novelist, his current interests and areas of study include: The Renaissance and the Reformation during the 16th century... military tactics and technology (from early modern to present day)... and elements of the esoteric and occult, esp. the Tarot.
 
