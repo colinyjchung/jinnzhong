@@ -7,7 +7,7 @@ A project dashboard for what's being worked on.
 ## Works in Progress
 
 | # | prj | st | dr | ed | rv | fn | 
-| :---: | :--- | :---: | :---: | :---: |  :---: |  :---: |
+| :---: | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [AURA](https://journal.jinnzhong.com/tags/prj-aura/) | 24/1/6 | 24/1/6 | X | X | X | 
 | 2 | [BECKY](https://journal.jinnzhong.com/tags/prj-becky/) | 24/1/7 | X | X | X | X | 
 | 3 | [MEMPHIS](https://journal.jinnzhong.com/tags/prj-memphis/) | 24/1/14 | X | X | X | X | 
