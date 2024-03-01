@@ -14,4 +14,16 @@ A project dashboard for what's being worked on.
 | 4 | [MOKUSATSU](https://journal.jinnzhong.com/tags/prj-mokusatsu/) | 24/1/21 | X | X | X | X | 
 | 5 | [VARIANT](https://journal.jinnzhong.com/tags/prj-variant/) | 24/1/28 | 24/1/29 | X | X | X | X | 
 | 6 | [MINOS](https://journal.jinnzhong.com/tags/prj-minos/) | 24/2/11 | 24/2/27 | X | X | X | X | 
-| 7 | [YOKO](https://journal.jinnzhong.com/tags/prj-yoko/) | 24/2/18 | X | X | X | X | X | 
+| 7 | [YOKO](https://journal.jinnzhong.com/tags/prj-yoko/) | 24/2/18 | X | X | X | X | X |
+
+(Legend in Footnote[^1])
+
+
+[^1]: LEGEND for **Project Status Dashboard**
+
+    * **prj** = project codename
+    * **st** = start date
+    * **dr** = 1st draft completed
+    * **ed** = edits (before beta/crits) completed
+    * **rv** = revisions (post-feedback) completed
+    * **fn** = story (or chapter) finished
