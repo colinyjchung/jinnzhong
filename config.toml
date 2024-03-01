@@ -37,18 +37,25 @@ pygmentsUseClasses = true
     weight = 30
 
 [[menu.main]]
+    identifier = "projects"
+    name = "prjs"
+    title = "prjs"
+    url = "/projects/"
+    weight = 40
+    
+[[menu.main]]
     identifier = "cipher"
     name = "cphr"
     title = "cphr"
     url = "/cipher/"
-    weight = 40
+    weight = 50
 
 [[menu.main]]
     identifier = "about"
     name = "abt"
     title = "abt"
     url = "/about/"
-    weight = 50
+    weight = 60
 
 [permalinks]
   posts = "/:title/"
