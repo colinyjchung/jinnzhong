@@ -15,6 +15,7 @@ tags = [
     "Still: A Michael J. Fox Movie (2023)",
     "Echo (2024 Miniseries)",
     "The Bear (2022-)",
+    "Dune: Part Two (2024)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -31,6 +32,7 @@ categories = [
 |2/17| :tv: | Echo _miniseries_ (2024) | |
 |2/17| :tv: | The Marvels (2023) | _rewatch_[^1] |
 |2/28| :tv: | The Bear S1 (2022) | |
+|3/1|:movie_camera:| Dune: Part Two (2024) |IMAX|
 
 
 [Previous "Films Watched" Here](https://journal.jinnzhong.com/tags/films-watched/)
