@@ -8,13 +8,13 @@ A project dashboard for what's being worked on.
 
 | # | prj | st | dr | ed | rv | fn | 
 | :---: | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [AURA](https://journal.jinnzhong.com/tags/prj-aura/) | 1/6<sub>('24)</sub> | 1/6<sub>('24)</sub> | X | X | X | 
-| 2 | [BECKY](https://journal.jinnzhong.com/tags/prj-becky/) | 1/7<sub>('24)</sub> | X | X | X | X | 
-| 3 | [MEMPHIS](https://journal.jinnzhong.com/tags/prj-memphis/) | 1/14<sub>('24)</sub> | X | X | X | X | 
-| 4 | [MOKUSATSU](https://journal.jinnzhong.com/tags/prj-mokusatsu/) | 1/21<sub>('24)</sub> | X | X | X | X | 
-| 5 | [VARIANT](https://journal.jinnzhong.com/tags/prj-variant/) | 1/28<sub>('24)</sub> | 1/29<sub>('24)</sub> | X | X | X | X | 
-| 6 | [MINOS](https://journal.jinnzhong.com/tags/prj-minos/) | 2/11<sub>('24)</sub> | 2/27<sub>('24)</sub> | X | X | X | X | 
-| 7 | [YOKO](https://journal.jinnzhong.com/tags/prj-yoko/) | 2/18<sub>('24)</sub> | X | X | X | X | X |
+| 1 | [AURA](https://journal.jinnzhong.com/tags/prj-aura/) | 1/6 | 1/6 | X | X | X | 
+| 2 | [BECKY](https://journal.jinnzhong.com/tags/prj-becky/) | 1/7 | X | X | X | X | 
+| 3 | [MEMPHIS](https://journal.jinnzhong.com/tags/prj-memphis/) | 1/14 | X | X | X | X | 
+| 4 | [MOKUSATSU](https://journal.jinnzhong.com/tags/prj-mokusatsu/) | 1/21 | X | X | X | X | 
+| 5 | [VARIANT](https://journal.jinnzhong.com/tags/prj-variant/) | 1/28 | 1/29 | X | X | X | X | 
+| 6 | [MINOS](https://journal.jinnzhong.com/tags/prj-minos/) | 2/11 | 2/27 | X | X | X | X | 
+| 7 | [YOKO](https://journal.jinnzhong.com/tags/prj-yoko/) | 2/18 | X | X | X | X | X |
 
 (Legend in Footnote[^1])
 
