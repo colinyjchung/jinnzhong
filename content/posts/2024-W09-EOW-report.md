@@ -108,7 +108,7 @@ The biggest thing is getting hurt again by my 27-year-old habit of completing pr
 * Crap. _Hero of Ages_ (2008) became available on Libby. Need to wrap up Obama and then 2.3X this.
 * Knocked off another 10, 12% on _Stranger in a Strange Land_. Haven't touched _Pride and Prejudice_ all week. I'm on the cusp/brink of hate-reading Heinlein at this point. It's skewering culture/society in a tongue-in-cheek way and I just don't care for it. One, because it's a sixty-year-old POV and a lot of it doesn't apply anymore or is weird. Two, because it's _not_ storytelling. It's the author being clever and inserting his platform here. Dramatize shit or get out, that's all I care about now in my fiction/storytelling. I mean, yes, I want theme and social commentary, but _hide that shit_. Do it in an oblique, poetic way. Do it so I, as the reader, have to discover it. Don't outright tell me what your thoughts are!
 
-Archive all EOW reports [here](https://journal.jinnzhong.com/tags/eow-reports/)
+Archive of all EOW reports [here](https://journal.jinnzhong.com/tags/eow-reports/)
 
 [^1]: LEGEND for **Project Status Dashboard**
 
