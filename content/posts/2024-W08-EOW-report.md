@@ -111,7 +111,7 @@ Yeah, a lot of "adulting" this week in terms of things happening in my circle. E
 * GMT Games charged me for _France '40_ (2013) this past week. I could've stopped it, like I could've stopped all the Simonitch 'XX ZOC-Bond games, but I didn't. I dunno. I still have some vague hope that in some non-existent future, I'll sit down and play these games. I figure with the low counters density, the simple ruleset of ZOC-Bonds, and that these maps actually fit on my desk... I dunno. I just dunno. This is someone who just put five wargames into a box and stuck packing tape on it.
 * Still reading _Pride and Prejudice_ and _Stranger in a Strange Land_ here and there. But one day before I was almost done _Well of Ascension_, _A Promised Land_ became available in Libby. So I'm starting that. On one hand, I enjoyed and I _am_ enjoying the two books... but on another, I don't like being dictated to when I can consume a book or not. I might just treat the books I get via Libby with a more _laissez-faire_ attitude instead of going HAM gamifying it by scheduling when holds come through or not. Everything takes up bandwidth and I just need to keep cutting and cutting. If it doesn't help me move forward on _actually writing fiction_, I just need to cut it. Sell it, archive it, delay it, move it, ignore it.
 
-Archive all EOW reports [here](https://journal.jinnzhong.com/tags/eow-reports/)
+Archive of all EOW reports [here](https://journal.jinnzhong.com/tags/eow-reports/)
 
 [^1]: LEGEND for **Project Status Dashboard**
 
