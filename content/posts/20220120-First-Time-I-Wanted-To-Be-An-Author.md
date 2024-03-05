@@ -7,6 +7,9 @@ tags = [
     "Craft of Writing",
     "Creative Process",
     "The Struggle",
+    "Paolo Bacigalupi",
+    "Nancy Kress",
+    "Daryl Gregory",
 ]
 categories = [
     "Chasing Black Swans",
