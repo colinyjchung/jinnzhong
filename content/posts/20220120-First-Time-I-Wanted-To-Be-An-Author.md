@@ -32,7 +32,7 @@ But after that, I didn't really pursue it.
 I didn't write stories as a hobby or anything. 
 I imagined stuff but didn't write it down. 
 
-In high school, I shifted to waiting to be a musician. 
+In high school, I shifted to wanting to be a musician. 
 This was a decade long love affair until I gave up when I was 22 or 23. 
 That's when I thought about storytelling again. 
 After I accepted I'd never go to NYC to be a singer-songwriter or anything like that. 
@@ -94,10 +94,11 @@ Ended up spending more time on the podcasting and group management than actual w
 
 Worst - never quite finished a story.
 Wrote a lot of beginnings but got stuck on middles and endings.
+(You can read all the Garage Fiction Podcast stories [here](https://journal.jinnzhong.com/categories/old-fiction/). They're the ones that start with "GFP".)
 
 By late 2015, I started to run into money issues.
 I basically neglected my business at this time.
-So it went into the backburner again in 2016.
+So fiction went back to the backburner again in 2016.
 
 And here we are.
 
