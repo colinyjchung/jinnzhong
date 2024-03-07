@@ -1,6 +1,6 @@
 +++ 
 author = "Jinn Zhong" 
-title = "Books Read 2024 (12)" 
+title = "Books Read 2024 (13)" 
 date = "2024-12-31" 
 description = "None Yet"
 tags = [
@@ -31,6 +31,9 @@ tags = [
     "Shirley Jackson",
     "The Well of Ascension (2007)",
     "Brandon Sanderson",
+    "Opening Up by Writing It Down (2016),
+    "Joshua M. Smyth",
+    "James W. Pennebaker",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -51,6 +54,7 @@ categories = [
 |2/8|:headphones:| The Vietnam War (2017) | Geoffrey C. Ward | |
 |2/16|:headphones:| We Have Always Lived in the Castle (1962) | Shirley Jackson |[cmt](https://journal.jinnzhong.com/commentary-we-have-always-lived-in-the-castle-1962/)|
 |2/23|:headphones:| The Well of Ascension (2007) | Brandon Sanderson |[cmt](https://journal.jinnzhong.com/commentary-the-well-of-ascension-2007/)|
+|3/7|:book:| Opening Up by Writing It Down (2016) | Smyth & Pennebaker | |
   
 ## YEAR END TOTALS:
 |type|total|%|
@@ -62,7 +66,7 @@ categories = [
 |his:| 3 | |
 |rpg:| 0 | |
 |sci:| 0 | |
-|wis:| 0 | |
+|wis:| 1 | |
 |biz:| 0 | |
 
 ## LEGEND
