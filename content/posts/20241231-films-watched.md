@@ -33,6 +33,7 @@ categories = [
 |2/17| :tv: | The Marvels (2023) | _rewatch_[^1] |
 |2/28| :tv: | The Bear S1 (2022) | |
 |3/1|:movie_camera:| Dune: Part Two (2024) |IMAX|
+|3/8|:tv:| Money Heist P1 (2017) | | 
 
 
 [Previous "Films Watched" Here](https://journal.jinnzhong.com/tags/films-watched/)
