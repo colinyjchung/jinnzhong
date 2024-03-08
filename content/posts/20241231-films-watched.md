@@ -16,6 +16,7 @@ tags = [
     "Echo (2024 Miniseries)",
     "The Bear (2022-)",
     "Dune: Part Two (2024)",
+    "Money Heist (2017-2021)",
 ]
 categories = [
     "Unnecessary Tracking",
