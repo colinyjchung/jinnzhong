@@ -112,3 +112,5 @@ Because the prot is thrown into chaos, they need to first figure out how much tr
 * Sanderson, Brandon, Mary Robinette Kowal, Howard Tayler, and Dan Wells, hosts. "11.30: Elemental Thriller Q&A." Writing Excuses, season 11, episode 30, Dragonsteel Production, 24 July 2016, https://writingexcuses.com/11-30-elemental-thriller-qa/
 * "Lecture #2: Plot Part 1 — Brandon Sanderson on Writing Science Fiction and Fantasy" YouTube, uploaded by Brandon Sanderson, January 29, 2020, https://youtu.be/jrIogch5DBU
 * "Lecture #3: Plot Part 2 — Brandon Sanderson on Writing Science Fiction and Fantasy" YouTube, uploaded by Brandon Sanderson, February 12, 2020, https://youtu.be/Qgbsz7Gnrd8
+
+All other [plot thread notes here](https://journal.jinnzhong.com/tags/plot-thread/)
