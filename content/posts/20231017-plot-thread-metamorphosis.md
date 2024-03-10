@@ -89,3 +89,6 @@ Some questions to ask when you develop this story.
 * Sanderson, Brandon, Mary Robinette Kowal, Howard Tayler, and Dan Wells, hosts. "11.13: Elemental Idea Q&A."Writing Excuses, season 11, episode 13, Dragonsteel Production, 27 March 2016, https://writingexcuses.com/11-13-elemental-idea-qa/
 * "Lecture #2: Plot Part 1 — Brandon Sanderson on Writing Science Fiction and Fantasy"YouTube, uploaded by Brandon Sanderson, January 29, 2020, https://youtu.be/jrIogch5DBU
 * "Lecture #3: Plot Part 2 — Brandon Sanderson on Writing Science Fiction and Fantasy"YouTube, uploaded by Brandon Sanderson, February 12, 2020, https://youtu.be/Qgbsz7Gnrd8
+
+
+All other [plot thread notes here](https://journal.jinnzhong.com/tags/plot-thread/)
