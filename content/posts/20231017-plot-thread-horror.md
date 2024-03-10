@@ -66,3 +66,6 @@ The key theme of horror is there are some things in life where you lose control 
 * Sanderson, Brandon, Mary Robinette Kowal, Howard Tayler, and Dan Wells, hosts. "11.21: Q&A on Elemental Horror, with Steve Diamond." _Writing Excuses_, season 11, episode 21, Dragonsteel Production, 22 May 2016, [https://writingexcuses.com/11-21-qa-on-elemental-horror-with-steve-diamond/](https://writingexcuses.com/11-21-qa-on-elemental-horror-with-steve-diamond/)
 * "Lecture #2: Plot Part 1 — Brandon Sanderson on Writing Science Fiction and Fantasy" _YouTube_, uploaded by Brandon Sanderson, January 29, 2020, [https://youtu.be/jrIogch5DBU](https://youtu.be/jrIogch5DBU)
 * "Lecture #3: Plot Part 2 — Brandon Sanderson on Writing Science Fiction and Fantasy" _YouTube_, uploaded by Brandon Sanderson, February 12, 2020, [https://youtu.be/Qgbsz7Gnrd8](https://youtu.be/Qgbsz7Gnrd8)
+
+
+All other [plot thread notes here](https://journal.jinnzhong.com/tags/plot-thread/)
