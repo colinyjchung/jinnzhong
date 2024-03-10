@@ -69,3 +69,6 @@ When you're creating a mystery... You want to stay one step ahead of the reader 
 * Sanderson, Brandon, Mary Robinette Kowal, Howard Tayler, and Dan Wells, hosts. "11.26: Elemental Mystery Q&A." _Writing Excuses_, season 11, episode 26, Dragonsteel Production, 26 June 2016, https://writingexcuses.com/11-26-elemental-mystery-qa/
 * "Lecture #2: Plot Part 1 — Brandon Sanderson on Writing Science Fiction and Fantasy" _YouTube_, uploaded by Brandon Sanderson, January 29, 2020, https://youtu.be/jrIogch5DBU
 * "Lecture #3: Plot Part 2 — Brandon Sanderson on Writing Science Fiction and Fantasy" _YouTube_, uploaded by Brandon Sanderson, February 12, 2020, https://youtu.be/Qgbsz7Gnrd8
+
+
+All other [plot thread notes here](https://journal.jinnzhong.com/tags/plot-thread/)
