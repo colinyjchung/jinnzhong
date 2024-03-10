@@ -31,7 +31,7 @@ tags = [
     "Shirley Jackson",
     "The Well of Ascension (2007)",
     "Brandon Sanderson",
-    "Opening Up by Writing It Down (2016),
+    "Opening Up by Writing It Down (2016)",
     "Joshua M. Smyth",
     "James W. Pennebaker",
 ]
