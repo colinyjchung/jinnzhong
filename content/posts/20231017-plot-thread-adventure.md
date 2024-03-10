@@ -109,3 +109,6 @@ They need to be interdependent and their different skills complement each other.
 * Sanderson, Brandon, Mary Robinette Kowal, Howard Tayler, and Dan Wells, hosts. "11.52: Elemental Ensemble Q&A, With Claudia Gray." _Writing Excuses_,season 11,episode 51, Dragonsteel Production, 24 December 2016, [https://writingexcuses.com/11-52-elemental-ensemble-qa-with-claudia-gray/](https://writingexcuses.com/11-52-elemental-ensemble-qa-with-claudia-gray/)
 * "Lecture #2: Plot Part 1 — Brandon Sanderson on Writing Science Fiction and Fantasy"YouTube, uploaded by Brandon Sanderson, January 29, 2020, [https://youtu.be/jrIogch5DBU](https://youtu.be/jrIogch5DBU)
 * "Lecture #3: Plot Part 2 — Brandon Sanderson on Writing Science Fiction and Fantasy"YouTube, uploaded by Brandon Sanderson, February 12, 2020, [https://youtu.be/Qgbsz7Gnrd8](https://youtu.be/Qgbsz7Gnrd8)
+
+
+All other [plot thread notes here](https://journal.jinnzhong.com/tags/plot-thread/)
