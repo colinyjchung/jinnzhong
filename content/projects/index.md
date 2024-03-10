@@ -15,6 +15,8 @@ A project dashboard for what's being worked on.
 | 5 | [VARIANT](https://journal.jinnzhong.com/tags/prj-variant/) | 1/28 | 1/29 | X | X | X | X | 
 | 6 | [MINOS](https://journal.jinnzhong.com/tags/prj-minos/) | 2/11 | 2/27 | X | X | X | X | 
 | 7 | [YOKO](https://journal.jinnzhong.com/tags/prj-yoko/) | 2/18 | X | X | X | X | X |
+| 8 | [STAR](https://journal.jinnzhong.com/tags/prj-star/) | 3/3 | X | X | X | X | X |
+| 9 | [BELLA](https://journal.jinnzhong.com/tags/prj-bella/) | 3/10 | X | X | X | X | X |
 
 (Legend in Footnote[^1])
 
