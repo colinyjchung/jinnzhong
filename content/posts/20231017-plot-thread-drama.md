@@ -84,3 +84,6 @@ You'll want the Prot to deal with a Dyna (Dynamic Character) to keep a story sim
 * Sanderson, Brandon, Mary Robinette Kowal, Howard Tayler, and Dan Wells, hosts. "11.43: Elemental Drama Q&A, With Tananarive Due." _Writing Excuses_, season 11, episode 43, Dragonsteel Production, 23 October 2016, https://writingexcuses.com/11-43-elemental-drama-qa-with-tananarive-due/
 * "Lecture #2: Plot Part 1 — Brandon Sanderson on Writing Science Fiction and Fantasy" _YouTube_, uploaded by Brandon Sanderson, January 29, 2020, https://youtu.be/jrIogch5DBU
 * "Lecture #3: Plot Part 2 — Brandon Sanderson on Writing Science Fiction and Fantasy" _YouTube_, uploaded by Brandon Sanderson, February 12, 2020, https://youtu.be/Qgbsz7Gnrd8
+
+
+All other [plot thread notes here](https://journal.jinnzhong.com/tags/plot-thread/)
