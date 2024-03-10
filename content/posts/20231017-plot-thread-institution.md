@@ -85,3 +85,6 @@ The opening parts present all the pros and cons of the world as we explore it. T
 * Sanderson, Brandon, Mary Robinette Kowal, Howard Tayler, and Dan Wells, hosts. "11.48: Elemental Issue Q&A, with DongWon Song." Writing Excuses, season 11, episode 48, Dragonsteel Production, 27 November 2016, https://writingexcuses.com/11-48-elemental-issue-qa-with-dongwon-song/
 * "Lecture #2: Plot Part 1 — Brandon Sanderson on Writing Science Fiction and Fantasy" YouTube, uploaded by Brandon Sanderson, January 29, 2020, https://youtu.be/jrIogch5DBU
 * "Lecture #3: Plot Part 2 — Brandon Sanderson on Writing Science Fiction and Fantasy" YouTube, uploaded by Brandon Sanderson, February 12, 2020, https://youtu.be/Qgbsz7Gnrd8
+
+
+All other [plot thread notes here](https://journal.jinnzhong.com/tags/plot-thread/)
