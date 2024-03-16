@@ -32,8 +32,13 @@ tags = [
     "The Well of Ascension (2007)",
     "Brandon Sanderson",
     "Opening Up by Writing It Down (2016)",
+    "The Hero of Ages (2008)",
     "Joshua M. Smyth",
     "James W. Pennebaker",
+    "A Promised Land (2020)",
+    "Barack Obama",
+    "Stranger in a Strange Land (1961)",
+    "Robert A. Heinlein",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -55,15 +60,19 @@ categories = [
 |2/16|:headphones:| We Have Always Lived in the Castle (1962) | Shirley Jackson |[cmt](https://journal.jinnzhong.com/commentary-we-have-always-lived-in-the-castle-1962/)|
 |2/23|:headphones:| The Well of Ascension (2007) | Brandon Sanderson |[cmt](https://journal.jinnzhong.com/commentary-the-well-of-ascension-2007/)|
 |3/7|:book:| Opening Up by Writing It Down (2016) | Smyth & Pennebaker | |
+|3/9|:headphones:| A Promised Land (2020) | Barack Obama | |
+|3/11|:book:| Stranger in a Strange Land (1961) | Robert A. Heinlein | [cmt](https://journal.jinnzhong.com/commentary-stranger-in-a-strange-land-1961/) |
+|3/16|:headphones:| The Hero of Ages (2008) | Brandon Sanderson | [cmt](https://journal.jinnzhong.com/commentary-the-hero-of-ages-2008/)|
+
   
 ## YEAR END TOTALS:
 |type|total|%|
 |:---|:---:|:---:|
-|gnr:| 5 | |
+|gnr:| 6 | |
 |lit:| 4 | |
 |mm:| 0 | |
 |pol:| 0 | |
-|his:| 3 | |
+|his:| 4 | |
 |rpg:| 0 | |
 |sci:| 0 | |
 |wis:| 1 | |
