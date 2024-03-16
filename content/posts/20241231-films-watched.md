@@ -17,6 +17,7 @@ tags = [
     "The Bear (2022-)",
     "Dune: Part Two (2024)",
     "Money Heist (2017-2021)",
+    "American Fiction (2023)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -35,6 +36,7 @@ categories = [
 |2/28| :tv: | The Bear S1 (2022) | |
 |3/1|:movie_camera:| Dune: Part Two (2024) |IMAX|
 |3/8|:tv:| Money Heist P1 (2017) | | 
+|3/15|:tv:| American Fiction (2023) | |
 
 
 [Previous "Films Watched" Here](https://journal.jinnzhong.com/tags/films-watched/)
