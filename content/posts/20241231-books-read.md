@@ -1,6 +1,6 @@
 +++ 
 author = "Jinn Zhong" 
-title = "Books Read 2024 (13)" 
+title = "Books Read 2024 (16)" 
 date = "2024-12-31" 
 description = "None Yet"
 tags = [
