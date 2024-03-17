@@ -23,7 +23,8 @@ A non-exhaustive dictionary of abbreviations used in my notes.
    * **P-PROG**: Plot Progress - the events that drive a plot
 * **PROT**: Protagonist
 * **STS**: Stasis - or Ordinary World
-* **SIWC**: [Surrey International Writers' Conference](https://www.siwc.ca), an annual writers' conference 
+* **SIWC**: [Surrey International Writers' Conference](https://www.siwc.ca), an annual writers' conference
+* **THB**: Thumbnail
 * **TTB**: Ticking Time Bomb
 * **WLG**: Wound/Lie/Ghost or backstory
 
