@@ -18,6 +18,7 @@ tags = [
     "Dune: Part Two (2024)",
     "Money Heist (2017-2021)",
     "American Fiction (2023)",
+    "The Holdovers (2023)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -37,6 +38,7 @@ categories = [
 |3/1|:movie_camera:| Dune: Part Two (2024) |IMAX|
 |3/8|:tv:| Money Heist P1 (2017) | | 
 |3/15|:tv:| American Fiction (2023) | |
+|3/17|:tv:| The Holdovers (2023) | |
 
 
 [Previous "Films Watched" Here](https://journal.jinnzhong.com/tags/films-watched/)
