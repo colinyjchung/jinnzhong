@@ -25,6 +25,10 @@ tags = [
     "prj: SAVED",
     "EOW Reports",
     "Habitica",
+    "Money Heist (2017-2021)",
+    "American Fiction (2023)",
+    "The Holdovers (2023)",
+    "Poor Things (2023)",
 ]
 categories = [
     "Chasing Black Swans",
@@ -35,7 +39,7 @@ categories = [
 
 ## Highlights This Week
 
-* Very little fiction done this week. This week drained me. I am working hard to replace the income I lost and this dancing on the knifeedge is draining. I'm not reading a ton either. I'm powering through Zeihan. I'm letting Crichton feed his workmanlike prose straight into my veins. The story is straightforward action and there's no thinking involved.
+* Very little fiction done this week. This week drained me. I am working hard to replace the income I lost and this dancing on the knifeedge is draining. I'm not reading a ton either. I'm powering through Zeihan. I'm letting Crichton feed his workmanlike prose straight into my veins. The story is straightforward action and there's no thinking involved. I'm also watching more TV and film again. I think that is a great indicator that I'm self-medicating when I'm really stressed out. I got through _Money Heist (2017-2021)_ Part 2, _American Fiction (2023)_, _The Holdovers (2023)_, and _Poor Things (2023)_ all in the past week since I lost that contract.
 * I couldn't stop yawning and desperately wanted to fall asleep Friday evening while at a [RPG session](https://journal.jinnzhong.com/rcr-orcborg-sp02-demon-egg-dead-dwarves/) even though it was super fun. I should've checked out, and I had a perfect excuse to not go since one of our RCR group couldn't make it, but I chose to attend anyway because I would've just crashed at home and there was a potential I would fall into a mire of exhaustion and possibly grief over the income situation. Or I just felt obligated to. I don't know. Maybe it was a denial of my situation or a "fuck you" or I felt like I had accomplished enough this week prospecting that I "deserved" it and I wasn't going to _not_ seize my prize.
 * Last 1on1 call with MRK for the short story cohort. On today's post-MMW meeting, the SSC talked about logistics for how we'd operate post-MRK.
   
@@ -92,7 +96,7 @@ The following is based on logged productive hours using [Timeular](https://timeu
 
 I actually haven't felt this "alive" in a while, wherein I'm fighting that gnawing uncertainty and chaos from the pit of my stomach. The chase, the hunt. The exhaustion that comes from good effort when you fire off so many shots not knowing if you hit until later. This is opposed to the exhaustion of staying on top of things, maintenance, and almost living in a zombie-state, clocking in, clocking out. There is something to the hunger and "not-knowing"... but it's so incredibly draining. You just don't have bandwidth at the end of the day. 
 
-There is something to be daid about the act of reconnecting with people I haven't talked to in a long time as well, finding out what people are up to. Meeting new people, figuring them out, sussing out what they want, their quirks, their interests. How they react to things I say. Looking for possibilities and potential and talking about the scope of things. I think that word is key: "possibility". When things are stable, you're talking about plans, execution, and the work. When things are unstable, you're talking about potential, you're not sure if you're actually going to move forward with it, there are a lot of maybes and "that could work" and loving ideas.
+There is something to be said about the act of reconnecting with people I haven't talked to in a long time as well, finding out what people are up to. Meeting new people, figuring them out, sussing out what they want, their quirks, their interests. How they react to things I say. Looking for possibilities and potential and talking about the scope of things. I think that word is key: "possibility". When things are stable, you're talking about plans, execution, and the work. When things are unstable, you're talking about potential, you're not sure if you're actually going to move forward with it, there are a lot of maybes and "that could work" and loving ideas.
 
 Is that why I fell in love with the hunt as a freelancer? Is that why I developed such bad work habits? That the chase of possibilities became an addiction?
 
