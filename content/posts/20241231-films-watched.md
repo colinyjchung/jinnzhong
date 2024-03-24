@@ -41,6 +41,7 @@ categories = [
 |3/15|:tv:| American Fiction (2023) | |
 |3/17|:tv:| The Holdovers (2023) | |
 |3/21|:tv:| Poor Things (2023) | |
+|3/23|:tv:| Money Heist P2 (2017) | | 
 
 
 [Previous "Films Watched" Here](https://journal.jinnzhong.com/tags/films-watched/)
