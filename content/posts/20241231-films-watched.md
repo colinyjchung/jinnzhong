@@ -42,6 +42,7 @@ categories = [
 |3/17|:tv:| The Holdovers (2023) | |
 |3/21|:tv:| Poor Things (2023) | |
 |3/23|:tv:| Money Heist P2 (2017) | | 
+|3/25|:tv:| Money Heist P3 (2019) | | 
 
 
 [Previous "Films Watched" Here](https://journal.jinnzhong.com/tags/films-watched/)
