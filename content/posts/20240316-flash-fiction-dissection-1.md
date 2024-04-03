@@ -7,6 +7,8 @@ tags = [
     "Story Analysis",
     "Craft of Writing",
     "Creative Process",
+    "Thumbnail Sketches",
+    "THB",
     "Joyce Carol Oates",
     "Mia Couto",
     "Tatyana Tolstaya",
