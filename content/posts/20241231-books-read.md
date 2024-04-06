@@ -43,6 +43,8 @@ tags = [
     "Michael Crichton",
     "The End of the World Is Just the Beginning (2022)",
     "Peter Zeihan",
+    "Get in Trouble (2016)",
+    "Kelly Link",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -54,21 +56,22 @@ categories = [
 |1/11| :book: | Wolf Hall (2009) | Hilary Mantel | |
 |1/11| :headphones: | Leslie F*cking Jones (2023) | Leslie Jones | |
 |1/13| :headphones: | Henry IV: Part 2 (1597) | William Shakespeare | |
-|1/14| :book: | This is How You Lose the Time War (2019) | El-Mohtar & Gladston |[cmt](https://journal.jinnzhong.com/commentary-this-is-how-you-lose-the-time-war-2019/)|
+|1/14| :book: | This is How You Lose the Time War (2019) | El-Mohtar & Gladston |[cmts](https://journal.jinnzhong.com/commentary-this-is-how-you-lose-the-time-war-2019/)|
 |1/16| :headphones: | On Earth We're Briefly Gorgeous (2019) | Ocean Vuong | |
 |1/19| :headphones: | No Time Like the Future (2020) | Micheal J.  Fox | |
 |1/21| :book: | Planetfall (2015) | Emma Newman | |
 |1/24|:book:| Shubeik Lubeik (2017) | Deena Mohamed | |
-|2/5|:book:| Invisible Man (1952) | Ralph Ellison |[cmt](https://journal.jinnzhong.com/commentary-invisible-man-1952/)|
+|2/5|:book:| Invisible Man (1952) | Ralph Ellison |[cmts](https://journal.jinnzhong.com/commentary-invisible-man-1952/)|
 |2/8|:headphones:| The Vietnam War (2017) | Geoffrey C. Ward | |
-|2/16|:headphones:| We Have Always Lived in the Castle (1962) | Shirley Jackson |[cmt](https://journal.jinnzhong.com/commentary-we-have-always-lived-in-the-castle-1962/)|
-|2/23|:headphones:| The Well of Ascension (2007) | Brandon Sanderson |[cmt](https://journal.jinnzhong.com/commentary-the-well-of-ascension-2007/)|
+|2/16|:headphones:| We Have Always Lived in the Castle (1962) | Shirley Jackson |[cmts](https://journal.jinnzhong.com/commentary-we-have-always-lived-in-the-castle-1962/)|
+|2/23|:headphones:| The Well of Ascension (2007) | Brandon Sanderson |[cmts](https://journal.jinnzhong.com/commentary-the-well-of-ascension-2007/)|
 |3/7|:book:| Opening Up by Writing It Down (2016) | Smyth & Pennebaker | |
 |3/9|:headphones:| A Promised Land (2020) | Barack Obama | |
-|3/11|:book:| Stranger in a Strange Land (1961) | Robert A. Heinlein | [cmt](https://journal.jinnzhong.com/commentary-stranger-in-a-strange-land-1961/) |
-|3/16|:headphones:| The Hero of Ages (2008) | Brandon Sanderson | [cmt](https://journal.jinnzhong.com/commentary-the-hero-of-ages-2008/)|
-|3/26|:book:| Timeline (1999) | Michael Crichton | [cmt](https://journal.jinnzhong.com/commentary-timeline-1999/) |
+|3/11|:book:| Stranger in a Strange Land (1961) | Robert A. Heinlein | [cmts](https://journal.jinnzhong.com/commentary-stranger-in-a-strange-land-1961/) |
+|3/16|:headphones:| The Hero of Ages (2008) | Brandon Sanderson | [cmts](https://journal.jinnzhong.com/commentary-the-hero-of-ages-2008/)|
+|3/26|:book:| Timeline (1999) | Michael Crichton | [cmts](https://journal.jinnzhong.com/commentary-timeline-1999/) |
 |4/1|:headphones:| The End of the World Is Just the Beginning (2022) | Peter Zeihan| |
+|4/6|:book:| Get in Trouble (2016) | Kelly Link | [cmts](https://journal.jinnzhong.com/commentary-get-in-trouble-2016/) |
 
   
 ## YEAR END TOTALS:
