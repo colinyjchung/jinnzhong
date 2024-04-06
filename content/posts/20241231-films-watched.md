@@ -20,6 +20,8 @@ tags = [
     "American Fiction (2023)",
     "The Holdovers (2023)",
     "Poor Things (2023)",
+    "Wish (2023)",
+    "Taken (2008)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -43,6 +45,8 @@ categories = [
 |3/21|:tv:| Poor Things (2023) | |
 |3/23|:tv:| Money Heist P2 (2017) | | 
 |3/25|:tv:| Money Heist P3 (2019) | | 
+|4/4|:tv:| Wish (2023) | |
+|4/5|:tv:| Taken (2008) | |
 
 
 [Previous "Films Watched" Here](https://journal.jinnzhong.com/tags/films-watched/)
