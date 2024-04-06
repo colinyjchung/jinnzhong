@@ -39,6 +39,10 @@ tags = [
     "Barack Obama",
     "Stranger in a Strange Land (1961)",
     "Robert A. Heinlein",
+    "Timeline (1999)",
+    "Michael Crichton",
+    "The End of the World Is Just the Beginning (2022)",
+    "Peter Zeihan",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -63,6 +67,8 @@ categories = [
 |3/9|:headphones:| A Promised Land (2020) | Barack Obama | |
 |3/11|:book:| Stranger in a Strange Land (1961) | Robert A. Heinlein | [cmt](https://journal.jinnzhong.com/commentary-stranger-in-a-strange-land-1961/) |
 |3/16|:headphones:| The Hero of Ages (2008) | Brandon Sanderson | [cmt](https://journal.jinnzhong.com/commentary-the-hero-of-ages-2008/)|
+|3/26|:book:| Timeline (1999) | Michael Crichton | [cmt](https://journal.jinnzhong.com/commentary-timeline-1999/) |
+|4/1|:headphones:| The End of the World Is Just the Beginning (2022) | Peter Zeihan| |
 
   
 ## YEAR END TOTALS:
@@ -70,9 +76,9 @@ categories = [
 |:---|:---:|:---:|
 |gnr:| 6 | |
 |lit:| 4 | |
-|mm:| 0 | |
+|mm:| 1 | |
 |pol:| 0 | |
-|his:| 4 | |
+|his:| 5 | |
 |rpg:| 0 | |
 |sci:| 0 | |
 |wis:| 1 | |
