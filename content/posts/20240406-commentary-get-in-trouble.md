@@ -5,6 +5,7 @@ date = "2024-04-06"
 description = "Live Commentary to Get in Trouble (2016)"
 tags = [
     "Get in Trouble (2016)",
+    "Magic for Beginners (2005)",
     "Kelly Link",
     "Live Commentary",
 ]
@@ -18,7 +19,7 @@ The following are thoughts and reactions I had _while_ reading _Get in Trouble_ 
 :warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
 
 * I’m going to try something. I’m going to track all the elements that Link puts into her stories and see if I can write one that imitates her. See list below
-* Two stories in. This is good Kelly Link stuff. I’m enjoying it. _Buuuuut_… it’s not as “magical” as _Magic for Beginners_ (2006) so far. But also, I read that ten years ago and had no idea what I was getting myself into so the lack of expectations created a lot of WTF surprises?
+* Two stories in. This is good Kelly Link stuff. I’m enjoying it. _Buuuuut_… it’s not as “magical” as _Magic for Beginners_ (2005) so far. But also, I read that ten years ago and had no idea what I was getting myself into so the lack of expectations created a lot of WTF surprises?
 * the first half of each of these stories are still very much classic Link. I’m confused… I’m trying to suss out what the story is about, and there’s an opaqueness to it. But then after the reveal.. the stories feel like a regular linear narrative, which is decidedly _not_ what I’m looking for in Link. I expect the weirdness and confusion to keep going until the very end where you’re getting emotional and don’t quite know why but you know you just read something deep and meaningful and filled with sub textual substance. I dunno. I’m three stories in and I have not had a huge hit yet. Nothing is impacting me like Magic for Beginners did.
 * OK. _Valley of the Girls_ is definitely opaque and weird and what I was looking for. And the fact that superheroes are real in _Secret Identity_ while the subject is a MMORG, that’s got me thinking too. I think we’re back on track and rolling here in Link’s weirdness.
 * _The Lesson_ 😭😭😭
