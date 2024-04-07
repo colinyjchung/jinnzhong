@@ -47,6 +47,7 @@ categories = [
 |3/25|:tv:| Money Heist P3 (2019) | | 
 |4/4|:tv:| Wish (2023) | |
 |4/5|:tv:| Taken (2008) | |
+|4/6|:tv:| Money Heist P4 (2020) | |
 
 
 [Previous "Films Watched" Here](https://journal.jinnzhong.com/tags/films-watched/)
