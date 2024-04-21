@@ -45,6 +45,10 @@ tags = [
     "Peter Zeihan",
     "Get in Trouble (2016)",
     "Kelly Link",
+    "Pride and Prejudice (2013)",
+    "Jane Austen",
+    "The Best of Gamut (2024)",
+    "Richard Thomas",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -72,6 +76,9 @@ categories = [
 |3/26|:book:| Timeline (1999) | Michael Crichton | [cmts](https://journal.jinnzhong.com/commentary-timeline-1999/) |
 |4/1|:headphones:| The End of the World Is Just the Beginning (2022) | Peter Zeihan| |
 |4/6|:book:| Get in Trouble (2016) | Kelly Link | [cmts](https://journal.jinnzhong.com/commentary-get-in-trouble-2016/) |
+|4/16|:headphones:| SPQR (2015) | Mary Beard | |
+|4/20|:book:| Pride and Prejudice (1813) | Jane Austen | [cmts](https://journal.jinnzhong.com/commentary-pride-and-prejudice-1813/) |
+|4/21|:book:| The Best of Gamut (2024) | ed. Richard Thomas | [cmts](https://journal.jinnzhong.com/commentary-the-best-of-gamut-2024/) |
 
   
 ## YEAR END TOTALS:
