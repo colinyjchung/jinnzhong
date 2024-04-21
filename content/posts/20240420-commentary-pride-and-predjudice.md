@@ -1,7 +1,7 @@
 +++
 author = "Jinn Zhong"
 title = "COMMENTARY: Pride and Prejudice (1813)"
-date = "2024-02-20"
+date = "2024-04-20"
 description = "Live Commentary to Pride and Prejudice (1813)"
 tags = [
     "Pride and Prejudice (1813)",
