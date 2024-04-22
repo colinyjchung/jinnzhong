@@ -71,9 +71,9 @@ OK. New format this week. Going to start tracking actions (axn) and emotions (em
 | day | axn | emo | ntes |
 | :--- | :---: | :---: | :--- |
 | SUN | :skull: | :weary: | Slept in, did not attend MMW. Low energy. |
-| MON | :clipboard: | :persevering: | Combined feedback for [prj: SAVED](https://journal.jinnzhong.com/tags/prj-saved/), reviewed it |
+| MON | :clipboard: | :persevere: | Combined feedback for [prj: SAVED](https://journal.jinnzhong.com/tags/prj-saved/), reviewed it |
 | TUE | :clipboard: | :relieved: | brainstormed on revisions |
-| WED | :skull: | :dead_eyes: | Beat up from day of meetings |
+| WED | :skull: | :dizzy_face: | Beat up from day of meetings |
 | THU | :clipboard: | :satisfied: | Re-read [prj: SAVED](https://journal.jinnzhong.com/tags/prj-saved/) and thought of changes |
 | FRI | :skull: | :disappointed: | Dinner with parents ate up evening |
 | SAT | :skull: | :grimacing: | Worked on training doc for work. Was this procrastinating? |
