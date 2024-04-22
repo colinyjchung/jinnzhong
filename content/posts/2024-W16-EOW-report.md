@@ -6,6 +6,9 @@ description = "End of Week Report for W16 of 2024"
 tags = [
     "Creative Process",
     "Olivia Hofer",
+    "Bryan Cheyne",
+    "L.L. MacRae",
+    "Garage Fiction Podcast",
     "Pride and Prejudice (1831)",
     "The Best of Gamut (2024)",
     "SPQR (2015)",
@@ -44,7 +47,7 @@ categories = [
 ## Highlights This Week
 
 * No changes from last week - new full-time contract still onboarding and training (and a lot of strategic work with a consultant), while fiction writing was reduced to 30m a night and sometimes none at all. The adjusting continues. I couldn't find the energy to wake up on Sunday for MRK's MMW again for the second week.
-* However, I did get up early for a Garage Fiction check in with Olivia and Bryan. L.L. was busy this sessions. We got _deep_ into our persona lives. Which was something I mentioned we started doing a [few weeks ago](https://journal.jinnzhong.com/2024-w08-eow-report/). Plus, Olivia and I are taking even more steps towards re-launching the [Garage Fiction Podcast](http://garagefiction.com). It's not a super high priority for us as it's "not writing", but it could be fun and hold us accountable _towards_ writing more.
+* However, I did get up early for a Garage Fiction check in with Olivia and Bryan. L.L. was busy this sessions. We got _deep_ into our personal lives. Which was something I mentioned we started doing a [few weeks ago](https://journal.jinnzhong.com/2024-w08-eow-report/). Plus, Olivia and I are taking even more steps towards re-launching the [Garage Fiction Podcast](http://garagefiction.com). It's not a super high priority for us as it's "not writing", but it could be fun and hold us accountable _towards_ writing more.
 * I tried starting _Fallout S1_ (2024), but I dunno man. I think I'm still recovering from _Money Heist P5_ (2021). I don't think I've felt this huge sense of missing from a group of characters in a _long_ time. I'm trying to think of a TV series where no longer hanging out with the characters has hit me this hard when it wrapped up... and the first and only thing that comes up is _Angel_ (1999-2004). And what's more, in the past week, as I've thought about the show more and more, I _understand and realize_ that there are a _LOT_ of plot holes, a lot of _contrived plot points_, and a lot of scenes where they did it because it _looked and felt cool_ but was totally out-of-character... but you _genuinely_ fall in love with the characters and you don't want their camaraderie to end. I mean, _is that it?_ It's the friendship and relationship and how tight they are that you end up missing? I'm thinking about all my other favorite TV shows like _Breaking Bad_ (2008-2013), _Mad Men_ (2007-2015), and _Battlestar Galactica_ (2004-2009)... and I don't _miss_ the characters as much as a show like _Money Heist_ (2017-2021). All those shows delivered a satisfying enough ending, and wrapped up their character arcs... so what is it about _Money Heist_ and _Angel_? And as I type this, I think about _Community_ (2009-2015) and _The Good Place_ (2016-2020), where the _missing of characters_ wasn't as strong, but still _felt_... I'm starting to realizing that what I wrote a few sentences back... that the camaraderie, the team, the "work family" as Sorkinson would call it, or the "family of loners" as I called it back in the Buffy and Angel days... that _that_ is what makes it click for me. Frisson tingling in my gut right now. Yes. That's it. That's what I love. This is a great epiphany and revelation. I should pay attention to this when I work on a series. Make sure I really focus on the "work family".
 
 ## Project Status Dashboard
