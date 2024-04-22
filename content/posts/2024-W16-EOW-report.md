@@ -66,7 +66,7 @@ The following are ongoing fiction writing projects broken down to what stage the
 
 ## EOW Time Tracking
 
-OK. New format this week. Going to start tracking actions (axn) and emotions (emo). Aiming for 30 minutes of fiction work a day. Just thirty minutes.
+OK. New format this week. Going to start tracking actions (axn) and emotions (emo). Aiming for 30 minutes of fiction work a day. Just thirty minutes. AXN emoji legend in footnote[^2].
 
 | day | axn | emo | ntes |
 | :--- | :---: | :---: | :--- |
