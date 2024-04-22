@@ -8,7 +8,7 @@ tags = [
     "Craft of Writing",
     "Creative Process",
     "Naomi Kritzer",
-    "P. Djélí Clark",
+    "P. Djèlí Clark",
     "Mel Kassel",
     "Emma Törz",
     "Sarah Pinsker",
