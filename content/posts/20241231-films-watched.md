@@ -22,6 +22,7 @@ tags = [
     "Poor Things (2023)",
     "Wish (2023)",
     "Taken (2008)",
+    "The Devil Wears Prada (2006)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -49,6 +50,8 @@ categories = [
 |4/5|:tv:| Taken (2008) | |
 |4/6|:tv:| Money Heist P4 (2020) | |
 |4/13|:iphone:| Money Heist P5 (2021) | |
+|4/24|:tv:| The Devil Wears Prada (2006) | rewatch |
+
 
 
 [Previous "Films Watched" Here](https://journal.jinnzhong.com/tags/films-watched/)
