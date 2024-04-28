@@ -76,8 +76,8 @@ In this section, I tracki daily actions (axn) and emotions (emo), aiming for jus
 | TUE | :spiral_notepad: | :grinning: | woke up at 5AM to put in 30m. It worked. Re-drafting [prj: SAVED](https://journal.jinnzhong.com/tags/prj-saved/) |
 | WED | :spiral_notepad: | :kissing_smiling_eyes: | Can 4AM work even though it's a gym day? Yes. [prj: SAVED](https://journal.jinnzhong.com/tags/prj-saved/) |
 | THU | :spiral_notepad: | :satisfied: | Dragged my feet with 5AM alarm, but still at desk by 530AM. [prj: SAVED](https://journal.jinnzhong.com/tags/prj-saved/)|
-| FRI | :spiral notepad: | :persevere: | Rough 430AM start, was chatting with Olivia, but got 30 in |
-| SAT | :spiral notepad: | :triumph: | Up at 5AM no problem, got fiction done, then Starbucks for client work as well |
+| FRI | :spiral_notepad: | :persevere: | Rough 430AM start, was chatting with Olivia, but got 30 in |
+| SAT | :spiral_notepad: | :triumph: | Up at 5AM no problem, got fiction done, then Starbucks for client work as well |
 
 **STREAK COUNT:** 5 Days
 
