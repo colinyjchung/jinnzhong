@@ -71,7 +71,7 @@ In this section, I tracki daily actions (axn) and emotions (emo), aiming for jus
 
 | day | axn | emo | ntes |
 | :--- | :---: | :---: | :--- |
-| SUN | :skull: | :dead_eyes: | Slept in, did not attend MMW. Low energy. |
+| SUN | :skull: | :dizzy_face: | Slept in, did not attend MMW. Low energy. |
 | MON | :skull: | :disappointed: | Realizing writing in the evenings ain't happening |
 | TUE | :spiral_notepad: | :grinning: | woke up at 5AM to put in 30m. It worked. Re-drafting [prj: SAVED](https://journal.jinnzhong.com/tags/prj-saved/) |
 | WED | :spiral_notepad: | :kissing_smiling_eyes: | Can 4AM work even though it's a gym day? Yes. [prj: SAVED](https://journal.jinnzhong.com/tags/prj-saved/) |
