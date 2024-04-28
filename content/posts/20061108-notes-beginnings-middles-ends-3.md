@@ -1,7 +1,7 @@
 +++
 author = "Jinn Zhong"
 title = "NOTES: Beginnings, Middles, & Ends (1992) by Nancy Kress P.3/3"
-date = "2006-12-02"
+date = "2006-11-08"
 description = "NOTES: Beginnings, Middles, & Ends (1992) by Nancy Kress"
 tags = [
     "Craft of Writing",
