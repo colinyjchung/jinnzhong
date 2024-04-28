@@ -67,7 +67,7 @@ As mentioned above, getting my 30m reps in first thing in the morning has helped
 
 ## EOW Time Tracking
 
-In this section, I tracki daily actions (axn) and emotions (emo), aiming for just 30 minutes of fiction work a day. If time permits, more is done. AXN emoji legend in footnote[^2].
+In this section, I track daily actions (axn) and emotions (emo), aiming for just 30 minutes of fiction work a day. If time permits, more is done. AXN emoji legend in footnote[^2].
 
 | day | axn | emo | ntes |
 | :--- | :---: | :---: | :--- |
