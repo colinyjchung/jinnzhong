@@ -25,18 +25,28 @@ categories = [
 > _Real art has the capacity to make us nervous._
 >  – Susan Sontag
 
-|BEGINNING|MIDDLE|ENDING|
-|:---|:---|:---|
-|**INTRO**: Set Expectations|**COMPLEXITY**|**CLIMAX & DENOUEMENT**|
-|Makes Promise|Builds on specifics and interest|Inevitable Delivery (new insight, comfortable confirmation, vicarious happiness|
-|Introduction of character and conflict|Get to know the forces at play|Forces collide|
+### BEGINNING
+**INTRO**: Set Expectations, Makes Promise, Introduction of character and conflict
+### MIDDLE
+**COMPLEXITY**: Builds on specifics and interest, Get to know the forces at play
+### ENDING
+**CLIMAX & DENOUEMENT**: Inevitable Delivery (new insight, comfortable confirmation, vicarious happiness) Forces collide
 
 ## The Four Elements of Story
 
-|Character|Conflict|Specificity|Credulity|
-|:---|:---|:---|:---|
-|Someone interesting and integral to the plot right away|Something is not going as expected|Effective use of details, fresh and original... avoid the obvious|Good solid prose|
-| |(Can be vs. nature/ character/ society/ others/ self… subtle or overt)|1. Anchor story in concrete reality <br/> 2.	Set your opening apart from hundreds of others similar in plot.<br/>3.	Convince your editor you know what you’re talking about. | Diction, economy (use only enough), sentence construction, sentence variety, parts of speech (strong verbs and nouns, minimal adverbs and adjectives, watch out for bad modifiers), tone (straightforward, take yourself out, don’t use devices like clever asides, grandiose, slang, foreign words) |
+### Character
+* Someone interesting and integral to the plot right away
+### Conflict
+* Something is not going as expected
+* Can be vs. nature/ character/ society/ others/ self… subtle or overt
+### Specificity
+* Effective use of details, fresh and original... avoid the obvious
+   1. Anchor story in concrete reality
+   2. Set your opening apart from hundreds of others similar in plot.
+   3. Convince your editor you know what you’re talking about.
+### Credulity
+* Good solid prose
+* Diction, economy (use only enough), sentence construction, sentence variety, parts of speech (strong verbs and nouns, minimal adverbs and adjectives, watch out for bad modifiers), tone (straightforward, take yourself out, don’t use devices like clever asides, grandiose, slang, foreign words) 
 
 ## The First Scene
 Establish Character, Conflict, Specificity and Credulity within the first paragraph
@@ -57,11 +67,23 @@ There are 2 types of scenes
 
 ## The Second Scene
 
-|**BACKFILL**|**FLASHBACK**|**CONTINUATION**|
-|:---|:---|:---|
-|**Expository** background can be straight from narrator; can be from a viewpoint character.|**Dramatic** scene from the past. Make sure you:|**Dramatic** action continues. Make sure you:|
-| |1.	Follow after a strong opening scene; it will root reader in the character’s present.<br/> 2.Bear clear relation to the first scene. Don’t make reader jump so early. <br/> 3.Don’t let reader get lost in time, be clear on how long ago your flashback is.|1. Carry the action forward <br/> 2. Control conflict levels <br/> 3.	Ask yourself what these people want (motivation drives actions which drives scenes) |
-|_Notes_: Slows down the story, but if you had a strong start, it’s okay to glide. |_Notes_: Distances reader from the action, and can lose immediacy. Ask yourself if the flashback’s depth and clarity is worth it.| _Notes_: May be too intense if action continues from the first scene. May cause first scene to lose gravity.|
+### BACKFILL
+**Expository** background can be straight from narrator; can be from a viewpoint character.
+_Notes_: Slows down the story, but if you had a strong start, it’s okay to glide.
+
+### FLASHBACK
+**Dramatic** scene from the past. Make sure you:
+1.	Follow after a strong opening scene; it will root reader in the character’s present.
+2.	Bear clear relation to the first scene. Don’t make reader jump so early.
+3.	Don’t let reader get lost in time, be clear on how long ago your flashback is.
+_Notes_: Distances reader from the action, and can lose immediacy. Ask yourself if the flashback’s depth and clarity is worth it.
+
+### CONTINUATION
+**Dramatic** action continues. Make sure you:
+1. Carry the action forward
+2. Control conflict levels
+3. Ask yourself what these people want (motivation drives actions which drives scenes)
+_Notes_: May be too intense if action continues from the first scene. May cause first scene to lose gravity.
 
 **Scenes in General**: How one reacts to conflict is how one portrays themselves
 
@@ -95,10 +117,27 @@ CLIMAX: Culmination of your though-line, point where something has to give – a
 ## STRUCTURE
 To keep characters organized.
 
-| Straight Chronological Structure |Regularly Recurring Viewpoints| Multi-viewpoint Chronological | Structure	Parallel Running Scenes |
-|:---|:---|:---|:---|
-|• One viewpoint character <br/> • Show events in order it happens to protagonist, as it happens or when they learn of it.<br/> • Stop at the last important event | • Several characters as viewpoints; each get their “take” on the same time frame.<br/>• Try not to feel obligated to certain viewpoints | • Several characters as viewpoints; but the clock keeps running. <br/> • Less sense of rhythm, anticipation and inevitability. <br/> • No clear pattern | • Alternating chapters of two stories that clash. <br/> • Time and space can be apart, then meet. |
-| + Clarity, consistency <br/> - Lack of POV and range | | | + Maximum rhythm and anticipation |
+### Straight Chronological Structure
+* One viewpoint character
+* Show events in order it happens to protagonist, as it happens or when they learn of it.
+* Stop at the last important event
+
++ Clarity, consistency <br/> - Lack of POV and range
+
+### Regularly Recurring Viewpoints
+* Several characters as viewpoints; each get their “take” on the same time frame.
+* Try not to feel obligated to certain viewpoints
+
+### Multi-viewpoint Chronological Structure	
+* Several characters as viewpoints; but the clock keeps running.
+* Less sense of rhythm, anticipation and inevitability.
+* No clear pattern
+
+### Parallel Running Scenes 
+* Alternating chapters of two stories that clash.
+* Time and space can be apart, then meet.
+  
++ Maximum rhythm and anticipation
 
 ## MAKING CHANGES BELIEVABLE
 
@@ -131,22 +170,3 @@ To keep characters organized.
 * **SOLUTION:** Abandon through-line
    1.	Go with characters
    2.	Go back to last point of interest and start over
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
