@@ -8,6 +8,4 @@ categories = [
 ]
 +++
 
-{{< toc >}}
-
 ![Old FB Post](https://raw.githubusercontent.com/colinyjchung/jinnzhong/main/images/ocean-promise.png)
