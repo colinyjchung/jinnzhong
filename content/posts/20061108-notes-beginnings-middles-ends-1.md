@@ -122,7 +122,7 @@ To keep characters organized.
 * Show events in order it happens to protagonist, as it happens or when they learn of it.
 * Stop at the last important event
 
-+ Clarity, consistency <br/> - Lack of POV and range
+POSTIIVE: Clarity, consistency <br/> NEGATIVE: Lack of POV and range
 
 ### Regularly Recurring Viewpoints
 * Several characters as viewpoints; each get their “take” on the same time frame.
@@ -137,7 +137,7 @@ To keep characters organized.
 * Alternating chapters of two stories that clash.
 * Time and space can be apart, then meet.
   
-+ Maximum rhythm and anticipation
+POSITIVE: Maximum rhythm and anticipation
 
 ## MAKING CHANGES BELIEVABLE
 
