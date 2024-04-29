@@ -22,8 +22,8 @@ categories = [
       * Read this and you’ll have confirmed what you already want to believe about this world
       * Read this and you’ll learn of a different, more interesting world than this.
 
->> _Real art has the capacity to make us nervous._
->>  – Susan Sontag
+> _Real art has the capacity to make us nervous._
+>  – Susan Sontag
 
 |BEGINNING|MIDDLE|ENDING|
 |:---|:---|:---|
@@ -61,8 +61,7 @@ There are 2 types of scenes
 |:---|:---|:---|
 |**Expository** background can be straight from narrator; can be from a viewpoint character.|**Dramatic** scene from the past. Make sure you:|**Dramatic** action continues. Make sure you:|
 | |1.	Follow after a strong opening scene; it will root reader in the character’s present.<br/> 2.Bear clear relation to the first scene. Don’t make reader jump so early. <br/> 3.Don’t let reader get lost in time, be clear on how long ago your flashback is.|1. Carry the action forward <br/> 2. Control conflict levels <br/> 3.	Ask yourself what these people want (motivation drives actions which drives scenes) |
-|_Notes_: Slows down the story, but if you had a strong start, it’s okay to glide.
-|_Notes_: Distances reader from the action, and can lose immediacy. Ask yourself if the flashback’s depth and clarity is worth it.| _Notes_: May be too intense if action continues from the first scene. May cause first scene to lose gravity.|
+|_Notes_: Slows down the story, but if you had a strong start, it’s okay to glide. |_Notes_: Distances reader from the action, and can lose immediacy. Ask yourself if the flashback’s depth and clarity is worth it.| _Notes_: May be too intense if action continues from the first scene. May cause first scene to lose gravity.|
 
 **Scenes in General**: How one reacts to conflict is how one portrays themselves
 
@@ -103,10 +102,10 @@ To keep characters organized.
 
 ## MAKING CHANGES BELIEVABLE
 
-a.	Reader must understand character’s initial personality and especially motivation: Why is he/she behaving this way?
-b.	Reader must see evidence that characters are capable of change
-c.	Reader must see dramatized a pattern of experience that might reasonably affect someone.
-d.	Reader must see a plausible motivation replace the old one.
+1. Reader must understand character’s initial personality and especially motivation: Why is he/she behaving this way?
+2. Reader must see evidence that characters are capable of change
+3. Reader must see dramatized a pattern of experience that might reasonably affect someone.
+4. Reader must see a plausible motivation replace the old one.
 
 -	Boring, expected motivations are easy. Unexpected, uncommon ones require work.
 -	Common type of conflict is when the character wants two mutually exclusive things -> dramatize both motivations.
