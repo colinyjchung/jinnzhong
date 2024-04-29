@@ -115,7 +115,7 @@ To keep characters organized.
 ## COMMON REASONS FOR GETTING STUCK IN THE MIDDLE
 
 ### Fear of Failure
-* **PROBBLEM:** Affects self-aware, intelligent people. They think their work is crap or they hold themselves to standards that are too high.
+* **PROBLEM:** Affects self-aware, intelligent people. They think their work is crap or they hold themselves to standards that are too high.
 * **SOLUTION:** Simulation of a story, pretend that you’re writing a simulation of a story, with characters and plot. A mind-game on yourself.
 
 ### Fear of Success
