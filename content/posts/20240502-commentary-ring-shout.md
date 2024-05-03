@@ -27,7 +27,7 @@ Ring Shout (2020)
 * pg. 125 Antoine Bisset. At first, with the white suit, white shoes and bowler hat… I was like Morgan Freeman. But then by the next page, I think Michael K. Williams would be much better. Unfortunately, he’s no longer with us. Maybe Denzel’s son? Or if you want to go super interesting… Snoop. Yeah. I think Snoop Dog would be an interesting casting choice.
 * pg. 135 / 75% mark. Wound Reveal before the climax, right on schedule! 
 * pg. 148 - yeah…. Maryse is your stereotypical sword-wielding protagonist with a tragic past who’s all action, no thought, and least interesting of the characters here. She thought she knew Butcher Clyde’s offer but he laughs in her face. Because Maryse is pure and innocent and stupid. I vaguely suspect Clark did this on purpose, because his acknowledgments talk about how he wanted to bring the sword and sorcery genre to the American south. To that end, it works. But I am so very very bored with the tropes of epic fantasy and the fidelity to the genre ends up not working for me. Love the analogous shift on everything else… but the hero itself is boring.
-* pg. 150 - now _that’s_ a twist reveal. God_DAMN_! So good.
+* pg. 150 - now _that’s_ a twist reveal. God _DAMN_! So good.
 * Final battle scene with Gullah woman calling in reinforcements and the final goodbye worked for me. That trick (where prot gets to say goodbye again to dead ally)… it always nearly always works on me.
 
 [All other "Live Commentaries" here](https://journal.jinnzhong.com/categories/live-commentary/)
