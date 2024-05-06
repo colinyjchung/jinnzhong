@@ -19,7 +19,7 @@ tags = [
     "Jane Austen",
     "Shirley Jackson",
     "Rick Priestley",
-    "prj: VARIANT",
+    "prj: ROBOT",
     "EOW Reports",
 ]
 categories = [
@@ -45,9 +45,9 @@ The following are ongoing fiction writing projects broken down to what stage the
 | 2 | BECKY | 1/7 | X | X | X | X | X |
 | 3 | MEMPHIS | 1/14 | X | X | X | X | X |
 | 4 | SATSU | 1/21 | X | X | X | X | X |
-| 5 | VARIANT | 1/28 | 1/29 | X | X | X | X | X |
+| 5 | ROBOT | 1/28 | 1/29 | X | X | X | X | X |
 
-Very few changes this week. Aside from editing on VARIANT last Sunday, didn't do much else.
+Very few changes this week. Aside from editing on ROBOT last Sunday, didn't do much else.
 
 ## Daily Tracking
 
