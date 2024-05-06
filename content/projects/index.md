@@ -5,6 +5,7 @@ title = "Projects"
 A project dashboard for what's being worked on.
 
 ## Works in Progress
+(Legend in Footnote[^1])
 
 | pri | prj | st | fd | ed | rv | xd | 
 | :---: | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -19,7 +20,7 @@ A project dashboard for what's being worked on.
 | 0 | [BELLA](https://journal.jinnzhong.com/tags/prj-bella/) | 3/10 | X | X | X | 1 |
 | 0 | [AURA](https://journal.jinnzhong.com/tags/prj-aura/) | 1/6 | 1/6 | X | X | 2 | 
 | 0 | [MEMPHIS](https://journal.jinnzhong.com/tags/prj-memphis/) | 1/14 | X | X | X | 1 | 
-(Legend in Footnote[^1])
+
 
 
 [^1]: LEGEND for **Project Status Dashboard**
