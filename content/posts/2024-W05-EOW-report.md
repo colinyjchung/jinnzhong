@@ -20,7 +20,7 @@ tags = [
     "Patricia Highsmith",
     "Stranger in a Strange Land (1961)",
     "Robert A. Heinlein",
-    "prj: VARIANT",
+    "prj: ROBOT",
     "EOW Reports",
 ]
 categories = [
@@ -32,7 +32,7 @@ categories = [
 
 ## Highlights This Week
 
-* Rushed to get **MSC-04: VARIANT** done as the first MRK Short Story Cohort critique session was Wednesday night. Wrote non-stop Sunday night, chased the last few scenes Monday (one before meetings, two afterwards, well into the evening). Knew it was a mess (thematically and plot-wise) when I submitted it.
+* Rushed to get **MSC-04: ROBOT** done as the first MRK Short Story Cohort critique session was Wednesday night. Wrote non-stop Sunday night, chased the last few scenes Monday (one before meetings, two afterwards, well into the evening). Knew it was a mess (thematically and plot-wise) when I submitted it.
 * Reviewed everybody's stories from the cohort Tuesday night. Yeah, so I'm definitely the least experienced and least practiced.
 * Fooled around with [4theWords](http://4thewords.com) after shopping for other word trackers and finally gave up. I dropped $20 USD on a 2024 bundle. I don't regret it, but I also don't know if I'll keep using it. I dunno.
 * Was not surprised by the feedback/critique I got on Wednesday night. But I was relieved to hear at least two others found the ending devastating enough to cry about. So success on emotional manipulation.
@@ -50,7 +50,7 @@ The following are ongoing fiction writing projects broken down to what stage the
 | 2 | BECKY | 1/7 | X | X | X | X | X |
 | 3 | MEMPHIS | 1/14 | X | X | X | X | X |
 | 4 | SATSU | 1/21 | X | X | X | X | X |
-| 5 | VARIANT | 1/28 | 1/29 | X | X | X | X | X |
+| 5 | ROBOT | 1/28 | 1/29 | X | X | X | X | X |
 
 ## Daily Tracking
 
