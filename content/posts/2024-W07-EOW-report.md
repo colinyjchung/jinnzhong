@@ -48,9 +48,9 @@ The following are ongoing fiction writing projects broken down to what stage the
 | :---: | :--- | :---: | :---: | :---: |  :---: |  :---: | :---: |
 | 1 | AURA | 1/6 | 1/6 | X | X | X | X |
 | 2 | BECKY | 1/7 | X | X | X | X | X |
-| 3 | MEMPHIS | 1/14 | X | X | X | X | X |
+| 3 | FIRED | 1/14 | X | X | X | X | X |
 | 4 | SATSU | 1/21 | X | X | X | X | X |
-| 5 | VARIANT | 1/28 | 1/29 | X | X | X | X | X |
+| 5 | ROBOT | 1/28 | 1/29 | X | X | X | X | X |
 | 6 | MINOS | 2/11 | X | X | X | X | X | X |
 
 The John Cage ORGAN<sup>2</sup>/ASLSP story prompt from last week sent me down a winding road in my brain. I started with some surreal story idea from my childhood, and then shifted to a retelling of the Greek minotaur. I was struggling to go from idea and MECH-building to actual dramatization and plotting. Later, MRK assigned us thumbnails and retellings of Little Red Riding Hood. 
