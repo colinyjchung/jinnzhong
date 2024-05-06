@@ -28,7 +28,7 @@ tags = [
     "prj: AURA",
     "prj: BECKY",
     "prj: MEMPHIS",
-    "prj: MOKUSATSU",
+    "prj: SATSU",
     "prj: VARIANT",
     "prj: MINOS",
     "prj: YOKO",
