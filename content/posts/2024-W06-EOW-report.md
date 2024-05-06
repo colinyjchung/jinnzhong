@@ -19,10 +19,6 @@ tags = [
     "Jane Austen",
     "Shirley Jackson",
     "Rick Priestley",
-    "prj: AURA",
-    "prj: BECKY",
-    "prj: MEMPHIS",
-    "prj: SATSU",
     "prj: VARIANT",
     "EOW Reports",
 ]
