@@ -24,11 +24,6 @@ tags = [
     "Brandon Sanderson",
     "Barack Obama",
     "Ogrebeef",
-    "prj: AURA",
-    "prj: BECKY",
-    "prj: MEMPHIS",
-    "prj: SATSU",
-    "prj: VARIANT",
     "prj: MINOS",
     "EOW Reports",
 ]
