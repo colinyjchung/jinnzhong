@@ -16,13 +16,8 @@ tags = [
     "Robert A. Heinlein",
     "Brandon Sanderson",
     "Barack Obama",
-    "prj: AURA",
     "prj: BECKY",
-    "prj: MEMPHIS",
-    "prj: SATSU",
-    "prj: VARIANT",
     "prj: MINOS",
-    "prj: YOKO",
     "EOW Reports",
     "Habitica",
 ]
