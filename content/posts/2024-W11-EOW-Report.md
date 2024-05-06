@@ -20,7 +20,7 @@ tags = [
     "prj: AURA",
     "prj: BECKY",
     "prj: MEMPHIS",
-    "prj: MOKUSATSU",
+    "prj: SATSU",
     "prj: VARIANT",
     "prj: MINOS",
     "prj: YOKO",
@@ -53,7 +53,7 @@ The following are ongoing fiction writing projects broken down to what stage the
 | 1 | AURA | 1/6 | 1/6 | X | X | X | 
 | 2 | BECKY | 1/7 | X | X | X | X | 
 | 3 | MEMPHIS | 1/14 | X | X | X | X | 
-| 4 | MOKUSATSU | 1/21 | X | X | X | X | 
+| 4 | SATSU | 1/21 | X | X | X | X | 
 | 5 | VARIANT | 1/28 | 1/29 | X | X | X | X | 
 | 6 | MINOS | 2/11 | 2/27 | X | X | X | X | 
 | 7 | YOKO | 2/18 | X | X | X | X | X | 
