@@ -20,10 +20,6 @@ tags = [
     "Patricia Highsmith",
     "Stranger in a Strange Land (1961)",
     "Robert A. Heinlein",
-    "prj: AURA",
-    "prj: BECKY",
-    "prj: MEMPHIS",
-    "prj: SATSU",
     "prj: VARIANT",
     "EOW Reports",
 ]
