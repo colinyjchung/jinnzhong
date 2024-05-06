@@ -15,16 +15,6 @@ tags = [
     "Richard Thomas",
     "Mary Beard",
     "Kazuo Ishiguro",
-    "prj: AURA",
-    "prj: BECKY",
-    "prj: MEMPHIS",
-    "prj: SATSU",
-    "prj: VARIANT",
-    "prj: MINOS",
-    "prj: YOKO",
-    "prj: STAR",
-    "prj: BELLA",
-    "prj: SAVED",
     "EOW Reports",
 ]
 categories = [
