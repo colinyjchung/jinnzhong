@@ -13,7 +13,6 @@ A project dashboard for what's being worked on.
 | 2 | [SAVED](https://journal.jinnzhong.com/tags/prj-saved/) | 3/12 | 3/25 | 4/28 | X | 3 |
 | 3 | [BECKY](https://journal.jinnzhong.com/tags/prj-becky/) | 1/7 | X | X | X | 1 | 
 |  |  |  |  |  |  |  | 
-|  |  |  |  |  |  |  | 
 |  | BACKLOG | ~~~ | ~~~ | ~~~ | ~~~ | ~~~ | 
 |  |  |  |  |  |  |  | 
 |  | [SATSU](https://journal.jinnzhong.com/tags/prj-satsu/) | 1/21 | X | X | X | 1 | 
