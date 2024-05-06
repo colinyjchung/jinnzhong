@@ -22,16 +22,6 @@ tags = [
     "Peter Zeihan",
     "Richard Thomas",
     "Mary Beard",
-    "prj: AURA",
-    "prj: BECKY",
-    "prj: MEMPHIS",
-    "prj: SATSU",
-    "prj: VARIANT",
-    "prj: MINOS",
-    "prj: YOKO",
-    "prj: STAR",
-    "prj: BELLA",
-    "prj: SAVED",
     "EOW Reports",
 ]
 categories = [
