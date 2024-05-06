@@ -7,13 +7,15 @@ A project dashboard for what's being worked on.
 ## Works in Progress
 (Legend in Footnote[^1])
 
-| pri | prj | st | fd | ed | rv | xd | 
+| P | prj | st | fd | ed | rv | xd | 
 | :---: | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [MINOS](https://journal.jinnzhong.com/tags/prj-minos/) | 2/11 | 2/27 | X | X | 2 |
 | 2 | [SAVED](https://journal.jinnzhong.com/tags/prj-saved/) | 3/12 | 3/25 | 4/28 | X | 3 |
 | 3 | [BECKY](https://journal.jinnzhong.com/tags/prj-becky/) | 1/7 | X | X | X | 1 | 
 |  |  |  |  |  |  |  | 
-| ~ | BACKLOG | ~~~ | ~~~ | ~~~ | ~~~ | ~~~ | 
+|  |  |  |  |  |  |  | 
+|  | BACKLOG | ~~~ | ~~~ | ~~~ | ~~~ | ~~~ | 
+|  |  |  |  |  |  |  | 
 |  | [MOKUSATSU](https://journal.jinnzhong.com/tags/prj-mokusatsu/) | 1/21 | X | X | X | 1 | 
 |  | [VARIANT](https://journal.jinnzhong.com/tags/prj-variant/) | 1/28 | 1/29 | X | X | 2 |
 |  | [YOKO](https://journal.jinnzhong.com/tags/prj-yoko/) | 2/18 | X | X | X | 1 |
@@ -26,7 +28,7 @@ A project dashboard for what's being worked on.
 
 [^1]: LEGEND for **Project Status Dashboard**
 
-    * **pri** = priority (limit to 3 projects at any given time)
+    * **P** = priority (limit to 3 projects at any given time)
     * **prj** = project codename
     * **st** = start date
     * **fd** = 1st draft completed
