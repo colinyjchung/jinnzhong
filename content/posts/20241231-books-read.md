@@ -1,6 +1,6 @@
 +++ 
 author = "Jinn Zhong" 
-title = "Books Read 2024 (16)" 
+title = "Books Read 2024 (27)" 
 date = "2024-12-31" 
 description = "None Yet"
 tags = [
@@ -49,6 +49,16 @@ tags = [
     "Jane Austen",
     "The Best of Gamut (2024)",
     "Richard Thomas",
+    "And What Can We Offer You Tonight (2021)",
+    "Premee Mohamed",
+    "Even Though I Knew the End (2022)",
+    "C.L. Polk",
+    "The Age Of Henry VIII (2003)",
+    "Dale Hoak",
+    "Ring Shout (2020)",
+    "P. Djèlí Clark",
+    "1776 (2005)",
+    "David McCullough",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -79,6 +89,12 @@ categories = [
 |4/16|:headphones:| SPQR (2015) | Mary Beard | |
 |4/20|:book:| Pride and Prejudice (1813) | Jane Austen | [cmts](https://journal.jinnzhong.com/commentary-pride-and-prejudice-1813/) |
 |4/21|:book:| The Best of Gamut (2024) | ed. Richard Thomas | [cmts](https://journal.jinnzhong.com/commentary-the-best-of-gamut-2024/) |
+|4/23|:book:| And What Can We Offer You Tonight (2021) | Premee Mohamed | [cmts](https://journal.jinnzhong.com/commentary-and-what-can-we-offer-you-tonight-2021/) |
+|4/27|:book:| Even Though I Knew the End (2022) | C.L. Polk | |
+|5/2|:headphones:| The Age Of Henry VIII (2003) | Dale Hoak | |
+|5/2|:book:| Ring Shout (2020) | P. Djèlí Clark | [cmts](https://journal.jinnzhong.com/commentary-ring-shout-2020/) |
+|5/10|:headphones:| 1776 (2005) | David McCullough | |
+
 
   
 ## YEAR END TOTALS:
