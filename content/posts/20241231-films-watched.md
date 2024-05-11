@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "Films & Shows Watched 2024 (11)"
+title = "Films & Shows Watched 2024 (22)"
 date = "2024-12-31"
 description = "All the films & TV shows I watched in 2024"
 tags = [
@@ -28,6 +28,9 @@ categories = [
     "Unnecessary Tracking",
 ]
 +++
+
+Decided to start tracking TV shows this year as well. Dates are the date in which I finished the season. I'm not tracking duration in which it took me to watch a show. Sometimes I binge, sometimes I take forever.
+
 | date | form | title | notes |
 | ---: | :---: | :--- | :--- |
 |1/5| :tv: | Are You There God? It's Me, Margaret. (2023) | |
@@ -51,6 +54,7 @@ categories = [
 |4/6|:tv:| Money Heist P4 (2020) | |
 |4/13|:iphone:| Money Heist P5 (2021) | |
 |4/24|:tv:| The Devil Wears Prada (2006) | rewatch |
+|5/10|:tv:| The Bear S2 (2023) | |
 
 
 
