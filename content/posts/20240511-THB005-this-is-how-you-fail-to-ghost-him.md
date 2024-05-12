@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "THB-005: This Is How You Fail to Ghost Him"
+title = "THB-005: Ghost Fail"
 date = "2024-05-11"
 description = "Thumbnail Sketch Structure for This Is How You Fail to Ghost Him"
 tags = [
