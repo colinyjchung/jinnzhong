@@ -72,6 +72,7 @@ In this section, I track daily actions (axn) and emotions (emo), aiming for just
 | SAT | :skull: | :angry: | Spent day working on [THBs](https://journal.jinnzhong.com/tags/thb/). |
 
 **STREAK COUNT:** 0 Days
+
 **BEST STREAK:** 18 Days
 
 ## Four Thousand Weeks
