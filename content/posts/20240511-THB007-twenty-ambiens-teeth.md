@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "THB-007: Twenty Teeth on Ambien"
+title = "THB-007: 20 Teeth on Ambien"
 date = "2024-05-11"
 description = "Thumbnail Sketch Structure for Twenty Reasons to Stay and One to Leave, The Wife on Ambien, and The Secret Lives of the Nine Negro Teeth of George Washington"
 tags = [
