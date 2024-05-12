@@ -1,6 +1,6 @@
-___
++++
 title: Plot Patterns
----
++++
 {{< toc >}}
 
 ## HURT
