@@ -1,6 +1,7 @@
 +++
-title: Plot Patterns
+title: "Plot Patterns"
 +++
+
 {{< toc >}}
 
 ## HURT
