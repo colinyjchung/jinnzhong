@@ -8,7 +8,7 @@ tags = [
     "Creative Process",
 ]
 categories = [
-    "Do the Work",
+    "Doing the Work",
     "Chasing Black Swans",
 ]
 +++
