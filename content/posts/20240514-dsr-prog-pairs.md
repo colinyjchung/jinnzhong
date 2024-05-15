@@ -40,7 +40,7 @@ categories = [
 
 ## Disruptions (DSR)
 
-DSRs are inciting incidents. But I like "disruption" better, because it reminds you that there is a STASIS (STS) to disrupt first. PROTs aren't doing nothing before they get disrupted. They have a life along with a backstory of why they've chosen this life. A DSR forces them to re-think this life.
+DSRs are inciting incidents or the "set up". But I like "disruption" better, because it reminds you that there is a STASIS (STS) to disrupt first. PROTs aren't doing nothing before they get disrupted. They have a life along with a backstory of why they've chosen this life. A DSR forces them to re-think this life.
 
 * **[dsr: HURT](https://journal.jinnzhong.com/tags/dsr-HURT/)**: Deal with curse, poison, injury of self or ally
 * **[dsr: LOST](https://journal.jinnzhong.com/tags/dsr-LOST/)**: Deal with abduction, imprisonment, captivity, abandonment, or missing of self or ally
