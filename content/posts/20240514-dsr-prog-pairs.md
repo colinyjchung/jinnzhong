@@ -40,5 +40,9 @@ DSRs are inciting incidents. But I like "disruption" better, because it reminds 
 * **[dsr: REUNION](https://journal.jinnzhong.com/tags/dsr-REUNION/)**: Meet up with old friend, colleague, ex-lover, or estranged relation.
 * **[dsr: RIVAL](https://journal.jinnzhong.com/tags/dsr-RIVAL/)**: Need to settle who's best at X once and for all.
 * **[dsr: ROOKIE](https://journal.jinnzhong.com/tags/dsr-ROOKIE/)**: New guy needs to be brought into our inner circle (e.g. social, profession, underground).
-* **[dsr: STRANGER](https://journal.jinnzhong.com/tags/dsr-STRANGER/)**: Why is this new person I just met acting weird, suss, assholey, or not conforming to our world?
+* **[dsr: STRANGER](https://journal.jinnzhong.com/tags/dsr-STRANGER/)**: New person is acting weird, suss, assholey, or not conforming to our world
 * **[dsr: CRIME](https://journal.jinnzhong.com/tags/dsr-CRIME/)**: Case assigned to detective, investigator, or mystery discovered by armchair/Scoobies
+
+## Progress (PROG)
+
+PROG is the middle of a story. It encompasses BWO (B-World), MID (Midpoint), LOW (Lowpoint), CMX (Climax). They are the beats of a story: actions, events, moves. There is a linear progression from point A to point B. Along the way are obstacles and conflict.
