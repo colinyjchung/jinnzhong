@@ -59,6 +59,8 @@ tags = [
     "P. Djèlí Clark",
     "1776 (2005)",
     "David McCullough",
+    "Never Let Me Go (2005)",
+    "Kazuo Ishiguro",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -94,6 +96,7 @@ categories = [
 |5/2|:headphones:| The Age Of Henry VIII (2003) | Dale Hoak | |
 |5/2|:book:| Ring Shout (2020) | P. Djèlí Clark | [cmts](https://journal.jinnzhong.com/commentary-ring-shout-2020/) |
 |5/10|:headphones:| 1776 (2005) | David McCullough | |
+|5/15|:book:| Never Let Me Go (2005) | Kazuo Ishiguro |[cmts](https://journal.jinnzhong.com/commentary-never-let-me-go-2005/) |
 
 
   
