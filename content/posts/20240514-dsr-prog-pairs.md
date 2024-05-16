@@ -16,8 +16,7 @@ tags = [
     "dsr: MONKEY'S PAW",
     "dsr: MYSTERY BOX",
     "dsr: GROW UP",
-    "dsr: LETTING GO",
-    "dsr: SEPARATION",
+    "dsr: BREAK UP",
     "dsr: WARNING",
     "dsr: GLIMPSE",
     "dsr: SECRET",
@@ -49,8 +48,7 @@ DSRs are inciting incidents or the "set up". But I like "disruption" better, bec
 * **[dsr: MONKEY'S PAW](https://journal.jinnzhong.com/tags/dsr-MONKEYS-PAW/)**: Get gift/job you want, but unexpected consequences, side effects, hidden costs.
 * **[dsr: MYSTERY BOX](https://journal.jinnzhong.com/tags/dsr-MYSTERY-BOX/)**: Get gift/job is of unknown quantities, must figure out what it does
 * **[dsr: GROW UP](https://journal.jinnzhong.com/tags/dsr-GROW-UP/)**: Dealing with losing virginity, first love/house/job, coming out, pregnancy
-* **[dsr: LETTING GO](https://journal.jinnzhong.com/tags/dsr-LETTING-GO/)**: Dealing with midlife crisis, empty nest, retirement, identity loss, addiction.
-* **[dsr: SEPARATION](https://journal.jinnzhong.com/tags/dsr-SEPARATION/)**: Dealing with breakup, divorce, empty nest, fired, death.
+* **[dsr: BREAK UP](https://journal.jinnzhong.com/tags/dsr-BREAK-UP/)**: Dealing with breakup, divorce, empty nest, fired, death, empty nest, retirement, identity loss (e.g. midlife crisis).
 * **[dsr: WARNING](https://journal.jinnzhong.com/tags/dsr-WARNING/)**: Threat or rumor of villain, disaster, or bad news coming.
 * **[dsr: GLIMPSE](https://journal.jinnzhong.com/tags/dsr-GLIMPSE/)**: Witness crime due to wrong place, wrong time.
 * **[dsr: SECRET](https://journal.jinnzhong.com/tags/dsr-SECRET/)**: Accidentally see affair, real identity, secret life, real age, scandal.
