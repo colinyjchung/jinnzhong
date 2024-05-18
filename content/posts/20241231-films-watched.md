@@ -23,6 +23,7 @@ tags = [
     "Wish (2023)",
     "Taken (2008)",
     "The Devil Wears Prada (2006)",
+    "The Antisocial Network (2024)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -54,7 +55,8 @@ Decided to start tracking TV shows this year as well. Dates are the date in whic
 |4/6|:tv:| Money Heist P4 (2020) | |
 |4/13|:iphone:| Money Heist P5 (2021) | |
 |4/24|:tv:| The Devil Wears Prada (2006) | rewatch |
-|5/10|:tv:| The Bear S2 (2023) | |
+|5/17|:tv:| The Antisocial Network (2024) | |
+|5/XX|:tv:| The Bear S2 (2023) | |
 
 
 
