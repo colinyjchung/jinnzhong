@@ -28,10 +28,11 @@ categories = [
 | ---: | :---: | :--- | :---: | :---: |
 | 1/30 | RTT | Waterloo Campaign 1815 (2019) | **B**C | 24/12 |
 
-## RPG Sessions (1)
+## RPG Sessions (3)
 | Date | Loc | Sys | Party | Ep. |
 | ---: | :---: | :--- | :--- |:--- |
 | 2/3 | GSR | HtR5e | Rain City Reckoning | [Making Friends](https://journal.jinnzhong.com/rcr-htr-e10-making-friends/) |
 | 3/22 | OGB | Orc Borg | Rain City Reckoning | [Demon Egg & Dead Dwarves](https://journal.jinnzhong.com/rcr-orcborg-sp02-demon-egg-dead-dwarves/) |
+| 5/18 | GSR | HtR5e | Rain City Reckoning | [Sam the Softie](https://journal.jinnzhong.com/rcr-htr-e11-sam-the-softie/) |
 
 [Previous "Games Played" Here](https://journal.jinnzhong.com/tags/games-played/)
