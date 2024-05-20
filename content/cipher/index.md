@@ -1,8 +1,8 @@
 +++ 
 title = "Cipher" 
 +++
-
 A non-exhaustive dictionary of abbreviations used in my notes.
+{{< toc >}}
 
 ## FICTION
 
