@@ -28,6 +28,13 @@ tags = [
  "ntw: EXPOSE",
  "ntw: FIGHT",
  "ntw: REBEL",
+ "arc: WISE UP",
+ "arc: GROUNDED",
+ "arc: FIND FAM",
+ "arc: GET UNSTUCK",
+ "arc: UGLY TRUTH",
+ "arc: NEW FRAME",
+ "arc: LET GO",
  "arc: TRUST OTHERS",
 ]
 categories = [
@@ -77,13 +84,23 @@ The character arc is a little more difficult to suss out. Most websites talk abo
 
 As with the two above tag groups, I'm trying to essentialize "types" as much as I can without losing usefulness. That's important. If it gets too abstracted like, again, The Hero's Journey, to keep beating a dead horse... then it becomes useless. So if we start with say, a table of common denial-acceptance pairs, it might look something like this:
 
-| Denial | Acceptance |
-|:--- |:---|
-| "I don't need other people" | |
-| "I'm OK with what I have" | |
-| "I'm doing this for X" | |
-| "The cost is worth it" | |
-| "Being/doing/having X defines me!" | |
+| Denial | Misbehavior |Acceptance |
+|:--- |:---:|:---|
+| "I don't know anything, but I want X" | Naive Fool |"I have a lot to learn" |
+| "I need to prove myself" | Chipped Shoulder | "I am enough." |
+| "I don't need other people" | Lone Wolf | "I need my found family" |
+| "I'm fine. EVERYTHING is FINE!" | Bad Coping | "Everything isn't fine. I need to change" |
+| "I'm doing this for X" | Bad Excuse | "Actually, I'm doing this for selfish reasons"|
+| "The sacrifice is worth it" | Blind Loyalty |"Actually, we're hurting people" |
+| "Be/Do/Have X defines me!" | Holding On | "I don't need to be/do/have X anymore, and it's OK" |
+
+* **[arc: WISE UP](https://journal.jinnzhong.com/tags/arc-wise-up/)** - the naive, idealistic, romantic who pursues X blindly realizes there are costs, learns and grows up, now "knows better"
+* **[arc: GROUNDED](https://journal.jinnzhong.com/tags/arc-grounded/)** - the insecure, chip-on-shoulder individual who over-extends, overworks, realizes they are "enough" as they are.
+* **[arc: FIND FAM](https://journal.jinnzhong.com/tags/arc-find-fam/)** - the maverick loner, who doesn't follows rules, does their own thing finds their "family" they can trust, and be a part a tribe
+* **[arc: GET UNSTUCK](https://journal.jinnzhong.com/tags/arc-get-unstuck/)** - someone who has compromised a lot to survive (via coping mechanisms) finds the courage to get unstuck and live freely again
+* **[arc: UGLY TRUTH](https://journal.jinnzhong.com/tags/arc-ugly-truth/)** - the power hungry, ambitious, ruthless person who keeps hoarding to "protect their family" or some other noble excuse realizes they're doing it for selfish reasons.
+* **[arc: NEW FRAME](https://journal.jinnzhong.com/tags/arc-new-frame/)** - someone with blind loyalty sees the cracks in the system, questions it, eventually changes their mind, gets a new perspective or frame-of-reference
+* **[arc: LET GO](https://journal.jinnzhong.com/tags/arc-let-go/)** - someone who is holding on to their identity at the cost of love, family, self-confidence, whatever realizes they need to let go.
 
 
 
