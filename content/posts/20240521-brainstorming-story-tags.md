@@ -14,13 +14,13 @@ tags = [
  "QST",
  "NTW",
  "qst: ASK",
+ "qst: BATTLE",
  "qst: CREATE",
  "qst: DELIVER",
  "qst: ESCAPE",
  "qst: FETCH",
+ "qst: GO SEE",
  "qst: HUNT",
- "qst: PROTECT",
- "qst: VISIT",
  "ntw: WIELD",
  "ntw: CLIMB",
  "ntw: FOLLOW",
@@ -47,24 +47,24 @@ Been stuck on tagging all of last week and this week. Starting to realize it's n
 
 As you'll soon see, these four tag categories are heavily influenced by OSC's MICE quotient, and MRK's revised version of it... but I'm trying to make it more _functional and useful_ to me and the way my brain processes it, which unfortunately, doesn't give me a memorable acronym like MICE. But let's go through them...
 
-[TOC]
+{{< toc >}}
 
 ## Quests [QST]
 
-**QST**, or "Quests", are the action beats that drive a story. Unless it's an action film where one action defines the entire story, it is a series of them. It's akin to EVENT in the MICE quotient, but more clear, specific, and functional to me. It tells me what the PROT has to do. 
+**QST**, or "Quests", are the action beats that drive a story. Unless it's an action film where one action defines the entire story, it is a series of them in a longer work (film/novel), but perhaps only one in a short story. It's akin to EVENT in the MICE quotient, but more clear, specific, and functional to me. It tells me what the PROT has to do. 
 
 Here's what I have so far...
 
 * **[qst: ASK](https://journal.jinnzhong.com/tags/qst-ask/)** - Go ask, beg, negotiate X for Y
+* **[qst: BATTLE](https://journal.jinnzhong.com/tags/qst-battle/)** - Protect, or defend against attacks, or go somewhere to fight X.
 * **[qst: CREATE](https://journal.jinnzhong.com/tags/qst-create/)** - Invent, create, perform, or make X
 * **[qst: DELIVER](https://journal.jinnzhong.com/tags/qst-deliver/)** - Bring X (character or object) to Y
 * **[qst: ESCAPE](https://journal.jinnzhong.com/tags/qst-escape/)** - Get out of or away from X, run and hide
 * **[qst: FETCH](https://journal.jinnzhong.com/tags/qst-fetch/)** - Go get, find, rescue, steal, claim, buy, or win X
+* **[qst: GO SEE](https://journal.jinnzhong.com/tags/qst-go-see/)** - Go to X to see, explore, or investigate
 * **[qst: HUNT](https://journal.jinnzhong.com/tags/qst-hunt/)** - Chase, hunt, pursue, and avenge or kill.
-* **[qst: PROTECT](https://journal.jinnzhong.com/tags/qst-protect/)** - Protect, or defend against attacks to X.
-* **[qst: VISIT](https://journal.jinnzhong.com/tags/qst-visit/)** - Go to X to see, explore, or investigate
 
-I don't know if this is exhaustive in terms of pure actions, but it feels fairly exhaustive to me. I debated "fight" should be an action in and of itself... but I feel like it makes more sense under NTW below. QSTs are straight-up "go do x" tasks. It might run into conflict, obstacles, opposition, constraints, or traps, but it's not "baked in" if that makes sense. I think 90% of everyday tasks in the real world just happen routinely.
+I don't know if this is exhaustive in terms of pure actions, but it feels fairly exhaustive to me. QSTs are straight-up "go do x" tasks. It might run into conflict, obstacles, opposition, constraints, or traps, but it's not "baked in" if that makes sense. I think 90% of everyday tasks in the real world just happen routinely.
 
 However, it should be noted that if the story doesn't make a big deal of it, if it doesn't dramatize it, nor is the action itself load-bearing, and you can handwave it, that is -- skip the parts where you're going from location A to location B, then it is NOT a QST sequence. 
 
@@ -72,7 +72,7 @@ However, it should be noted that if the story doesn't make a big deal of it, if 
 
 **NTW**, or "Network", is the social network in which the characters live. This is one of my biggest "breakthroughs" on story construction, at least theoretically. It's sorta like milieu in the MICE quotient, but again, I'm re-tagging everything because I found the original OSC definition of it lacking. MRK uses "milieu" to dictate the action as going to a place and getting out, or choosing to stay, or whatever. It's clearly "place". But I reviewed my old [1988 OSC notes](https://journal.jinnzhong.com/notes-characters-and-viewpoint-1988-by-orson-scott-card/#milieu). It states: "in [their] travels [they] reveal the attitude and expectations of the cultural ambience through his eyes."[^1]
 
-So in the 1988 book, _Character and Viewpoint)_, OSC hints at the "cultural ambience". I'm taking this one level deeper to talk about the social fabric and cultural norms which our characters are woven into and how we struggle against it. For me, NTW is about power dynamics, the individual versus the group, how we prey on each other, the hierarchy, the system, loyalty to, or rebelling against the rules. And there are clear PROGs here too. It might have a lot of little QSTs to drive the story forward, but there's a clear arc from A to B. I've also noticed that NTW shows up as the "reason why" at the end of a lot of PURE QST stories. At the end of _Snowpiercer_ (2013) which is a [qst: VISIT](https://journal.jinnzhong.com/tags/qst-visit/) quest (Get to the front of the train, they don't really know why or how they'll rebel, but they just know they need to get to the front...), and recently for me, _Never Let Me Go_ (2005), which in the third act is a [qst: ASK](https://journal.jinnzhong.com/tags/qst-ask/) quest (go ask Madame about a deferral and the art gallery)... the person in power reveals the NTW the characters never saw.
+So in the 1988 book, _Character and Viewpoint)_, OSC hints at the "cultural ambience". I'm taking this one level deeper to talk about the social fabric and cultural norms which our characters are woven into and how we struggle against it. For me, NTW is about power dynamics, the individual versus the group, how we prey on each other, the hierarchy, the system, loyalty to, or rebelling against the rules. And there are clear PROGs here too. It might have a lot of little QSTs to drive the story forward, but there's a clear arc from A to B. I've also noticed that NTW shows up as the "reason why" at the end of a lot of PURE QST stories. At the end of _Snowpiercer_ (2013) which is a [qst: GO SEE](https://journal.jinnzhong.com/tags/qst-go-see/) quest (Get to the front of the train, they don't really know why or how they'll rebel, but they just know they need to get to the front...), and recently for me, _Never Let Me Go_ (2005), which in the third act is a [qst: ASK](https://journal.jinnzhong.com/tags/qst-ask/) quest (go ask Madame about a deferral and the art gallery)... the person in power reveals the NTW the characters never saw.
 
 NTW, for me then, isn't just milieu so much as the power structure, the infrastructure and institutions, and the hierarchy we deal with every day. It could be a close knit group of friends, again, like _Never Let Me Go_ where Kath, Ruth, and Tommy have a love triangle... to all the different predator/prey relationships in _Cloud Atlas_ (2004), to two warring families in _Romeo and Juliet_ (1597)... to epic, galaxy-spanning factions in _Dune_ (1965), or even multiverse-hopping worlds of the MCU. The key for me here are RELATIONSHIPS and the inherent **POWER DYNAMIC** between people in relationships. Even in a marriage, there may be someone who settled, or someone who married above their station, or someone who's put on a pedestal. Someone has power, somebody else is disempowered, exploited, or taken advantaged of. The wider the power dynamic, the greater the social conflict. Here's what I have in order of having power to not, to actively working against it...
 
@@ -82,7 +82,7 @@ NTW, for me then, isn't just milieu so much as the power structure, the infrastr
 * **[ntw: SUFFER](https://journal.jinnzhong.com/tags/ntw-suffer/)** - Be exploited, abused, insulted, ostracized, or hazed (outside circle)
 * **[ntw: FLEE](https://journal.jinnzhong.com/tags/ntw-flee/)** - Run away from the more powerful group, leave the system.
 * **[ntw: EXPOSE](https://journal.jinnzhong.com/tags/ntw-expose/)** - Expose, or rat out the system, circle, or group, reporting it to a larger or influential-enough power
-* **[ntw: FIGHT](https://journal.jinnzhong.com/tags/ntw-fight/)** - Straight-up directly go up against the power; argue, threaten, lawsuits, combat.
+* **[ntw: FIGHT](https://journal.jinnzhong.com/tags/ntw-fight/)** - Straight-up directly go up against the power; argue, threaten, lawsuits, combat, declare war.
 * **[ntw: REBEL](https://journal.jinnzhong.com/tags/ntw-rebel/)** - Organize the resistance, fight the system
 
 ## Character Arcs [ARC]
@@ -112,6 +112,22 @@ As with the two above tag groups, I'm trying to essentialize "types" as much as 
 * **[arc: LET GO](https://journal.jinnzhong.com/tags/arc-let-go/)** - someone who is holding on to their identity at the cost of love, family, self-confidence, whatever realizes they need to let go.
 
 ## Inquiry [INQ]
+
+
+1. Gather, find, or stumble on to clues
+2. Go to crime scenes
+3. Interview leads and suspects
+4. Figure out network of relationships
+5. Narrow down H4W (who, when, where, why, how)
+
+Open loops and questions you might drop in a story
+
+* What's their deal?
+* Who's fucking with me?
+* Who's the traitor/spy?
+* What does this do?
+* Is this rumor true?
+* H4W did it?
 
 
 
