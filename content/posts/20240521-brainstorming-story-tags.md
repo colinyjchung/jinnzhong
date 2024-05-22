@@ -10,6 +10,7 @@ tags = [
  "MICE Quotient",
  "Orson Scott Card",
  "ARC",
+ "INQ",
  "QST",
  "NTW",
  "qst: ASK",
@@ -42,9 +43,11 @@ categories = [
 ]
 +++
 
-Been stuck on tagging all of last week and this week. Starting to realize it's not as simple as [DSR](https://journal.jinnzhong.com/tags/dsr/) and [PROG](https://journal.jinnzhong.com/tags/prog/) tags. PROG has to be broken up into three different tag categories: [QST](https://journal.jinnzhong.com/tags/qst) (quests), [NTW](https://journal.jinnzhong.com/tags/ntw/) (network), and [ARC](https://journal.jinnzhong.com/tags/arc/) (character arcs).
+Been stuck on tagging all of last week and this week. Starting to realize it's not as simple as [DSR](https://journal.jinnzhong.com/tags/dsr/) and [PROG](https://journal.jinnzhong.com/tags/prog/) tags. PROG has to be broken up into FOUR different tag categories: [QST](https://journal.jinnzhong.com/tags/qst) (quests), [NTW](https://journal.jinnzhong.com/tags/ntw/) (network), [INQ](https://journal.jinnzhong.com/tags/inq/) (inquiries), and [ARC](https://journal.jinnzhong.com/tags/arc/) (character arcs).
 
-Quickly...
+As you'll soon see, these four tag categories are heavily influenced by OSC's MICE quotient, and MRK's revised version of it... but I'm trying to make it more _functional and useful_ to me and the way my brain processes it, which unfortunately, doesn't give me a memorable acronym like MICE. But let's go through them...
+
+[TOC]
 
 ## Quests [QST]
 
@@ -92,6 +95,7 @@ As with the two above tag groups, I'm trying to essentialize "types" as much as 
 |:--- |:---:|:---|
 | "I don't know anything, but I want X" | Naive Fool |"I have a lot to learn" |
 | "I need to prove myself" | Chipped Shoulder | "I am enough." |
+| "I can do it myself, I can do it ALL" | Invincible Ego | "I'm human and I need boundaries" |
 | "I don't need other people" | Lone Wolf | "I need my found family" |
 | "I'm fine. EVERYTHING is FINE!" | Bad Coping | "Everything isn't fine. I need to change" |
 | "I'm doing this for X (noble reason)" | Bad Excuse | "Actually, I'm doing this for selfish reasons"|
@@ -100,11 +104,15 @@ As with the two above tag groups, I'm trying to essentialize "types" as much as 
 
 * **[arc: WISE UP](https://journal.jinnzhong.com/tags/arc-wise-up/)** - the naive, idealistic, romantic who pursues X blindly realizes there are costs, learns and grows up, now "knows better"
 * **[arc: GROUNDED](https://journal.jinnzhong.com/tags/arc-grounded/)** - the insecure, chip-on-shoulder individual who over-extends, overworks, realizes they are "enough" as they are.
+* **[arc: HIT LIMITS](https://journal.jinnzhong.com/tags/arc-hit-limits/)** - either through ego or a sense of martyrdom, this person carries the weight of everything on their shoulder... until they break
 * **[arc: FIND FAM](https://journal.jinnzhong.com/tags/arc-find-fam/)** - the maverick loner, who doesn't follows rules, does their own thing finds their "family" they can trust, and be a part of a tribe
 * **[arc: GET UNSTUCK](https://journal.jinnzhong.com/tags/arc-get-unstuck/)** - someone who has compromised a lot to survive (via coping mechanisms) finds the courage to get unstuck and live freely again
 * **[arc: UGLY TRUTH](https://journal.jinnzhong.com/tags/arc-ugly-truth/)** - the power hungry, ambitious, ruthless person who keeps hoarding to "protect their family" or some other noble excuse realizes they're doing it for selfish reasons.
 * **[arc: NEW FRAME](https://journal.jinnzhong.com/tags/arc-new-frame/)** - someone with blind loyalty sees the cracks in the system, questions it, eventually changes their mind, gets a new perspective or frame-of-reference
 * **[arc: LET GO](https://journal.jinnzhong.com/tags/arc-let-go/)** - someone who is holding on to their identity at the cost of love, family, self-confidence, whatever realizes they need to let go.
+
+## Inquiry [INQ]
+
 
 
 [1]: Re-reading this and realizing I subconsciously update all my notes to the gender neutral pronoun, but it's especially of note here, because... OSC.
