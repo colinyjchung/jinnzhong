@@ -131,4 +131,4 @@ Open loops and questions you might drop in a story
 
 
 
-[1]: Re-reading this and realizing I subconsciously update all my notes to the gender neutral pronoun, but it's especially of note here, because... OSC.
+[^1]: Re-reading this and realizing I subconsciously update all my notes to the gender neutral pronoun, but it's especially of note here, because... OSC.
