@@ -19,7 +19,7 @@ categories = [
 * **PAGES:** 288 in 3 parts (111/89/82)
 * **CHAPTERS:** 23 in 3 parts (9/8/6)
 
-{{< TOC >}}
+{{< toc >}}
 
 # Part 1
 ## Chapter 1
