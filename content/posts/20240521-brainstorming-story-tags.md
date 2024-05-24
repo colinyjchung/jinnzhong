@@ -113,14 +113,18 @@ As with the two above tag groups, I'm trying to essentialize "types" as much as 
 
 ## Inquiry [INQ]
 
+OK, so now we're at the only MICE quotient letter I didn't change, since MRK already did from OSC. Originally, it was "Idea", and OSC wrote: "Idea is about a PROBLEM or question posed to main character and audience. The answer is revealed at the end." MRK didn't change the meaning of it, but did label it way more clearer. It's an inquiry. Or put even more clearly, it's a mystery. And the beats of a mystery are always nearly the same:
 
-1. Gather, find, or stumble on to clues
-2. Go to crime scenes
-3. Interview leads and suspects
-4. Figure out network of relationships
-5. Narrow down H4W (who, when, where, why, how)
+1. Be presented with a mystery (the what)
+2. Gather, find, or stumble on to clues
+3. Go to crime scenes (if actual procedural)
+4. Interview leads and suspects
+5. Figure out network of relationships
+6. Narrow down H4W (who, when, where, why, how) until you solve it.
 
-Open loops and questions you might drop in a story
+And to be clear - mysteries don't have to be a crime (murder, kidnapping, theft) that you solve. Obviously that's a whole genre in and of itself. But you can _weave_ "inquiry threads" into the fabric of your story, or make it the entire overarching story. As MRK pointed out before, _Pride and Prejudice_ (1813) is a mystery. Who the hell is Darcy and why is he such a jerk? Get clues, get more clues, get proposed to (what?!), get a letter explaining why he hates Wickham... and then more mysterious behavior like helping out Lydia, but also showing up at the wedding. Dude just doesn't conform to the norm.
+
+So here are some inquiry questions I think expands what an INQ is beyond just crime.
 
 * What's their deal?
 * Who's fucking with me?
