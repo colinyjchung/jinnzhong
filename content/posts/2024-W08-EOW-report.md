@@ -15,7 +15,7 @@ tags = [
     "France '40 (2013)",
     "Mark Simonitch",
     "Richard H. Berg",
-    "Pride and Prejudice (1831)",
+    "Pride and Prejudice (1813)",
     "We Have Always Lived in the Castle (1962)",
     "Stranger in a Strange Land (1961)",
     "The Well of Ascension (2007)",
