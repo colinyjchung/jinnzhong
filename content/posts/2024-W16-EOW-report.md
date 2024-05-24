@@ -9,7 +9,7 @@ tags = [
     "Bryan Cheyne",
     "L.L. MacRae",
     "Garage Fiction Podcast",
-    "Pride and Prejudice (1831)",
+    "Pride and Prejudice (1813)",
     "The Best of Gamut (2024)",
     "SPQR (2015)",
     "Never Let Me Go (2005)",
