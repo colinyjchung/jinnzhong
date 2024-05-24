@@ -10,7 +10,7 @@ tags = [
     "Olivia Hofer",
     "The Vietnam War: An Intimate History (2017)",
     "Invisible Man (1952)",
-    "Pride and Prejudice (1831)",
+    "Pride and Prejudice (1813)",
     "We Have Always Lived in the Castle (1962)",
     "Four Thousand Weeks (2021)",
     "Warhammer 40,000: Rogue Trader (1987)",
