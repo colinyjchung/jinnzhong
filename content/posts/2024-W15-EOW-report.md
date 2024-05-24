@@ -6,7 +6,7 @@ description = "End of Week Report for W15 of 2024"
 tags = [
     "Creative Process",
     "Olivia Hofer",
-    "Pride and Prejudice (1831)",
+    "Pride and Prejudice (1813)",
     "The Best of Gamut (2024)",
     "SPQR (2015)",
     "Never Let Me Go (2005)",
