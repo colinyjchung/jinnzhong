@@ -6,6 +6,9 @@ description = "NOTES: Characters and Viewpoint (1988) by Orson Scott Card"
 tags = [
     "Craft of Writing",
     "Notes on Craft",
+    "Orson Scott Card",
+    "OSC",
+    "MICE Quotient",
 ]
 categories = [
     "Craft of Storytelling",
