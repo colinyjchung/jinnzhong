@@ -8,7 +8,7 @@ tags = [
     "MRK Short Story Cohort",
     "Mary Robinette Kowal",
     "Mark Simonitch",
-    "Pride and Prejudice (1831)",
+    "Pride and Prejudice (1813)",
     "Stranger in a Strange Land (1961)",
     "The Hero of Ages (2008)",
     "A Promised Land (2020)",
