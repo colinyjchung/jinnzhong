@@ -8,7 +8,7 @@ tags = [
     "Olivia Hofer",
     "Garage Fiction Podcast",
     "MRK: Prime Cohort",
-    "Pride and Prejudice (1831)",
+    "Pride and Prejudice (1813)",
     "Sense and Sensibility (1811)",
     "Never Let Me Go (2005)",
     "And What Can We Offer You Tonight (2021)",
