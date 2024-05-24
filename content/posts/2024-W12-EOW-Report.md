@@ -7,7 +7,7 @@ tags = [
     "Creative Process",
     "MRK Short Story Cohort",
     "Mary Robinette Kowal",
-    "Pride and Prejudice (1831)",
+    "Pride and Prejudice (1813)",
     "The End of the World Is Just Beginning (2022)",
     "Timeline (1999)",
     "Jane Austen",
