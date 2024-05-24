@@ -11,7 +11,7 @@ tags = [
     "Olivia Hofer",
     "Bryan Cheyne",
     "L.L. MacRae",
-    "Pride and Prejudice (1831)",
+    "Pride and Prejudice (1813)",
     "The End of the World Is Just Beginning (2022)",
     "Get in Trouble (2016)",
     "The Best of Gamut (2024)",
