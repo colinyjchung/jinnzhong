@@ -8,7 +8,7 @@ tags = [
     "MRK Short Story Cohort",
     "Mary Robinette Kowal",
     "Olivia Hofer",
-    "Pride and Prejudice (1831)",
+    "Pride and Prejudice (1813)",
     "We Have Always Lived in the Castle (1962)",
     "SPQR (2015)",
     "The Bomber Mafia (2021)",
