@@ -1,7 +1,7 @@
 +++
 author = "Jinn Zhong"
 title = "Still Brainstorming Story Tags"
-date = "2024-05-21"
+date = "2024-05-24"
 description = "Story Tags"
 tags = [
  "Craft of Writing",
@@ -126,12 +126,21 @@ And to be clear - mysteries don't have to be a crime (murder, kidnapping, theft)
 
 So here are some inquiry questions I think expands what an INQ is beyond just crime.
 
-* What's their deal?
-* Who's fucking with me?
-* Who's the traitor/spy?
-* What does this do?
-* Is this rumor true?
-* H4W did it?
+* What's their deal? (known character acts out-of-character)
+* What's their deal? (unknown character does stuff that's inexplicable or not normal)
+* What's their deal? (character has an unusual reaction to POV's action/words)
+* Will this work? (character comes up with a plan, reader knows it, but it might not work)
+* Can I trust them? (POV reveals or confides their vulnerability to a character who can harm them)
+* Is this rumor true? (Character hears of an opportunity, person-of-interest, secret, or gossip)
+* What the hell was that? (Inscrutable character gives POV vague hints, warnings, or veiled prophecies)
+* Do they know what I know? How much? (POV suspects another character knows their secret/cover-up)
+* Who's fucking with me? (POV is being messed with and they don't know who, or what, or why)
+* Who's the traitor/spy? (POV is being messed with and they know why, and maybe how, but not who)
+* Are they really going to do it? (POV is threatened by enemy, or ally makes crazy plan)
+* What does this do? (POV discovers a new tool, toy, MECH, spell, sometimes a FAFO story)
+* H4W did it? (Crime was committed, now you need to figure out suspects (WHO), motivation (WHY), method (HOW), and opportunity (WHEN/WHERE)).
+
+And if I had to break it down into categorical tags...
 
 
 
