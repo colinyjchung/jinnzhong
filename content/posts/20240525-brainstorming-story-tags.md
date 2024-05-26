@@ -1,7 +1,7 @@
 +++
 author = "Jinn Zhong"
 title = "Still Brainstorming Story Tags"
-date = "2024-05-24"
+date = "2025-05-26"
 description = "Story Tags"
 tags = [
  "Craft of Writing",
@@ -37,6 +37,14 @@ tags = [
  "arc: NEW FRAME",
  "arc: LET GO",
  "arc: TRUST OTHERS",
+ "inq: H4WDIDIT",
+ "inq: NEW TOY",
+ "inq: GAMBLE",
+ "inq: ORACLE",
+ "inq: MISBEHAVE",
+ "inq: RUMOR",
+ "inq: TRAITOR",
+ "inq: HIDING",
 ]
 categories = [
  "Craft of Storytelling",
@@ -55,7 +63,7 @@ As you'll soon see, these four tag categories are heavily influenced by OSC's MI
 
 Here's what I have so far...
 
-* **[qst: ASK](https://journal.jinnzhong.com/tags/qst-ask/)** - Go ask, beg, negotiate X for Y
+* **[qst: ASK](https://journal.jinnzhong.com/tags/qst-ask/)** - Go ask, beg, delegate, hire, negotiate, purchase, or sell X for Y
 * **[qst: BATTLE](https://journal.jinnzhong.com/tags/qst-battle/)** - Protect, or defend against attacks, or go somewhere to fight X.
 * **[qst: CREATE](https://journal.jinnzhong.com/tags/qst-create/)** - Invent, create, perform, or make X
 * **[qst: DELIVER](https://journal.jinnzhong.com/tags/qst-deliver/)** - Bring X (character or object) to Y
@@ -140,8 +148,28 @@ So here are some inquiry questions I think expands what an INQ is beyond just cr
 * What does this do? (POV discovers a new tool, toy, MECH, spell, sometimes a FAFO story)
 * H4W did it? (Crime was committed, now you need to figure out suspects (WHO), motivation (WHY), method (HOW), and opportunity (WHEN/WHERE)).
 
-And if I had to break it down into categorical tags...
+And if I had to break it down into categorical tags... and put it into some sort of order, I suppose I could order it from least "ignorable" to something the POV _has_ to pay attention to?
 
+* **[inq: H4WDIDIT](https://journal.jinnzhong.com/tags/inq-h4wdidit/):** Solve the crime: suspects (who), motivation (why), method (how), opportunity (when/where).
+* **[inq: NEW TOY](https://journal.jinnzhong.com/tags/inq-new-toy/):** What does this new MECH do?
+* **[inq: GAMBLE](https://journal.jinnzhong.com/tags/inq-gamble/):** Will this work? POV or ally comes up wiht a plan. Or "can I trust X and share my secrets?" Or "will they do it?" ANTAG threatens POV with plan.
+* **[inq: ORACLE](https://journal.jinnzhong.com/tags/inq-oracle/):** WTF are they talking about? An ally, gatekeeper, mentor, seer, or whoever drops vague hints, ambiguous warnings, or veiled prophecies.
+* **[inq: MISBEHAVE](https://journal.jinnzhong.com/tags/inq-misbehave/):** Why is this character acting like this? (out-of-character, unusual actions, non-conformist).
+* **[inq: RUMOR](https://journal.jinnzhong.com/tags/inq-rumor/):** POV hears of an opportunity, gossip, secret location, clue, person-of-interest they need to follow up on.
+* **[inq: TRAITOR](https://journal.jinnzhong.com/tags/inq-traitor/):** Who's fucking with me? Who's the ANTAG hiding inside our group? Is there a unknown force working against me? 
+* **[inq: HIDING](https://journal.jinnzhong.com/tags/inq-hiding/):** How much do they know? POV is hiding secrets, leading a double-life, committed a crime, and suspects someone knows.
 
+I think a good stress test for all these questions is if they fit into the six-point plot above for mysteries. Or even simpler, do they need to get clues, talk to leads, figure out relationships, and answer the question. 
+
+* **H4WDIDIT**: Yes, this one is a straightforward mystery case.
+* **NEW TOY**: There's a lot of "playing" and exploring to figure things out as "clues". There's also trying this new toy on allies, enemies, etc. There might be others looking for this toy. And once you've figured out what it does, it leads to more hijinks (or responsibility). And maybe you figure out the origin of the MECH and that deepens it more. I think this one passes.
+* **GAMBLE**: This one is front-loaded. You get as many clues and leads first, a lot of preparation, a lot of setup, and obviously there are still surprises in the third act. Hmm. This one is maybe questionable.
+* **ORACLE**: You see a lot of "signs" as the POV quests after getting this warning. And maybe the audience knows or doesn't know... but eventually, all the signs should coalesce into a load-bearing plot point. This passes.
+* **MISBEHAVE**: Yes, this one works. You gather clues about the mysterious stranger or ally who's acting out-of-character. You talk to others about them. And eventually, you figure out why they're acting the way they are.
+* **RUMOR**: Yes, this works. You hear about a thing, you ask around about it, you go see it yourself, you verify if it's true. There's the thrill or shock that it is, there's the disappointment, or relief that it isn't. But you have to go figure it out.
+* **TRAITOR**: Yes, this works too. It's basically a H4WDIDIT, but you're in it and the people you're interviewing could be it and they can hurt you.
+* **HIDING**: This one is iffy. I mean, the POV could technically just run. Why bother sticking around to find out if they DO know? But of cousre, there are situations where you can't run and you either face the consequences or squash/murder the person who knows.
+
+OK, I think I'm done here. This has eaten up two weeks of my life.
 
 [^1]: Re-reading this and realizing I subconsciously update all my notes to the gender neutral pronoun, but it's especially of note here, because... OSC.
