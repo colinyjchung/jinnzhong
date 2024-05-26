@@ -28,7 +28,7 @@ A non-exhaustive dictionary of abbreviations used in my notes.
 * **TTB**: Ticking Time Bomb
 * **WLG**: Wound/Lie/Ghost or backstory
 
-## STORY STRUCTURE IN ORDER
+## STORY STRUCTURE
 
 0. **WLG**: Wound/Lie/Ghost or backstory
 1. **STS**: Stasis - or Ordinary World
@@ -38,6 +38,33 @@ A non-exhaustive dictionary of abbreviations used in my notes.
 5. **LOW**: Low Point aka Dark Night of the Soul, usually penultimate scene (before CMX)
 6. **CMX**: Climax
 7. **DNM**: Denoument, or Ending
+
+## STORY TAGS
+
+The original thought processa and brainstorming for this [taxonomy is here](https://journal.jinnzhong.com/still-brainstorming-story-tags/).
+
+### DSR TAGS
+
+| Life Stage | Status Quo | Gift/Job | New Person |
+|:---:|:---:|:---:|:---:|
+|[GROW UP](https://journal.jinnzhong.com/tags/dsr-grow-up/)|[WARNING](https://journal.jinnzhong.com/tags/dsr-warning/)|[WHITE ELEPHANT](https://journal.jinnzhong.com/tags/dsr-white-elephant/)|[FISH>WATER](https://journal.jinnzhong.com/tags/dsr-fish-water/)|
+|[BREAK UP](https://journal.jinnzhong.com/tags/dsr-break-up/)|[GLIMPSE](https://journal.jinnzhong.com/tags/dsr-glimpse/)|[MONKEY'S PAW](https://journal.jinnzhong.com/tags/dsr-monkeys-paw/)|[REUNION](https://journal.jinnzhong.com/tags/dsr-reunion/)|
+|[DOUBT](https://journal.jinnzhong.com/tags/dsr-doubt/)|[GLIMMER](https://journal.jinnzhong.com/tags/dsr-glimmer/)|[MYSTERY BOX](https://journal.jinnzhong.com/tags/dsr-mystery-box/)|[ROOKIE](https://journal.jinnzhong.com/tags/dsr-rookie/)|
+|[RIVAL](https://journal.jinnzhong.com/tags/dsr-rival/)|[HURT](https://journal.jinnzhong.com/tags/dsr-hurt/)|[WRONGED](https://journal.jinnzhong.com/tags/dsr-wronged/)|[STRANGER](https://journal.jinnzhong.com/tags/dsr-stranger/)|
+|[TASTE](https://journal.jinnzhong.com/tags/dsr-taste/)|[LOST](https://journal.jinnzhong.com/tags/dsr-lost/)|[CRIME](https://journal.jinnzhong.com/tags/dsr-crime/)|[SECRET](https://journal.jinnzhong.com/tags/dsr-secret/)|
+
+### PROG TAGS
+
+| [QST](https://journal.jinnzhong.com/tags/qst/) | [INQ](https://journal.jinnzhong.com/tags/inq/) | [NTW](https://journal.jinnzhong.com/tags/ntw/) | [ARC](https://journal.jinnzhong.com/tags/arc/) |
+|:--- |:--- |:--- |:--- |
+|[ASK](https://journal.jinnzhong.com/tags/qst-ask/)|[H4WDIDIT](https://journal.jinnzhong.com/tags/inq-h4wdidit/)|[WIELD](https://journal.jinnzhong.com/tags/ntw-wield/)|[WISE UP](https://journal.jinnzhong.com/tags/arc-wise-up/)|
+|[BATTLE](https://journal.jinnzhong.com/tags/qst-battle/)|[NEW TOY](https://journal.jinnzhong.com/tags/inq-new-toy/)|[CLIMB](https://journal.jinnzhong.com/tags/ntw-climb/)|[GROUNDED](https://journal.jinnzhong.com/tags/arc-grounded/)|
+|[CREATE](https://journal.jinnzhong.com/tags/qst-create/)|[GAMBLE](https://journal.jinnzhong.com/tags/inq-gamble/)|[FOLLOW](https://journal.jinnzhong.com/tags/ntw-follow/)|[HIT LIMITS](https://journal.jinnzhong.com/tags/arc-hit-limits/)|
+|[DELIVER](https://journal.jinnzhong.com/tags/qst-deliver/)|[ORACLE](https://journal.jinnzhong.com/tags/inq-oracle/)|[SUFFER](https://journal.jinnzhong.com/tags/ntw-suffer/)|[FIND FAM](https://journal.jinnzhong.com/tags/arc-find-fam/)|
+|[ESCAPE](https://journal.jinnzhong.com/tags/qst-escape/)|[MISBEHAVE](https://journal.jinnzhong.com/tags/inq-misbehave/)|[FLEE](https://journal.jinnzhong.com/tags/ntw-flee/)|[GET UNSTUCK](https://journal.jinnzhong.com/tags/arc-get-unstuck/)|
+|[FETCH](https://journal.jinnzhong.com/tags/qst-fetch/)|[RUMOR](https://journal.jinnzhong.com/tags/inq-rumor/)|[EXPOSE](https://journal.jinnzhong.com/tags/ntw-expose/)|[UGLY TRUTH](https://journal.jinnzhong.com/tags/arc-ugly-truth/)|
+|[GO SEE](https://journal.jinnzhong.com/tags/qst-go-see/)|[TRAITOR](https://journal.jinnzhong.com/tags/inq-traitor/)|[FIGHT](https://journal.jinnzhong.com/tags/ntw-fight/)|[NEW FRAME](https://journal.jinnzhong.com/tags/arc-new-frame/)|
+|[HUNT](https://journal.jinnzhong.com/tags/qst-hunt/)|[HIDING](https://journal.jinnzhong.com/tags/inq-hiding/)|[REBEL](https://journal.jinnzhong.com/tags/ntw-rebel/)|[LET GO](https://journal.jinnzhong.com/tags/arc-let-go/)|
 
 ## GAMES
 
