@@ -1,7 +1,7 @@
 +++
 author = "Jinn Zhong"
 title = "Still Brainstorming Story Tags"
-date = "2025-05-26"
+date = "2024-05-26"
 description = "Story Tags"
 tags = [
  "Craft of Writing",
