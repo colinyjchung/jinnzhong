@@ -19,6 +19,8 @@ categories = [
 * **PAGES:** 288 in 3 parts (111/89/82)
 * **CHAPTERS:** 23 in 3 parts (9/8/6)
 
+:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
+
 {{< toc >}}
 
 # Part 1
