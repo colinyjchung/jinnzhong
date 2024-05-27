@@ -21,7 +21,7 @@ Some notes before I start. Chapter 6 is in Part 1. Chapter 10 is when Part 2 sta
 :warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
 
 |ch|pg|%| Plot Point | tag |
-|:---:|:---:|:---:|:---|:---:|
+|:---:|:---:|:---:|:---|:---|
 |6|p.65|23%| Intro Norfolk bit | [GLIMMER](https://journal.jinnzhong.com/tags/dsr-glimmer/) A |
 |6|p.71|24%| Madame catches Kath dancing | [SECRET](https://journal.jinnzhong.com/tags/dsr-secret/) B |
 |6|p.73|25%| Tape goes missing | Setup [inq: RUMOR](https://journal.jinnzhong.com/tags/inq-rumor/) A |
