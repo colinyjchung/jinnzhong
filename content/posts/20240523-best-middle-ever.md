@@ -25,10 +25,10 @@ Some notes before I start. Chapter 6 is in Part 1. Chapter 10 is when Part 2 sta
 |6|p.65|23%| Intro Norfolk bit | [dsr: GLIMMER](https://journal.jinnzhong.com/tags/dsr-glimmer/) A |
 |6|p.71|24%| Madame catches Kath dancing | [dsr: SECRET](https://journal.jinnzhong.com/tags/dsr-secret/) B |
 |6|p.73|25%| Tape goes missing | Setup [inq: RUMOR](https://journal.jinnzhong.com/tags/inq-rumor/) A |
-|11|p.133|47%| Intro Steve's mags | Setup/Foreshadow C |
-|11|p.136|47%| Tommy catches Kath with porn | [inq: MISBEHAVE](https://journal.jinnzhong.com/tags/inq-misbehave/) C |
-|12|p.139|48%| Yes, clones. Intro "possibles" | [inq: RUMOR](https://journal.jinnzhong.com/tags/inq-rumor/) D |
-|13|p.153|53%| Intro concept of "deferrals" | [inq: RUMOR](https://journal.jinnzhong.com/tags/inq-rumor/) E |
+|11|p.133|47%| Intro Steve's mags | Foreshadow C |
+|11|p.136|47%| Tommy catches Kath with porn | Setup [inq: MISBEHAVE](https://journal.jinnzhong.com/tags/inq-misbehave/) C |
+|12|p.139|48%| Yes, clones. Intro "possibles" | Setup [inq: RUMOR](https://journal.jinnzhong.com/tags/inq-rumor/) D |
+|13|p.153|53%| Intro concept of "deferrals" | Setup [inq: RUMOR](https://journal.jinnzhong.com/tags/inq-rumor/) E |
 |14|p.156|54%| Spy on "possible" | Close [inq: RUMOR](https://journal.jinnzhong.com/tags/inq-rumor/) D |
 |14|p.166|58%| Ruth mono: "we are trash" | Build [inq: MISBEHAVE](https://journal.jinnzhong.com/tags/inq-misbehave/) C |
 |15|p.171|59%| Finds lost tape | Close [inq: RUMOR](https://journal.jinnzhong.com/tags/inq-rumor/) A | 
