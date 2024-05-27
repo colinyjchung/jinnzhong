@@ -8,6 +8,11 @@ tags = [
     "Kazuo Ishiguro",
     "Story Analysis",
     "Novel Breakdowns",
+    "dsr: GLIMMER",
+    "dsr: SECRET",
+    "inq: RUMOR",
+    "inq: MISBEHAVE",
+    "ntw: WIELD",
 ]
 categories = [
     "Story Dissection",
