@@ -11,7 +11,12 @@ tags = [
     "THB",
     "The Fluted Girl",
     "Paolo Bacigalupi",
-   "Pump Six and Other Stories (2008)",
+    "Pump Six and Other Stories (2008)",
+    "dsr: WHITE ELEPHANT",
+    "qst: CREATE",
+    "inq: NEW TOY",
+    "ntw: SUFFER",
+    "arc: WISE UP",
 ]
 categories = [
     "Story Dissection",
@@ -25,5 +30,15 @@ categories = [
 3. The event begins. A lot of rich/powerful people show up. Flashback to friend who gives POV an "out" (poison, escape hatch, hiding place, something).
 4. REVEAL what the POV's experiment was for, there's a performance of MECH, and how they will be auctioned off. REVEAL in flashback how friend was murdered, vanished, or hurt.
 5. POV considers using the "out". But executes a "twist" to get vengeance in an unexpected way.
+
+## Story Tags
+
+| |TAG|Notes|
+|:---|:---|:---|
+|DSR|[dsr: WHITE ELEPHANT](https://journal.jinnzhong.com/tags/dsr-white-elephant/)|enslaved girl must perform|
+|QST|[qst: CREATE](https://journal.jinnzhong.com/tags/qst-create/)|performance is CMX|
+|INQ|[inq: NEW TOY](https://journal.jinnzhong.com/tags/inq-new-toy/)|audience has no idea|
+|NTW|[ntw: SUFFER](https://journal.jinnzhong.com/tags/ntw-suffer/)|goes along until pushed over edge|
+|ARC|[arc: WISE UP](https://journal.jinnzhong.com/tags/arc-wise-up/)|realizes stephen was right|
 
 All THBs can be found [here](https://journal.jinnzhong.com/tags/thb/)
