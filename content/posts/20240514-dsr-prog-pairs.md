@@ -48,7 +48,7 @@ DSRs are inciting incidents or the "set up". But I like "disruption" better, bec
 * **[dsr: MONKEY'S PAW](https://journal.jinnzhong.com/tags/dsr-monkeys-paw/)**: Get gift/job you want, but unexpected consequences, side effects, hidden costs.
 * **[dsr: MYSTERY BOX](https://journal.jinnzhong.com/tags/dsr-mystery-box/)**: Get gift/job is of unknown quantities, must figure out what it does
 * **[dsr: GROW UP](https://journal.jinnzhong.com/tags/dsr-grow-up/)**: Dealing with losing virginity, first love/house/job, coming out, pregnancy
-* **[dsr: BREAK UP](https://journal.jinnzhong.com/tags/dsr-break-up/)**: Dealing with breakup, divorce, empty nest, fired, death, empty nest, retirement, identity loss (e.g. midlife crisis).
+* **[dsr: BREAK UP](https://journal.jinnzhong.com/tags/dsr-break-up/)**: Dealing with breakup, divorce, empty nest, fired, death, retirement, identity loss (e.g. midlife crisis).
 * **[dsr: WARNING](https://journal.jinnzhong.com/tags/dsr-warning/)**: Threat or rumor of villain, disaster, or bad news coming.
 * **[dsr: GLIMPSE](https://journal.jinnzhong.com/tags/dsr-glimpse/)**: Witness crime due to wrong place, wrong time.
 * **[dsr: SECRET](https://journal.jinnzhong.com/tags/dsr-secret/)**: Accidentally see affair, real identity, secret life, real age, scandal.
