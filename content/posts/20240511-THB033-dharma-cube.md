@@ -35,7 +35,7 @@ categories = [
 
 | |TAG|Notes|
 |:---|:---|:---|
-|DSR|[dsr: MYSTERY BOX](https://journal.jinnzhong.com/tags/dsr-glimpse/)|sees crime, gets job|
+|DSR|[dsr: MYSTERY BOX](https://journal.jinnzhong.com/tags/dsr-mystery-box/)|sees crime, gets job|
 |QST|[qst: DELIVER](https://journal.jinnzhong.com/tags/qst-deliver/)|has to get it to white gloves|
 |INQ|[inq: NEW TOY](https://journal.jinnzhong.com/tags/inq-new-toy/)|what does the box do?|
 |NTW|[ntw: FLEE](https://journal.jinnzhong.com/tags/ntw-flee/)|run away from power|
