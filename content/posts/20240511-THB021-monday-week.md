@@ -12,6 +12,11 @@ tags = [
     "On Monday of Last Week",
     "Chimamanda Ngozi Adichie",
     "The Thing Around Your Neck (2009)",
+    "dsr: STRANGER",
+    "qst: GO SEE",
+    "inq: MISBEHAVE",
+    "ntw: SUFFER",
+    "arc: WISE UP",
 ]
 categories = [
     "Story Dissection",
@@ -25,5 +30,15 @@ categories = [
 3. The MECH character appears. It is magic. There is instant connection, lust, and/or renewed sense of identity.
 4. POV gets alone time with the MECH. It is tense, awkward, the MECH is in total control with vague, alluring promises.
 5. Next day, someone new in alien environment. MECH ignores POV, pays all attention to new person. POV realizes they were toyed with.
+
+## Story Tags
+
+| |TAG|Notes|
+|:---|:---|:---|
+|DSR|[dsr: STRANGER](https://journal.jinnzhong.com/tags/dsr-stranger/)|who is this wife?|
+|QST|[qst: GO SEE](https://journal.jinnzhong.com/tags/qst-go-see/)|can't help but be attracted|
+|INQ|[inq: MISBEHAVE](https://journal.jinnzhong.com/tags/inq-misbehave/)|who is she?!|
+|NTW|[ntw: SUFFER](https://journal.jinnzhong.com/tags/ntw-suffer/)|reminded she's "the help"|
+|ARC|[arc: WISE UP](https://journal.jinnzhong.com/tags/arc-wise-up/)|you got used|
 
 All THBs can be found [here](https://journal.jinnzhong.com/tags/thb/)
