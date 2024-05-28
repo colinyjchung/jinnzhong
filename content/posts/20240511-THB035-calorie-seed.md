@@ -11,7 +11,12 @@ tags = [
     "THB",
     "The Calorie Man",
     "Paolo Bacigalupi",
-   "Pump Six and Other Stories (2008)",
+    "Pump Six and Other Stories (2008)",
+    "dsr: WHITE ELEPHANT",
+    "qst: FETCH",
+    "inq: ORACLE",
+    "ntw: FOLLOW",
+    "arc: GET UNSTUCK",
 ]
 categories = [
     "Story Dissection",
@@ -26,5 +31,15 @@ categories = [
 4. The job unexpectedly requires a higher cost. Extraction? We need to take someone else. Assassination? Dilemma, target is actually X, and not Y. Destroy/Sabotage? Equipment doesn't work, more defense than expected, less time than needed, etc. FB: reflect on more mistakes.
 5. The job reveals how big this mission actually is and how it could potentially change the world forever (maybe back to the way things were before MECH)... but something goes wrong (there's seeming failure). 
 6. HOWEVER -- the job leaves a small clue, key, map, recipe, plans, seed, intel, whatever that survives and gives the POV hope.
+
+## Story Tags
+
+| |TAG|Notes|
+|:---|:---|:---|
+|DSR|[dsr: WHITE ELEPHANT](https://journal.jinnzhong.com/tags/dsr-white-elephant/)|accepts one last job|
+|QST|[qst: FETCH](https://journal.jinnzhong.com/tags/qst-fetch/)|Needs to bring a dude home|
+|INQ|[inq: ORACLE](https://journal.jinnzhong.com/tags/inq-oracle/)|Employer hinted at importance|
+|NTW|[ntw: FOLLOW](https://journal.jinnzhong.com/tags/ntw-follow/)|PROT just doing job|
+|ARC|[arc: GET UNSTUCK](https://journal.jinnzhong.com/tags/arc-get-unstuck/)|maybe there's hope|
 
 All THBs can be found [here](https://journal.jinnzhong.com/tags/thb/)
