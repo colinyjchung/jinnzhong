@@ -11,7 +11,12 @@ tags = [
     "THB",
     "Pocketful of Dharma",
     "Paolo Bacigalupi",
-   "Pump Six and Other Stories (2008)",
+    "Pump Six and Other Stories (2008)",
+    "dsr: MYSTERY BOX",
+    "qst: DELIVER",
+    "inq: NEW TOY",
+    "ntw: FLEE",
+    "arc: WISE UP",
 ]
 categories = [
     "Story Dissection",
@@ -25,5 +30,15 @@ categories = [
 3. The receiver of the job finally appears, but it's fishy. POV chooses not to complete job and escapes, and tries to figure out what's really going on with the MECH.
 4. REVEAL of MECH. It's worth a lot of money and/or can take down powerful people. POV is attacked, many around them are dead, but POV escapes.
 5. The "real" receiver of the job (and not the rival faction) arrives to complete job. They take good care of the POV. But POV distrusts all this power infighting and takes the MECH and runs.
+
+## Story Tags
+
+| |TAG|Notes|
+|:---|:---|:---|
+|DSR|[dsr: MYSTERY BOX](https://journal.jinnzhong.com/tags/dsr-glimpse/)|sees crime, gets job|
+|QST|[qst: DELIVER](https://journal.jinnzhong.com/tags/qst-deliver/)|has to get it to white gloves|
+|INQ|[inq: NEW TOY](https://journal.jinnzhong.com/tags/inq-new-toy/)|what does the box do?|
+|NTW|[ntw: FLEE](https://journal.jinnzhong.com/tags/ntw-flee/)|run away from power|
+|ARC|[arc: WISE UP](https://journal.jinnzhong.com/tags/arc-wise-up/)|understands value, runs with it|
 
 All THBs can be found [here](https://journal.jinnzhong.com/tags/thb/)
