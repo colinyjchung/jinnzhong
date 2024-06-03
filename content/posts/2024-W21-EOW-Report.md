@@ -19,6 +19,7 @@ tags = [
     "Kazuo Ishiguro",
     "Philip Daileader",
     "Francis Glebas",
+    "William Shakespeare",
     "EOW Reports",
 ]
 categories = [
