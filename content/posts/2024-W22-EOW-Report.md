@@ -6,7 +6,6 @@ description = "End of Week Report for W22 of 2024"
 tags = [
   "Creative Process",
   "Olivia Hofer",
-  "LK",
   "Garage Fiction Podcast",
   "Sense and Sensibility (1811)",
   "How the Crusades Changed History (2013)",
