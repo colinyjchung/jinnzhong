@@ -65,7 +65,7 @@ In this section, I track daily actions (axn) and emotions (emo), aiming for just
 | TUE | :spiral_notepad: | :thinking: | Started writing out the major plot points in order. |
 | WED | :spiral_notepad: | :thinking: | Ditto. Might be including all of Daedalus' story? |
 | THU | :spiral_notepad: | :thinking: | Still ordering all the plot points. |
-| FRI | :skspiral_notepadull: | :thinking: |  Read up on how to hack an API and include Ariadne's story. |
+| FRI | :spiral_notepad: | :thinking: |  Read up on how to hack an API and include Ariadne's story. |
 | SAT | :skull: | :weary: | Woke up early, but was exhausted. Couldn't do anything. Eventually crashed. |
 
 * **CURRENT STREAK:** 0 Days
