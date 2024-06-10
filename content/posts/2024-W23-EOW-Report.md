@@ -15,7 +15,7 @@ tags = [
   "A Master of Djinn (2021)",
   "Atonement (2001)",
   "Hamlet (1601)",
-  "Citizens (1989)',
+  "Citizens (1989)",
   "William Shakespeare",
   "Jane Austen",
   "Alison Weir",
