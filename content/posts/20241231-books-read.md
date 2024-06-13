@@ -61,6 +61,11 @@ tags = [
     "David McCullough",
     "Never Let Me Go (2005)",
     "Kazuo Ishiguro",
+    "How the Crusades Changed History (2013)",
+    "Philip Daileader",
+    "Sense and Sensibility (1811)",
+    "Hamlet (1601)",
+    "A Master of Djinn (2021)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -97,6 +102,11 @@ categories = [
 |5/2|:book:| Ring Shout (2020) | P. Djèlí Clark | [cmts](https://journal.jinnzhong.com/commentary-ring-shout-2020/) |
 |5/10|:headphones:| 1776 (2005) | David McCullough | |
 |5/15|:book:| Never Let Me Go (2005) | Kazuo Ishiguro |[cmts](https://journal.jinnzhong.com/commentary-never-let-me-go-2005/) |
+|5/27|:headphones:|How the Crusades Changed History|Philip Daileader| |
+|5/31|:book:| Sense and Sensibility (1811) | Jane Austen | [cmts](https://journal.jinnzhong.com/commentary-sense-and-sensibility-1811/) |
+|6/7|:headphones:|Hamlet (1601)|William Shakespeare| |
+|6/10|:book:| A Master of Djinn (2021) | P. Djèlí Clark | [cmts](https://journal.jinnzhong.com/commentary-a-master-of-djinn-2021/) |
+
 
 
   
