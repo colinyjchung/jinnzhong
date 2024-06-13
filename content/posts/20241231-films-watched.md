@@ -56,7 +56,7 @@ Decided to start tracking TV shows this year as well. Dates are the date in whic
 |4/13|:iphone:| Money Heist P5 (2021) | |
 |4/24|:tv:| The Devil Wears Prada (2006) | rewatch |
 |5/17|:tv:| The Antisocial Network (2024) | |
-|5/XX|:tv:| The Bear S2 (2023) | |
+|5/19|:tv:| The Bear S2 (2023) | |
 
 
 
