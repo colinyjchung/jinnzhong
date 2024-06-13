@@ -14,6 +14,7 @@ A non-exhaustive dictionary of abbreviations used in my notes.
 * **DSR**: Disruption or Inciting Incident
 * **DYNA**: Dynamic Character (the one the main/PROT plays off of)
 * **EGP**: Emotional Gut Punch
+* **GWL**: Ghost/Wound/Lie or backstory
 * **LOW**: Low Point aka Dark Night of the Soul, usually penultimate scene (before CMX)
 * **MECH**: Mechanism (the core premise of a story)
 * **MID**: Midpoint aka The Mirror Moment
@@ -26,11 +27,10 @@ A non-exhaustive dictionary of abbreviations used in my notes.
 * **SIWC**: [Surrey International Writers' Conference](https://www.siwc.ca), an annual writers' conference
 * **THB**: Thumbnail
 * **TTB**: Ticking Time Bomb
-* **WLG**: Wound/Lie/Ghost or backstory
 
 ## STORY STRUCTURE
 
-0. **WLG**: Wound/Lie/Ghost or backstory
+0. **GWL**: Ghost/Wound/Lie or backstory
 1. **STS**: Stasis - or Ordinary World
 2. **DSR**: Disruption or Inciting Incident
 3. **BWO**: B-World aka Belly of the Whale, triggered by Catalyst
