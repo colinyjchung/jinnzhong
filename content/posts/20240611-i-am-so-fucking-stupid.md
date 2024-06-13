@@ -1,7 +1,7 @@
 +++
 author = "Jinn Zhong"
 title = "I'm so fucking stupid"
-date = "2023-06-11"
+date = "2024-06-11"
 description = "Missing basic component of writing fiction"
 tags = [
     "Craft of Writing",
