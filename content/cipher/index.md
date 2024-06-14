@@ -7,6 +7,7 @@ A non-exhaustive dictionary of abbreviations used in my notes.
 ## FICTION
 
 * **ANTG**: Antagonist
+* **ARC**: The emotional arc of a character (related: GWL, DREAM)
 * **BWO**: B-World aka Belly of the Whale, triggered by Catalyst
 * **CDA**: Central Dramatic Argument. See my notes on Scriptnotes Ep. 403 [here](https://journal.jinnzhong.com/scriptnotes-403-craig-mazin/) and [here](https://journal.jinnzhong.com/notes-scriptnotes-403-redux/)
 * **CMX**: Climax
@@ -16,12 +17,15 @@ A non-exhaustive dictionary of abbreviations used in my notes.
 * **EGP**: Emotional Gut Punch
 * **GWL**: Ghost/Wound/Lie or backstory
 * **LOW**: Low Point aka Dark Night of the Soul, usually penultimate scene (before CMX)
-* **MECH**: Mechanism (the core premise of a story)
+* **MECH**: Mechanism (the core premise of a story, the "rules" of the magic/tech/culture)
+* **MICE**: The four elements of story: Milieu, Inquiry, Character, and Event. (See OSC's [Notes](https://journal.jinnzhong.com/notes-characters-and-viewpoint-1988-by-orson-scott-card/#mice) & [Story Tags](https://journal.jinnzhong.com/still-brainstorming-story-tags/))
 * **MID**: Midpoint aka The Mirror Moment
 * **POV**: Point of View
-* **PROG**: Progress - actions/scenes that drive story forward based on [plot thread](https://journal.jinnzhong.com/tags/plot-thread/)
-   * **A-PROG**: Arc Progress - the emotional arc of a character
-   * **P-PROG**: Plot Progress - the events that drive a plot
+* **PROG**: Progress - actions/scenes that drive story forward based on [plot thread](https://journal.jinnzhong.com/tags/plot-thread/) and/or [story tags](https://journal.jinnzhong.com/still-brainstorming-story-tags/)
+   * **QST** (Quest): PROGs where POV "goes somewhere" to "do something".
+   * **INQ** (Inquiry): PROGS where POV has to "solve something and/or someone" or "see if it works"
+   * **NTW** (Network): PROGS where POV is dealing with "power/social dynamics" 
+   * **ARC** (Arc): PROGS where POV has an EGP due to epiphany, reframe, or revelation
 * **PROT**: Protagonist
 * **STS**: Stasis - or Ordinary World
 * **SIWC**: [Surrey International Writers' Conference](https://www.siwc.ca), an annual writers' conference
