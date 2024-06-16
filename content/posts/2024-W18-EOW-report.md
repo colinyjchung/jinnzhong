@@ -7,7 +7,7 @@ tags = [
     "Creative Process",
     "Olivia Hofer",
     "Garage Fiction Podcast",
-    "MRK: Prime Cohort",
+    "MRK: Cohort Prime",
     "Sense and Sensibility (1811)",
     "Never Let Me Go (2005)",
     "Ring Shout (2020)",
