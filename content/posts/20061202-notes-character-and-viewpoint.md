@@ -7,7 +7,6 @@ tags = [
     "Craft of Writing",
     "Notes on Craft",
     "Orson Scott Card",
-    "OSC",
     "MICE Quotient",
 ]
 categories = [
