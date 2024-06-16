@@ -10,7 +10,7 @@ tags = [
     "LK",
     "Olivia Hofer",
     "Bryan Cheyne",
-    "MRK: Prime Cohort",
+    "MRK: Cohort Prime",
 ]
 categories = [
     "Craft of Storytelling",
