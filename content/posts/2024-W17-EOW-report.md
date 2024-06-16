@@ -7,7 +7,7 @@ tags = [
     "Creative Process",
     "Olivia Hofer",
     "Garage Fiction Podcast",
-    "MRK: Prime Cohort",
+    "MRK: Cohort Prime",
     "Pride and Prejudice (1813)",
     "Sense and Sensibility (1811)",
     "Never Let Me Go (2005)",
