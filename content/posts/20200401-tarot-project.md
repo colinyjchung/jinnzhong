@@ -106,18 +106,18 @@ categories = [
 
 | 🜃 | 🜂 | 🜄 | 🜁 |
 |:---:|:---:|:---:|:---:|
-| [1🜁](https://journal.jinnzhong.com/tags/1-of-swords/) | [1🜄](https://journal.jinnzhong.com/tags/1-of-cups/) | [1🜂](https://journal.jinnzhong.com/tags/1-of-wands/) | [1🜃](https://journal.jinnzhong.com/tags/1-of-coins/) |
-| [2🜁](https://journal.jinnzhong.com/tags/2-of-swords/) | [2🜄](https://journal.jinnzhong.com/tags/2-of-cups/) | [2🜂](https://journal.jinnzhong.com/tags/2-of-wands/) | [2🜃](https://journal.jinnzhong.com/tags/2-of-coins/) |
-| [3🜁](https://journal.jinnzhong.com/tags/3-of-swords/) | [3🜄](https://journal.jinnzhong.com/tags/3-of-cups/) | [3🜂](https://journal.jinnzhong.com/tags/3-of-wands/) | [3🜃](https://journal.jinnzhong.com/tags/3-of-coins/) |
-| [4🜁](https://journal.jinnzhong.com/tags/4-of-swords/) | [4🜄](https://journal.jinnzhong.com/tags/4-of-cups/) | [4🜂](https://journal.jinnzhong.com/tags/4-of-wands/) | [4🜃](https://journal.jinnzhong.com/tags/4-of-coins/) |
-| [5🜁](https://journal.jinnzhong.com/tags/5-of-swords/) | [5🜄](https://journal.jinnzhong.com/tags/5-of-cups/) | [5🜂](https://journal.jinnzhong.com/tags/5-of-wands/) | [5🜃](https://journal.jinnzhong.com/tags/5-of-coins/) |
-| [6🜁](https://journal.jinnzhong.com/tags/6-of-swords/) | [6🜄](https://journal.jinnzhong.com/tags/6-of-cups/) | [6🜂](https://journal.jinnzhong.com/tags/6-of-wands/) | [6🜃](https://journal.jinnzhong.com/tags/6-of-coins/) |
-| [7🜁](https://journal.jinnzhong.com/tags/7-of-swords/) | [7🜄](https://journal.jinnzhong.com/tags/7-of-cups/) | [7🜂](https://journal.jinnzhong.com/tags/7-of-wands/) | [7🜃](https://journal.jinnzhong.com/tags/7-of-coins/) |
-| [8🜁](https://journal.jinnzhong.com/tags/8-of-swords/) | [8🜄](https://journal.jinnzhong.com/tags/8-of-cups/) | [8🜂](https://journal.jinnzhong.com/tags/8-of-wands/) | [8🜃](https://journal.jinnzhong.com/tags/8-of-coins/) |
-| [9🜁](https://journal.jinnzhong.com/tags/9-of-swords/) | [9🜄](https://journal.jinnzhong.com/tags/9-of-cups/) | [9🜂](https://journal.jinnzhong.com/tags/9-of-wands/) | [9🜃](https://journal.jinnzhong.com/tags/9-of-coins/) |
-| [10🜁](https://journal.jinnzhong.com/tags/10-of-swords/) | [10🜄](https://journal.jinnzhong.com/tags/10-of-cups/) | [10🜂](https://journal.jinnzhong.com/tags/10-of-wands/) | [10🜃](https://journal.jinnzhong.com/tags/10-of-coins/) |
-| [P🜁](https://journal.jinnzhong.com/tags/page-of-swords/) | [P🜄](https://journal.jinnzhong.com/tags/page-of-cups/) | [P🜂](https://journal.jinnzhong.com/tags/page-of-wands/) | [P🜃](https://journal.jinnzhong.com/tags/page-of-coins/) |
-| [N🜁](https://journal.jinnzhong.com/tags/knight-of-swords/) | [N🜄](https://journal.jinnzhong.com/tags/knight-of-cups/) | [N🜂](https://journal.jinnzhong.com/tags/knight-of-wands/) | [N🜃](https://journal.jinnzhong.com/tags/knight-of-coins/) |
-| [Q🜁](https://journal.jinnzhong.com/tags/queen-of-swords/) | [Q🜄](https://journal.jinnzhong.com/tags/queen-of-cups/) | [Q🜂](https://journal.jinnzhong.com/tags/queen-of-wands/) | [Q🜃](https://journal.jinnzhong.com/tags/queen-of-coins/) |
-| [K🜁](https://journal.jinnzhong.com/tags/king-of-swords/) | [K🜄](https://journal.jinnzhong.com/tags/king-of-cups/) | [K🜂](https://journal.jinnzhong.com/tags/king-of-wands/) | [K🜃](https://journal.jinnzhong.com/tags/king-of-coins/) |
+| [1🜃](https://journal.jinnzhong.com/tags/1-of-coins/) | [1🜂](https://journal.jinnzhong.com/tags/1-of-wands/) | [1🜄](https://journal.jinnzhong.com/tags/1-of-cups/) | [1🜁](https://journal.jinnzhong.com/tags/1-of-swords/) |
+| [2🜃](https://journal.jinnzhong.com/tags/2-of-coins/) | [2🜂](https://journal.jinnzhong.com/tags/2-of-wands/) | [2🜄](https://journal.jinnzhong.com/tags/2-of-cups/) | [2🜁](https://journal.jinnzhong.com/tags/2-of-swords/) |
+| [3🜃](https://journal.jinnzhong.com/tags/3-of-coins/) | [3🜂](https://journal.jinnzhong.com/tags/3-of-wands/) | [3🜄](https://journal.jinnzhong.com/tags/3-of-cups/) | [3🜁](https://journal.jinnzhong.com/tags/3-of-swords/) |
+| [4🜃](https://journal.jinnzhong.com/tags/4-of-coins/) | [4🜂](https://journal.jinnzhong.com/tags/4-of-wands/) | [4🜄](https://journal.jinnzhong.com/tags/4-of-cups/) | [4🜁](https://journal.jinnzhong.com/tags/4-of-swords/) |
+| [5🜃](https://journal.jinnzhong.com/tags/5-of-coins/) | [5🜂](https://journal.jinnzhong.com/tags/5-of-wands/) | [5🜄](https://journal.jinnzhong.com/tags/5-of-cups/) | [5🜁](https://journal.jinnzhong.com/tags/5-of-swords/) |
+| [6🜃](https://journal.jinnzhong.com/tags/6-of-coins/) | [6🜂](https://journal.jinnzhong.com/tags/6-of-wands/) | [6🜄](https://journal.jinnzhong.com/tags/6-of-cups/) | [6🜁](https://journal.jinnzhong.com/tags/6-of-swords/) |
+| [7🜃](https://journal.jinnzhong.com/tags/7-of-coins/) | [7🜂](https://journal.jinnzhong.com/tags/7-of-wands/) | [7🜄](https://journal.jinnzhong.com/tags/7-of-cups/) | [7🜁](https://journal.jinnzhong.com/tags/7-of-swords/) |
+| [8🜃](https://journal.jinnzhong.com/tags/8-of-coins/) | [8🜂](https://journal.jinnzhong.com/tags/8-of-wands/) | [8🜄](https://journal.jinnzhong.com/tags/8-of-cups/) | [8🜁](https://journal.jinnzhong.com/tags/8-of-swords/) |
+| [9🜃](https://journal.jinnzhong.com/tags/9-of-coins/) | [9🜂](https://journal.jinnzhong.com/tags/9-of-wands/) | [9🜄](https://journal.jinnzhong.com/tags/9-of-cups/) | [9🜁](https://journal.jinnzhong.com/tags/9-of-swords/) |
+| [10🜃](https://journal.jinnzhong.com/tags/10-of-coins/) | [10🜂](https://journal.jinnzhong.com/tags/10-of-wands/) | [10🜄](https://journal.jinnzhong.com/tags/10-of-cups/) | [10🜁](https://journal.jinnzhong.com/tags/10-of-swords/) |
+| [P🜃](https://journal.jinnzhong.com/tags/page-of-coins/) | [P🜂](https://journal.jinnzhong.com/tags/page-of-wands/) | [P🜄](https://journal.jinnzhong.com/tags/page-of-cups/) | [P🜁](https://journal.jinnzhong.com/tags/page-of-swords/) |
+| [N🜃](https://journal.jinnzhong.com/tags/knight-of-coins/) | [N🜂](https://journal.jinnzhong.com/tags/knight-of-wands/) | [N🜄](https://journal.jinnzhong.com/tags/knight-of-cups/) | [N🜁](https://journal.jinnzhong.com/tags/knight-of-swords/) |
+| [Q🜃](https://journal.jinnzhong.com/tags/queen-of-coins/) | [Q🜂](https://journal.jinnzhong.com/tags/queen-of-wands/) | [Q🜄](https://journal.jinnzhong.com/tags/queen-of-cups/) | [Q🜁](https://journal.jinnzhong.com/tags/queen-of-swords/) |
+| [K🜃](https://journal.jinnzhong.com/tags/king-of-coins/) | [K🜂](https://journal.jinnzhong.com/tags/king-of-wands/) | [K🜄](https://journal.jinnzhong.com/tags/king-of-cups/) | [K🜁](https://journal.jinnzhong.com/tags/king-of-swords/) |
 
