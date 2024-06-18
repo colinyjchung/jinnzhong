@@ -96,7 +96,7 @@ categories = [
 |   | [0. The Fool ⌀](https://journal.jinnzhong.com/tags/0-the-fool/) |  |
 | [I. The Magician ⇅](https://journal.jinnzhong.com/tags/i-the-magician/) | [VIII. Strength ∞](https://journal.jinnzhong.com/tags/viii-strength/) | [XV. The Devil ω](https://journal.jinnzhong.com/tags/xv-the-devil/) |
 | [II. The High Priestess ☽](https://journal.jinnzhong.com/tags/ii-the-high-priestess/) | [IX. The Hermit ✡](https://journal.jinnzhong.com/tags/ix-the-hermit/) | [XVI. The Tower ↯](https://journal.jinnzhong.com/tags/xvi-the-tower/) |
-| [III. The Empress ♀︎](https://journal.jinnzhong.com/tags/iii-the-empress/) | [X. The Wheel of Fortune](https://journal.jinnzhong.com/tags/x-the-wheel-of-fortune/) | [XVII. The Star ☆](https://journal.jinnzhong.com/tags/xvii-the-star/) |
+| [III. The Empress ♀︎](https://journal.jinnzhong.com/tags/iii-the-empress/) | [X. The Wheel of Fortune ☸](https://journal.jinnzhong.com/tags/x-the-wheel-of-fortune/) | [XVII. The Star ☆](https://journal.jinnzhong.com/tags/xvii-the-star/) |
 | [IV. The Emperor ♔](https://journal.jinnzhong.com/tags/iv-the-emperor/) | [XI. Justice ⚖](https://journal.jinnzhong.com/tags/xi-justice/) | [XVIII. The Moon ⦶](https://journal.jinnzhong.com/tags/xviii-the-moon/) |
 | [V. The Hierophant ☿](https://journal.jinnzhong.com/tags/v-the-hierophant/) | [XII. The Hanged Man ∓](https://journal.jinnzhong.com/tags/xii-the-hanged-man/) | [XIX. The Sun ☼](https://journal.jinnzhong.com/tags/xix-the-sun/) |
 | [VI. The Lovers ⚭](https://journal.jinnzhong.com/tags/vi-the-lovers/) | [XIII. Death ⧖](https://journal.jinnzhong.com/tags/xiii-death/) | [XX. Judgement ⧊](https://journal.jinnzhong.com/tags/xx-judgement/) |
