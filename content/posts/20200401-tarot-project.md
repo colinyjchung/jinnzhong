@@ -100,7 +100,7 @@ categories = [
 | [IV. The Emperor ♔](https://journal.jinnzhong.com/tags/iv-the-emperor/) | [XI. Justice ⚖](https://journal.jinnzhong.com/tags/xi-justice/) | [XVIII. The Moon ⦶](https://journal.jinnzhong.com/tags/xviii-the-moon/) |
 | [V. The Hierophant ☿](https://journal.jinnzhong.com/tags/v-the-hierophant/) | [XII. The Hanged Man ∓](https://journal.jinnzhong.com/tags/xii-the-hanged-man/) | [XIX. The Sun ☼](https://journal.jinnzhong.com/tags/xix-the-sun/) |
 | [VI. The Lovers ⚭](https://journal.jinnzhong.com/tags/vi-the-lovers/) | [XIII. Death ⧖](https://journal.jinnzhong.com/tags/xiii-death/) | [XX. Judgement ⧊](https://journal.jinnzhong.com/tags/xx-judgement/) |
-| [VII. The Chariot ⇉](https://journal.jinnzhong.com/tags/vii-the-chariot/) | [XIV. Temperance ≈](https://journal.jinnzhong.com/tags/xiv-temperence/) | [XXI. The World ♁](https://journal.jinnzhong.com/tags/xxi-the-world/) |
+| [VII. The Chariot ⇉](https://journal.jinnzhong.com/tags/vii-the-chariot/) | [XIV. Temperance ≈](https://journal.jinnzhong.com/tags/xiv-temperance/) | [XXI. The World ♁](https://journal.jinnzhong.com/tags/xxi-the-world/) |
  
 ## Minor Arcana
 
