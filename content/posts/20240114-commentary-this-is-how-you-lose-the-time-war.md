@@ -15,7 +15,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ reading _This Is How You Lose the Time War_ (2019) by Amal El-Mohtar and Max Gladstone. They do not reflect my overall post-reading opinion of the work. 
 
-:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
+## :warning: **SPOILER ALERTS AHEAD** :warning:
 
 * it’s gimmicky and i usually like playing on structure and narrative like this. But this isn’t working for me. The characters are both cool and unflappable, neither has much vulnerability nor flaws that I can dig into, all they are is that they’re both hyper-creative in how they deliver messages to each other. I dunno. There just isn’t much plot nor arc progress and I’m on page 74. Nothing’s happening except they’re out-clevering each other.
 * there’s so much telling and show offy variations on a theme.
