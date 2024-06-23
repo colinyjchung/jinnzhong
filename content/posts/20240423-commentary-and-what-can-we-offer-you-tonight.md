@@ -14,7 +14,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ reading _And What Can We Offer You Tonight_ (2021) by Premee Mohamed. They do not reflect my overall post-reading opinion of the work. 
 
-:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
+## :warning: **SPOILER ALERTS AHEAD** :warning:
 
 * OK, time for a novella breakdown. First of all few. AWCWOYT is ~~76~~ 68 pages (the novella doesn’t start until page 8) broken into 16 chapters. So far the language is a stream-of-consciousey, elegiac prose. I like this. The hook is kicked off well in chapter 2. Dead girl at funeral wakes up and sits upright in coffin. The whole funeral ritual is unique and weird. The microtension created by the rich girl who fell far is good. All a promising start.
 *  Ch. 3 - ah ok. This is a late-stage capitalism dystopia. Cool. Cool cool cool. I should tell Nigel and Theresa to get on this. 
