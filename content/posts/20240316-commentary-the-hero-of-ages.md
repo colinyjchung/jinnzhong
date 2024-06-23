@@ -15,7 +15,7 @@ categories = [
 
 The following are thoughts and reactions I had _while_ reading _The Hero of Ages_ (2008) by Brandon Sanderson. They do not reflect my overall post-reading opinion of the work. 
 
-:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
+## :warning: **SPOILER ALERTS AHEAD** :warning:
 
 * Everybody’s a superhero now.
 * ugh. I’m 5% in going at 2.5X speed and it’s just a boring fight against the Koloss. I don’t care. I can’t imagine reading this (as opposed to listening to it) at my regular speed. Fights and action scenes are boring. I want to hear more about Tensoon. 
