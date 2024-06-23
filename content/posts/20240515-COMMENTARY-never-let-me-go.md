@@ -14,7 +14,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ **re**-reading _Never Let Me Go_ (2005) by Kazuo Ishiguro. They do not reflect my overall post-reading opinion of the work. 
 
-:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
+## :warning: **SPOILER ALERTS AHEAD** :warning:
 
 * Ch. 1 - the fact that Kate H. Is proud of her work is such an indictment of capitalism (or even just humanity) when you’re proud of your work when you’re in the muck of the system and don’t question any of it. It is what it is and I’m proud of the work I was asked to do.
 * The Tom arc as the opening story is brilliant. We’re thinking of them as just kids in an English school and while POV drops hints… nothing is explicit yet, but there’s enough to hint at what’s going on. The unease, anxiety, and tension is just good.
