@@ -66,6 +66,8 @@ tags = [
     "Sense and Sensibility (1811)",
     "Hamlet (1601)",
     "A Master of Djinn (2021)",
+    "All Systems Red (2017",
+    "Martha Wells",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -106,6 +108,7 @@ categories = [
 |5/31|:book:| Sense and Sensibility (1811) | Jane Austen | [cmts](https://journal.jinnzhong.com/commentary-sense-and-sensibility-1811/) |
 |6/7|:headphones:|Hamlet (1601)|William Shakespeare| |
 |6/10|:book:| A Master of Djinn (2021) | P. Djèlí Clark | [cmts](https://journal.jinnzhong.com/commentary-a-master-of-djinn-2021/) |
+|6/23|:book:| All Systems Red (2017) | Martha Wells | [cmts](https://journal.jinnzhong.com/commentary-all-systems-red-2017/) |
 
 
 
