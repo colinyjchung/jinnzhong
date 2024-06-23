@@ -14,7 +14,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ reading _Pride and Prejudice_ (1813) by Jane Austen. They do not reflect my overall post-reading opinion of the work. 
 
-:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
+## :warning: **SPOILER ALERTS AHEAD** :warning:
 
 * I am a sucker for witty banter and Mr. and Mrs. Bennet have it in spades. I’m already whimsically delighted.
 * Ch. 3 - is this correct? In the days before email and telephones, you had to visit for ten minutes at someone’s library before getting a dinner invitation? Or is this just rich people decorum?
