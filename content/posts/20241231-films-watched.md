@@ -24,6 +24,7 @@ tags = [
     "Taken (2008)",
     "The Devil Wears Prada (2006)",
     "The Antisocial Network (2024)",
+    "Outlander (2014-2025)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -57,6 +58,7 @@ Decided to start tracking TV shows this year as well. Dates are the date in whic
 |4/24|:tv:| The Devil Wears Prada (2006) | rewatch |
 |5/17|:tv:| The Antisocial Network (2024) | |
 |5/19|:tv:| The Bear S2 (2023) | |
+|6/22|:tv:| Outlander S7:P1 (2023) | |
 
 
 
