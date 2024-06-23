@@ -14,7 +14,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ reading _Sense and Sensibility_ (1811) by Jane Austen. They do not reflect my overall post-reading opinion of the work. 
 
-:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
+## :warning: **SPOILER ALERTS AHEAD** :warning:
 
 * V1ch1 - that was a lot of background to get through and keep track of. Let’s LIFO this because it’s confusing af otherwise. Daughters are Elinor, Marianne, and Margaret. Mom is Mrs. Henry Dashwood. Mr. Dashwood inherited Norland Park from “The Gentleman” but both ded. Problem is Mr. Henry Dashwood has a son from a previous marriage, Mr. John Dashwood, who obviously inherits Norland Park, because male and firstborn… so, now the three daughters are in a precarious situation much like the five Bennet daughters. Oh and Mrs. John Dashwood is a bitch and doesn't want her husband to take care of his three half-sisters and keep all the money for their son, Harry.
 * V1ch2 - oh ok. John is a fucking idiot and Fanny is manipulative.
