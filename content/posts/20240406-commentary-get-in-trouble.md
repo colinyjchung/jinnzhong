@@ -16,7 +16,7 @@ categories = [
 
 The following are thoughts and reactions I had _while_ reading _Get in Trouble_ (2016) by Kelly Link. They do not reflect my overall post-reading opinion of the work. 
 
-:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
+## :warning: **SPOILER ALERTS AHEAD** :warning:
 
 * I’m going to try something. I’m going to track all the elements that Link puts into her stories and see if I can write one that imitates her. See list below
 * Two stories in. This is good Kelly Link stuff. I’m enjoying it. _Buuuuut_… it’s not as “magical” as _Magic for Beginners_ (2005) so far. But also, I read that ten years ago and had no idea what I was getting myself into so the lack of expectations created a lot of WTF surprises?
