@@ -14,7 +14,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ reading _Invisible Man_ (1952) by Ralph Ellison. They do not reflect my overall post-reading opinion of the work. 
 
-:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
+## :warning: **SPOILER ALERTS AHEAD** :warning:
 
 * Holy FUCK. That first chapter was the tensest thing I've read in a long time. It's so disgusting, and horrifying, and shocking. Just the degradation and dehumanization amped up to eleven.
 * When you read books from a black POV, it's like tension is guaranteed. You literally never know when some white dude is gonna hurt you, insult you, mess with you, or just flat out kill you for no good reason. It's just constant paranoia. Is the white guy the POV is chauffeuring around safe to be around? Or is he just a condescending guy who thinks building a university for black people and talking about values makes him great? I don't know. I'm just frightened the entire time.
