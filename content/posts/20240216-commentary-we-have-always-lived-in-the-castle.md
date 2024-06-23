@@ -14,7 +14,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ reading _We Have Always Lived in the Castle_ (1962) by Shirley Jackson. They do not reflect my overall post-reading opinion of the work. 
 
-:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
+## :warning: **SPOILER ALERTS AHEAD** :warning:
 
 * First 10-20%. What the hell is going on? Mary wants to see everyone dead. Mary is hated by all the villagers. Is it a commentary on wealth divide? I mean, they own a lot of land. So why do they go to the library? Wait. So there’s a tragedy in their family. Is Mary dead? Constance? Julian? Is one of them a ghost they interact with? Or is this just my stupid default theory for everything when it comes to mysteries because of stupid Fight Club and Sixth Sense?
 * ~23%. Ooooooh. That’s fucked up. So now they just live on the house where it all happened despite the constant animosity? Is Julian giving a fucking ghost tour? Lol. Constance is literally in the next room dude. Wtf.
