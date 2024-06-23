@@ -15,7 +15,7 @@ categories = [
 
 The following are thoughts and reactions I had _while_ reading _Stranger in a Strange Land_ (1961) by Robert A. Heinlein. They do not reflect my overall post-reading opinion of the work. 
 
-:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
+## :warning: **SPOILER ALERTS AHEAD** :warning:
 
 * my god there is a lot of blatant sexism and mansplaining in the first 10%. Does this get better?
 * I'm in the mid-20%s and I am struggling. I'm not compelled to pick up this book. I get that this book was groundbreaking when it first came out. Literally every "tropey alien" now has telekinesis: _E.T._ (1982), _Powder_ (1995), Eleven from _Stranger Things_ (2016-2025). I get it. And they all act in that weird, not-quite-there distant way. Cool. But it's just so damn slow watching Mike Valentine do anything interesting.
