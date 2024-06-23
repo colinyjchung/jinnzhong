@@ -16,7 +16,7 @@ The following are thoughts and reactions I had _while_ reading _All Systems Red_
 
 ## :warning: **MAJOR SPOILER ALERTS AHEAD** :warning:
 
-* Two chapters in. I think why this series is damn popular is probably because the audience is basically Murderbot. Super smart, snarky, good at what they do, but really just wants to be left alone to consume entertainment media. Sounds like me. Just let me watch my shows and read my books, stop slacking me and putting me in Zoom meetings.
+* Two chapters in. I think why this series is so damn popular is probably because the audience is basically Murderbot. Super smart, snarky, good at what they do, but really just wants to be left alone to consume entertainment media. Sounds like me. Just let me watch my shows and read my books, stop slacking me and putting me in Zoom meetings.
 * Midpoint. Self sack. That was pretty damn cool. 
 * pg. 83 - ROFL 🤣 😂🤣😂🤪. It was watching TV this whole fucking time?????
 * this series also works because, like the most likely audience, Murderbot is also basically neurodivergent.
