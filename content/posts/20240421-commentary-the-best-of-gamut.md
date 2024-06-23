@@ -14,7 +14,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ reading _The Best of Gamut_ (2024) edited by Richard Thomas. They do not reflect my overall post-reading opinion of the work. 
 
-:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
+## :warning: **SPOILER ALERTS AHEAD** :warning:
 
 * Not sure horror or dark fantasy is for me. I’m not connecting with any of the stories so far (I’m six in). I vaguely recall being impressed by the creativity of the Clive Barker collection that Dogwood recommended a decade ago… but not sure I _felt_ anything aside from admiration and awe. I think some of the grotesqueness made me squirm or tingle… but hmm. Maybe this isn’t my genre. 
 * The first was creepy and then it ended in a mass murder and… I dunno. Was that it? Another was a confession from a supernatural serial killer. It was OK. 
