@@ -14,9 +14,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ reading _Ring Shout_ (2020) by P. Djèlí Clark. They do not reflect my overall post-reading opinion of the work. 
 
-:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
-
-Ring Shout (2020)
+## :warning: **SPOILER ALERTS AHEAD** :warning:
 
 * pg. 22 - what the fuck is going on? The Ku Klux are actual demons? What!?
 * pg. 29 - Sadie in the middle complaining is chef’s kiss 
