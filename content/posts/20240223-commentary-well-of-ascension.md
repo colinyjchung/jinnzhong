@@ -14,7 +14,7 @@ categories = [
 +++
 The following are thoughts and reactions I had _while_ reading _The Well of Ascension_ (2007) by Brandon Sanderson. They do not reflect my overall post-reading opinion of the work. 
 
-:warning: **SPOILER ALERTS AHEAD** (_obviously_). :warning:
+## :warning: **SPOILER ALERTS AHEAD** :warning:
 
 * You know what Sanderson is? After doing the whole snobby thing of looking down at his mass market fiction and now having experienced it… he’s _RELIABLE_. That’s what he is. It’s not as bad as Netflix-not-bad-enough-to-regret-watching-it-but-not-good-enough-to-recommend-it. It’s not bad as “good enough” either. It’s just really solid, good fiction. It’s like Friends. It’s just reliable. You want a well-told story that doesn’t try super new things or experiment artistically? This is it. Nothing tragic or depressing happens. Nothing serious or harsh happens. Nothing heavy with social commentary happens. It’s just solid reliable fiction. It's a _well-told_ story.
 * Once you’ve gone through his writing classes, it’s hard not to see he does what he teaches. In each scene: State the goal and stakes early, show progress by counting down (bodies, time, resources, whatever), and move through it.
