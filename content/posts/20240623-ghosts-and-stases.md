@@ -37,10 +37,10 @@ Would leaning on one ARLX over another lead to a distinctly different type of AR
 
 |   | RTL | PSN | LWF | FAM | OUT | CLB |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ABL | [Ra](https://journal.jinnzhong.com/ghosts-stases/#Ra) | [Pa](https://journal.jinnzhong.com/ghosts-stases/#Pa) | [La](https://journal.jinnzhong.com/ghosts-stases/#La) | [Fa](https://journal.jinnzhong.com/ghosts-stases/#Fa) | [Oa](https://journal.jinnzhong.com/ghosts-stases/#Oa) | [Ca](https://journal.jinnzhong.com/ghosts-stases/#Ca) |
-| ROL | [Rr](https://journal.jinnzhong.com/ghosts-stases/#Rr) | [Pr](https://journal.jinnzhong.com/ghosts-stases/#Pr) | [Lr](https://journal.jinnzhong.com/ghosts-stases/#Lr) | [Fr](https://journal.jinnzhong.com/ghosts-stases/#Fr) | [Or](https://journal.jinnzhong.com/ghosts-stases/#Or) | [Cr](https://journal.jinnzhong.com/ghosts-stases/#Cr) |
-| LOY | [Rl](https://journal.jinnzhong.com/ghosts-stases/#Rl) | [Pl](https://journal.jinnzhong.com/ghosts-stases/#Pl) | [Ll](https://journal.jinnzhong.com/ghosts-stases/#Ll) | [Fl](https://journal.jinnzhong.com/ghosts-stases/#Fl) | [Ol](https://journal.jinnzhong.com/ghosts-stases/#Ol) | [Cl](https://journal.jinnzhong.com/ghosts-stases/#Cl) |
-| PST | [Rp](https://journal.jinnzhong.com/ghosts-stases/#Rp) | [Pp](https://journal.jinnzhong.com/ghosts-stases/#Pp) | [Lp](https://journal.jinnzhong.com/ghosts-stases/#Lp) | [Fp](https://journal.jinnzhong.com/ghosts-stases/#Fp) | [Op](https://journal.jinnzhong.com/ghosts-stases/#Op) | [Cp](https://journal.jinnzhong.com/ghosts-stases/#Cp) |
+| ABL | [Ra](https://journal.jinnzhong.com/ghosts-stases/#Ra) | [Pa](https://journal.jinnzhong.com/ghosts-stases/#pa) | [La](https://journal.jinnzhong.com/ghosts-stases/#la) | [Fa](https://journal.jinnzhong.com/ghosts-stases/#fa) | [Oa](https://journal.jinnzhong.com/ghosts-stases/#oa) | [Ca](https://journal.jinnzhong.com/ghosts-stases/#ca) |
+| ROL | [Rr](https://journal.jinnzhong.com/ghosts-stases/#rr) | [Pr](https://journal.jinnzhong.com/ghosts-stases/#pr) | [Lr](https://journal.jinnzhong.com/ghosts-stases/#lr) | [Fr](https://journal.jinnzhong.com/ghosts-stases/#fr) | [Or](https://journal.jinnzhong.com/ghosts-stases/#or) | [Cr](https://journal.jinnzhong.com/ghosts-stases/#cr) |
+| LOY | [Rl](https://journal.jinnzhong.com/ghosts-stases/#rl) | [Pl](https://journal.jinnzhong.com/ghosts-stases/#pl) | [Ll](https://journal.jinnzhong.com/ghosts-stases/#ll) | [Fl](https://journal.jinnzhong.com/ghosts-stases/#fl) | [Ol](https://journal.jinnzhong.com/ghosts-stases/#ol) | [Cl](https://journal.jinnzhong.com/ghosts-stases/#cl) |
+| PST | [Rp](https://journal.jinnzhong.com/ghosts-stases/#rp) | [Pp](https://journal.jinnzhong.com/ghosts-stases/#pp) | [Lp](https://journal.jinnzhong.com/ghosts-stases/#lp) | [Fp](https://journal.jinnzhong.com/ghosts-stases/#fp) | [Op](https://journal.jinnzhong.com/ghosts-stases/#op) | [Cp](https://journal.jinnzhong.com/ghosts-stases/#cp) |
 
 ## Stasis & Aspect Pairs
 
