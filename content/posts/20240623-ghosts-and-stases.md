@@ -14,7 +14,6 @@ categories = [
     "Craft of Storytelling",
 ]
 +++
-{{< toc >}}
 
 GHS and STS. I've been trying to figure out how to rename "Lie" so it doesn't sound so goofy and also because it doesn't sound right to me. (Which is kinda circular in meaning since "goofy" means "it doesn't sound right, and it sounds silly to me"). The "lie" served the POV and got them to the story's beginning. It is their normal. Their homeostasis. It's what's keeping their life together and from breaking apart. That is the power of STS. We don't enter stases because we think it's fun. We do it because it's our survival mechanism. It's our reaction to our traumas. Bad thing happened to us, we don't want it to happen ever again, so we build defense and coping mechanisms. This all contributes to our stasis.
 
