@@ -25,6 +25,7 @@ tags = [
     "The Devil Wears Prada (2006)",
     "The Antisocial Network (2024)",
     "Outlander (2014-2025)",
+    "House M.D. (2004-2012)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -59,6 +60,7 @@ Decided to start tracking TV shows this year as well. Dates are the date in whic
 |5/17|:tv:| The Antisocial Network (2024) | |
 |5/19|:tv:| The Bear S2 (2023) | |
 |6/22|:tv:| Outlander S7:P1 (2023) | |
+|7/05|:tv:| House S1 (2004) | rewatch |
 
 
 
