@@ -68,6 +68,10 @@ tags = [
     "A Master of Djinn (2021)",
     "All Systems Red (2017",
     "Martha Wells",
+    "The Adventures of Amina Al-Sirafi (2023)",
+    "Shannon Chakraborty",
+    "Prism Stalker (2018)",
+    "Sloane Leong",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -109,6 +113,8 @@ categories = [
 |6/7|:headphones:|Hamlet (1601)|William Shakespeare| |
 |6/10|:book:| A Master of Djinn (2021) | P. Djèlí Clark | [cmts](https://journal.jinnzhong.com/commentary-a-master-of-djinn-2021/) |
 |6/23|:book:| All Systems Red (2017) | Martha Wells | [cmts](https://journal.jinnzhong.com/commentary-all-systems-red-2017/) |
+|7/4|:iphone:| The Adventures of Amina Al-Sirafi (2023) | Shannon Chakraborty |[cmts](https://journal.jinnzhong.com/commentary-the-adventures-of-amina-al-sirafi-2023/) |
+|7/7|:book:| Prism Stalker V.1 (2018) | Sloane Leong | |
 
 
 
