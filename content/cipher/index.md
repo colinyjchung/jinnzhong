@@ -15,7 +15,7 @@ A non-exhaustive dictionary of abbreviations used in my notes.
 * **DSR**: Disruption or Inciting Incident
 * **DYNA**: Dynamic Character (the one the main/PROT plays off of)
 * **EGP**: Emotional Gut Punch
-* **GWL**: Ghost/Wound/Lie or backstory
+* **GLS**: Ghost/Lie/Stasis or backstory
 * **LOW**: Low Point aka Dark Night of the Soul, usually penultimate scene (before CMX)
 * **MECH**: Mechanism (the core premise of a story, the "rules" of the magic/tech/culture)
 * **MICE**: The four elements of story: Milieu, Inquiry, Character, and Event. (See OSC's [Notes](https://journal.jinnzhong.com/notes-characters-and-viewpoint-1988-by-orson-scott-card/#mice) & [Story Tags](https://journal.jinnzhong.com/still-brainstorming-story-tags/))
@@ -34,7 +34,7 @@ A non-exhaustive dictionary of abbreviations used in my notes.
 
 ## STORY STRUCTURE
 
-0. **GWL**: Ghost/Wound/Lie or backstory
+0. **GLS**: Ghost/Lie/Stasis or backstory
 1. **STS**: Stasis - or Ordinary World
 2. **DSR**: Disruption or Inciting Incident
 3. **BWO**: B-World aka Belly of the Whale, triggered by Catalyst
