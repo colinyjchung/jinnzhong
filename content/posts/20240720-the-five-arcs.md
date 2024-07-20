@@ -69,9 +69,13 @@ Cautionary tales. Unrelenting vice leads to destruction.
 3. **CORRUPTION ARC**: Starts out in "the good place" where TRUTH thrives, but lured away by a LIE.
 You could argue the "seed of TRUTH" was inside PROT for positive arcs, and the "seed of the LIE" was inside the PROT for a  corruption arc, but I don't like that. It's saying people are destined to follow this "seed" when I think the seed could fall either way. But this is a philsophical question.
 > _"It's possible to be disillusioned without being corrupted, and it's possible to be corrupted without being disillusioned."_ - William Bernhardt, _Perfecting Plot_
+
 Positive arc is about "redeeming self", flat arc is about "saving others", negative arc is about "destroying self and probably others as well".
+
 In Positive and Flat arcs, characters face down death, come to terms with its power, re-embrace life, and rise again. In Negative Arcs, PROT is impotent in the face of this horror.
+
 **SOME OVERARCHING NOTES**
+
 * **STS**: Audience needs to understand how LIE shapes the PROT's world Both TRUTH and LIE should share the stage simultaneously, even if one is a mere reflection or shadow. Stakes for what happens if LIE is pursued should be discussed, what needs to be sacrificed. Prot can't name LIE or TRUTH yet. Whether it's a TASTE, RUMOR, or GLIMPSE, the PROT sees there is "more than meets the eye".
 * **BWO**: PROT becomes increasingly enthralled by the darkness, rather than overcoming it, becomes enslaved to the LIE whereas in the positive arc, they see how the TRUTH could set them free.
 * **MID**: Up until now, character has advanced towards the LIE, but also had many chances to turn back. The MID is where PROT is presented with the TRUTH one last time and rejects it.
@@ -141,8 +145,8 @@ Starts in GOOD PLACE
 
 | |Starts in Good Place|Starts in Bad Place|
 |:---:|:---:|:---:|
-|Believes in Truth|<ul><li>FLAT</li><li>CORRUPTION</li></ul>| |
-|Believes in Lie|<ul><li>DISILLUSIONMENT</li></ul>|<ul><li>POSITIVE</li><li>FALL</li></ul>|
+|Believes in Truth|<ul><li>FLAT</li><li>CORRUPTION</li></ul>|<ul><li>FLAT</li></ul> |
+|Believes in Lie|<ul><li>DISILLUSIONMENT<br\>(lie: world)</li></ul>|<ul><li>POSITIVE<br\>(lie: self)</li><li>FALL</li></ul>|
 
 * FLAT - Save Others
 * CORRUPTION - Destroy Others
