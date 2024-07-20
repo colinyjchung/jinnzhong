@@ -57,10 +57,10 @@ PROT already knows and lives the TRUTH, but will be tested to breaking point. An
 * PROT has seen weakness in LIE and will exploit it. What keeps the story tense is there are good, valid arguments for both sides and PROT does have doubts even as they push their side of the argument.
 * The LOW is not where the PROT doubts the TRUTH. That never happens. But the PROT _will doubt_ whether or not they can actually _use_ the TRUTH to defeat the LIE. The Flat Arc is about whether the CDA prevails against all odds.
 ### A3 to CMX
-Fortunately, the allies PROT has changed will rally to them. PROT will gather resources, personnel, and have one last long shot at defeating the ANTG and the LIE.
+* Fortunately, the allies PROT has changed will rally to them. PROT will gather resources, personnel, and have one last long shot at defeating the ANTG and the LIE.
 In the CMX of a flat arc, the PROT's resolve of the TRUTH will be met by the ANTG throwing the LIE once again at the PROT.
-The PROT is the catalyst for changes in the allies, but don't let the Positive Arc Ally steal the spotlight.
-If the world was LIE-ridden, it is now destroyed and PROT & Friends can rebuild it. If PROT had to leave "the good place" to protect it, they now return home triumphant.
+* The PROT is the catalyst for changes in the allies, but don't let the Positive Arc Ally steal the spotlight.
+* If the world was LIE-ridden, it is now destroyed and PROT & Friends can rebuild it. If PROT had to leave "the good place" to protect it, they now return home triumphant.
 **SIDE NOTE:** Every major IP in the last 80 years have been flat arc heroes: Frodo Baggins, Peter Parker, Luke Skywalker, Harry Potter. They are all young naive PROTs who are unquestionably "good" (courageous, resilient, earnest) and being good helps them overcome the chaos, the LIE-ridden world. It is inspiring. It is also, ultimately, a childish fantasy. Take it one step further, they are messianic figures. Jesus is a childish fantasy. A character that remains good in the face of corrupt evil and prevails, and "saves the world".
 ## Negative Arcs
 Cautionary tales. Unrelenting vice leads to destruction.
@@ -142,7 +142,7 @@ Starts in GOOD PLACE
 | |Starts in Good Place|Starts in Bad Place|
 |:---:|:---:|:---:|
 |Believes in Truth|<ul><li>FLAT</li><li>CORRUPTION</li></ul>| |
-|Believes in Lie|<ul><li>DISLLUSIONMENT</li></ul>|<ul><li>POSITIVE</li><li>FALL</li></ul>|
+|Believes in Lie|<ul><li>DISILLUSIONMENT</li></ul>|<ul><li>POSITIVE</li><li>FALL</li></ul>|
 
 * FLAT - Save Others
 * CORRUPTION - Destroy Others
