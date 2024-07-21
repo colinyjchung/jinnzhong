@@ -72,6 +72,8 @@ tags = [
     "Shannon Chakraborty",
     "Prism Stalker (2018)",
     "Sloane Leong",
+    "Creating Character Arcs (2016)",
+    "K.M. Weiland",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -115,7 +117,9 @@ categories = [
 |6/23|:book:| All Systems Red (2017) | Martha Wells | [cmts](https://journal.jinnzhong.com/commentary-all-systems-red-2017/) |
 |7/4|:iphone:| The Adventures of Amina Al-Sirafi (2023) | Shannon Chakraborty |[cmts](https://journal.jinnzhong.com/commentary-the-adventures-of-amina-al-sirafi-2023/) |
 |7/7|:book:| Prism Stalker V.1 (2018) | Sloane Leong | |
-
+|7/11|:book:| Creating Character Arcs (2016) | K.M. Weiland |
+|7/14|:book:| Knave 2e (2024) | Ben Milton |
+|7/21|:book:| Creating Character Arcs (2016) | K.M. Weiland |
 
 
   
