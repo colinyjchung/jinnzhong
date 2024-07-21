@@ -64,7 +64,7 @@ The 3S1M is still going. Still scattered. But I think things wil be a lot more f
 | :--- | :--- |
 | 1735/4000 | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:43.375%;height:15px;background:#006600;font-size:12px; color:white; line-height:12px;">43.375%</div></div> |
 
-I falling more into the day-to-day whirlwind at my job and I reviewed a _lot_ of copy this week. Some of it had to be completely rewritten, which means more training/coaching is required. Someone unexpectedly quit. But more importantly, I have not had as much time to WRITE FICTION. Now granted, this whole of last week, I've been burning through _Creating Character Arcs_ a [second time]((https://journal.jinnzhong.com/the-five-arcs/), but still. I need to wrestle time away for lunch and breaks. I came home extremely exhausted Mon-Wed, like zero energy. With that said. My motivation is increasing. I really feel like character arcs was the missing tool this entire time. Or correction, the _last_ tool.
+I falling more into the day-to-day whirlwind at my job and I reviewed a _lot_ of copy this week. Some of it had to be completely rewritten, which means more training/coaching is required. Someone unexpectedly quit. But more importantly, I have not had as much time to WRITE FICTION. Now granted, this whole of last week, I've been burning through _Creating Character Arcs_ a [second time](https://journal.jinnzhong.com/the-five-arcs/), but still. I need to wrestle time away for lunch and breaks. I came home extremely exhausted Mon-Wed, like zero energy. With that said. My motivation is increasing. I really feel like character arcs was the missing tool this entire time. Or correction, the _last_ tool.
 
 ## Book Reading
 
