@@ -143,17 +143,17 @@ Eleven things you may want to accomplish in the opening scene:
 
 **STAGE ONE: CONCEPT & THEME**
 
-* [ ] MECH
-* [ ] CDA
-* [ ] POV
-* [ ] Vague-ish EGP w/limited PROG & ARC (LIE, WANT, NEED). DYNA?
+- [ ] MECH
+- [ ] CDA
+- [ ] POV
+- [ ] Vague-ish EGP w/limited PROG & ARC (LIE, WANT, NEED). DYNA?
 
-** STAGE TWO: ARC DEV**
+**STAGE TWO: ARC DEV**
 
 Build the Stasis - STS
-* [ ] Ghost
-* [ ] LIE
-* [ ] WANT - PROG
-* [ ] Hint at NEED via DSR
-* [ ] Key Personality Traits (KPT)
-* [ ] First Scene Goal
+- [ ] Ghost
+- [ ] LIE
+- [ ] WANT - PROG
+- [ ] Hint at NEED via DSR
+- [ ] Key Personality Traits (KPT)
+- [ ] First Scene Goal
