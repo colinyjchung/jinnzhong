@@ -121,7 +121,6 @@ categories = [
 |7/14|:book:| Knave 2e (2024) | Ben Milton |
 |7/21|:book:| Creating Character Arcs (2016) | K.M. Weiland |
 
-
   
 ## YEAR END TOTALS:
 |type|total|%|
@@ -147,4 +146,28 @@ categories = [
 * wis - wisdom/self-help/spiritual
 * biz - work (craft/mar/copy)
 
+## COMICS
+| date | title | issue | writer | artist | rereads |
+| ---: | :--- | :---: | :--- | :--- | :---: |
+|6/27| X-Men (2021) | 35 | Multiple[^1] | Multiple[^2] | 2 |
+|7/8| Wolverine (1982) | 1 | Chris Claremont | Frank Miller | |
+|7/9| Wolverine (1982) | 2 | Chris Claremont | Frank Miller | |
+|7/10| X-Men (2024) | 1 | Jedd Mackay | Ryan Stegman | 2 |
+|7/11| Wolverine (1982) | 1 | Chris Claremont | Frank Miller | |
+|7/11| Wolverine (1982) | 1 | Chris Claremont | Frank Miller | |
+|7/12| Uncanny X-Men (1963) | 268 | Chris Claremont | Jim Lee | |
+|7/13| Wolverine & The X-Men (2021) | 1 | Jason Aaron | Chris Bachalo | |
+|7/13| Wolverine & The X-Men (2021) | 2 | Jason Aaron | Chris Bachalo | |
+|7/13| Wolverine & The X-Men (2021) | 3 | Jason Aaron | Chris Bachalo | |
+|7/17| Phoenix (2024) | 1 | Stephanie Phillips | Alessandro Miracolo | 2 |
+|7/24| NYX (2024) | 1 | Collin Kelly & Jackson Lanzing | Francesco Mortarino | 3 |
+|7/29| Wolverine (1988) | 75 | Larry Hama | Adam Kubert | |
+|7/30| Uncanny X-Men (1963) | 162 | Chris Claremont | Dave Cockrum| |
+
+
+
+
 [Previous "Book Reads"](https://journal.jinnzhong.com/tags/books-read/)
+
+[^1]: Chris Claremont, Gerry Duggan, Al Ewing, Kieron Gillen, Jed Mackay, Gail Simone
+[^2]: Mark Brooks, Stefano Caselli, Joshua Cassara, Javier Garron, Salvador Larroca, Phil Noto, Jerome Opena, Sara Pichelli, John Romita Jr., Walt Simonson, Luciano Vecchio, Lucas Werneck, Leinil Francis Yu
