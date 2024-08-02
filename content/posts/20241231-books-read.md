@@ -163,6 +163,12 @@ categories = [
 |7/24| NYX (2024) | 1 | Collin Kelly & Jackson Lanzing | Francesco Mortarino | 3 |
 |7/29| Wolverine (1988) | 75 | Larry Hama | Adam Kubert | |
 |7/30| Uncanny X-Men (1963) | 162 | Chris Claremont | Dave Cockrum| |
+|7/31| Scarlet Witch (2023) | 1 | Steve Orlando | Sara Pichelli | |
+|8/1| Scarlet Witch (2023) | 2 | Steve Orlando | Sara Pichelli | |
+|8/1| Scarlet Witch (2023) | 3 | Steve Orlando | Sara Pichelli | |
+|8/1| Scarlet Witch (2023) | 4 | Steve Orlando | Sara Pichelli | |
+|8/1| Scarlet Witch (2023) | 5 | Steve Orlando | Sara Pichelli | |
+|8/1| X-Force (2024) | 1 (291) | Geoffrey Thorne | Marcus To | |
 
 
 
