@@ -169,7 +169,18 @@ categories = [
 |8/1| Scarlet Witch (2023) | 4 | Steve Orlando | Sara Pichelli | |
 |8/1| Scarlet Witch (2023) | 5 | Steve Orlando | Sara Pichelli | |
 |8/1| X-Force (2024) | 1 (291) | Geoffrey Thorne | Marcus To | |
-
+|8/1| Scarlet Witch Annual (2023) | 1 | Steve Orlando | Carlos Nieto | |
+|8/2| Scarlet Witch (2023) | 6 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
+|8/2| Scarlet Witch (2023) | 7 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
+|8/2| Avengers (2023) | 1 | Jed McKay | C.F. Villa | |
+|8/3| Scarlet Witch (2023) | 8 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
+|8/3| Avengers (2023) | 2 | Jed McKay | C.F. Villa | |
+|8/3| Scarlet Witch (2023) | 9 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
+|8/3| Scarlet Witch (2023) | 10 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
+|8/3| Scarlet Witch & Quicksilver (2023) | 1 | Steve Orlando | Lorenzo Tammetta | |
+|8/3| Scarlet Witch & Quicksilver (2023) | 2 | Steve Orlando | Lorenzo Tammetta | |
+|8/4| Scarlet Witch & Quicksilver (2023) | 3 | Steve Orlando | Lorenzo Tammetta | |
+|8/4| Avengers (2023) | 3 | Jed McKay | C.F. Villa | |
 
 
 
