@@ -146,7 +146,7 @@ categories = [
 * wis - wisdom/self-help/spiritual
 * biz - work (craft/mar/copy)
 
-## COMICS
+## SINGLE ISSUE COMICS
 | date | title | issue | writer | artist | rereads |
 | ---: | :--- | :---: | :--- | :--- | :---: |
 |6/27| X-Men (2021) | 35 | Multiple[^1] | Multiple[^2] | 2 |
@@ -163,25 +163,34 @@ categories = [
 |7/24| NYX (2024) | 1 | Collin Kelly & Jackson Lanzing | Francesco Mortarino | 3 |
 |7/29| Wolverine (1988) | 75 | Larry Hama | Adam Kubert | |
 |7/30| Uncanny X-Men (1963) | 162 | Chris Claremont | Dave Cockrum| |
-|7/31| Scarlet Witch (2023) | 1 | Steve Orlando | Sara Pichelli | |
-|8/1| Scarlet Witch (2023) | 2 | Steve Orlando | Sara Pichelli | |
-|8/1| Scarlet Witch (2023) | 3 | Steve Orlando | Sara Pichelli | |
-|8/1| Scarlet Witch (2023) | 4 | Steve Orlando | Sara Pichelli | |
-|8/1| Scarlet Witch (2023) | 5 | Steve Orlando | Sara Pichelli | |
+|7/31| Scarlet Witch (2023) | 1 | Steve Orlando | Sara Pichelli |2|
+|8/1| Scarlet Witch (2023) | 2 | Steve Orlando | Sara Pichelli |2|
+|8/1| Scarlet Witch (2023) | 3 | Steve Orlando | Sara Pichelli |2|
+|8/1| Scarlet Witch (2023) | 4 | Steve Orlando | Sara Pichelli |2|
+|8/1| Scarlet Witch (2023) | 5 | Steve Orlando | Sara Pichelli |2|
 |8/1| X-Force (2024) | 1 (291) | Geoffrey Thorne | Marcus To | |
 |8/1| Scarlet Witch Annual (2023) | 1 | Steve Orlando | Carlos Nieto | |
 |8/2| Scarlet Witch (2023) | 6 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
 |8/2| Scarlet Witch (2023) | 7 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
-|8/2| Avengers (2023) | 1 | Jed McKay | C.F. Villa | |
+|8/2| Avengers (2023) | 1 (767) | Jed McKay | C.F. Villa | |
 |8/3| Scarlet Witch (2023) | 8 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
-|8/3| Avengers (2023) | 2 | Jed McKay | C.F. Villa | |
+|8/3| Avengers (2023) | 2 (768) | Jed McKay | C.F. Villa | |
 |8/3| Scarlet Witch (2023) | 9 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
 |8/3| Scarlet Witch (2023) | 10 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
 |8/3| Scarlet Witch & Quicksilver (2023) | 1 | Steve Orlando | Lorenzo Tammetta | |
 |8/3| Scarlet Witch & Quicksilver (2023) | 2 | Steve Orlando | Lorenzo Tammetta | |
 |8/4| Scarlet Witch & Quicksilver (2023) | 3 | Steve Orlando | Lorenzo Tammetta | |
-|8/4| Avengers (2023) | 3 | Jed McKay | C.F. Villa | |
-
+|8/4| Avengers (2023) | 3 (769) | Jed McKay | C.F. Villa | |
+|8/4| Avengers (2023) | 4 (770) | Jed McKay | C.F. Villa | |
+|8/4| Avengers (2023) | 5 (771) | Jed McKay | Ivan Fiorelli | |
+|8/4| Avengers (2023) | 6 (772) | Jed McKay | Ivan Fiorelli | |
+|8/4| Avengers (2023) | 7 (773) | Jed McKay | C.F. Villa | |
+|8/4| Avengers (2023) | 8 (774) | Jed McKay | C.F. Villa | |
+|8/5| Avengers (2023) | 9 (775) | Jed McKay | Francisco Mortarino| |
+|8/5| Avengers (2023) | 10 (776) | Jed McKay | C.F. Villa | |
+|8/5| Avengers (2023) | 11 (777) | Jed McKay | Ivan Fiorelli | |
+|8/5| Avengers (2023) | 12 (778) | Jed McKay | Francisco Mortarino| |
+|8/5| Avengers (2023) | 13 (779) | Jed McKay | Francisco Mortarino| |
 
 
 [Previous "Book Reads"](https://journal.jinnzhong.com/tags/books-read/)
