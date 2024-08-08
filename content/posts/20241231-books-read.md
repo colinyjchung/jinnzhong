@@ -152,7 +152,7 @@ categories = [
 |6/27| X-Men (2021) | 35 | Multiple[^1] | Multiple[^2] | 2 |
 |7/8| Wolverine (1982) | 1 | Chris Claremont | Frank Miller | |
 |7/9| Wolverine (1982) | 2 | Chris Claremont | Frank Miller | |
-|7/10| X-Men (2024) | 1 | Jedd Mackay | Ryan Stegman | 2 |
+|7/10| X-Men (2024) | 1 (301) | Jedd Mackay | Ryan Stegman | 2 |
 |7/11| Wolverine (1982) | 1 | Chris Claremont | Frank Miller | |
 |7/11| Wolverine (1982) | 1 | Chris Claremont | Frank Miller | |
 |7/12| Uncanny X-Men (1963) | 268 | Chris Claremont | Jim Lee | |
@@ -191,7 +191,18 @@ categories = [
 |8/5| Avengers (2023) | 11 (777) | Jed McKay | Ivan Fiorelli | |
 |8/5| Avengers (2023) | 12 (778) | Jed McKay | Francisco Mortarino| |
 |8/5| Avengers (2023) | 13 (779) | Jed McKay | Francisco Mortarino| |
-
+|8/5| Black Panther (2023) | 1 (213) | Eve L. Ewing | Christopher Allen| |
+|8/5| Black Panther (2023) | 2 (214) | Eve L. Ewing | Christopher Allen| |
+|8/5| Black Panther (2023) | 3 (215) | Eve L. Ewing | Christopher Allen| |
+|8/6| Black Panther (2023) | 4 (216) | Eve L. Ewing | Christopher Allen & Mack Chatur| |
+|8/6| Black Panther (2023) | 5 (217) | Eve L. Ewing | Mack Chatur| |
+|8/7| Uncanny X-Men (2024) | 1 (701) | Gail Simone | David Marquez| 2 |
+|8/7| Black Panther (2023) | 6 (218) | Eve L. Ewing | Christopher Allen & Mack Chatur| |
+|8/7| Black Panther (2023) | 7 (219) | Eve L. Ewing | Christopher Allen & Mack Chatur| |
+|8/7| Black Panther (2023) | 8 (220) | Eve L. Ewing | Christopher Allen & Mack Chatur| |
+|8/7| Avengers (2023) | 17 (783) | Jed McKay | Valerio Schiti | |
+|8/7| Black Panther (2023) | 9 (221) | Eve L. Ewing | Christopher Allen & Mack Chatur| |
+|8/7| Black Panther (2023) | 10 (222) | Eve L. Ewing | Christopher Allen | |
 
 [Previous "Book Reads"](https://journal.jinnzhong.com/tags/books-read/)
 
