@@ -203,6 +203,15 @@ categories = [
 |8/7| Avengers (2023) | 17 (783) | Jed McKay | Valerio Schiti | |
 |8/7| Black Panther (2023) | 9 (221) | Eve L. Ewing | Christopher Allen & Mack Chatur| |
 |8/7| Black Panther (2023) | 10 (222) | Eve L. Ewing | Christopher Allen | |
+|8/8| House of X (2019) | 1 | Jonathan Hickman | Pepe Larraz | |
+|8/8| Powers of X (2019) | 1 | Jonathan Hickman | R.B. Silva | |
+|8/8| House of X (2019) | 2 | Jonathan Hickman | Pepe Larraz | |
+|8/9| Powers of X (2019) | 2 | Jonathan Hickman | R.B. Silva | |
+|8/10| Powers of X (2019) | 3 | Jonathan Hickman | R.B. Silva | |
+|8/10| House of X (2019) | 3 | Jonathan Hickman | Pepe Larraz | |
+|8/10| House of X (2019) | 4 | Jonathan Hickman | Pepe Larraz | |
+|8/10| Powers of X (2019) | 4 | Jonathan Hickman | R.B. Silva | |
+|8/10| House of X (2019) | 5 | Jonathan Hickman | Pehpe Larraz | |
 
 [Previous "Book Reads"](https://journal.jinnzhong.com/tags/books-read/)
 
