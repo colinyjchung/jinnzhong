@@ -211,7 +211,7 @@ categories = [
 |8/10| House of X (2019) | 3 | Jonathan Hickman | Pepe Larraz | |
 |8/10| House of X (2019) | 4 | Jonathan Hickman | Pepe Larraz | |
 |8/10| Powers of X (2019) | 4 | Jonathan Hickman | R.B. Silva | |
-|8/10| House of X (2019) | 5 | Jonathan Hickman | Pehpe Larraz | |
+|8/10| House of X (2019) | 5 | Jonathan Hickman | Pepe Larraz | |
 
 [Previous "Book Reads"](https://journal.jinnzhong.com/tags/books-read/)
 
