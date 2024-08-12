@@ -12,7 +12,7 @@ tags = [
   "Scarlet Witch (2023)",
   "Avengers (2023)",
   "Steve Orlando",
-  "Jed McKay",
+  "Jed MacKay",
   "Ogrebeef",
   "Tim Minchin",
   "EOW Reports",
@@ -75,7 +75,7 @@ And then, and then, I got into comics again because of Marvel Unlimited. And I'm
 
 ## Book Reading
 
-* So I got _Marvel Unlimited_ on Tuesday. And it's become a non-stop binge since. Steve Orlando's run on _Scarlet Witch_ (2023) is a heartfelt, tea cosy, but with superheroes. I love, love, love Sara Pichelli's art and whatever Matthew Wilson is doing to create that watercolor effect for the coloring is also magical. Started Jed McKay's run on the _Avengers_ (2023) as well since my FLGS convinced me to get issues 17-18 as Storm will be joining them. Finally, spent hours copying the X-Men reading order from [this guy named ghost](https://ultimatexmenreadingorder.com). I was _going_ to start at the very beginning, but decided the Krakoan Age might be better.
+* So I got _Marvel Unlimited_ on Tuesday. And it's become a non-stop binge since. Steve Orlando's run on _Scarlet Witch_ (2023) is a heartfelt, tea cosy, but with superheroes. I love, love, love Sara Pichelli's art and whatever Matthew Wilson is doing to create that watercolor effect for the coloring is also magical. Started Jed MacKay's run on the _Avengers_ (2023) as well since my FLGS convinced me to get issues 17-18 as Storm will be joining them. Finally, spent hours copying the X-Men reading order from [this guy named ghost](https://ultimatexmenreadingorder.com). I was _going_ to start at the very beginning, but decided the Krakoan Age might be better.
 * So with that said, I barely touched anything prose wise. I read da bit of _Time of the Twins_ (1986), but ignored everything else.
 * Getting this deep back into comics has me looking at books like _Words for Pictures_ (2014) by legendary Brian Michael Bendis, _The Insider's Guide To Creating Comics And Graphic Novels_ (2009) by Andy Schmidt, and _Comics Experience Guide to Writing Comics_ (2018) by Schmidt as well. But then also, I'm also looking _Grid systems in graphic design_ (1996) by Josef Müller-Brockmann as recommended by JB, who taught me layout. I think in general, I'm getting distracted, but also feeling a sense of creative freedom/exploration this past week in general.
 
@@ -94,9 +94,9 @@ And then, and then, I got into comics again because of Marvel Unlimited. And I'm
 |8/1| Scarlet Witch Annual (2023) | 1 | Steve Orlando | Carlos Nieto |
 |8/2| Scarlet Witch (2023) | 6 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli |
 |8/2| Scarlet Witch (2023) | 7 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli |
-|8/2| Avengers (2023) | 1 | Jed McKay | C.F. Villa |
+|8/2| Avengers (2023) | 1 | Jed MacKay | C.F. Villa |
 |8/3| Scarlet Witch (2023) | 8 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli |
-|8/3| Avengers (2023) | 2 | Jed McKay | C.F. Villa |
+|8/3| Avengers (2023) | 2 | Jed MacKay | C.F. Villa |
 |8/3| Scarlet Witch (2023) | 9 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli |
 |8/3| Scarlet Witch (2023) | 10 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli |
 |8/3| Scarlet Witch & Quicksilver (2023) | 1 | Steve Orlando | Lorenzo Tammetta |
