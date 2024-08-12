@@ -14,7 +14,7 @@ tags = [
   "Powers of X (2019)",
   "Planetary (1998-2009)",
   "Jonathan Hickman",
-  "Jed McKay",
+  "Jed MacKay",
   "Eve L. Ewing",
   "Warren Ellis",
   "Ogrebeef",
@@ -91,17 +91,17 @@ I got a new chair for the home office. I went with the autonomous.ai. I have two
 | date | title | issue | writer | artist |
 | ---: | :--- | :---: | :--- | :--- |
 |8/4| Scarlet Witch & Quicksilver (2023) | 3 | Steve Orlando | Lorenzo Tammetta |
-|8/4| Avengers (2023) | 3 (769) | Jed McKay | C.F. Villa |
-|8/4| Avengers (2023) | 4 (770) | Jed McKay | C.F. Villa |
-|8/4| Avengers (2023) | 5 (771) | Jed McKay | Ivan Fiorelli |
-|8/4| Avengers (2023) | 6 (772) | Jed McKay | Ivan Fiorelli |
-|8/4| Avengers (2023) | 7 (773) | Jed McKay | C.F. Villa |
-|8/4| Avengers (2023) | 8 (774) | Jed McKay | C.F. Villa |
-|8/5| Avengers (2023) | 9 (775) | Jed McKay | Francisco Mortarino|
-|8/5| Avengers (2023) | 10 (776) | Jed McKay | C.F. Villa |
-|8/5| Avengers (2023) | 11 (777) | Jed McKay | Ivan Fiorelli |
-|8/5| Avengers (2023) | 12 (778) | Jed McKay | Francisco Mortarino|
-|8/5| Avengers (2023) | 13 (779) | Jed McKay | Francisco Mortarino|
+|8/4| Avengers (2023) | 3 (769) | Jed MacKay | C.F. Villa |
+|8/4| Avengers (2023) | 4 (770) | Jed MacKay | C.F. Villa |
+|8/4| Avengers (2023) | 5 (771) | Jed MacKay | Ivan Fiorelli |
+|8/4| Avengers (2023) | 6 (772) | Jed MacKay | Ivan Fiorelli |
+|8/4| Avengers (2023) | 7 (773) | Jed MacKay | C.F. Villa |
+|8/4| Avengers (2023) | 8 (774) | Jed MacKay | C.F. Villa |
+|8/5| Avengers (2023) | 9 (775) | Jed MacKay | Francisco Mortarino|
+|8/5| Avengers (2023) | 10 (776) | Jed MacKay | C.F. Villa |
+|8/5| Avengers (2023) | 11 (777) | Jed MacKay | Ivan Fiorelli |
+|8/5| Avengers (2023) | 12 (778) | Jed MacKay | Francisco Mortarino|
+|8/5| Avengers (2023) | 13 (779) | Jed MacKay | Francisco Mortarino|
 |8/5| Black Panther (2023) | 1 (213) | Eve L. Ewing | Christopher Allen|
 |8/5| Black Panther (2023) | 2 (214) | Eve L. Ewing | Christopher Allen|
 |8/5| Black Panther (2023) | 3 (215) | Eve L. Ewing | Christopher Allen|
@@ -111,7 +111,7 @@ I got a new chair for the home office. I went with the autonomous.ai. I have two
 |8/7| Black Panther (2023) | 6 (218) | Eve L. Ewing | Christopher Allen & Mack Chatur|
 |8/7| Black Panther (2023) | 7 (219) | Eve L. Ewing | Christopher Allen & Mack Chatur|
 |8/7| Black Panther (2023) | 8 (220) | Eve L. Ewing | Christopher Allen & Mack Chatur|
-|8/7| Avengers (2023) | 17 (783) | Jed McKay | Valerio Schiti |
+|8/7| Avengers (2023) | 17 (783) | Jed MacKay | Valerio Schiti |
 |8/7| Black Panther (2023) | 9 (221) | Eve L. Ewing | Christopher Allen & Mack Chatur|
 |8/7| Black Panther (2023) | 10 (222) | Eve L. Ewing | Christopher Allen |
 |8/8| House of X (2019) | 1 | Jonathan Hickman | Pepe Larraz |
