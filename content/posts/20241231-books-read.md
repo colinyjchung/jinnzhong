@@ -74,6 +74,8 @@ tags = [
     "Sloane Leong",
     "Creating Character Arcs (2016)",
     "K.M. Weiland",
+    "The Insider's Guide To Creating Comics And Graphic Novels (2009)",
+    "Andy Schmidt",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -120,6 +122,7 @@ categories = [
 |7/11|:book:| Creating Character Arcs (2016) | K.M. Weiland |
 |7/14|:book:| Knave 2e (2024) | Ben Milton |
 |7/21|:book:| Creating Character Arcs (2016) | K.M. Weiland |
+|8/6|:book:| The Insider's Guide To Creating Comics And Graphic Novels (2009) | Andy Schmidt |
 
   
 ## YEAR END TOTALS:
@@ -213,6 +216,30 @@ categories = [
 |8/10| Powers of X (2019) | 4 | Jonathan Hickman | R.B. Silva | |
 |8/10| House of X (2019) | 5 | Jonathan Hickman | Pepe Larraz | |
 |8/10| Powers of X (2019) | 5 | Jonathan Hickman | R.B. Silva | |
+|8/11| Powers of X (2019) | 5 | Jonathan Hickman | R.B. Silva | |
+|8/11| House of X (2019) | 6 | Jonathan Hickman | Pepe Larraz | |
+|8/11| Powers of X (2019) | 6 | Jonathan Hickman | R.B. Silva & Pepe Larraz | |
+|8/11| X-Men (2019) | 1 (645) |Jonathan Hickman | Leinil Francis Yu | |
+|8/12| Marauders (2019) | 1 | Gerry Duggan | Matteo Lolli | |
+|8/12| X-Men (2019) | 2 (646) |Jonathan Hickman | Leinil Francis Yu | |
+|8/12| X-Force (2019) | 1 | Benjamin Percy | Joshua Cassara | |
+|8/12| Excalibur (2019) | 1 | Tini Howard | Marcus To | |
+|8/12| Excalibur (2019) | 2 | Tini Howard | Marcus To | |
+|8/12| Excalibur (2019) | 3 | Tini Howard | Marcus To | |
+|8/12| Excalibur (2019) | 4 | Tini Howard | Marcus To | |
+|8/12| Avengers (2023) | 14(780) | Jed MacKay | C.F. Villa | |
+|8/12| Absolute Carnage (2019) | 1 | Donny Cates | Ryan Stegman | |
+|8/12| Absolute Carnage (2019) | 2 | Donny Cates | Ryan Stegman | |
+|8/12| Absolute Carnage (2019) | 3 | Donny Cates | Ryan Stegman | |
+|8/13| Absolute Carnage (2019) | 4 | Donny Cates | Ryan Stegman | |
+|8/13| Absolute Carnage (2019) | 5 | Donny Cates | Ryan Stegman | |
+|8/13| Excalibur (2019) | 5 | Tini Howard | Marcus To | |
+|8/13| Excalibur (2019) | 6 | Tini Howard | Marcus To | |
+|8/13| New Mutants (2019) | 1 | Ed Brisson & Jonathan Hickman | Rod Reis | |
+|8/13| Marauders (2019) | 2 | Gerry Duggan | Matteo Lolli | |
+|8/13| Marauders (2019) | 3 | Gerry Duggan | Michele Bandini | |
+|8/14| X-Men (2019) | 3 (647) |Jonathan Hickman | Leinil Francis Yu | |
+|8/14| Fallen Angels (2019) | 1 | Bryan Hill | Szymon Kudranski | |
 
 [Previous "Book Reads"](https://journal.jinnzhong.com/tags/books-read/)
 
