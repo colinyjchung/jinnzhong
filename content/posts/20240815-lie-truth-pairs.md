@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "Lie/Truth Pairs... aka Motivations"
+title = "Lie/Truth Pairs (aka Motivations)"
 date = "2024-08-15"
 description = "Lies and Truths are two sides of the same coin"
 tags = [
