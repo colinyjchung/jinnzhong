@@ -31,5 +31,5 @@
     {{ printf `<link rel="stylesheet" href="%s">` $css.RelPermalink | safeHTML }}
 
     <link rel="canonical" href="{{ .Permalink }}" />
-    <title>{{ if .IsHome }}Home - {{ else }}{{ if .Title }}{{ .Title }} - {{ end }}{{ end }}{{ .Site.Title }}</title>
+    <title>{{ .Title }}</title>
 </head>
