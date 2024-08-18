@@ -240,6 +240,46 @@ categories = [
 |8/13| Marauders (2019) | 3 | Gerry Duggan | Michele Bandini | |
 |8/14| X-Men (2019) | 3 (647) |Jonathan Hickman | Leinil Francis Yu | |
 |8/14| Fallen Angels (2019) | 1 | Bryan Hill | Szymon Kudranski | |
+|8/14| X-Force (2019) | 2 () | Benjamin Percy | Joshua Cassara | |
+|8/14| Fallen Angels (2019) | 2 | Bryan Hill | Szymon Kudranski | |
+|8/14| X-Men (2024) | 2 (302) | Jed MacKay | Ryan Stegman | |
+|8/14| X-Factor (2024) | 1 (293) | Mark Russell | Robert Quinn | |
+|8/14| X-Force (2019) | 3 () | Benjamin Percy | Joshua Cassara | |
+|8/14| Fallen Angels (2019) | 3 | Bryan Hill | Szymon Kudranski | |
+|8/14| Fallen Angels (2019) | 4 | Bryan Hill | Szymon Kudranski | |
+|8/15| Fallen Angels (2019) | 5 | Bryan Hill | Szymon Kudranski | |
+|8/15| Fallen Angels (2019) | 6 | Bryan Hill | Szymon Kudranski | |
+|8/15| New Mutants (2019) | 2 | Jonathan Hickman | Rod Reis | |
+|8/15| New Mutants (2019) | 3 | Ed Brisson | Flaviano | |
+|8/15| New Mutants (2019) | 4 | Ed Brisson | Marco Failla | |
+|8/15| New Mutants (2019) | 5 | Jonathan Hickman | Rod Reis | |
+|8/15| New Mutants (2019) | 6 | Ed Brisson | Flaviano | |
+|8/15| New Mutants (2019) | 7 | Jonathan Hickman | Rod Reis | |
+|8/15| New Mutants (2019) | 8 | Ed Brisson | Marco Failla | |
+|8/15| New Mutants (2019) | 9 | Ed Brisson | Flaviano | |
+|8/15| New Mutants (2019) | 10 | Ed Brisson | Flaviano | |
+|8/15| New Mutants (2019) | 11 | Ed Brisson | Flaviano | |
+|8/16| X-Men (2019) | 4 (648) |Jonathan Hickman | Leinil Francis Yu | |
+|8/16| X-Men/Fantastic Four (2020) | 1 |Chip Zdarsky | Terry Dodson | |
+|8/16| X-Men/Fantastic Four (2020) | 2 |Chip Zdarsky | Terry Dodson | |
+|8/16| X-Men/Fantastic Four (2020) | 3 |Chip Zdarsky | Terry Dodson | |
+|8/16| X-Men/Fantastic Four (2020) | 4 |Chip Zdarsky | Terry Dodson | |
+|8/16| Marauders (2019) | 4 | Gerry Duggan | Lucas Werneck | |
+|8/16| X-Force (2019) | 4 () | Benjamin Percy | Joshua Cassara | |
+|8/16| X-Force (2019) | 5 () | Benjamin Percy | Joshua Cassara | |
+|8/16| X-Force (2019) | 6 () | Benjamin Percy | Stephen Segovia | |
+|8/17| Wolverine (2020) | 1 () | Benjamin Percy | Adam Kubert | |
+|8/17| Excalibur (2019) | 7 | Tini Howard | Wilton Santos | |
+|8/17| Excalibur (2019) | 8 | Tini Howard | Wilton Santos & Marcus To | |
+|8/17| X-Men (2019) | 5 (649) |Jonathan Hickman | R.B Silva | |
+|8/17| X-Men (2019) | 6 (650) |Jonathan Hickman | Matteo Buffagni | |
+|8/17| GSX: Jean Grey and Emma Frost | 1 | Jonathan Hickman | Russell Dauterman | |
+|8/17| X-Men (2019) | 7 (651) |Jonathan Hickman | Leinil Francis Yu | |
+|8/17| GSX: Nightcrawler | 1 | Jonathan Hickman | Alan Davis | |
+|8/18| X-Force (2019) | 7 () | Benjamin Percy | Oscar Bazaldua | |
+|8/18| X-Force (2019) | 8 () | Benjamin Percy | Bazaldua | | 
+|8/18| X-Force (2019) | 9 () | Benjamin Percy | Joshua Cassara | |
+
 
 [Previous "Book Reads"](https://journal.jinnzhong.com/tags/books-read/)
 
