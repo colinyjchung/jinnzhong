@@ -123,7 +123,7 @@ I got a new chair for the home office. I went with the autonomous.ai. I have two
 |8/10| House of X (2019) | 4 | Jonathan Hickman | Pepe Larraz |
 |8/10| Powers of X (2019) | 4 | Jonathan Hickman | R.B. Silva |
 |8/10| House of X (2019) | 5 | Jonathan Hickman | Pepe Larraz |
-|8/10| Powers of X (2019) | 5 | Jonathan Hickman | R.B. Silva | |
+|8/10| Powers of X (2019) | 5 | Jonathan Hickman | R.B. Silva |
 
 Archive of all EOW reports [here](https://journal.jinnzhong.com/tags/eow-reports/)
 
