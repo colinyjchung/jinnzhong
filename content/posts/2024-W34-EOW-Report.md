@@ -1,5 +1,3 @@
-2024-W34-EOW-Report.md
-
 +++
 author = "Jinn Zhong"
 title = "2024-W34 EOW Report"
