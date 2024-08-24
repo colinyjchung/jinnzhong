@@ -8,7 +8,7 @@ A project dashboard for what's being worked on.
 (Legend in Footnote[^1])
 
 | P | prj | s1 | s2 | s3 | s4 | fd | ed | rv | xd | 
-| :---: | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | [MINOS](https://journal.jinnzhong.com/tags/prj-minos/) | 2/11 | | | | | | |2|
 | 2 | [SAVED](https://journal.jinnzhong.com/tags/prj-saved/) | 3/12 |X|X|X| 3/25 | 4/28 | | 3 |
 | 3 | [BECKY](https://journal.jinnzhong.com/tags/prj-becky/) | 1/7 | | | | | | | 1 | 
