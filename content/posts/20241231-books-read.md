@@ -284,14 +284,14 @@ categories = [
 |8/18| Wolverine (2020) | 3 () | Benjamin Percy | Adam Kubert | |
 |8/18| Wolverine (2020) | 4 () | Benjamin Percy | Viktor Bogdanovic | |
 |8/19| Wolverine (2020) | 5 () | Benjamin Percy | Viktor Bogdanovic | |
-|8/20| Marauders (2020) | 5 | Gerry Duggan | Matteo Lolli & Lucas Werneck | |
-|8/20| Marauders (2020) | 6 | Gerry Duggan | Matteo Lolli & Mario Del Pennino | |
-|8/22| Marauders (2020) | 7 | Gerry Duggan | Stefano Caselli | |
-|8/22| Marauders (2020) | 8 | Gerry Duggan | Stefano Caselli | |
-|8/22| Marauders (2020) | 9 | Gerry Duggan | Matteo Lolli | |
+|8/20| Marauders (2019) | 5 | Gerry Duggan | Matteo Lolli & Lucas Werneck | |
+|8/20| Marauders (2019) | 6 | Gerry Duggan | Matteo Lolli & Mario Del Pennino | |
+|8/22| Marauders (2019) | 7 | Gerry Duggan | Stefano Caselli | |
+|8/22| Marauders (2019) | 8 | Gerry Duggan | Stefano Caselli | |
+|8/22| Marauders (2019) | 9 | Gerry Duggan | Matteo Lolli | |
 |8/22| Cable (2020) | 1 | Gerry Duggan | Phil Noto | |
-|8/22| Marauders (2020) | 10 | Gerry Duggan | Stefano Caselli | |
-|8/22| Marauders (2020) | 11 | Gerry Duggan | Stefano Caselli | |
+|8/22| Marauders (2019) | 10 | Gerry Duggan | Stefano Caselli | |
+|8/22| Marauders (2019) | 11 | Gerry Duggan | Stefano Caselli | |
 |8/22| New Mutants (2019) | 12 | Ed Brisson | Marco Failla | |
 |8/22| GSX: Fantomex (2020) | 1 | Jonathan Hickman | Rod Reis | |
 |8/22| GSX: Storm (2020) | 1 | Jonathan Hickman | Russell Dauterman | |
