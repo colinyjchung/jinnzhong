@@ -303,6 +303,22 @@ categories = [
 |8/23| X-Force (2019) | 15 () | Benjamin Percy | Joshua Cassara | |
 |8/23| X-Force (2019) | 16 () | Benjamin Percy | Joshua Cassara | |
 |8/23| Deadpool (2019) | 6(321) | Kelly Thompson | Kevin Libranda | |
+|8/23| X-Factor (2020) | 1 | Leah Williams | David Baldeon | |
+|8/23| X-Factor (2020) | 2 | Leah Williams | David Baldeon | |
+|8/23| X-23: Deadly Regenesis (2023) | 1 | Erica Schultz | Edgar Salazar | |
+|8/24| X-23: Deadly Regenesis (2023) | 2 | Erica Schultz | Edgar Salazar | |
+|8/24| X-23: Deadly Regenesis (2023) | 3 | Erica Schultz | Edgar Salazar | |
+|8/24| X-23: Deadly Regenesis (2023) | 4 | Erica Schultz | Edgar Salazar | |
+|8/24| X-23: Deadly Regenesis (2023) | 5 | Erica Schultz | Edgar Salazar | |
+|8/24| X-Factor (2020) | 3 | Leah Williams | David Baldeon | |
+|8/24| GSX: Magneto | 1 | Jonathan Hickman | Ramón Pérez | |
+|8/24| Hellions (2020) | 1 | Zeb Wells | Stephen Segovia | |
+|8/24| Hellions (2020) | 2 | Zeb Wells | Stephen Segovia | |
+|8/24| Hellions (2020) | 3 | Zeb Wells | Stephen Segovia | |
+|8/24| Hellions (2020) | 4 | Zeb Wells | Stephen Segovia | |
+|8/24| X-Men (2019) | 8 (652) | Jonathan Hickman | Mahmud Asrar | |
+|8/24| X-Men (2019) | 9 (653) | Jonathan Hickman | Mahmud Asrar | |
+
 
 [Previous "Book Reads"](https://journal.jinnzhong.com/tags/books-read/)
 
