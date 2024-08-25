@@ -69,6 +69,14 @@ Notes on character arcs [here](https://journal.jinnzhong.com/notes-creating-char
 * **CRPT/REBL**: The Corrupt/Rebel Arc
 * **FALL**: The Fall Arc
 
+| |PSTV|FLAT|DLSM|CRPT/REBL|FALL|
+|:---|:---:|:---:|:---:|:---:|:---:|
+|STS|Denial|Dismiss|Desire|Doubt|Dependence|
+|Sc/Sq 2|Resistance|Reluctance|Reorient|Reminder|Regression|
+|BWO|Exploration|Excoriated|Enthralled|Enticed|Exiled|
+|MID|Acceptance|Adherence|Access|Apologize?|Abjure|
+|CMX|Manifestation|Manifestation|Manifestation|Manifestation|Manifestation|
+
 ### LTP TAGS
 
 These are Lie-Truth Pairs (LTP) that are created out of ghosts (GST) and crystallized in statsis (STS). LTPs are created by an interesection(s) of character aspects and trauma anchors. All intersections discussed [here](https://journal.jinnzhong.com/lie-truth-pairs-aka-motivations/)
