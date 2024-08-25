@@ -79,7 +79,7 @@ Notes on character arcs [here](https://journal.jinnzhong.com/notes-creating-char
 
 ### LTP TAGS
 
-These are Lie-Truth Pairs (LTP) that are created out of ghosts (GST) and crystallized in statsis (STS). LTPs are created by an interesection(s) of character aspects and trauma anchors. All intersections discussed [here](https://journal.jinnzhong.com/lie-truth-pairs-aka-motivations/)
+These are Lie-Truth Pairs (LTP) that are created out of ghosts (GST) and crystallized in statsis (STS). LTPs are created by an intersection(s) of character aspects and trauma anchors. All intersections discussed [here](https://journal.jinnzhong.com/lie-truth-pairs-aka-motivations/)
 
 **CHARACTER ASPECTS:**
 * **ABL**: Abilities
