@@ -152,14 +152,15 @@ With all that said -- this trip was/is important. These are the moments with C-C
 Archive of all EOW reports [here](https://journal.jinnzhong.com/tags/eow-reports)
 
 [^1]: LEGEND for **Project Status Dashboard**
-   * **P** = priority (limit to 3 projects at any given time)
-   * **prj** = project codename
-   * **s1** = stage one: MECH/CDA + PROT/ARC
-   * **s2** = stage two: DSR/PROG + WANT/ANTG
-   * **s3** = stage three: Outline ARC/PROG
-   * **s4** = stage four: Sc1 & Sc2
-   * **fd** = 1st draft completed
-   * **ed** = edits (before beta/crits) completed
-   * **rv** = revisions (post-feedback) completed
-   * **xd** = current draft being worked on
+
+    * **P** = priority (limit to 3 projects at any given time)
+    * **prj** = project codename
+    * **s1** = stage one: MECH/CDA + PROT/ARC
+    * **s2** = stage two: DSR/PROG + WANT/ANTG
+    * **s3** = stage three: Outline ARC/PROG
+    * **s4** = stage four: Sc1 & Sc2
+    * **fd** = 1st draft completed
+    * **ed** = edits (before beta/crits) completed
+    * **rv** = revisions (post-feedback) completed
+    * **xd** = current draft being worked on
 
