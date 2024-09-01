@@ -206,8 +206,8 @@ categories = [
 |8/24| X-Men (2019) | 8 (652) | Jonathan Hickman | Mahmud Asrar | |
 |8/24| X-Men (2019) | 9 (653) | Jonathan Hickman | Mahmud Asrar | |
 |8/25| Empyre: X-Men (2020) | 1 | Jonathan Hickman & Tini Howard | Matteo Buffagni | |
-|8/25| Empyre: X-Men (2020) | 2 | Multiple[^2] | Lucas Werneck | |
-|8/25| Empyre: X-Men (2020) | 3 | Multiple[^3] | Andrea Broccardo | |
+|8/25| Empyre: X-Men (2020) | 2 | Multiple[^3] | Lucas Werneck | |
+|8/25| Empyre: X-Men (2020) | 3 | Multiple[^4] | Andrea Broccardo | |
 |8/25| Empyre: X-Men (2020) | 4 | Jonathan Hickman | Jorge Molina & Lucas Werneck | |
 |8/25| X-Men (2019) | 10 (654) | Jonathan Hickman | Leinil Francis Yu | |
 |8/25| X-Men (2019) | 11 (655) | Jonathan Hickman | Leinil Francis Yu | |
@@ -240,3 +240,5 @@ categories = [
 
 [^1]: Chris Claremont, Gerry Duggan, Al Ewing, Kieron Gillen, Jed Mackay, Gail Simone
 [^2]: Mark Brooks, Stefano Caselli, Joshua Cassara, Javier Garron, Salvador Larroca, Phil Noto, Jerome Opena, Sara Pichelli, John Romita Jr., Walt Simonson, Luciano Vecchio, Lucas Werneck, Leinil Francis Yu
+[^3]: Gerry Duggan, Ben Percy, and Leah Williams
+[^4]: Vita Ayala, Zeb Wells, and Ed Brisson
