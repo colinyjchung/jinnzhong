@@ -75,7 +75,15 @@ tags = [
     "Creating Character Arcs (2016)",
     "K.M. Weiland",
     "The Insider's Guide To Creating Comics And Graphic Novels (2009)",
+    "Comics Experience Guide to Writing Comics (2018)",
     "Andy Schmidt",
+    "Time of the Twins (1986)",
+    "Margaret Weis",
+    "Tracy Hickman",
+    "Rich and Pretty (2016)",
+    "Rumaan Alam",
+    "Laura & Emma (2018)",
+    "Kate Greathead",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -119,11 +127,14 @@ categories = [
 |6/23|:book:| All Systems Red (2017) | Martha Wells | [cmts](https://journal.jinnzhong.com/commentary-all-systems-red-2017/) |
 |7/4|:iphone:| The Adventures of Amina Al-Sirafi (2023) | Shannon Chakraborty |[cmts](https://journal.jinnzhong.com/commentary-the-adventures-of-amina-al-sirafi-2023/) |
 |7/7|:book:| Prism Stalker V.1 (2018) | Sloane Leong | |
-|7/11|:book:| Creating Character Arcs (2016) | K.M. Weiland |
-|7/14|:book:| Knave 2e (2024) | Ben Milton |
-|7/21|:book:| Creating Character Arcs (2016) | K.M. Weiland |
-|8/6|:book:| The Insider's Guide To Creating Comics And Graphic Novels (2009) | Andy Schmidt |
-
+|7/11|:book:| Creating Character Arcs (2016) | K.M. Weiland |[ntes](https://journal.jinnzhong.com/notes-creating-character-arcs-2016/)|
+|7/14|:book:| Knave 2e (2024) | Ben Milton | |
+|7/21|:book:| Creating Character Arcs (2016) | K.M. Weiland | |
+|8/6|:book:| The Insider's Guide To Creating Comics And Graphic Novels (2009) | Andy Schmidt | |
+|8/18|:book:| Comics Experience Guide to Writing Comics (2018) | Andy Schmidt | |
+|8/20|:book:| Time of the Twins (1986) | Margeret Weis & Tracy Hickman |[cmts](https://journal.jinnzhong.com/commentary-time-of-the-twins-1986/)|
+|8/26|:book:| Rich and Pretty (2016) | Rumaan Alam |[cmts](https://journal.jinnzhong.com/commentary-rich-and-pretty-2016/)|
+|8/28|:book:| Laura & Emma  (2018) | Kate Greathead |[cmts](https://journal.jinnzhong.com/commentary-laura-emma-2018/)|
   
 ## YEAR END TOTALS:
 |type|total|%|
