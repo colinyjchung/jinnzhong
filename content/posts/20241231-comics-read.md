@@ -49,8 +49,8 @@ categories = [
 |7/13| Wolverine & The X-Men (2021) | 1 | Jason Aaron | Chris Bachalo | |
 |7/13| Wolverine & The X-Men (2021) | 2 | Jason Aaron | Chris Bachalo | |
 |7/13| Wolverine & The X-Men (2021) | 3 | Jason Aaron | Chris Bachalo | |
-|7/17| Phoenix (2024) | 1 | Stephanie Phillips | Alessandro Miracolo | 2 |
-|7/24| NYX (2024) | 1 | Collin Kelly & Jackson Lanzing | Francesco Mortarino | 3 |
+|7/17| Phoenix (2024) | 1 | Stephanie Phillips | Alessandro Miracolo |2|
+|7/24| NYX (2024) | 1 | Collin Kelly & Jackson Lanzing | Francesco Mortarino |3|
 |7/29| Wolverine (1988) | 75 | Larry Hama | Adam Kubert | |
 |7/30| Uncanny X-Men (1963) | 162 | Chris Claremont | Dave Cockrum| |
 |7/31| Scarlet Witch (2023) | 1 | Steve Orlando | Sara Pichelli |2|
@@ -58,7 +58,7 @@ categories = [
 |8/1| Scarlet Witch (2023) | 3 | Steve Orlando | Sara Pichelli |2|
 |8/1| Scarlet Witch (2023) | 4 | Steve Orlando | Sara Pichelli |2|
 |8/1| Scarlet Witch (2023) | 5 | Steve Orlando | Sara Pichelli |2|
-|8/1| X-Force (2024) | 1 (291) | Geoffrey Thorne | Marcus To | |
+|8/1| X-Force (2024) | 1 (291) | Geoffrey Thorne | Marcus To |2|
 |8/1| Scarlet Witch Annual (2023) | 1 | Steve Orlando | Carlos Nieto | |
 |8/2| Scarlet Witch (2023) | 6 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
 |8/2| Scarlet Witch (2023) | 7 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
@@ -90,7 +90,7 @@ categories = [
 |8/7| Black Panther (2023) | 6 (218) | Eve L. Ewing | Christopher Allen & Mack Chatur| |
 |8/7| Black Panther (2023) | 7 (219) | Eve L. Ewing | Christopher Allen & Mack Chatur| |
 |8/7| Black Panther (2023) | 8 (220) | Eve L. Ewing | Christopher Allen & Mack Chatur| |
-|8/7| Avengers (2023) | 17 (783) | Jed MacKay | Valerio Schiti | |
+|8/7| Avengers (2023) | 17 (783) | Jed MacKay | Valerio Schiti |2|
 |8/7| Black Panther (2023) | 9 (221) | Eve L. Ewing | Christopher Allen & Mack Chatur| |
 |8/7| Black Panther (2023) | 10 (222) | Eve L. Ewing | Christopher Allen | |
 |8/8| House of X (2019) | 1 | Jonathan Hickman | Pepe Larraz | |
@@ -129,8 +129,8 @@ categories = [
 |8/14| Fallen Angels (2019) | 1 | Bryan Hill | Szymon Kudranski | |
 |8/14| X-Force (2019) | 2 () | Benjamin Percy | Joshua Cassara | |
 |8/14| Fallen Angels (2019) | 2 | Bryan Hill | Szymon Kudranski | |
-|8/14| X-Men (2024) | 2 (302) | Jed MacKay | Ryan Stegman | |
-|8/14| X-Factor (2024) | 1 (293) | Mark Russell | Robert Quinn | |
+|8/14| X-Men (2024) | 2 (302) | Jed MacKay | Ryan Stegman |2|
+|8/14| X-Factor (2024) | 1 (293) | Mark Russell | Robert Quinn |2|
 |8/14| X-Force (2019) | 3 () | Benjamin Percy | Joshua Cassara | |
 |8/14| Fallen Angels (2019) | 3 | Bryan Hill | Szymon Kudranski | |
 |8/14| Fallen Angels (2019) | 4 | Bryan Hill | Szymon Kudranski | |
@@ -226,12 +226,12 @@ categories = [
 |8/28| New Mutants (2019) | 13 | Ed Brisson | Rod Reis | |
 |8/28| Cable (2020) | 5 | Gerry Duggan | Phil Noto | |
 |8/29| X-Men (2024) | 3 (303) | Jed MacKay | Ryan Stegman | |
-|8/29| NYX (2024) | 2 | Collin Kelly & Jackson Lanzing | Francesco Mortarino | |
-|8/30| Phoenix (2024) | 2 | Stephanie Phillips | Alessandro Miracolo | |
+|8/29| NYX (2024) | 2 | Collin Kelly & Jackson Lanzing | Francesco Mortarino |2|
+|8/30| Phoenix (2024) | 2 | Stephanie Phillips | Alessandro Miracolo |2|
 |8/30| X-Force (2024) | 2 (292) | Geoffrey Thorne | Marcus To | |
-|8/30| Wolverine Revenge (2024) | 1 | Jonathan Hickman | Greg Capullo | | 
-|8/30| Absolute Power (2024) | 1 | Mark Waid | Dan Mora | |
-|8/30| Absolute Power (2024) | 2 | Mark Waid | Dan Mora | | 
+|8/30| Wolverine Revenge (2024) | 1 | Jonathan Hickman | Greg Capullo |2|
+|8/30| Absolute Power (2024) | 1 | Mark Waid | Dan Mora |2|
+|8/30| Absolute Power (2024) | 2 | Mark Waid | Dan Mora |2| 
 |8/31| Excalibur (2019) | 13 | Tini Howard | R.B. Silva | |
 |8/31| X-Men (2019) | 13 (657) | Jonathan Hickman | Mahmud Asrar | |
 |9/1| X of Swords: Stadis | 1 | Jonathan Hickman & Tini Howard | Pepe Larraz & Mahmud Asrar | |
