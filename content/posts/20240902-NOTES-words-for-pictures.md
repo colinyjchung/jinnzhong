@@ -17,7 +17,7 @@ categories = [
 * PITCH DOC - CDA/MECH/PROT(s)/KPTS/STS or "concept"
 * STORY OUTLINE - PROG(s)/DSR(s)/Cut Scenes
 
->> The function of your script is to communciate clear story, images, and characters to... THE ARTIST"
+> The function of your script is to communciate clear story, images, and characters to... THE ARTIST"
 
 | INFORM | INSPIRE | ENTERTAIN |
 | :--- | :--- | :--- |
@@ -46,9 +46,9 @@ categories = [
 * Overly detailed description
 * String along your collaborators on your creator-owned projects
 
->> "[Writers] worry so much about the plot that they lose sight of the CHARACTERS. They lose sight of WHY they are telling the story. They don't let the characters speak... let the characters SURPRISE you. Let them take you somewhere you're not prepared to go. Let the characters make you cry or laugh or let them scare you."
+> "[Writers] worry so much about the plot that they lose sight of the CHARACTERS. They lose sight of WHY they are telling the story. They don't let the characters speak... let the characters SURPRISE you. Let them take you somewhere you're not prepared to go. Let the characters make you cry or laugh or let them scare you."
 
 
->> "It isn't just about writing every day. It's about knowing WHAT you're going to write every day. A lot of time, if you know WHY you're writing what you're writing, finding your way from point A to point B will come more easily as a result."
+> "It isn't just about writing every day. It's about knowing WHAT you're going to write every day. A lot of time, if you know WHY you're writing what you're writing, finding your way from point A to point B will come more easily as a result."
 
 
