@@ -6,31 +6,34 @@ description = "None Yet"
 tags = [
     "Comics Read",
     "Media Consumption",
-    "Chris Claremont",
-    "Jed MacKay",
     "Jason Aaron",
-    "Stephanie Phillips",
+    "Juni Ba",
+    "Ed Brisson",
+    "Deniz Camp",
+    "Donny Cates",
+    "Chris Claremont",
+    "Gerry Duggan",
+    "Al Ewing",
+    "Eve L. Ewing",
+    "Kieron Gillen",
+    "Larry Hama",
+    "Jonathan Hickman",
+    "Bryan Hill",
+    "Tini Howard",
     "Collin Kelly",
     "Jackson Lanzing",
-    "Larry Hama",
+    "Jed MacKay",
+    "Grant Morrison",
     "Steve Orlando",
-    "Geoffrey Thorne",
-    "Eve L. Ewing",
-    "Gail Simone",
-    "Jonathan Hickman",
-    "Tini Howard",
-    "Gerry Duggan",
     "Benjamine Percy",
-    "Donny Cates",
-    "Ed Brisson",
+    "Stephanie Phillips",
     "Mark Russell",
-    "Bryan Hill",
-    "Leah Williams",
     "Erica Schultz",
+    "Gail Simone",
+    "Geoffrey Thorne",
+    "Leah Williams",
     "Mark Waid",
     "Zeb Wells",
-    "Al Ewing",
-    "Kieron Gillen",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -235,6 +238,50 @@ categories = [
 |8/31| Excalibur (2019) | 13 | Tini Howard | R.B. Silva | |
 |8/31| X-Men (2019) | 13 (657) | Jonathan Hickman | Mahmud Asrar | |
 |9/1| X of Swords: Stadis | 1 | Jonathan Hickman & Tini Howard | Pepe Larraz & Mahmud Asrar | |
+|9/2| X-Men (2019) | 14 (658) | Jonathan Hickman | Mahmud Asrar & Leinil Francis Yu | |
+|9/3| Marauders (2020) | 14 | Gerry Duggan & Benjamin Percy | Stefano Caselli | |
+|9/4| Exceptional X-Men (2024) | 1 | Eve L. Ewing | Carmen Carnero | |
+|9/4| Teenage Mutant Ninja Turtles (2024) | 1 | Jason Aaron | Joelle Jones | |
+|9/4| The Power Fantasy (2024) | 1 | Kieron Gillen | Caspar Wijngaard | |
+|9/4| Ultimates (2024) | 1 | Deniz Camp | Juan Frigeri | |
+|9/5| Marauders (2020) | 15 | Gerry Duggan & Benjamin Percy | Stefano Caselli | |
+|9/5| Excalibur (2019) | 14 | Tini Howard | Phil Noto | |
+|9/5| Wolverine (2020) | 7 | Benjamin Percy & Gerry Duggan| Joshua Cassara | |
+|9/5| X-Force (2019) | 14 | Benjamin Percy & Gerry Duggan | Joshua Cassara | |
+|9/5| Hellions (2020) | 6 | Zeb Wells | Carmen Carnero | |
+|9/5| Cable (2020) | 6 | Gerry Duggan | Phil Noto | |
+|9/5| X-Men (2019) | 15 (659) | Jonathan Hickman | Mahmud Asrar  | |
+|9/5| Excalibur (2019) | 15 | Tini Howard | Mahmud Asrar & Stefano Casseli | |
+|9/5| X of Swords: Destruction | 1 | Jonathan Hickman & Tini Howard | Pepe Larraz | |
+|9/5| X-Men (2019) | 16 (660) | Jonathan Hickman | Phil Noto  | |
+|9/5| Hellions (2020) | 7 | Zeb Wells | Stephen Segovia | |
+|9/5| Absolute Power (2024) | 3 | Mark Waid | Dan Mora | | 
+|9/5| Hellions (2020) | 8 | Zeb Wells | Stephen Segovia | |
+|9/5| Marauders (2020) | 16 | Gerry Duggan | Stefano Caselli | |
+|9/5| Cable (2020) | 7 | Gerry Duggan | Phil Noto | |
+|9/5| Cable (2020) | 8 | Gerry Duggan | Phil Noto | |
+|9/6| Excalibur (2019) | 16 | Tini Howard | Marcus To | |
+|9/6| Excalibur (2019) | 17 | Tini Howard | Marcus To | |
+|9/6| Marauders (2020) | 17 | Gerry Duggan | Matteo Lolli | |
+|9/6| Excalibur (2019) | 18 | Tini Howard | Marcus To | |
+|9/6| Nightwatcher (2024) | 1 | Juni Ba | Fero Pe | | 
+|9/6| Aliens Vs. Avengers (2024) | 1 | Jonathan Hickman | Esad Ribić | | 
+|9/6| The Invisibles (1996) | 1 | Grant Morrison | Steve Yeowell | |
+|9/6| The Invisibles (1996) | 2 | Grant Morrison | Steve Yeowell | |
+|9/6| The Invisibles (1996) | 3 | Grant Morrison | Steve Yeowell | |
+|9/6| The Invisibles (1996) | 4 | Grant Morrison | Steve Yeowell | |
+|9/6| The Invisibles (1996) | 5 | Grant Morrison | Jill Thompson | |
+|9/6| Excalibur (2019) | 19 | Tini Howard | Marcus To | |
+|9/6| The Invisibles (1996) | 6 | Grant Morrison | Jill Thompson | |
+|9/6| The Invisibles (1996) | 7 | Grant Morrison | Jill Thompson | |
+|9/6| The Invisibles (1996) | 8 | Grant Morrison | Jill Thompson | |
+|9/7| Excalibur (2019) | 20 | Tini Howard | Marcus To | |
+|9/7| X-Factor (2020) | 5 | Leah Williams | David Baldeón | |
+|9/7| Scarlet Witch & Quicksilver (2023) | Steve Orlando | Lorenzo Tammetta |
+|9/7| Hellions (2020) | 9 | Zeb Wells | Stephen Segovia | |
+|9/7| The Invisibles (1996) | 9 | Grant Morrison | Jill Thompson | |
+|9/7| Hellions (2020) | 10 | Zeb Wells | Stephen Segovia | |
+|9/7| Hellions (2020) | 11 | Zeb Wells | Stephen Segovia | |
 
 [Previous "Book Reads"](https://journal.jinnzhong.com/tags/books-read/)
 
