@@ -156,9 +156,9 @@ Archive of all EOW reports [here](https://journal.jinnzhong.com/tags/eow-reports
     * **s4** = stage four: Sc1 & Sc2
     * **fd** = 1st draft completed
     * **ed** = edits (before beta/crits) completed
+    * **rv** = revisions (post-feedback) completed
+    * **xd** = current draft being worked on
 
 [^2]: Gerry Duggan, Ben Percy, and Leah Williams
 [^3]: Vita Ayala, Zeb Wells, and Ed Brisson
-    * **rv** = revisions (post-feedback) completed
-    * **xd** = current draft being worked on
 
