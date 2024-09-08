@@ -277,7 +277,7 @@ categories = [
 |9/6| The Invisibles (1996) | 8 | Grant Morrison | Jill Thompson | |
 |9/7| Excalibur (2019) | 20 | Tini Howard | Marcus To | |
 |9/7| X-Factor (2020) | 5 | Leah Williams | David Baldeón | |
-|9/7| Scarlet Witch & Quicksilver (2023) | Steve Orlando | Lorenzo Tammetta |
+|9/7| Scarlet Witch & Quicksilver (2023) | 4 | Steve Orlando | Lorenzo Tammetta |
 |9/7| Hellions (2020) | 9 | Zeb Wells | Stephen Segovia | |
 |9/7| The Invisibles (1996) | 9 | Grant Morrison | Jill Thompson | |
 |9/7| Hellions (2020) | 10 | Zeb Wells | Stephen Segovia | |
