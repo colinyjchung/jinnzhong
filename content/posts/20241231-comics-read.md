@@ -237,7 +237,7 @@ categories = [
 |8/30| Absolute Power (2024) | 2 | Mark Waid | Dan Mora |2| 
 |8/31| Excalibur (2019) | 13 | Tini Howard | R.B. Silva | |
 |8/31| X-Men (2019) | 13 (657) | Jonathan Hickman | Mahmud Asrar | |
-|9/1| X of Swords: Stadis | 1 | Jonathan Hickman & Tini Howard | Pepe Larraz & Mahmud Asrar | |
+|9/1| X of Swords: Stasis | 1 | Jonathan Hickman & Tini Howard | Pepe Larraz & Mahmud Asrar | |
 |9/2| X-Men (2019) | 14 (658) | Jonathan Hickman | Mahmud Asrar & Leinil Francis Yu | |
 |9/3| Marauders (2020) | 14 | Gerry Duggan & Benjamin Percy | Stefano Caselli | |
 |9/4| Exceptional X-Men (2024) | 1 | Eve L. Ewing | Carmen Carnero | |
