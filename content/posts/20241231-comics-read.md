@@ -13,6 +13,7 @@ tags = [
     "Donny Cates",
     "Chris Claremont",
     "Gerry Duggan",
+    "Warren Ellis",
     "Al Ewing",
     "Eve L. Ewing",
     "Kieron Gillen",
@@ -100,6 +101,15 @@ categories = [
 |8/8| Powers of X (2019) | 1 | Jonathan Hickman | R.B. Silva | |
 |8/8| House of X (2019) | 2 | Jonathan Hickman | Pepe Larraz | |
 |8/9| Powers of X (2019) | 2 | Jonathan Hickman | R.B. Silva | |
+|8/10| Planetary (1999) | 1 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 2 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 3 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 4 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 5 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 6 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 7 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 8 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 9 | Warren Ellis | John Cassaday |RR|
 |8/10| Powers of X (2019) | 3 | Jonathan Hickman | R.B. Silva | |
 |8/10| House of X (2019) | 3 | Jonathan Hickman | Pepe Larraz | |
 |8/10| House of X (2019) | 4 | Jonathan Hickman | Pepe Larraz | |
@@ -228,10 +238,10 @@ categories = [
 |8/28| Hellions (2020) | 5 | Zeb Wells | Carmen Carnero | |
 |8/28| New Mutants (2019) | 13 | Ed Brisson | Rod Reis | |
 |8/28| Cable (2020) | 5 | Gerry Duggan | Phil Noto | |
-|8/29| X-Men (2024) | 3 (303) | Jed MacKay | Ryan Stegman | |
+|8/29| X-Men (2024) | 3 (303) | Jed MacKay | Ryan Stegman |2|
 |8/29| NYX (2024) | 2 | Collin Kelly & Jackson Lanzing | Francesco Mortarino |2|
 |8/30| Phoenix (2024) | 2 | Stephanie Phillips | Alessandro Miracolo |2|
-|8/30| X-Force (2024) | 2 (292) | Geoffrey Thorne | Marcus To | |
+|8/30| X-Force (2024) | 2 (292) | Geoffrey Thorne | Marcus To |2|
 |8/30| Wolverine Revenge (2024) | 1 | Jonathan Hickman | Greg Capullo |2|
 |8/30| Absolute Power (2024) | 1 | Mark Waid | Dan Mora |2|
 |8/30| Absolute Power (2024) | 2 | Mark Waid | Dan Mora |2| 
@@ -240,9 +250,9 @@ categories = [
 |9/1| X of Swords: Stasis | 1 | Jonathan Hickman & Tini Howard | Pepe Larraz & Mahmud Asrar | |
 |9/2| X-Men (2019) | 14 (658) | Jonathan Hickman | Mahmud Asrar & Leinil Francis Yu | |
 |9/3| Marauders (2020) | 14 | Gerry Duggan & Benjamin Percy | Stefano Caselli | |
-|9/4| Exceptional X-Men (2024) | 1 | Eve L. Ewing | Carmen Carnero | |
-|9/4| Teenage Mutant Ninja Turtles (2024) | 1 | Jason Aaron | Joelle Jones | |
-|9/4| The Power Fantasy (2024) | 1 | Kieron Gillen | Caspar Wijngaard | |
+|9/4| Exceptional X-Men (2024) | 1 | Eve L. Ewing | Carmen Carnero |2|
+|9/4| Teenage Mutant Ninja Turtles (2024) | 1 | Jason Aaron | Joelle Jones |2|
+|9/4| The Power Fantasy (2024) | 1 | Kieron Gillen | Caspar Wijngaard |2|
 |9/4| Ultimates (2024) | 1 | Deniz Camp | Juan Frigeri | |
 |9/5| Marauders (2020) | 15 | Gerry Duggan & Benjamin Percy | Stefano Caselli | |
 |9/5| Excalibur (2019) | 14 | Tini Howard | Phil Noto | |
@@ -264,8 +274,8 @@ categories = [
 |9/6| Excalibur (2019) | 17 | Tini Howard | Marcus To | |
 |9/6| Marauders (2020) | 17 | Gerry Duggan | Matteo Lolli | |
 |9/6| Excalibur (2019) | 18 | Tini Howard | Marcus To | |
-|9/6| Nightwatcher (2024) | 1 | Juni Ba | Fero Pe | | 
-|9/6| Aliens Vs. Avengers (2024) | 1 | Jonathan Hickman | Esad Ribić | | 
+|9/6| Nightwatcher (2024) | 1 | Juni Ba | Fero Pe |2| 
+|9/6| Aliens Vs. Avengers (2024) | 1 | Jonathan Hickman | Esad Ribić |2| 
 |9/6| The Invisibles (1996) | 1 | Grant Morrison | Steve Yeowell | |
 |9/6| The Invisibles (1996) | 2 | Grant Morrison | Steve Yeowell | |
 |9/6| The Invisibles (1996) | 3 | Grant Morrison | Steve Yeowell | |
@@ -277,8 +287,9 @@ categories = [
 |9/6| The Invisibles (1996) | 8 | Grant Morrison | Jill Thompson | |
 |9/7| Excalibur (2019) | 20 | Tini Howard | Marcus To | |
 |9/7| X-Factor (2020) | 5 | Leah Williams | David Baldeón | |
-|9/7| Scarlet Witch & Quicksilver (2023) | 4 | Steve Orlando | Lorenzo Tammetta |
+|9/7| Scarlet Witch & Quicksilver (2023) | 4 | Steve Orlando | Lorenzo Tammetta | |
 |9/7| Hellions (2020) | 9 | Zeb Wells | Stephen Segovia | |
+|9/7| Planetary (1999) | 10 | Warren Ellis | John Cassaday |RR|
 |9/7| The Invisibles (1996) | 9 | Grant Morrison | Jill Thompson | |
 |9/7| Hellions (2020) | 10 | Zeb Wells | Stephen Segovia | |
 |9/7| Hellions (2020) | 11 | Zeb Wells | Stephen Segovia | |
