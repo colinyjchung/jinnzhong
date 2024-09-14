@@ -118,6 +118,15 @@ I got a new chair for the home office. I went with the autonomous.ai. I have two
 |8/8| Powers of X (2019) | 1 | Jonathan Hickman | R.B. Silva |
 |8/8| House of X (2019) | 2 | Jonathan Hickman | Pepe Larraz |
 |8/9| Powers of X (2019) | 2 | Jonathan Hickman | R.B. Silva |
+|8/10| Planetary (1999) | 1 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 2 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 3 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 4 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 5 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 6 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 7 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 8 | Warren Ellis | John Cassaday |RR|
+|8/10| Planetary (1999) | 9 | Warren Ellis | John Cassaday |RR|
 |8/10| Powers of X (2019) | 3 | Jonathan Hickman | R.B. Silva |
 |8/10| House of X (2019) | 3 | Jonathan Hickman | Pepe Larraz |
 |8/10| House of X (2019) | 4 | Jonathan Hickman | Pepe Larraz |
