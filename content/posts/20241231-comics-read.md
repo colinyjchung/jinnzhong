@@ -7,6 +7,9 @@ tags = [
     "Comics Read",
     "Media Consumption",
     "Jason Aaron",
+    "Saladin Ahmed",
+    "Vita Ayala",
+    "Brian Azzarello",
     "Juni Ba",
     "Ed Brisson",
     "Deniz Camp",
@@ -35,6 +38,7 @@ tags = [
     "Leah Williams",
     "Mark Waid",
     "Zeb Wells",
+    "Cody Ziglar",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -293,6 +297,59 @@ categories = [
 |9/7| The Invisibles (1996) | 9 | Grant Morrison | Jill Thompson | |
 |9/7| Hellions (2020) | 10 | Zeb Wells | Stephen Segovia | |
 |9/7| Hellions (2020) | 11 | Zeb Wells | Stephen Segovia | |
+|9/8| New Mutants (2019) | 14 | Vita Ayala | Rod Reis | |
+|9/8| Doom (2024) | 1 | Jonathan Hickman & Sanford Greene | Sanford Greene | |
+|9/9| X-Factor (2020) | 6 | Leah Williams | David Baldeon | |
+|9/9| X-Factor (2020) | 7 | Leah Williams | David Baldeon | |
+|9/9| X-Factor (2020) | 8 | Leah Williams | David Baldeon | |
+|9/9| New Mutants (2019) | 15 | Vita Ayala | Rod Reis | |
+|9/9| New Mutants (2019) | 16 | Vita Ayala | Rod Reis | |
+|9/9| New Mutants (2019) | 17 | Vita Ayala | Rod Reis | |
+|9/9| Wolverine (2020) | 8 | Benjamin Percy | Adam Kubert & Victor Bogdanovic | |
+|9/9| Wolverine (2020) | 9 | Benjamin Percy | Adam Kubert | |
+|9/9| Wolverine (2020) | 10 | Benjamin Percy | Adam Kubert | |
+|9/9| X-Force (2019) | 17 | Benjamin Percy | Joshua Casssara | |
+|9/10| X-Force (2019) | 18 | Benjamin Percy | Garry Brown | |
+|9/10| X-Force (2019) | 19 | Benjamin Percy | Garry Brown | |
+|9/10| Wolverine (2020) | 10 | Benjamin Percy | Scott Eton | |
+|9/10| Wolverine (2020) | 11 | Benjamin Percy | Scott Eton | |
+|9/11| Wolverine (2020) | 12 | Benjamin Percy | Scott Eton | |
+|9/11| Uncanny X-Men (2024) | 2 | Gail Simone | David Marquez | 2|
+|9/11| Wolverine (2024) | 1 | Saladin Ahmed | Martín Cóccolo | 2|
+|9/11| Teenage Mutant Ninja Turtles (2024) | 2 | Jason Aaron | Rafael Albuquerque | |
+|9/11| Life (2024) | 1 | Brian Azzarello & Stephanie Phillips | Danijel Žeželj |
+|9/11| S.W.O.R.D. (2020) | 1 | Al Ewing | Valerio Schiti | |
+|9/11| King in Black (2020) | 1 | Donny Cates | Ryan Stegman | |
+|9/12| King in Black (2020) | 2 | Donny Cates | Ryan Stegman | |
+|9/12| King in Black: Marauders (2021) | 1 | Gerry Duggan | Luke Ross | |
+|9/12| King in Black (2020) | 3 | Donny Cates | Ryan Stegman | |
+|9/12| King in Black (2020) | 4 | Donny Cates | Ryan Stegman | |
+|9/12| S.W.O.R.D. (2020) | 2 | Al Ewing | Valerio Schiti | |
+|9/12| S.W.O.R.D. (2020) | 3 | Al Ewing | Multiple[^5] | |
+|9/12| S.W.O.R.D. (2020) | 4 | Al Ewing | Valerio Schiti | |
+|9/12| King in Black (2020) | 5 | Donny Cates | Ryan Stegman | |
+|9/13| Venom (2018) | 35 | Donny Cates & Phillip Kennedy Johnson | Multiple[^6] | |
+|9/13| S.W.O.R.D. (2020) | 5 | Al Ewing | Valerio Schiti | |
+|9/13| Avengers: Curse of the Man-Thing (2021) | 1 | Steve Orlando | Francesco Mobili | |
+|9/13| Spider-Man: Curse of the Man-Thing (2021) | 1 | Steve Orlando | Marco Failla & Minkyu Jung | |
+|9/13| X-Men: Curse of the Man-Thing (2021) | 1 | Steve Orlando |Andrea Broccardo | |
+|9/14| Cable (2020) | 9 | Gerry Duggan | Phil Noto | |
+|9/14| Cable (2020) | 10 | Gerry Duggan | Phil Noto | |
+|9/14| X-Men (2019) | 17 | Jonathan Hickman | Brett Booth | |
+|9/14| Marauders (2020) | 18 | Gerry Duggan | Stefano Caselli & Matteo Lolli | |
+|9/14| Marauders (2020) | 19 | Gerry Duggan | Stefano Caselli | |
+|9/14| Cable (2020) | 11 | Gerry Duggan | Phil Noto | |
+|9/14| Cable (2020) | 12 | Gerry Duggan | Phil Noto | |
+|9/14| Spider-Punk (2024) | 1 | Cody Ziglar | Justin Mason | |
+|9/14| Spider-Punk (2024) | 2 | Cody Ziglar | Justin Mason | |
+|9/14| Spider-Punk (2024) | 3 | Cody Ziglar | Justin Mason | |
+|9/14| Spider-Punk (2024) | 4 | Cody Ziglar | Justin Mason | |
+|9/14| Spider-Punk (2024) | 5 | Cody Ziglar | Justin Mason | |
+|9/14| X-Men (2019) | 18 | Jonathan Hickman | Mahmud Asrar | |
+|9/14| X-Men (2019) | 19 | Jonathan Hickman | Mahmud Asrar | |
+|9/14| Planetary (1998) | 11 | Warren Ellis | John Cassaday | |
+|9/14| Planetary (1998) | 12 | Warren Ellis | John Cassaday | |
+|9/14| Planetary (1998) | 13 | Warren Ellis | John Cassaday | |
 
 [Previous "Book Reads"](https://journal.jinnzhong.com/tags/books-read/)
 
@@ -300,3 +357,5 @@ categories = [
 [^2]: Mark Brooks, Stefano Caselli, Joshua Cassara, Javier Garron, Salvador Larroca, Phil Noto, Jerome Opena, Sara Pichelli, John Romita Jr., Walt Simonson, Luciano Vecchio, Lucas Werneck, Leinil Francis Yu
 [^3]: Gerry Duggan, Ben Percy, and Leah Williams
 [^4]: Vita Ayala, Zeb Wells, and Ed Brisson
+[^5]: Valerio Schiti, Ray-Anthony Height, Bernard Chang, and Nico Leon
+[^6]: Ryan Stegman, Kev Walker, Danilo S. Beyruth, Ron LIm, Guiu Vilanova, Gerardo Sandoval, and Mark Bagley
