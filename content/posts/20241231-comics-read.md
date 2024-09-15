@@ -340,11 +340,11 @@ categories = [
 |9/14| Marauders (2020) | 19 | Gerry Duggan | Stefano Caselli | |
 |9/14| Cable (2020) | 11 | Gerry Duggan | Phil Noto | |
 |9/14| Cable (2020) | 12 | Gerry Duggan | Phil Noto | |
-|9/14| Spider-Punk (2024) | 1 | Cody Ziglar | Justin Mason | |
-|9/14| Spider-Punk (2024) | 2 | Cody Ziglar | Justin Mason | |
-|9/14| Spider-Punk (2024) | 3 | Cody Ziglar | Justin Mason | |
-|9/14| Spider-Punk (2024) | 4 | Cody Ziglar | Justin Mason | |
-|9/14| Spider-Punk (2024) | 5 | Cody Ziglar | Justin Mason | |
+|9/14| Spider-Punk (2022) | 1 | Cody Ziglar | Justin Mason | |
+|9/14| Spider-Punk (2022) | 2 | Cody Ziglar | Justin Mason | |
+|9/14| Spider-Punk (2022) | 3 | Cody Ziglar | Justin Mason | |
+|9/14| Spider-Punk (2022) | 4 | Cody Ziglar | Justin Mason | |
+|9/14| Spider-Punk (2022) | 5 | Cody Ziglar | Justin Mason | |
 |9/14| X-Men (2019) | 18 | Jonathan Hickman | Mahmud Asrar | |
 |9/14| X-Men (2019) | 19 | Jonathan Hickman | Mahmud Asrar | |
 |9/14| Planetary (1998) | 11 | Warren Ellis | John Cassaday | |
