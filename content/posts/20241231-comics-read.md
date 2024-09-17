@@ -51,8 +51,8 @@ categories = [
 |7/8| Wolverine (1982) | 1 | Chris Claremont | Frank Miller | |
 |7/9| Wolverine (1982) | 2 | Chris Claremont | Frank Miller | |
 |7/10| X-Men (2024) | 1 (301) | Jed Mackay | Ryan Stegman | 2 |
-|7/11| Wolverine (1982) | 1 | Chris Claremont | Frank Miller | |
-|7/11| Wolverine (1982) | 1 | Chris Claremont | Frank Miller | |
+|7/11| Wolverine (1982) | 3 | Chris Claremont | Frank Miller | |
+|7/11| Wolverine (1982) | 4 | Chris Claremont | Frank Miller | |
 |7/12| Uncanny X-Men (1963) | 268 | Chris Claremont | Jim Lee | |
 |7/13| Wolverine & The X-Men (2021) | 1 | Jason Aaron | Chris Bachalo | |
 |7/13| Wolverine & The X-Men (2021) | 2 | Jason Aaron | Chris Bachalo | |
