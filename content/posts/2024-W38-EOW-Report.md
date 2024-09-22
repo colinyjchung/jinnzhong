@@ -30,10 +30,10 @@ tags = [
  "X-Men (2024)",
  "Avengers (2023)",
  "Jed MacKay",
- "TMNT: Mutant Nation (2024)"
+ "TMNT: Mutant Nation (2024)",
  "Tom Waltz",
  "Erik Burnham",
- "The Cull (2023)"
+ "The Cull (2023)",
  "EOW Reports",
  ]
 
