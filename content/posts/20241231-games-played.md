@@ -23,10 +23,11 @@ categories = [
 ]
 +++
 
-## Board Games (1)
+## Board Games (2)
 | Date | Loc | Game | Players | Score |
 | ---: | :---: | :--- | :---: | :---: |
 | 1/30 | RTT | Waterloo Campaign 1815 (2019) | **B**C | 24/12 |
+| 9/22 | GSR | Pax Pamir 2e (2019) | CFH**M** | 2/6/0/12 |
 
 ## RPG Sessions (5)
 | Date | Loc | Sys | Party | Ep. |
