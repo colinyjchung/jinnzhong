@@ -12,6 +12,7 @@ tags = [
     "Brian Azzarello",
     "Juni Ba",
     "Ed Brisson",
+    "Erik Burnham",
     "Deniz Camp",
     "Donny Cates",
     "Chris Claremont",
@@ -26,15 +27,19 @@ tags = [
     "Tini Howard",
     "Collin Kelly",
     "Jackson Lanzing",
+    "Jason Loo",
     "Jed MacKay",
     "Grant Morrison",
     "Steve Orlando",
     "Benjamine Percy",
     "Stephanie Phillips",
+    "James Robinson",
     "Mark Russell",
     "Erica Schultz",
     "Gail Simone",
+    "Kelly Thompson",
     "Geoffrey Thorne",
+    "Tom Waltz",
     "Leah Williams",
     "Mark Waid",
     "Zeb Wells",
@@ -350,6 +355,34 @@ categories = [
 |9/14| Planetary (1998) | 11 | Warren Ellis | John Cassaday | |
 |9/14| Planetary (1998) | 12 | Warren Ellis | John Cassaday | |
 |9/14| Planetary (1998) | 13 | Warren Ellis | John Cassaday | |
+|9/15| New Mutants (2019) | 18 | Vita Ayala | Rod Reis | |
+|9/15| Hawkeye (2016) | 1 | Kelly Thompson | Leonardo Romero | |
+|9/15| Planetary (1998) | 14 | Warren Ellis | John Cassaday | |
+|9/17| Warhammer 40,000: Marneus Calgar (2020) | 1 | Kieron Gillen | Jacen Burrows | |
+|9/17| Warhammer 40,000: Marneus Calgar (2020) | 2 | Kieron Gillen | Jacen Burrows | |
+|9/17| Warhammer 40,000: Marneus Calgar (2020) | 3 | Kieron Gillen | Jacen Burrows | |
+|9/17| Warhammer 40,000: Marneus Calgar (2020) | 4 | Kieron Gillen | Jacen Burrows | |
+|9/17| Warhammer 40,000: Marneus Calgar (2020) | 5 | Kieron Gillen | Jacen Burrows | |
+|9/18| Spider-Gwen: The Ghost-Spider (2024) | 1 | Stephanie Phillips | Federica Mancin | |
+|9/18| Scarlet Witch (2015) | 1 | James Robinson | Vanesa Del Ray | | 
+|9/18| Dazzler (2024) | 1 | Jason Loo | Rafael Loureiro | |
+|9/18| Deathlok 50th Anniversary Special (2024) | 1 | Christopher Priest & Justina Ireland | Denys Cowan & Carlo Pagulayan | |
+|9/18| X-Factor (2024) | 2 | Mark Russell | Bob Quinn | |
+|9/18| Scarlet Witch (2015) | 2 | James Robinson | Marco Rudy | | 
+|9/18| X-Men (2024) | 4 (304) | Jed MacKay | Netho Diaz | |
+|9/18| Avengers (2023) | 18 (784) | Jed MacKay | Valerio Schiti | |
+|9/18| TMNT: Mutant Nation (2024) | 1 | Tom Waltz & Erik Burnham | Vincenzo Federici & Mateus Santolouco | |
+|9/18| The Power Fantasy (2024) | 2 | Kieron Gillen | Caspar Wijngaard | |
+|9/18| Scarlet Witch (2015) | 3 | James Robinson  | Steve Dillon & Chris Visions | | 
+|9/18| Scarlet Witch (2015) | 4 | James Robinson  | Steve Dillon & Chris Visions | | 
+|9/18| The Cull (2023) | 1 | Kelly Thompson | Mattia De Iulus | |
+|9/18| The Cull (2023) | 2 | Kelly Thompson | Mattia De Iulus | |
+|9/18| The Cull (2023) | 3 | Kelly Thompson | Mattia De Iulus | |
+|9/18| The Cull (2023) | 4 | Kelly Thompson | Mattia De Iulus | |
+|9/18| The Cull (2023) | 5 | Kelly Thompson | Mattia De Iulus | |
+|9/20| Scarlet Witch (2015) | 5 | James Robinson  | Javier Pulido | | 
+|9/20| Scarlet Witch (2015) | 6 | James Robinson  | Marguerite Sauvage| | 
+|9/20| Scarlet Witch (2015) | 7 | James Robinson  | Annie Wu| | 
 
 [Previous "Book Reads"](https://journal.jinnzhong.com/tags/books-read/)
 
