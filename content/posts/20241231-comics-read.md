@@ -12,6 +12,7 @@ tags = [
     "Brian Azzarello",
     "Juni Ba",
     "Ed Brisson",
+    "Ed Brubaker",
     "Erik Burnham",
     "Deniz Camp",
     "Donny Cates",
@@ -25,6 +26,8 @@ tags = [
     "Jonathan Hickman",
     "Bryan Hill",
     "Tini Howard",
+    "Geoff Johns",
+    "Joëlle Jones",
     "Collin Kelly",
     "Jackson Lanzing",
     "Jason Loo",
@@ -33,6 +36,7 @@ tags = [
     "Steve Orlando",
     "Benjamine Percy",
     "Stephanie Phillips",
+    "Jamie S. Rich",
     "James Robinson",
     "Mark Russell",
     "Erica Schultz",
@@ -383,8 +387,46 @@ categories = [
 |9/20| Scarlet Witch (2015) | 5 | James Robinson  | Javier Pulido | | 
 |9/20| Scarlet Witch (2015) | 6 | James Robinson  | Marguerite Sauvage| | 
 |9/20| Scarlet Witch (2015) | 7 | James Robinson  | Annie Wu| | 
+|9/22| Hawkeye (2016) | 2 | Kelly Thompson | Leonardo Romero | |
+|9/23| Hawkeye (2016) | 3 | Kelly Thompson | Leonardo Romero | |
+|9/23| Hawkeye (2016) | 4 | Kelly Thompson | Michael Walsh | |
+|9/23| Books of Doom (2005) | 1 | Ed Brubaker | Pablo Raimondi | |
+|9/23| Books of Doom (2005) | 2 | Ed Brubaker | Pablo Raimondi | |
+|9/24| Lady Killer (2015) | 1 | Jamie S. Rich & Joëlle Jones | Joëlle Jones | |
+|9/24| Lady Killer (2015) | 2 | Jamie S. Rich & Joëlle Jones | Joëlle Jones | |
+|9/24| Books of Doom (2005) | 3 | Ed Brubaker | Pablo Raimondi | |
+|9/25| Books of Doom (2005) | 4 | Ed Brubaker | Pablo Raimondi | |
+|9/25| Books of Doom (2005) | 5 | Ed Brubaker | Pablo Raimondi | |
+|9/25| Wolverine: Revenge (2024) | 2 | Jonathan Hickman | Greg Capullo | |
+|9/25| X-Force (2024) | 3 (293) | Geoffrey Thorne | Marcus To | |
+|9/25| NYX (2024) | 3 | Collin Kelly & Jackson Lanzing | Francesco Mortarino | | 
+|9/25| Phoenix (2024| | 3 | Stephanie Phillips | Alessandro Miracolo | |
+|9/25| Uncanny X-Men (2024) | 3 | Gail Simone | David Marquez |2|
+|9/25| Books of Doom (2005) | 6 | Ed Brubaker | Pablo Raimondi | |
+|9/26| The Manchurian (2024) | 1 | Pornsak Pichetshote | Terry Dodson |3|
+|9/26| Hawkeye (2016) | 5 | Kelly Thompson | Michael Walsh | |
+|9/26| Hawkeye (2016) | 6 | Kelly Thompson | Leonardo Romero | |
+|9/26| Hawkeye (2016) | 7 | Kelly Thompson | Leonardo Romero | |
+|9/26| Hawkeye (2016) | 8 | Kelly Thompson | Leonardo Romero | |
+|9/26| Lady Killer (2015) | 3 | Jamie S. Rich & Joëlle Jones | Joëlle Jones | |
+|9/26| Lady Killer (2015) | 4 | Jamie S. Rich & Joëlle Jones | Joëlle Jones | |
+|9/26| Lady Killer (2015) | 5 | Jamie S. Rich & Joëlle Jones | Joëlle Jones | |
+|9/26| Lady Killer (2016) | 1 | Joëlle Jones | Joëlle Jones | |
+|9/27| Global Frequency (2002) | 1 |Warren Ellis | Gary Leach |RR|
+|9/27| Green Lantern: Rebirth (2004) | 1 | Geoff Johns | Ethan Van Sciver | |
+|9/27| Green Lantern: Rebirth (2004) | 2 | Geoff Johns | Ethan Van Sciver | |
+|9/27| Green Lantern: Rebirth (2004) | 3 | Geoff Johns | Ethan Van Sciver | |
+|9/28| Green Lantern: Rebirth (2004) | 4 | Geoff Johns | Ethan Van Sciver | |
+|9/28| Green Lantern: Rebirth (2004) | 5 | Geoff Johns | Ethan Van Sciver | |
+|9/28| Green Lantern: Rebirth (2004) | 6 | Geoff Johns | Ethan Van Sciver | |
+|9/28| Global Frequency (2002) | 2 |Warren Ellis | Glenn Fabry |RR|
+|9/28| Lady Killer (2016) | 2 | Joëlle Jones | Joëlle Jones | |
+|9/28| Lady Killer (2016) | 3 | Joëlle Jones | Joëlle Jones | |
+|9/28| Lady Killer (2016) | 4 | Joëlle Jones | Joëlle Jones | |
+|9/28| Lady Killer (2016) | 5 | Joëlle Jones | Joëlle Jones | |
 
-[Previous "Book Reads"](https://journal.jinnzhong.com/tags/books-read/)
+
+[Previous "Comics Reads"](https://journal.jinnzhong.com/tags/comics-read/)
 
 [^1]: Chris Claremont, Gerry Duggan, Al Ewing, Kieron Gillen, Jed Mackay, Gail Simone
 [^2]: Mark Brooks, Stefano Caselli, Joshua Cassara, Javier Garron, Salvador Larroca, Phil Noto, Jerome Opena, Sara Pichelli, John Romita Jr., Walt Simonson, Luciano Vecchio, Lucas Werneck, Leinil Francis Yu
