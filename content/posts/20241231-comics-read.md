@@ -407,7 +407,7 @@ categories = [
 |9/25| Wolverine: Revenge (2024) | 2 | Jonathan Hickman | Greg Capullo |2|
 |9/25| X-Force (2024) | 3 (293) | Geoffrey Thorne | Marcus To |2|
 |9/25| NYX (2024) | 3 | Collin Kelly & Jackson Lanzing | Francesco Mortarino |2| 
-|9/25| Phoenix (2024| | 3 | Stephanie Phillips | Alessandro Miracolo |2|
+|9/25| Phoenix (2024)| 3 | Stephanie Phillips | Alessandro Miracolo |2|
 |9/25| Uncanny X-Men (2024) | 3 | Gail Simone | David Marquez |2|
 |9/25| Books of Doom (2005) | 6 | Ed Brubaker | Pablo Raimondi | |
 |9/26| The Manchurian (2024) | 1 | Pornsak Pichetshote | Terry Dodson |3|
