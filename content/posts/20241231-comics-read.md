@@ -8,7 +8,9 @@ tags = [
     "Media Consumption",
     "Jason Aaron",
     "Saladin Ahmed",
+    "Ashley Allen",
     "Vita Ayala",
+    "Murewa Ayodele",
     "Brian Azzarello",
     "Juni Ba",
     "Ed Brisson",
@@ -32,6 +34,7 @@ tags = [
     "Jackson Lanzing",
     "Jason Loo",
     "Jed MacKay",
+    "Peach Momoko",
     "Grant Morrison",
     "Steve Orlando",
     "Benjamine Percy",
@@ -41,10 +44,14 @@ tags = [
     "Mark Russell",
     "Erica Schultz",
     "Gail Simone",
+    "Scott Snyder",
+    "Jordan Thomas",
     "Kelly Thompson",
     "Geoffrey Thorne",
+    "Ram V",
     "Tom Waltz",
     "Leah Williams",
+    "Josh Williamson",
     "Mark Waid",
     "Zeb Wells",
     "Cody Ziglar",
@@ -287,7 +294,7 @@ categories = [
 |9/6| Excalibur (2019) | 17 | Tini Howard | Marcus To | |
 |9/6| Marauders (2020) | 17 | Gerry Duggan | Matteo Lolli | |
 |9/6| Excalibur (2019) | 18 | Tini Howard | Marcus To | |
-|9/6| Nightwatcher (2024) | 1 | Juni Ba | Fero Pe |2| 
+|9/6| Nightwatcher (2024) | 1 | Juni Ba | Fero Pe |3| 
 |9/6| Aliens Vs. Avengers (2024) | 1 | Jonathan Hickman | Esad Ribić |2| 
 |9/6| The Invisibles (1996) | 1 | Grant Morrison | Steve Yeowell | |
 |9/6| The Invisibles (1996) | 2 | Grant Morrison | Steve Yeowell | |
@@ -325,8 +332,8 @@ categories = [
 |9/11| Wolverine (2020) | 12 | Benjamin Percy | Scott Eton | |
 |9/11| Uncanny X-Men (2024) | 2 | Gail Simone | David Marquez | 2|
 |9/11| Wolverine (2024) | 1 | Saladin Ahmed | Martín Cóccolo | 2|
-|9/11| Teenage Mutant Ninja Turtles (2024) | 2 | Jason Aaron | Rafael Albuquerque | |
-|9/11| Life (2024) | 1 | Brian Azzarello & Stephanie Phillips | Danijel Žeželj |
+|9/11| Teenage Mutant Ninja Turtles (2024) | 2 | Jason Aaron | Rafael Albuquerque |2|
+|9/11| Life (2024) | 1 | Brian Azzarello & Stephanie Phillips | Danijel Žeželj | |
 |9/11| S.W.O.R.D. (2020) | 1 | Al Ewing | Valerio Schiti | |
 |9/11| King in Black (2020) | 1 | Donny Cates | Ryan Stegman | |
 |9/12| King in Black (2020) | 2 | Donny Cates | Ryan Stegman | |
@@ -369,13 +376,13 @@ categories = [
 |9/17| Warhammer 40,000: Marneus Calgar (2020) | 5 | Kieron Gillen | Jacen Burrows | |
 |9/18| Spider-Gwen: The Ghost-Spider (2024) | 1 | Stephanie Phillips | Federica Mancin | |
 |9/18| Scarlet Witch (2015) | 1 | James Robinson | Vanesa Del Ray | | 
-|9/18| Dazzler (2024) | 1 | Jason Loo | Rafael Loureiro | |
-|9/18| Deathlok 50th Anniversary Special (2024) | 1 | Christopher Priest & Justina Ireland | Denys Cowan & Carlo Pagulayan | |
-|9/18| X-Factor (2024) | 2 | Mark Russell | Bob Quinn | |
+|9/18| Dazzler (2024) | 1 | Jason Loo | Rafael Loureiro |2|
+|9/18| Deathlok 50th Anniversary Special (2024) | 1 | Christopher Priest & Justina Ireland | Denys Cowan & Carlo Pagulayan |2|
+|9/18| X-Factor (2024) | 2 | Mark Russell | Bob Quinn |2|
 |9/18| Scarlet Witch (2015) | 2 | James Robinson | Marco Rudy | | 
-|9/18| X-Men (2024) | 4 (304) | Jed MacKay | Netho Diaz | |
-|9/18| Avengers (2023) | 18 (784) | Jed MacKay | Valerio Schiti | |
-|9/18| TMNT: Mutant Nation (2024) | 1 | Tom Waltz & Erik Burnham | Vincenzo Federici & Mateus Santolouco | |
+|9/18| X-Men (2024) | 4 (304) | Jed MacKay | Netho Diaz |2|
+|9/18| Avengers (2023) | 18 (784) | Jed MacKay | Valerio Schiti |2|
+|9/18| TMNT: Mutant Nation (2024) | 1 | Tom Waltz & Erik Burnham | Vincenzo Federici & Mateus Santolouco |2|
 |9/18| The Power Fantasy (2024) | 2 | Kieron Gillen | Caspar Wijngaard | |
 |9/18| Scarlet Witch (2015) | 3 | James Robinson  | Steve Dillon & Chris Visions | | 
 |9/18| Scarlet Witch (2015) | 4 | James Robinson  | Steve Dillon & Chris Visions | | 
@@ -397,10 +404,10 @@ categories = [
 |9/24| Books of Doom (2005) | 3 | Ed Brubaker | Pablo Raimondi | |
 |9/25| Books of Doom (2005) | 4 | Ed Brubaker | Pablo Raimondi | |
 |9/25| Books of Doom (2005) | 5 | Ed Brubaker | Pablo Raimondi | |
-|9/25| Wolverine: Revenge (2024) | 2 | Jonathan Hickman | Greg Capullo | |
-|9/25| X-Force (2024) | 3 (293) | Geoffrey Thorne | Marcus To | |
-|9/25| NYX (2024) | 3 | Collin Kelly & Jackson Lanzing | Francesco Mortarino | | 
-|9/25| Phoenix (2024| | 3 | Stephanie Phillips | Alessandro Miracolo | |
+|9/25| Wolverine: Revenge (2024) | 2 | Jonathan Hickman | Greg Capullo |2|
+|9/25| X-Force (2024) | 3 (293) | Geoffrey Thorne | Marcus To |2|
+|9/25| NYX (2024) | 3 | Collin Kelly & Jackson Lanzing | Francesco Mortarino |2| 
+|9/25| Phoenix (2024| | 3 | Stephanie Phillips | Alessandro Miracolo |2|
 |9/25| Uncanny X-Men (2024) | 3 | Gail Simone | David Marquez |2|
 |9/25| Books of Doom (2005) | 6 | Ed Brubaker | Pablo Raimondi | |
 |9/26| The Manchurian (2024) | 1 | Pornsak Pichetshote | Terry Dodson |3|
@@ -424,6 +431,49 @@ categories = [
 |9/28| Lady Killer (2016) | 3 | Joëlle Jones | Joëlle Jones | |
 |9/28| Lady Killer (2016) | 4 | Joëlle Jones | Joëlle Jones | |
 |9/28| Lady Killer (2016) | 5 | Joëlle Jones | Joëlle Jones | |
+|9/29| Rare Flavors (2023) | 1 | Ram V | Filipe Andrade | |
+|9/29| Rare Flavors (2023) | 2 | Ram V | Filipe Andrade | |
+|9/29| Rare Flavors (2023) | 3 | Ram V | Filipe Andrade | |
+|9/29| Rare Flavors (2023) | 4 | Ram V | Filipe Andrade | |
+|9/29| Rare Flavors (2023) | 5 | Ram V | Filipe Andrade | |
+|9/29| Rare Flavors (2023) | 6 | Ram V | Filipe Andrade | |
+|9/29| These Savage Shores (2018) | 1 | Ram V | Sumit Kumar | |
+|9/29| These Savage Shores (2018) | 2 | Ram V | Sumit Kumar | |
+|9/29| These Savage Shores (2018) | 3 | Ram V | Sumit Kumar | |
+|9/29| These Savage Shores (2018) | 4 | Ram V | Sumit Kumar | |
+|9/30| X-Men: Blood Hunt - Magik (2024) | 1 | Ashley Allen | Jesús Hervás | |
+|9/30| Spider-Gwen: The Ghost-Spider (2024) | 2 | Stephanie Phillips | Federica Mancin | |
+|9/30| Hawkeye (2016) | 9 | Kelly Thompson | Leonardo Romero | |
+|9/30| Scarlet Witch (2015) | 7 | James Robinson | Annie Wu | |
+|9/30| These Savage Shores (2018) | 5 | Ram V | Sumit Kumar | |
+|10/1| Hawkeye (2016) | 10 | Kelly Thompson | Leonardo Romero | |
+|10/1| Planetary (1998) | 15 | Warren Ellis | John Cassaday | |
+|10/1| Planetary (1998) | 16 | Warren Ellis | John Cassaday | |
+|10/2| Absolute Power (2024) | 4 | Mark Waid | Dan Mora |2|
+|10/2| DC All In Special (2024) | 1 |Joshua Williamson & Scott Snyder | Dan Mora & Daniel Sempere |2|
+|10/2| Hyde Street (2024) | 1 | Geoff Johns | Ivan Reis |2|
+|10/2| Skin Police (2024) | 1 | Jordan Thomas | Daniel Gete |2|
+|10/2| Hawkeye (2016) | 11 | Kelly Thompson | Leonardo Romero | |
+|10/2| Nightwatcher (2024) | 2 | Juni Ba | Fero Pe | |
+|10/2| X-Men (2024) | 5 | Jed MacKay | Ryan Stegman | |
+|10/2| Storm (2024) | 1 | Murewa Ayodele | Lucas  Werneck | | 
+|10/2| Hawkeye (2016) | 12 | Kelly Thompson | Michael Walsh | |
+|10/3| Hawkeye (2016) | 13 | Kelly Thompson | Leonardo Romero | |
+|10/3| Hawkeye (2016) | 14 | Kelly Thompson | Leonardo Romero | |
+|10/3| Hawkeye (2016) | 15 | Kelly Thompson | Leonardo Romero | |
+|10/3| Hawkeye (2016) | 16 | Kelly Thompson | Leonardo Romero | |
+|10/4| Scarlet Witch (2015) | 8 | James Robinson | Tula Lotay | |
+|10/4| Ultimate X-Men (2024) | 1 | Peach Momoko | Peach Momoko | |
+|10/4| Ultimate X-Men (2024) | 2 | Peach Momoko | Peach Momoko | |
+|10/4| Ultimate X-Men (2024) | 3 | Peach Momoko | Peach Momoko | |
+|10/4| Ultimate X-Men (2024) | 4 | Peach Momoko | Peach Momoko | |
+|10/4| Ultimate Invasion (2023) | 1 | Jonathan Hickman | Bryan Hitch | |
+|10/4| Ultimate Invasion (2023) | 2 | Jonathan Hickman | Bryan Hitch | |
+|10/4| Ultimate Invasion (2023) | 3 | Jonathan Hickman | Bryan Hitch | |
+|10/4| Ultimate Invasion (2023) | 4 | Jonathan Hickman | Bryan Hitch | |
+|10/4| The Ultimates (2024) | 2 | Deniz Camp | Juan Frigeri | |
+
+
 
 
 [Previous "Comics Reads"](https://journal.jinnzhong.com/tags/comics-read/)
