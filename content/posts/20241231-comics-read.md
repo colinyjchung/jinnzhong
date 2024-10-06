@@ -463,15 +463,15 @@ categories = [
 |10/3| Hawkeye (2016) | 15 | Kelly Thompson | Leonardo Romero | |
 |10/3| Hawkeye (2016) | 16 | Kelly Thompson | Leonardo Romero | |
 |10/4| Scarlet Witch (2015) | 8 | James Robinson | Tula Lotay | |
-|10/4| Ultimate X-Men (2024) | 1 | Peach Momoko | Peach Momoko | |
-|10/4| Ultimate X-Men (2024) | 2 | Peach Momoko | Peach Momoko | |
-|10/4| Ultimate X-Men (2024) | 3 | Peach Momoko | Peach Momoko | |
-|10/4| Ultimate X-Men (2024) | 4 | Peach Momoko | Peach Momoko | |
-|10/4| Ultimate Invasion (2023) | 1 | Jonathan Hickman | Bryan Hitch | |
-|10/4| Ultimate Invasion (2023) | 2 | Jonathan Hickman | Bryan Hitch | |
-|10/4| Ultimate Invasion (2023) | 3 | Jonathan Hickman | Bryan Hitch | |
-|10/4| Ultimate Invasion (2023) | 4 | Jonathan Hickman | Bryan Hitch | |
-|10/4| The Ultimates (2024) | 2 | Deniz Camp | Juan Frigeri | |
+|10/5| Ultimate X-Men (2024) | 1 | Peach Momoko | Peach Momoko | |
+|10/5| Ultimate X-Men (2024) | 2 | Peach Momoko | Peach Momoko | |
+|10/5| Ultimate X-Men (2024) | 3 | Peach Momoko | Peach Momoko | |
+|10/5| Ultimate X-Men (2024) | 4 | Peach Momoko | Peach Momoko | |
+|10/5| Ultimate Invasion (2023) | 1 | Jonathan Hickman | Bryan Hitch | |
+|10/5| Ultimate Invasion (2023) | 2 | Jonathan Hickman | Bryan Hitch | |
+|10/5| Ultimate Invasion (2023) | 3 | Jonathan Hickman | Bryan Hitch | |
+|10/5| Ultimate Invasion (2023) | 4 | Jonathan Hickman | Bryan Hitch | |
+|10/5| The Ultimates (2024) | 2 | Deniz Camp | Juan Frigeri | |
 
 
 
