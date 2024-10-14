@@ -7,6 +7,7 @@ tags = [
     "Comics Read",
     "Media Consumption",
     "Jason Aaron",
+    "Jeremy Adams",
     "Saladin Ahmed",
     "Ashley Allen",
     "Vita Ayala",
@@ -18,6 +19,7 @@ tags = [
     "Erik Burnham",
     "Deniz Camp",
     "Donny Cates",
+    "Clay McLeod Chapman",
     "Chris Claremont",
     "Gerry Duggan",
     "Warren Ellis",
@@ -31,12 +33,14 @@ tags = [
     "Geoff Johns",
     "Joëlle Jones",
     "Collin Kelly",
+    "Jack Kirby",
     "Jackson Lanzing",
     "Jason Loo",
     "Jed MacKay",
     "Peach Momoko",
     "Grant Morrison",
     "Steve Orlando",
+    "Alex Paknadel",
     "Benjamine Percy",
     "Stephanie Phillips",
     "Jamie S. Rich",
@@ -52,6 +56,8 @@ tags = [
     "Tom Waltz",
     "Leah Williams",
     "Josh Williamson",
+    "G. Willow Wilson",
+    "Philip Kennedy Wilson",
     "Mark Waid",
     "Zeb Wells",
     "Cody Ziglar",
@@ -472,7 +478,38 @@ categories = [
 |10/5| Ultimate Invasion (2023) | 3 | Jonathan Hickman | Bryan Hitch | |
 |10/5| Ultimate Invasion (2023) | 4 | Jonathan Hickman | Bryan Hitch | |
 |10/5| The Ultimates (2024) | 2 | Deniz Camp | Juan Frigeri | |
-
+|10/6| Utimate Spider-Man (2024) | 1 | Jonathan Hickman | Marco Checchetto | |
+|10/6| Utimate Spider-Man (2024) | 2 | Jonathan Hickman | Marco Checchetto | |
+|10/6| Utimate Spider-Man (2024) | 3 | Jonathan Hickman | Marco Checchetto | |
+|10/6| Utimate Spider-Man (2024) | 4 | Jonathan Hickman | David Messina |2|
+|10/6| Utimate Spider-Man (2024) | 5 | Jonathan Hickman | David Messina | |
+|10/6| Utimate Spider-Man (2024) | 6 | Jonathan Hickman | Marco Checchetto | |
+|10/6| Scarlet Witch (2015) | 9 | James Robinson | Joëlle Jones | |
+|10/7| The New Gods (1971) | 1 | Jack Kirby | Jack Kirby | |
+|10/7| The New Gods (1971) | 2 | Jack Kirby | Jack Kirby | |
+|10/8| Scarlet Witch (2015) | 10 | James Robinson | Kei Zama | |
+|10/8| Scarlet Witch (2015) | 11 | James Robinson | Leila Del Duca | |
+|10/8| The New Gods (1971) | 3 | Jack Kirby | Jack Kirby | |
+|10/8| The New Gods (1971) | 4 | Jack Kirby | Jack Kirby | |
+|10/9| Scarlet Witch (2015) | 12 | James Robinson | Annapaolo Martello | |
+|10/9| Poison Ivy (2022) | 26 | G. Willow Wilson | Marcio Takara |2|
+|10/9| Absolute Batman (2024) | 1 | Scott Snyder | Nick Dragotta | |
+|10/9| Green Lantern Civil Corp Special (2024) | 1 | Jeremy Adams & Phillip Kennedy Wilson | Salvador Larroca |2|
+|10/9| Sentinels (2024) | 1 | Alex Paknadel | Justin Mason | |
+|10/9| X-Force (2024) | 4 | Geoffrey Thorne | Marcus To | |
+|10/9| Phoenix (2024) | 4 | Stephanie Phillips | Alessandro Miracolo | |
+|10/9| Séance in the Asylum | Clay McLeod Chapman | Andrea Mutti |2|
+|10/9| Exceptional X-Men (2024) | 2 | Eve L. Ewing | Carmen Carnero | |
+|10/9| Utimate Spider-Man (2024) | 7 | Jonathan Hickman | Marco Checchetto | |
+|10/9| Utimate Spider-Man (2024) | 8 | Jonathan Hickman | Marco Checchetto | |
+|10/9| Utimate Spider-Man (2024) | 9 | Jonathan Hickman | Marco Checchetto | |
+|10/10| Scarlet Witch (2015) | 13 | James Robinson | Jonathan Marks-Barravecchia | |
+|10/11| Green Lantern (2005) | 1 | Geoff Johns | Ethan Van Sciver & Carlos Pacheco| |
+|10/11| Green Lantern (2005) | 2 | Geoff Johns | Carlos Pacheco | |
+|10/11| Green Lantern (2005) | 3 | Geoff Johns | Carlos Pacheco | |
+|10/12| Green Lantern (2005) | 4 | Geoff Johns | Ethan Van Sciver | | 
+|10/12| Green Lantern (2005) | 5 | Geoff Johns | Ethan Van Sciver | |
+|10/12| Green Lantern (2005) | 6 | Geoff Johns | Simone Binachi | |
 
 
 
