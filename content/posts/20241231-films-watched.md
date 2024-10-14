@@ -29,6 +29,8 @@ tags = [
     "X-Men '97 (2024-)",
     "Deadpool 2 (2018)",
     "Thor (2011)",
+    "Gifted (2017)",
+    "Parkour Civilization (2023)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -67,6 +69,8 @@ Decided to start tracking TV shows this year as well. Dates are the date in whic
 |7/20|:tv:| X-Men '97 S1 (2024) | |
 |7/20|:tv:| Deadpool 2 (2018) | rewatch |
 |8/31|:tv:| Thor (2011) | rewatch |
+|9/30|:tv:| Gifted (2017) | |
+|10/12|:tv:| Parkour Civilization (2023) | |
 
 
 
