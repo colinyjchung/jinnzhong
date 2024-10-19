@@ -31,6 +31,7 @@ tags = [
     "Thor (2011)",
     "Gifted (2017)",
     "Parkour Civilization (2023)",
+    "Inside Out 2 (2024)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -71,6 +72,8 @@ Decided to start tracking TV shows this year as well. Dates are the date in whic
 |8/31|:tv:| Thor (2011) | rewatch |
 |9/30|:tv:| Gifted (2017) | |
 |10/12|:tv:| Parkour Civilization (2023) | |
+|10/16|:tv:| Inside Out 2 (2024) | |
+|10/18|:tv:| The Bear S3 (2024) | |
 
 
 
