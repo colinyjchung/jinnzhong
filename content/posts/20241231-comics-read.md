@@ -544,7 +544,7 @@ categories = [
 |10/14| Poison Ivy (2022) |1| G. Willow Wilson | Marcio Takara | |
 |10/15| Green Lantern (2005) |8| Geoff Johns | Carlos Pacheco | |
 |10/16| Wolverine (2024) |2| Saladin Ahmed| Martín Cóccolo | |o
-|10/16| Catwoman (2024) |69| Torunn Grønbekk | Fabiana Mascolo | | o
+|10/16| Catwoman (2018) |69| Torunn Grønbekk | Fabiana Mascolo | | o
 |10/16| Mystique (2024) |1| Declan Shalvey | Matt Hollingsworth | |
 |10/16| The Exorcism at 1600 Penn (2024) |1| Hannay Rose May | Vanessa R. Del Ray | |
 |10/16| Ultimate Spider-Man (2024) |10| Jonathan Hickman| David Messina | |
