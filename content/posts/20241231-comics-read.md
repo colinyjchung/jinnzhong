@@ -546,7 +546,7 @@ categories = [
 |10/16| Wolverine (2024) |2| Saladin Ahmed| Martín Cóccolo | |o
 |10/16| Catwoman (2018) |69| Torunn Grønbekk | Fabiana Mascolo | | o
 |10/16| Mystique (2024) |1| Declan Shalvey | Matt Hollingsworth | |
-|10/16| The Exorcism at 1600 Penn (2024) |1| Hannay Rose May | Vanessa R. Del Ray | |
+|10/16| The Exorcism at 1600 Penn (2024) |1| Hannah Rose May | Vanessa R. Del Ray | |
 |10/16| Ultimate Spider-Man (2024) |10| Jonathan Hickman| David Messina | |
 |10/16| Uncanny X-Men (2024) |4| Gail Simone | David Marquez | |
 |10/17| Green Lantern (2005) |9| Geoff Johns | Ethan van Sciver | |
