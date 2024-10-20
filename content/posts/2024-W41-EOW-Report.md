@@ -15,7 +15,7 @@ tags = [
  "James Robinson",
  "The New Gods (1971)",
  "Jack Kirby",
- "Poison Ivy (2022",
+ "Poison Ivy (2022)",
  "G. Willow Wilson",
  "Absolute Batman (2024)",
  "Scott Snyder",
