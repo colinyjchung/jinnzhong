@@ -7,6 +7,7 @@ tags = [
     "Comics Read",
     "Media Consumption",
     "Jason Aaron",
+    "Spencer Ackerman",
     "Jeremy Adams",
     "Saladin Ahmed",
     "Ashley Allen",
@@ -25,7 +26,9 @@ tags = [
     "Warren Ellis",
     "Al Ewing",
     "Eve L. Ewing",
+    "David Gibbons",
     "Kieron Gillen",
+    "Torunn Grønbekk",
     "Larry Hama",
     "Jonathan Hickman",
     "Bryan Hill",
@@ -33,20 +36,26 @@ tags = [
     "Geoff Johns",
     "Joëlle Jones",
     "Collin Kelly",
+    "Joe Kelly",
     "Jack Kirby",
     "Jackson Lanzing",
+    "Jeph Loeb",
     "Jason Loo",
     "Jed MacKay",
+    "Hannah Rose May",
     "Peach Momoko",
     "Grant Morrison",
+    "Evan Narcisse",
     "Steve Orlando",
     "Alex Paknadel",
     "Benjamine Percy",
     "Stephanie Phillips",
     "Jamie S. Rich",
     "James Robinson",
+    "Greg Rucka",
     "Mark Russell",
     "Erica Schultz",
+    "Declan Shalvey",
     "Gail Simone",
     "Scott Snyder",
     "Jordan Thomas",
@@ -510,6 +519,56 @@ categories = [
 |10/12| Green Lantern (2005) | 4 | Geoff Johns | Ethan Van Sciver | | 
 |10/12| Green Lantern (2005) | 5 | Geoff Johns | Ethan Van Sciver | |
 |10/12| Green Lantern (2005) | 6 | Geoff Johns | Simone Binachi | |
+|10/13| Green Lantern Corps: Recharge (2005) | 1 | Geoff Johns & David Gibbons | Patrick Gleason |  |
+|10/13| Green Lantern Corps: Recharge (2005) | 2 | Geoff Johns & David Gibbons | Patrick Gleason |  |
+|10/13| Green Lantern Corps: Recharge (2005) | 3 | Geoff Johns & David Gibbons | Patrick Gleason |  |
+|10/13| Green Lantern Corps: Recharge (2005) | 4 | Geoff Johns & David Gibbons | Patrick Gleason |  |
+|10/13| Green Lantern Corps: Recharge (2005) | 5 | Geoff Johns & David Gibbons | Patrick Gleason |  |
+|10/13| Green Lantern (2005) | 7 | Geoff Johns | Carlos Pacheco | |
+|10/13| Waller vs. Wildstorm (2023) | 1 | Spencer Ackerman & Evan Narcisse | Jesús Merino | |
+|10/13| Waller vs. Wildstorm (2023) | 2 | Spencer Ackerman & Evan Narcisse | Jesús Merino | |
+|10/13| Waller vs. Wildstorm (2023) | 3 | Spencer Ackerman & Evan Narcisse | Jesús Merino | |
+|10/13| Waller vs. Wildstorm (2023) | 4 | Spencer Ackerman & Evan Narcisse | Jesús Merino | |
+|10/13| Supergirl (2005) |0| Jeph Loeb | Ian Churchill | |
+|10/13| Supergirl (2005) |1| Jeph Loeb | Ian Churchill | |
+|10/13| Supergirl (2005) |2| Jeph Loeb | Ian Churchill | |
+|10/14| Supergirl (2005) |3| Jeph Loeb | Ian Churchill | |
+|10/14| Supergirl (2005) |4| Jeph Loeb | Ian Churchill | |
+|10/14| Supergirl (2005) |5| Jeph Loeb | Ian Churchill | |
+|10/14| Supergirl (2005) |6| Greg Rucka | Ed Benes | |
+|10/14| Supergirl (2005) |7| Joe Kelly | Ian Churchill | |
+|10/14| Supergirl (2005) |8| Joe Kelly | Ron Adrian | |
+|10/14| Supergirl (2005) |9| Joe Kelly | Ian Churchill | |
+|10/14| Supergirl (2005) |10| Joe Kelly | Ian Churchill | |
+|10/14| Supergirl (2005) |11| Joe Kelly | Joe Benitez | |
+|10/14| Poison Ivy (2022) |1| G. Willow Wilson | Marcio Takara | |
+|10/15| Green Lantern (2005) |8| Geoff Johns | Carlos Pacheco | |
+|10/16| Wolverine (2024) |2| Saladin Ahmed| Martín Cóccolo | |o
+|10/16| Catwoman (2024) |69| Torunn Grønbekk | Fabiana Mascolo | | o
+|10/16| Mystique (2024) |1| Declan Shalvey | Matt Hollingsworth | |
+|10/16| The Exorcism at 1600 Penn (2024) |1| Hannay Rose May | Vanessa R. Del Ray | |
+|10/16| Ultimate Spider-Man (2024) |10| Jonathan Hickman| David Messina | |
+|10/16| Uncanny X-Men (2024) |4| Gail Simone | David Marquez | |
+|10/17| Green Lantern (2005) |9| Geoff Johns | Ethan van Sciver | |
+|10/17| Green Lantern (2005) |10| Geoff Johns | Ivan Reis | |
+|10/18| Green Lantern (2005) |11| Geoff Johns | Ivan Reis | |
+|10/18| Green Lantern (2005) |12| Geoff Johns | Ivan Reis | |
+|10/18| Green Lantern (2005) |13| Geoff Johns | Ivan Reis | |
+|10/18| The New Gods (1971) |5| Jack Kirby | Jack Kirby | |
+|10/18| The New Gods (1971) |6| Jack Kirby | Jack Kirby | |
+|10/19| Batman: The Long Halloween (1996) |1| Jeph Loeb | Tim Sale | |
+|10/19| Batman: The Long Halloween (1996) |2| Jeph Loeb | Tim Sale | |
+|10/19| Batman: The Long Halloween (1996) |3| Jeph Loeb | Tim Sale | |
+|10/19| Batman: The Long Halloween (1996) |4| Jeph Loeb | Tim Sale | |
+|10/19| Batman: The Long Halloween (1996) |5| Jeph Loeb | Tim Sale | |
+|10/19| Batman: The Long Halloween (1996) |6| Jeph Loeb | Tim Sale | |
+|10/19| Batman: The Long Halloween (1996) |7| Jeph Loeb | Tim Sale | |
+|10/19| Batman: The Long Halloween (1996) |8| Jeph Loeb | Tim Sale | |
+|10/19| Batman: The Long Halloween (1996) |9| Jeph Loeb | Tim Sale | |
+|10/19| Batman: The Long Halloween (1996) |10| Jeph Loeb | Tim Sale | |
+|10/19| Batman: The Long Halloween (1996) |11| Jeph Loeb | Tim Sale | |
+|10/19| Batman: The Long Halloween (1996) |12| Jeph Loeb | Tim Sale | |
+|10/19| Batman: The Long Halloween (1996) |13| Jeph Loeb | Tim Sale | |
 
 
 
