@@ -14,6 +14,10 @@ tags = [
     "Hunter: The Reckoning 5e (2022)",
     "Rain City Reckoning",
     "ORC BORG (2022)",
+    "Pax Pamir 2e (2019)",
+    "Betrayal at House on the Hill (2004)",
+    "ナナ (2021)",
+    "Love Letter: Batman (2015)",
 ]
 categories = [
     "Board Games",
@@ -23,11 +27,16 @@ categories = [
 ]
 +++
 
-## Board Games (2)
+## Board Games (6)
 | Date | Loc | Game | Players | Score |
 | ---: | :---: | :--- | :---: | :---: |
 | 1/30 | RTT | Waterloo Campaign 1815 (2019) | **B**C | 24/12 |
 | 9/22 | GSR | Pax Pamir 2e (2019) | CFH**M** | 2/6/0/12 |
+| 10/19 | GSR | Betrayal at House on the Hill (2004) | **C**FMa**Mi** | W/T/D/W[^1] |
+| 10/19 | GSR | ナナ (2021) | CFMa**Mi** | |
+| 10/19 | GSR | ナナ (2021) | CFMa**Mi** | |
+| 10/19 | GSR | Love Letter: Batman (2015) | CFMa**Mi** | 2/0/2/3 |
+
 
 ## RPG Sessions (5)
 | Date | Loc | Sys | Party | Ep. |
@@ -39,3 +48,5 @@ categories = [
 | 8/10 | GSR | HtR5e | Rain City Reckoning | [Magdela, Hassan, and Rada](https://journal.jinnzhong.com/rcr-htr-e13-magdela-hassan-and-rada/) |
 
 [Previous "Games Played" Here](https://journal.jinnzhong.com/tags/games-played/)
+
+[^1]: F - traitor, Ma - died in fire, C/Mi Escaped
