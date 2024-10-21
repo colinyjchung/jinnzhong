@@ -126,6 +126,7 @@ These are Lie-Truth Pairs (LTP) that are created out of ghosts (GST) and crystal
 |[HUNT](https://journal.jinnzhong.com/tags/qst-hunt/)|[HIDING](https://journal.jinnzhong.com/tags/inq-hiding/)|[REBEL](https://journal.jinnzhong.com/tags/ntw-rebel/)|
 
 ## SEARCH
+asdf
 
 <style>
     .elbi-results {
