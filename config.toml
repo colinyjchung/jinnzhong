@@ -57,5 +57,8 @@ pygmentsUseClasses = true
   # Allow HTML in Markdown
   unsafe = true
 
-  [markup.tableOfContents]
+[markup.tableOfContents]
     ordered = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
