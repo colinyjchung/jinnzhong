@@ -28,34 +28,27 @@ pygmentsUseClasses = true
     title = "ctgs"
     url = "/categories/"
     weight = 20
-    
-[[menu.main]]
-    identifier = "Index"
-    name = "indx"
-    title = "indx"
-    url = "/tags/"
-    weight = 30
 
 [[menu.main]]
     identifier = "projects"
     name = "prjs"
     title = "prjs"
     url = "/projects/"
-    weight = 40
+    weight = 30
     
 [[menu.main]]
     identifier = "cipher"
     name = "cphr"
     title = "cphr"
     url = "/cipher/"
-    weight = 50
+    weight = 40
 
 [[menu.main]]
     identifier = "about"
     name = "abt"
     title = "abt"
     url = "/about/"
-    weight = 60
+    weight = 50
 
 [permalinks]
   posts = "/:title/"
