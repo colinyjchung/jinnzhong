@@ -125,26 +125,3 @@ These are Lie-Truth Pairs (LTP) that are created out of ghosts (GST) and crystal
 |[GO SEE](https://journal.jinnzhong.com/tags/qst-go-see/)|[TRAITOR](https://journal.jinnzhong.com/tags/inq-traitor/)|[FIGHT](https://journal.jinnzhong.com/tags/ntw-fight/)|
 |[HUNT](https://journal.jinnzhong.com/tags/qst-hunt/)|[HIDING](https://journal.jinnzhong.com/tags/inq-hiding/)|[REBEL](https://journal.jinnzhong.com/tags/ntw-rebel/)|
 
-## GAMES
-
-* **18X**: [18XX.games](https://18xx.games): a rules-enforced website to play 18XX games
-* **BCN**: [Bottoscon](https://sites.google.com/site/bottoscon/home): an annual wargaming con in Vancouver 
-* **BGA**: [Board Game Arena](http://boardgamearena.com): Rules-enforced website to play hundreds of board games
-* **BGC**: [Board Game Core](http://play.boardgamecore.net): Rules-enforced website to play the below games
-   * Antiquity
-   * The Great Zimbabwe
-   * Food Chain Magnate
-   * Wir sind das Volk!
-* **BaJ**: Boite-a-Jeux: a now-defunct rules-enforced website to play board games.
-* **CTY**: [Chantry](https://chantry-games.com): Formerly a place to play rules-enforced Twilight Struggle. Now 13 Days. 
-* **DCC**: Dungeon Crawl Classics. A gonzo science-fantasy RPG based on 3.5e.
-* **DGr**: _Delta Green_ RPG
-* **DNT**: Did Not Track Score
-* **HtR5e**: _Hunter: The Reckoning 5e_ RPG
-* **L**: Loss
-* **RAND**: Random online strangers
-* **RTT**: [Rally the Troops](http://rally-the-troops.com): a rules-enforced website to play wargames.
-* **V**: Victory
-* **VtM5e**: _Vampire: The Masquerade 5e_ RPG
-* **VSL**: [VASSAL](https://vassalengine.org): What wargamers use to play games via play-by-email. 
-
