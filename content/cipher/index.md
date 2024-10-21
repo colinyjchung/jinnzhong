@@ -133,10 +133,10 @@ asdf
         width: 100%;
     }
     .elbi-results-item {
-        background-color: #FFFFFF;
-        color: #000000;
+        background-color: #000000;
+        color: #FFFFFF;
         padding: 10px;
-        border: 1px solid black;
+        border: 1px solid white;
     }
 </style>
 
@@ -244,7 +244,7 @@ asdf
                     // For each of the pages in the final filtered list, insert into the results list
                     filteredPages.forEach(function(page) {
                         
-                        results.insertAdjacentHTML("beforeend","<li class='elbi-results-item'><h2 style='font-size: 1.5rem;'><a href='" + page.permalink + "'>" + page.title + "</a></h2><p>" + page.summary + "</p><p style='margin-top: 5px'>Tagged: <strong>" + page.tags + "</strong></p></li>");
+                        results.insertAdjacentHTML("beforeend","<li class='elbi-results-item'><h3 style='font-size: 1.0rem;'><a href='" + page.permalink + "'>" + page.title + "</a></h3><p>" + page.summary + "</p><p style='margin-top: 5px'>Tagged: " + page.tags + "</p></li>");
 
                         if (display_score == true) {
                             results.insertAdjacentHTML("beforeend","<p>Result score: " + page.score + "</p>")
