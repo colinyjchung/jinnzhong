@@ -46,7 +46,7 @@ A non-exhaustive dictionary of abbreviations used in my notes.
 
 ## STORY STRUCTURE
 
-0. **GLS**: Ghost/Lie/Stasis or backstory
+0. **GST**: Ghost + **LPT* that defines...
 1. **STS**: Stasis - or Ordinary World
 2. **DSR**: Disruption or Inciting Incident
 3. **BWO**: B-World aka Belly of the Whale, triggered by Catalyst
