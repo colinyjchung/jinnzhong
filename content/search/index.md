@@ -2,8 +2,6 @@
 author = "Jinn Zhong"
 title = "Search"
 +++
-Search
-
 <style>
     .elbi-results {
         width: 100%;
