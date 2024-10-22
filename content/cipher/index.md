@@ -244,7 +244,7 @@ asdf
                     // For each of the pages in the final filtered list, insert into the results list
                     filteredPages.forEach(function(page) {
                         
-                        results.insertAdjacentHTML("beforeend","<li class='elbi-results-item'><h2 style='font-size: 1.0rem;'><a href='" + page.permalink + "'>" + page.title + "</a></h2><p>" + page.summary + "</p><h3 style='font-size: 1.0rem;'>Tagged: " + page.tags + "</h3></li>");
+                        results.insertAdjacentHTML("beforeend","<li class='elbi-results-item'><h2 style='font-size: 1.2rem;'><a href='" + page.permalink + "'>" + page.title + "</a></h2><p>" + page.summary + "</p>Tagged: " + page.tags + "</li>");
 
                         if (display_score == true) {
                             results.insertAdjacentHTML("beforeend","<p>Result score: " + page.score + "</p>")
