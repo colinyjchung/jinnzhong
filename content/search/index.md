@@ -7,10 +7,10 @@ title = "Search"
         width: 100%;
     }
     .elbi-results-item {
-        background-color: #000000;
-        color: #FFFFFF;
+        background-color: #121212;
+        color: #ebebeb;
         padding: 10px;
-        border: 1px solid white;
+        border: none;
     }
 </style>
 
