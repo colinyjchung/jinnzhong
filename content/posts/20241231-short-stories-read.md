@@ -6,6 +6,10 @@ description = "None Yet"
 tags = [
     "Short Stories Read",
     "Media Consumption",
+    "Pop Squad (2006)",
+    "Paolo Bacigalupi",
+    "Open House on Haunted Hill (2020)",
+    "John Wiswell",
 ]
 categories = [
     "Unnecessary Tracking",
