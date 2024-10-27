@@ -5,6 +5,7 @@ date = "2024-04-07"
 description = "End of Week Report for W14 of 2024"
 tags = [
     "Creative Process",
+    "Mentor X",
     "MRK Short Story Cohort",
     "Mary Robinette Kowal",
     "Garage Fiction Podcast",
