@@ -50,6 +50,7 @@ tags = [
     "Alex Paknadel",
     "Benjamine Percy",
     "Stephanie Phillips",
+    "Sabir Pirzada",
     "Jamie S. Rich",
     "James Robinson",
     "Greg Rucka",
@@ -64,7 +65,7 @@ tags = [
     "Ram V",
     "Tom Waltz",
     "Leah Williams",
-    "Josh Williamson",
+    "Joshua Williamson",
     "G. Willow Wilson",
     "Philip Kennedy Wilson",
     "Mark Waid",
@@ -569,6 +570,30 @@ categories = [
 |10/19| Batman: The Long Halloween (1996) |11| Jeph Loeb | Tim Sale | |
 |10/19| Batman: The Long Halloween (1996) |12| Jeph Loeb | Tim Sale | |
 |10/19| Batman: The Long Halloween (1996) |13| Jeph Loeb | Tim Sale | |
+|10/20| All-Star Superman (2005) |1| Grant Morrison | Frank Quitely | |
+|10/20| All-Star Superman (2005) |2| Grant Morrison | Frank Quitely | |
+|10/20| All-Star Superman (2005) |3| Grant Morrison | Frank Quitely | |
+|10/20| All-Star Superman (2005) |4| Grant Morrison | Frank Quitely | |
+|10/20| All-Star Superman (2005) |5| Grant Morrison | Frank Quitely | |
+|10/21| Ultimate X-Men (2024) |5| Peach Momoko | Peach Momoko | |
+|10/21| All-Star Superman (2005) |6| Grant Morrison | Frank Quitely | |
+|10/22| All-Star Superman (2005) |7| Grant Morrison | Frank Quitely | |
+|10/23| All-Star Superman (2005) |8| Grant Morrison | Frank Quitely | |
+|10/23| All-Star Superman (2005) |9| Grant Morrison | Frank Quitely | |
+|10/23| Superman (2023) |1| Joshua Williamson | Jamal Campbell | |
+|10/23| Superman (2023) |2| Joshua Williamson | Jamal Campbell | |
+|10/23| X-Factor (2024) |3| Mark Russell | Bob Quinn | |
+|10/23| X-Men (2024) |6| Jed MacKay | Netho Diaz | |
+|10/23| Iron Man (2024) |1| Spencer Ackerman | Julius Ohta | |
+|10/23| Teenage Mutant Ninja Turtles (2024) |3| Jason Aaron | Cliff Chiang | |
+|10/23| Absolute Wonderwoman (2024) |1| Kelly Link | Hayden Sherman | |
+|10/23| The Sacred Damned #1 (2024) |1| Sabir Pirzada | Michael Walsh | |
+|10/23| The Power Fantasy (2024) |3| Kieron Gillen | Caspar Wijngaard | |
+|10/24| All-Star Superman (2005) |10| Grant Morrison | Frank Quitely | |
+|10/26| All-Star Superman (2005) |11| Grant Morrison | Frank Quitely | |
+|10/26| All-Star Superman (2005) |12| Grant Morrison | Frank Quitely | |
+|10/26| Superman (2023) |3| Joshua Williamson | Jamal Campbell | |
+|10/26| Superman (2023) |4| Joshua Williamson | Jamal Campbell & Nick Dragotta | |
 
 
 
