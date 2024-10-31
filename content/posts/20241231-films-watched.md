@@ -32,6 +32,8 @@ tags = [
     "Gifted (2017)",
     "Parkour Civilization (2023)",
     "Inside Out 2 (2024)",
+    "Zack Snyder's Justice League (2021)",
+    "Only Murders in the Building (2021-)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -74,6 +76,8 @@ Decided to start tracking TV shows this year as well. Dates are the date in whic
 |10/12|:tv:| Parkour Civilization (2023) | |
 |10/16|:tv:| Inside Out 2 (2024) | |
 |10/18|:tv:| The Bear S3 (2024) | |
+|10/29|:tv:| Only Murders in the Building S3 (2024) | |
+|10/31|:tv:| Zack Snyder's Justice League (2021) | | 
 
 
 
