@@ -85,12 +85,12 @@ All the while -- getting up at four on weekdays. Managed to cram in story develo
 | date | title | issue | writer | artist |
 | ---: | :--- | :---: | :--- | :--- | 
 |10/27| Superman (2023) |5| Joshua Williamson | Jamal Campbell |
-|10/27| Superman 2023 Annual |1| Joshua Williamson | Various[^1] |
+|10/27| Superman 2023 Annual |1| Joshua Williamson | Various[^2] |
 |10/27| Superman (2023) |6| Joshua Williamson | Gleb Melnikov |
 |10/27| The New Gods (1971) |7| Jack Kirby | Jack Kirby |
 |10/27| The New Gods (1971) |8| Jack Kirby | Jack Kirby |
-|10/28| Superman (2023) |7| Joshua Williamson | Various[^2] |
-|10/28| Superman (2023) |8| Joshua Williamson | Various[^3] |
+|10/28| Superman (2023) |7| Joshua Williamson | Various[^3] |
+|10/28| Superman (2023) |8| Joshua Williamson | Various[^4] |
 |10/28| Superman (2023) |9| Joshua Williamson | Bruno Redondo||
 |10/28| The New Gods (1971) |9| Jack Kirby | Jack Kirby |
 |10/29| My Greatest Adventure (1955) |80| Arnold Drake & Bob Haney | Bruno Premiani |
@@ -131,3 +131,7 @@ Archive of all EOW reports [here](https://journal.jinnzhong.com/tags/eow-reports
     * **ed** = edits (before beta/crits) completed
     * **rv** = revisions (post-feedback) completed
     * **xd** = current draft being worked on
+
+[^2]: Mahmud Asrar, Edwin Gaimon, Caitlin Yarsky, Max Raynor, and Jack Herbert
+[^3]: Gleb Melnikov, Dan Jurgens, Norm Rapmund, and Edwin Galmon
+[^4]: Gleb Melnikov, Norm Rapmund, David Baldeón, and Jamal Campbell
