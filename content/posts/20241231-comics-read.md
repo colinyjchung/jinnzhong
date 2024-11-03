@@ -22,6 +22,7 @@ tags = [
     "Donny Cates",
     "Clay McLeod Chapman",
     "Chris Claremont",
+    "Arnold Drake",
     "Gerry Duggan",
     "Warren Ellis",
     "Al Ewing",
@@ -30,6 +31,7 @@ tags = [
     "Kieron Gillen",
     "Torunn Grønbekk",
     "Larry Hama",
+    "Bob Haney",
     "Jonathan Hickman",
     "Bryan Hill",
     "Tini Howard",
@@ -62,6 +64,7 @@ tags = [
     "Jordan Thomas",
     "Kelly Thompson",
     "Geoffrey Thorne",
+    "James Tynion IV",
     "Ram V",
     "Tom Waltz",
     "Leah Williams",
@@ -70,6 +73,7 @@ tags = [
     "Philip Kennedy Wilson",
     "Mark Waid",
     "Zeb Wells",
+    "Maytal Zchut",
     "Cody Ziglar",
 ]
 categories = [
@@ -77,12 +81,12 @@ categories = [
 ]
 +++
 
-| date | title | issue | writer | artist | rereads |
+| date | title | # | writer | artist | RR |
 | ---: | :--- | :---: | :--- | :--- | :---: |
 |6/27| X-Men (2021) | 35 | Multiple[^1] | Multiple[^2] | 2 |
 |7/8| Wolverine (1982) | 1 | Chris Claremont | Frank Miller | |
 |7/9| Wolverine (1982) | 2 | Chris Claremont | Frank Miller | |
-|7/10| X-Men (2024) | 1 (301) | Jed Mackay | Ryan Stegman | 2 |
+|7/10| X-Men (2024) | 1 | Jed Mackay | Ryan Stegman | 2 |
 |7/11| Wolverine (1982) | 3 | Chris Claremont | Frank Miller | |
 |7/11| Wolverine (1982) | 4 | Chris Claremont | Frank Miller | |
 |7/12| Uncanny X-Men (1963) | 268 | Chris Claremont | Jim Lee | |
@@ -98,41 +102,41 @@ categories = [
 |8/1| Scarlet Witch (2023) | 3 | Steve Orlando | Sara Pichelli |2|
 |8/1| Scarlet Witch (2023) | 4 | Steve Orlando | Sara Pichelli |2|
 |8/1| Scarlet Witch (2023) | 5 | Steve Orlando | Sara Pichelli |2|
-|8/1| X-Force (2024) | 1 (291) | Geoffrey Thorne | Marcus To |2|
+|8/1| X-Force (2024) | 1 | Geoffrey Thorne | Marcus To |2|
 |8/1| Scarlet Witch Annual (2023) | 1 | Steve Orlando | Carlos Nieto | |
 |8/2| Scarlet Witch (2023) | 6 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
 |8/2| Scarlet Witch (2023) | 7 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
-|8/2| Avengers (2023) | 1 (767) | Jed MacKay | C.F. Villa | |
+|8/2| Avengers (2023) | 1 | Jed MacKay | C.F. Villa | |
 |8/3| Scarlet Witch (2023) | 8 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
-|8/3| Avengers (2023) | 2 (768) | Jed MacKay | C.F. Villa | |
+|8/3| Avengers (2023) | 2 | Jed MacKay | C.F. Villa | |
 |8/3| Scarlet Witch (2023) | 9 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
 |8/3| Scarlet Witch (2023) | 10 | Steve Orlando | Lorenzo Tammetta & Sara Pichelli | |
 |8/3| Scarlet Witch & Quicksilver (2023) | 1 | Steve Orlando | Lorenzo Tammetta | |
 |8/3| Scarlet Witch & Quicksilver (2023) | 2 | Steve Orlando | Lorenzo Tammetta | |
 |8/4| Scarlet Witch & Quicksilver (2023) | 3 | Steve Orlando | Lorenzo Tammetta | |
-|8/4| Avengers (2023) | 3 (769) | Jed MacKay | C.F. Villa | |
-|8/4| Avengers (2023) | 4 (770) | Jed MacKay | C.F. Villa | |
-|8/4| Avengers (2023) | 5 (771) | Jed MacKay | Ivan Fiorelli | |
-|8/4| Avengers (2023) | 6 (772) | Jed MacKay | Ivan Fiorelli | |
-|8/4| Avengers (2023) | 7 (773) | Jed MacKay | C.F. Villa | |
-|8/4| Avengers (2023) | 8 (774) | Jed MacKay | C.F. Villa | |
-|8/5| Avengers (2023) | 9 (775) | Jed MacKay | Francisco Mortarino| |
-|8/5| Avengers (2023) | 10 (776) | Jed MacKay | C.F. Villa | |
-|8/5| Avengers (2023) | 11 (777) | Jed MacKay | Ivan Fiorelli | |
-|8/5| Avengers (2023) | 12 (778) | Jed MacKay | Francisco Mortarino| |
-|8/5| Avengers (2023) | 13 (779) | Jed MacKay | Francisco Mortarino| |
-|8/5| Black Panther (2023) | 1 (213) | Eve L. Ewing | Christopher Allen| |
-|8/5| Black Panther (2023) | 2 (214) | Eve L. Ewing | Christopher Allen| |
-|8/5| Black Panther (2023) | 3 (215) | Eve L. Ewing | Christopher Allen| |
-|8/6| Black Panther (2023) | 4 (216) | Eve L. Ewing | Christopher Allen & Mack Chatur| |
-|8/6| Black Panther (2023) | 5 (217) | Eve L. Ewing | Mack Chatur| |
-|8/7| Uncanny X-Men (2024) | 1 (701) | Gail Simone | David Marquez| 2 |
-|8/7| Black Panther (2023) | 6 (218) | Eve L. Ewing | Christopher Allen & Mack Chatur| |
-|8/7| Black Panther (2023) | 7 (219) | Eve L. Ewing | Christopher Allen & Mack Chatur| |
-|8/7| Black Panther (2023) | 8 (220) | Eve L. Ewing | Christopher Allen & Mack Chatur| |
-|8/7| Avengers (2023) | 17 (783) | Jed MacKay | Valerio Schiti |2|
-|8/7| Black Panther (2023) | 9 (221) | Eve L. Ewing | Christopher Allen & Mack Chatur| |
-|8/7| Black Panther (2023) | 10 (222) | Eve L. Ewing | Christopher Allen | |
+|8/4| Avengers (2023) | 3 | Jed MacKay | C.F. Villa | |
+|8/4| Avengers (2023) | 4 | Jed MacKay | C.F. Villa | |
+|8/4| Avengers (2023) | 5 | Jed MacKay | Ivan Fiorelli | |
+|8/4| Avengers (2023) | 6 | Jed MacKay | Ivan Fiorelli | |
+|8/4| Avengers (2023) | 7 | Jed MacKay | C.F. Villa | |
+|8/4| Avengers (2023) | 8| Jed MacKay | C.F. Villa | |
+|8/5| Avengers (2023) | 9| Jed MacKay | Francisco Mortarino| |
+|8/5| Avengers (2023) | 10 | Jed MacKay | C.F. Villa | |
+|8/5| Avengers (2023) | 11 | Jed MacKay | Ivan Fiorelli | |
+|8/5| Avengers (2023) | 12 | Jed MacKay | Francisco Mortarino| |
+|8/5| Avengers (2023) | 13 | Jed MacKay | Francisco Mortarino| |
+|8/5| Black Panther (2023) | 1 | Eve L. Ewing | Christopher Allen| |
+|8/5| Black Panther (2023) | 2 | Eve L. Ewing | Christopher Allen| |
+|8/5| Black Panther (2023) | 3 | Eve L. Ewing | Christopher Allen| |
+|8/6| Black Panther (2023) | 4 | Eve L. Ewing | Christopher Allen & Mack Chatur| |
+|8/6| Black Panther (2023) | 5 | Eve L. Ewing | Mack Chatur| |
+|8/7| Uncanny X-Men (2024) | 1 | Gail Simone | David Marquez| 2 |
+|8/7| Black Panther (2023) | 6 | Eve L. Ewing | Christopher Allen & Mack Chatur| |
+|8/7| Black Panther (2023) | 7 | Eve L. Ewing | Christopher Allen & Mack Chatur| |
+|8/7| Black Panther (2023) | 8 | Eve L. Ewing | Christopher Allen & Mack Chatur| |
+|8/7| Avengers (2023) | 17 | Jed MacKay | Valerio Schiti |2|
+|8/7| Black Panther (2023) | 9 | Eve L. Ewing | Christopher Allen & Mack Chatur| |
+|8/7| Black Panther (2023) | 10 | Eve L. Ewing | Christopher Allen | |
 |8/8| House of X (2019) | 1 | Jonathan Hickman | Pepe Larraz | |
 |8/8| Powers of X (2019) | 1 | Jonathan Hickman | R.B. Silva | |
 |8/8| House of X (2019) | 2 | Jonathan Hickman | Pepe Larraz | |
@@ -155,15 +159,15 @@ categories = [
 |8/11| Powers of X (2019) | 5 | Jonathan Hickman | R.B. Silva | |
 |8/11| House of X (2019) | 6 | Jonathan Hickman | Pepe Larraz | |
 |8/11| Powers of X (2019) | 6 | Jonathan Hickman | R.B. Silva & Pepe Larraz | |
-|8/11| X-Men (2019) | 1 (645) |Jonathan Hickman | Leinil Francis Yu | |
+|8/11| X-Men (2019) | 1 |Jonathan Hickman | Leinil Francis Yu | |
 |8/12| Marauders (2019) | 1 | Gerry Duggan | Matteo Lolli | |
-|8/12| X-Men (2019) | 2 (646) |Jonathan Hickman | Leinil Francis Yu | |
+|8/12| X-Men (2019) | 2 |Jonathan Hickman | Leinil Francis Yu | |
 |8/12| X-Force (2019) | 1 | Benjamin Percy | Joshua Cassara | |
 |8/12| Excalibur (2019) | 1 | Tini Howard | Marcus To | |
 |8/12| Excalibur (2019) | 2 | Tini Howard | Marcus To | |
 |8/12| Excalibur (2019) | 3 | Tini Howard | Marcus To | |
 |8/12| Excalibur (2019) | 4 | Tini Howard | Marcus To | |
-|8/12| Avengers (2023) | 14(780) | Jed MacKay | C.F. Villa | |
+|8/12| Avengers (2023) | 14 | Jed MacKay | C.F. Villa | |
 |8/12| Absolute Carnage (2019) | 1 | Donny Cates | Ryan Stegman | |
 |8/12| Absolute Carnage (2019) | 2 | Donny Cates | Ryan Stegman | |
 |8/12| Absolute Carnage (2019) | 3 | Donny Cates | Ryan Stegman | |
@@ -174,13 +178,13 @@ categories = [
 |8/13| New Mutants (2019) | 1 | Ed Brisson & Jonathan Hickman | Rod Reis | |
 |8/13| Marauders (2019) | 2 | Gerry Duggan | Matteo Lolli | |
 |8/13| Marauders (2019) | 3 | Gerry Duggan | Michele Bandini | |
-|8/14| X-Men (2019) | 3 (647) |Jonathan Hickman | Leinil Francis Yu | |
+|8/14| X-Men (2019) | 3 |Jonathan Hickman | Leinil Francis Yu | |
 |8/14| Fallen Angels (2019) | 1 | Bryan Hill | Szymon Kudranski | |
-|8/14| X-Force (2019) | 2 () | Benjamin Percy | Joshua Cassara | |
+|8/14| X-Force (2019) | 2 | Benjamin Percy | Joshua Cassara | |
 |8/14| Fallen Angels (2019) | 2 | Bryan Hill | Szymon Kudranski | |
-|8/14| X-Men (2024) | 2 (302) | Jed MacKay | Ryan Stegman |2|
-|8/14| X-Factor (2024) | 1 (293) | Mark Russell | Robert Quinn |2|
-|8/14| X-Force (2019) | 3 () | Benjamin Percy | Joshua Cassara | |
+|8/14| X-Men (2024) | 2 | Jed MacKay | Ryan Stegman |2|
+|8/14| X-Factor (2024) | 1 | Mark Russell | Robert Quinn |2|
+|8/14| X-Force (2019) | 3 | Benjamin Percy | Joshua Cassara | |
 |8/14| Fallen Angels (2019) | 3 | Bryan Hill | Szymon Kudranski | |
 |8/14| Fallen Angels (2019) | 4 | Bryan Hill | Szymon Kudranski | |
 |8/15| Fallen Angels (2019) | 5 | Bryan Hill | Szymon Kudranski | |
@@ -195,31 +199,31 @@ categories = [
 |8/15| New Mutants (2019) | 9 | Ed Brisson | Flaviano | |
 |8/15| New Mutants (2019) | 10 | Ed Brisson | Flaviano | |
 |8/15| New Mutants (2019) | 11 | Ed Brisson | Flaviano | |
-|8/16| X-Men (2019) | 4 (648) |Jonathan Hickman | Leinil Francis Yu | |
+|8/16| X-Men (2019) | 4 |Jonathan Hickman | Leinil Francis Yu | |
 |8/16| X-Men/Fantastic Four (2020) | 1 |Chip Zdarsky | Terry Dodson | |
 |8/16| X-Men/Fantastic Four (2020) | 2 |Chip Zdarsky | Terry Dodson | |
 |8/16| X-Men/Fantastic Four (2020) | 3 |Chip Zdarsky | Terry Dodson | |
 |8/16| X-Men/Fantastic Four (2020) | 4 |Chip Zdarsky | Terry Dodson | |
 |8/16| Marauders (2019) | 4 | Gerry Duggan | Lucas Werneck | |
-|8/16| X-Force (2019) | 4 () | Benjamin Percy | Joshua Cassara | |
-|8/16| X-Force (2019) | 5 () | Benjamin Percy | Joshua Cassara | |
-|8/16| X-Force (2019) | 6 () | Benjamin Percy | Stephen Segovia | |
-|8/17| Wolverine (2020) | 1 () | Benjamin Percy | Adam Kubert | |
+|8/16| X-Force (2019) | 4 | Benjamin Percy | Joshua Cassara | |
+|8/16| X-Force (2019) | 5 | Benjamin Percy | Joshua Cassara | |
+|8/16| X-Force (2019) | 6 | Benjamin Percy | Stephen Segovia | |
+|8/17| Wolverine (2020) | 1 | Benjamin Percy | Adam Kubert | |
 |8/17| Excalibur (2019) | 7 | Tini Howard | Wilton Santos | |
 |8/17| Excalibur (2019) | 8 | Tini Howard | Wilton Santos & Marcus To | |
-|8/17| X-Men (2019) | 5 (649) |Jonathan Hickman | R.B Silva | |
-|8/17| X-Men (2019) | 6 (650) |Jonathan Hickman | Matteo Buffagni | |
+|8/17| X-Men (2019) | 5 |Jonathan Hickman | R.B Silva | |
+|8/17| X-Men (2019) | 6 |Jonathan Hickman | Matteo Buffagni | |
 |8/17| GSX: Jean Grey and Emma Frost | 1 | Jonathan Hickman | Russell Dauterman | |
-|8/17| X-Men (2019) | 7 (651) |Jonathan Hickman | Leinil Francis Yu | |
+|8/17| X-Men (2019) | 7 |Jonathan Hickman | Leinil Francis Yu | |
 |8/17| GSX: Nightcrawler | 1 | Jonathan Hickman | Alan Davis | |
-|8/18| X-Force (2019) | 7 () | Benjamin Percy | Oscar Bazaldua | |
-|8/18| X-Force (2019) | 8 () | Benjamin Percy | Bazaldua | | 
-|8/18| X-Force (2019) | 9 () | Benjamin Percy | Joshua Cassara | |
-|8/18| X-Force (2019) | 10 () | Benjamin Percy | Joshua Cassara | |
-|8/18| Wolverine (2020) | 2 () | Benjamin Percy | Adam Kubert | |
-|8/18| Wolverine (2020) | 3 () | Benjamin Percy | Adam Kubert | |
-|8/18| Wolverine (2020) | 4 () | Benjamin Percy | Viktor Bogdanovic | |
-|8/19| Wolverine (2020) | 5 () | Benjamin Percy | Viktor Bogdanovic | |
+|8/18| X-Force (2019) | 7 | Benjamin Percy | Oscar Bazaldua | |
+|8/18| X-Force (2019) | 8 | Benjamin Percy | Bazaldua | | 
+|8/18| X-Force (2019) | 9 | Benjamin Percy | Joshua Cassara | |
+|8/18| X-Force (2019) | 10 | Benjamin Percy | Joshua Cassara | |
+|8/18| Wolverine (2020) | 2 | Benjamin Percy | Adam Kubert | |
+|8/18| Wolverine (2020) | 3 | Benjamin Percy | Adam Kubert | |
+|8/18| Wolverine (2020) | 4 | Benjamin Percy | Viktor Bogdanovic | |
+|8/19| Wolverine (2020) | 5 | Benjamin Percy | Viktor Bogdanovic | |
 |8/20| Marauders (2019) | 5 | Gerry Duggan | Matteo Lolli & Lucas Werneck | |
 |8/20| Marauders (2019) | 6 | Gerry Duggan | Matteo Lolli & Mario Del Pennino | |
 |8/22| Marauders (2019) | 7 | Gerry Duggan | Stefano Caselli | |
@@ -234,11 +238,11 @@ categories = [
 |8/23| Cable (2020) | 2 | Gerry Duggan | Phil Noto | |
 |8/23| Cable (2020) | 3 | Gerry Duggan | Phil Noto | |
 |8/23| Cable (2020) | 4 | Gerry Duggan | Phil Noto | |
-|8/23| X-Force (2019) | 11 () | Benjamin Percy | Balzadua | |
-|8/23| X-Force (2019) | 12 () | Benjamin Percy | Balzadua | 
-|8/23| X-Force (2019) | 15 () | Benjamin Percy | Joshua Cassara | |
-|8/23| X-Force (2019) | 16 () | Benjamin Percy | Joshua Cassara | |
-|8/23| Deadpool (2019) | 6(321) | Kelly Thompson | Kevin Libranda | |
+|8/23| X-Force (2019) | 11 | Benjamin Percy | Balzadua | |
+|8/23| X-Force (2019) | 12 | Benjamin Percy | Balzadua | 
+|8/23| X-Force (2019) | 15 | Benjamin Percy | Joshua Cassara | |
+|8/23| X-Force (2019) | 16 | Benjamin Percy | Joshua Cassara | |
+|8/23| Deadpool (2019) | 6 | Kelly Thompson | Kevin Libranda | |
 |8/23| X-Factor (2020) | 1 | Leah Williams | David Baldeon | |
 |8/23| X-Factor (2020) | 2 | Leah Williams | David Baldeon | |
 |8/23| X-23: Deadly Regenesis (2023) | 1 | Erica Schultz | Edgar Salazar | |
@@ -252,20 +256,20 @@ categories = [
 |8/24| Hellions (2020) | 2 | Zeb Wells | Stephen Segovia | |
 |8/24| Hellions (2020) | 3 | Zeb Wells | Stephen Segovia | |
 |8/24| Hellions (2020) | 4 | Zeb Wells | Stephen Segovia | |
-|8/24| X-Men (2019) | 8 (652) | Jonathan Hickman | Mahmud Asrar | |
-|8/24| X-Men (2019) | 9 (653) | Jonathan Hickman | Mahmud Asrar | |
+|8/24| X-Men (2019) | 8 | Jonathan Hickman | Mahmud Asrar | |
+|8/24| X-Men (2019) | 9 | Jonathan Hickman | Mahmud Asrar | |
 |8/25| Empyre: X-Men (2020) | 1 | Jonathan Hickman & Tini Howard | Matteo Buffagni | |
 |8/25| Empyre: X-Men (2020) | 2 | Multiple[^3] | Lucas Werneck | |
 |8/25| Empyre: X-Men (2020) | 3 | Multiple[^4] | Andrea Broccardo | |
 |8/25| Empyre: X-Men (2020) | 4 | Jonathan Hickman | Jorge Molina & Lucas Werneck | |
-|8/25| X-Men (2019) | 10 (654) | Jonathan Hickman | Leinil Francis Yu | |
-|8/25| X-Men (2019) | 11 (655) | Jonathan Hickman | Leinil Francis Yu | |
-|8/26| Fantastic Four (2018) | 24 (669) | Dan Slott | Paco Medina | |
+|8/25| X-Men (2019) | 10 | Jonathan Hickman | Leinil Francis Yu | |
+|8/25| X-Men (2019) | 11 | Jonathan Hickman | Leinil Francis Yu | |
+|8/26| Fantastic Four (2018) | 24| Dan Slott | Paco Medina | |
 |8/26| Excalibur (2019) | 9 | Tini Howard | Marcus To | |
 |8/26| Excalibur (2019) | 10 | Tini Howard | Marcus To | |
 |8/26| Excalibur (2019) | 11 | Tini Howard | Marcus To | |
 |8/26| Excalibur (2019) | 12 | Tini Howard | Marcus To | |
-|8/26| X-Men (2019) | 12 (656) | Jonathan Hickman | Leinil Francis Yu | |
+|8/26| X-Men (2019) | 12 | Jonathan Hickman | Leinil Francis Yu | |
 |8/27| X of Swords: Creation | 1 | Jonathan Hickman & Tini Howard | Pepe Larraz | |
 |8/27| X-Factor (2020) | 4 | Leah Williams | Carlos Gomez | |
 |8/27| Wolverine (2020) | 6 | Benjamin Percy | Viktor Bogdanovic | |
@@ -274,17 +278,17 @@ categories = [
 |8/28| Hellions (2020) | 5 | Zeb Wells | Carmen Carnero | |
 |8/28| New Mutants (2019) | 13 | Ed Brisson | Rod Reis | |
 |8/28| Cable (2020) | 5 | Gerry Duggan | Phil Noto | |
-|8/29| X-Men (2024) | 3 (303) | Jed MacKay | Ryan Stegman |2|
+|8/29| X-Men (2024) | 3 | Jed MacKay | Ryan Stegman |2|
 |8/29| NYX (2024) | 2 | Collin Kelly & Jackson Lanzing | Francesco Mortarino |2|
 |8/30| Phoenix (2024) | 2 | Stephanie Phillips | Alessandro Miracolo |2|
-|8/30| X-Force (2024) | 2 (292) | Geoffrey Thorne | Marcus To |2|
+|8/30| X-Force (2024) | 2 | Geoffrey Thorne | Marcus To |2|
 |8/30| Wolverine Revenge (2024) | 1 | Jonathan Hickman | Greg Capullo |2|
 |8/30| Absolute Power (2024) | 1 | Mark Waid | Dan Mora |2|
 |8/30| Absolute Power (2024) | 2 | Mark Waid | Dan Mora |2| 
 |8/31| Excalibur (2019) | 13 | Tini Howard | R.B. Silva | |
-|8/31| X-Men (2019) | 13 (657) | Jonathan Hickman | Mahmud Asrar | |
+|8/31| X-Men (2019) | 13 | Jonathan Hickman | Mahmud Asrar | |
 |9/1| X of Swords: Stasis | 1 | Jonathan Hickman & Tini Howard | Pepe Larraz & Mahmud Asrar | |
-|9/2| X-Men (2019) | 14 (658) | Jonathan Hickman | Mahmud Asrar & Leinil Francis Yu | |
+|9/2| X-Men (2019) | 14 | Jonathan Hickman | Mahmud Asrar & Leinil Francis Yu | |
 |9/3| Marauders (2020) | 14 | Gerry Duggan & Benjamin Percy | Stefano Caselli | |
 |9/4| Exceptional X-Men (2024) | 1 | Eve L. Ewing | Carmen Carnero |2|
 |9/4| Teenage Mutant Ninja Turtles (2024) | 1 | Jason Aaron | Joelle Jones |2|
@@ -296,12 +300,12 @@ categories = [
 |9/5| X-Force (2019) | 14 | Benjamin Percy & Gerry Duggan | Joshua Cassara | |
 |9/5| Hellions (2020) | 6 | Zeb Wells | Carmen Carnero | |
 |9/5| Cable (2020) | 6 | Gerry Duggan | Phil Noto | |
-|9/5| X-Men (2019) | 15 (659) | Jonathan Hickman | Mahmud Asrar  | |
+|9/5| X-Men (2019) | 15 | Jonathan Hickman | Mahmud Asrar  | |
 |9/5| Excalibur (2019) | 15 | Tini Howard | Mahmud Asrar & Stefano Casseli | |
 |9/5| X of Swords: Destruction | 1 | Jonathan Hickman & Tini Howard | Pepe Larraz | |
-|9/5| X-Men (2019) | 16 (660) | Jonathan Hickman | Phil Noto  | |
+|9/5| X-Men (2019) | 16 | Jonathan Hickman | Phil Noto  | |
 |9/5| Hellions (2020) | 7 | Zeb Wells | Stephen Segovia | |
-|9/5| Absolute Power (2024) | 3 | Mark Waid | Dan Mora | | 
+|9/5| Absolute Power (2024) | 3 | Mark Waid | Dan Mora | |
 |9/5| Hellions (2020) | 8 | Zeb Wells | Stephen Segovia | |
 |9/5| Marauders (2020) | 16 | Gerry Duggan | Stefano Caselli | |
 |9/5| Cable (2020) | 7 | Gerry Duggan | Phil Noto | |
@@ -310,7 +314,7 @@ categories = [
 |9/6| Excalibur (2019) | 17 | Tini Howard | Marcus To | |
 |9/6| Marauders (2020) | 17 | Gerry Duggan | Matteo Lolli | |
 |9/6| Excalibur (2019) | 18 | Tini Howard | Marcus To | |
-|9/6| Nightwatcher (2024) | 1 | Juni Ba | Fero Pe |3| 
+|9/6| Nightwatcher (2024) | 1 | Juni Ba | Fero Pe |3|
 |9/6| Aliens Vs. Avengers (2024) | 1 | Jonathan Hickman | Esad Ribić |2| 
 |9/6| The Invisibles (1996) | 1 | Grant Morrison | Steve Yeowell | |
 |9/6| The Invisibles (1996) | 2 | Grant Morrison | Steve Yeowell | |
@@ -391,25 +395,25 @@ categories = [
 |9/17| Warhammer 40,000: Marneus Calgar (2020) | 4 | Kieron Gillen | Jacen Burrows | |
 |9/17| Warhammer 40,000: Marneus Calgar (2020) | 5 | Kieron Gillen | Jacen Burrows | |
 |9/18| Spider-Gwen: The Ghost-Spider (2024) | 1 | Stephanie Phillips | Federica Mancin | |
-|9/18| Scarlet Witch (2015) | 1 | James Robinson | Vanesa Del Ray | | 
+|9/18| Scarlet Witch (2015) | 1 | James Robinson | Vanesa Del Ray | |
 |9/18| Dazzler (2024) | 1 | Jason Loo | Rafael Loureiro |2|
 |9/18| Deathlok 50th Anniversary Special (2024) | 1 | Christopher Priest & Justina Ireland | Denys Cowan & Carlo Pagulayan |2|
 |9/18| X-Factor (2024) | 2 | Mark Russell | Bob Quinn |2|
-|9/18| Scarlet Witch (2015) | 2 | James Robinson | Marco Rudy | | 
-|9/18| X-Men (2024) | 4 (304) | Jed MacKay | Netho Diaz |2|
-|9/18| Avengers (2023) | 18 (784) | Jed MacKay | Valerio Schiti |2|
+|9/18| Scarlet Witch (2015) | 2 | James Robinson | Marco Rudy | |
+|9/18| X-Men (2024) | 4 | Jed MacKay | Netho Diaz |2|
+|9/18| Avengers (2023) | 18 | Jed MacKay | Valerio Schiti |2|
 |9/18| TMNT: Mutant Nation (2024) | 1 | Tom Waltz & Erik Burnham | Vincenzo Federici & Mateus Santolouco |2|
 |9/18| The Power Fantasy (2024) | 2 | Kieron Gillen | Caspar Wijngaard | |
-|9/18| Scarlet Witch (2015) | 3 | James Robinson  | Steve Dillon & Chris Visions | | 
-|9/18| Scarlet Witch (2015) | 4 | James Robinson  | Steve Dillon & Chris Visions | | 
+|9/18| Scarlet Witch (2015) | 3 | James Robinson  | Steve Dillon & Chris Visions | |
+|9/18| Scarlet Witch (2015) | 4 | James Robinson  | Steve Dillon & Chris Visions | |
 |9/18| The Cull (2023) | 1 | Kelly Thompson | Mattia De Iulus | |
 |9/18| The Cull (2023) | 2 | Kelly Thompson | Mattia De Iulus | |
 |9/18| The Cull (2023) | 3 | Kelly Thompson | Mattia De Iulus | |
 |9/18| The Cull (2023) | 4 | Kelly Thompson | Mattia De Iulus | |
 |9/18| The Cull (2023) | 5 | Kelly Thompson | Mattia De Iulus | |
-|9/20| Scarlet Witch (2015) | 5 | James Robinson  | Javier Pulido | | 
-|9/20| Scarlet Witch (2015) | 6 | James Robinson  | Marguerite Sauvage| | 
-|9/20| Scarlet Witch (2015) | 7 | James Robinson  | Annie Wu| | 
+|9/20| Scarlet Witch (2015) | 5 | James Robinson  | Javier Pulido | |
+|9/20| Scarlet Witch (2015) | 6 | James Robinson  | Marguerite Sauvage| |
+|9/20| Scarlet Witch (2015) | 7 | James Robinson  | Annie Wu| |
 |9/22| Hawkeye (2016) | 2 | Kelly Thompson | Leonardo Romero | |
 |9/23| Hawkeye (2016) | 3 | Kelly Thompson | Leonardo Romero | |
 |9/23| Hawkeye (2016) | 4 | Kelly Thompson | Michael Walsh | |
@@ -421,8 +425,8 @@ categories = [
 |9/25| Books of Doom (2005) | 4 | Ed Brubaker | Pablo Raimondi | |
 |9/25| Books of Doom (2005) | 5 | Ed Brubaker | Pablo Raimondi | |
 |9/25| Wolverine: Revenge (2024) | 2 | Jonathan Hickman | Greg Capullo |2|
-|9/25| X-Force (2024) | 3 (293) | Geoffrey Thorne | Marcus To |2|
-|9/25| NYX (2024) | 3 | Collin Kelly & Jackson Lanzing | Francesco Mortarino |2| 
+|9/25| X-Force (2024) | 3 | Geoffrey Thorne | Marcus To |2|
+|9/25| NYX (2024) | 3 | Collin Kelly & Jackson Lanzing | Francesco Mortarino |2|
 |9/25| Phoenix (2024)| 3 | Stephanie Phillips | Alessandro Miracolo |2|
 |9/25| Uncanny X-Men (2024) | 3 | Gail Simone | David Marquez |2|
 |9/25| Books of Doom (2005) | 6 | Ed Brubaker | Pablo Raimondi | |
@@ -470,9 +474,9 @@ categories = [
 |10/2| Hyde Street (2024) | 1 | Geoff Johns | Ivan Reis |2|
 |10/2| Skin Police (2024) | 1 | Jordan Thomas | Daniel Gete |2|
 |10/2| Hawkeye (2016) | 11 | Kelly Thompson | Leonardo Romero | |
-|10/2| Nightwatcher (2024) | 2 | Juni Ba | Fero Pe | |
-|10/2| X-Men (2024) | 5 | Jed MacKay | Ryan Stegman | |
-|10/2| Storm (2024) | 1 | Murewa Ayodele | Lucas  Werneck | | 
+|10/2| Nightwatcher (2024) | 2 | Juni Ba | Fero Pe |2|
+|10/2| X-Men (2024) | 5 | Jed MacKay | Ryan Stegman |2|
+|10/2| Storm (2024) | 1 | Murewa Ayodele | Lucas  Werneck |2|
 |10/2| Hawkeye (2016) | 12 | Kelly Thompson | Michael Walsh | |
 |10/3| Hawkeye (2016) | 13 | Kelly Thompson | Leonardo Romero | |
 |10/3| Hawkeye (2016) | 14 | Kelly Thompson | Leonardo Romero | |
@@ -487,13 +491,13 @@ categories = [
 |10/5| Ultimate Invasion (2023) | 2 | Jonathan Hickman | Bryan Hitch | |
 |10/5| Ultimate Invasion (2023) | 3 | Jonathan Hickman | Bryan Hitch | |
 |10/5| Ultimate Invasion (2023) | 4 | Jonathan Hickman | Bryan Hitch | |
-|10/5| The Ultimates (2024) | 2 | Deniz Camp | Juan Frigeri | |
+|10/5| The Ultimates (2024) | 2 | Deniz Camp | Juan Frigeri |2|
 |10/6| Utimate Spider-Man (2024) | 1 | Jonathan Hickman | Marco Checchetto | |
 |10/6| Utimate Spider-Man (2024) | 2 | Jonathan Hickman | Marco Checchetto | |
 |10/6| Utimate Spider-Man (2024) | 3 | Jonathan Hickman | Marco Checchetto | |
 |10/6| Utimate Spider-Man (2024) | 4 | Jonathan Hickman | David Messina |2|
 |10/6| Utimate Spider-Man (2024) | 5 | Jonathan Hickman | David Messina | |
-|10/6| Utimate Spider-Man (2024) | 6 | Jonathan Hickman | Marco Checchetto | |
+|10/6| Utimate Spider-Man (2024) | 6 | Jonathan Hickman | Marco Checchetto |2|
 |10/6| Scarlet Witch (2015) | 9 | James Robinson | Joëlle Jones | |
 |10/7| The New Gods (1971) | 1 | Jack Kirby | Jack Kirby | |
 |10/7| The New Gods (1971) | 2 | Jack Kirby | Jack Kirby | |
@@ -503,28 +507,28 @@ categories = [
 |10/8| The New Gods (1971) | 4 | Jack Kirby | Jack Kirby | |
 |10/9| Scarlet Witch (2015) | 12 | James Robinson | Annapaolo Martello | |
 |10/9| Poison Ivy (2022) | 26 | G. Willow Wilson | Marcio Takara |2|
-|10/9| Absolute Batman (2024) | 1 | Scott Snyder | Nick Dragotta | |
+|10/9| Absolute Batman (2024) | 1 | Scott Snyder | Nick Dragotta |2|
 |10/9| Green Lantern Civil Corp Special (2024) | 1 | Jeremy Adams & Phillip Kennedy Wilson | Salvador Larroca |2|
-|10/9| Sentinels (2024) | 1 | Alex Paknadel | Justin Mason | |
-|10/9| X-Force (2024) | 4 | Geoffrey Thorne | Marcus To | |
-|10/9| Phoenix (2024) | 4 | Stephanie Phillips | Alessandro Miracolo | |
-|10/9| Séance in the Asylum | Clay McLeod Chapman | Andrea Mutti |2|
-|10/9| Exceptional X-Men (2024) | 2 | Eve L. Ewing | Carmen Carnero | |
-|10/9| Utimate Spider-Man (2024) | 7 | Jonathan Hickman | Marco Checchetto | |
-|10/9| Utimate Spider-Man (2024) | 8 | Jonathan Hickman | Marco Checchetto | |
-|10/9| Utimate Spider-Man (2024) | 9 | Jonathan Hickman | Marco Checchetto | |
+|10/9| Sentinels (2024) | 1 | Alex Paknadel | Justin Mason |2|
+|10/9| X-Force (2024) | 4 | Geoffrey Thorne | Marcus To |2|
+|10/9| Phoenix (2024) | 4 | Stephanie Phillips | Alessandro Miracolo |2|
+|10/9| Séance in the Asylum |1| Clay McLeod Chapman | Andrea Mutti |2|
+|10/9| Exceptional X-Men (2024) | 2 | Eve L. Ewing | Carmen Carnero |2|
+|10/9| Utimate Spider-Man (2024) | 7 | Jonathan Hickman | Marco Checchetto |2|
+|10/9| Utimate Spider-Man (2024) | 8 | Jonathan Hickman | Marco Checchetto |2|
+|10/9| Utimate Spider-Man (2024) | 9 | Jonathan Hickman | Marco Checchetto |2|
 |10/10| Scarlet Witch (2015) | 13 | James Robinson | Jonathan Marks-Barravecchia | |
 |10/11| Green Lantern (2005) | 1 | Geoff Johns | Ethan Van Sciver & Carlos Pacheco| |
 |10/11| Green Lantern (2005) | 2 | Geoff Johns | Carlos Pacheco | |
 |10/11| Green Lantern (2005) | 3 | Geoff Johns | Carlos Pacheco | |
-|10/12| Green Lantern (2005) | 4 | Geoff Johns | Ethan Van Sciver | | 
+|10/12| Green Lantern (2005) | 4 | Geoff Johns | Ethan Van Sciver | |
 |10/12| Green Lantern (2005) | 5 | Geoff Johns | Ethan Van Sciver | |
 |10/12| Green Lantern (2005) | 6 | Geoff Johns | Simone Binachi | |
-|10/13| Green Lantern Corps: Recharge (2005) | 1 | Geoff Johns & David Gibbons | Patrick Gleason |  |
-|10/13| Green Lantern Corps: Recharge (2005) | 2 | Geoff Johns & David Gibbons | Patrick Gleason |  |
-|10/13| Green Lantern Corps: Recharge (2005) | 3 | Geoff Johns & David Gibbons | Patrick Gleason |  |
-|10/13| Green Lantern Corps: Recharge (2005) | 4 | Geoff Johns & David Gibbons | Patrick Gleason |  |
-|10/13| Green Lantern Corps: Recharge (2005) | 5 | Geoff Johns & David Gibbons | Patrick Gleason |  |
+|10/13| Green Lantern Corps: Recharge (2005) | 1 | Geoff Johns & David Gibbons | Patrick Gleason | |
+|10/13| Green Lantern Corps: Recharge (2005) | 2 | Geoff Johns & David Gibbons | Patrick Gleason | |
+|10/13| Green Lantern Corps: Recharge (2005) | 3 | Geoff Johns & David Gibbons | Patrick Gleason | |
+|10/13| Green Lantern Corps: Recharge (2005) | 4 | Geoff Johns & David Gibbons | Patrick Gleason | |
+|10/13| Green Lantern Corps: Recharge (2005) | 5 | Geoff Johns & David Gibbons | Patrick Gleason | |
 |10/13| Green Lantern (2005) | 7 | Geoff Johns | Carlos Pacheco | |
 |10/13| Waller vs. Wildstorm (2023) | 1 | Spencer Ackerman & Evan Narcisse | Jesús Merino | |
 |10/13| Waller vs. Wildstorm (2023) | 2 | Spencer Ackerman & Evan Narcisse | Jesús Merino | |
@@ -544,13 +548,13 @@ categories = [
 |10/14| Supergirl (2005) |11| Joe Kelly | Joe Benitez | |
 |10/14| Poison Ivy (2022) |1| G. Willow Wilson | Marcio Takara | |
 |10/15| Green Lantern (2005) |8| Geoff Johns | Carlos Pacheco | |
-|10/16| Wolverine (2024) |2| Saladin Ahmed| Martín Cóccolo | |o
-|10/16| Catwoman (2018) |69| Torunn Grønbekk | Fabiana Mascolo | | o
-|10/16| Mystique (2024) |1| Declan Shalvey | Matt Hollingsworth | |
-|10/16| The Exorcism at 1600 Penn (2024) |1| Hannah Rose May | Vanessa R. Del Ray | |
-|10/16| Ultimate Spider-Man (2024) |10| Jonathan Hickman| David Messina | |
-|10/16| Uncanny X-Men (2024) |4| Gail Simone | David Marquez | |
-|10/17| Green Lantern (2005) |9| Geoff Johns | Ethan van Sciver | |
+|10/16| Wolverine (2024) |2| Saladin Ahmed| Martín Cóccolo |2|
+|10/16| Catwoman (2018) |69| Torunn Grønbekk | Fabiana Mascolo |2|
+|10/16| Mystique (2024) |1| Declan Shalvey | Matt Hollingsworth |2|
+|10/16| The Exorcism at 1600 Penn (2024) |1| Hannah Rose May | Vanessa R. Del Ray |2|
+|10/16| Ultimate Spider-Man (2024) |10| Jonathan Hickman| David Messina |2|
+|10/16| Uncanny X-Men (2024) |4| Gail Simone | David Marquez |2|
+|10/17| Green Lantern (2005) |9| Geoff Johns | Ethan van Sciver |2|
 |10/17| Green Lantern (2005) |10| Geoff Johns | Ivan Reis | |
 |10/18| Green Lantern (2005) |11| Geoff Johns | Ivan Reis | |
 |10/18| Green Lantern (2005) |12| Geoff Johns | Ivan Reis | |
@@ -582,18 +586,48 @@ categories = [
 |10/23| All-Star Superman (2005) |9| Grant Morrison | Frank Quitely | |
 |10/23| Superman (2023) |1| Joshua Williamson | Jamal Campbell | |
 |10/23| Superman (2023) |2| Joshua Williamson | Jamal Campbell | |
-|10/23| X-Factor (2024) |3| Mark Russell | Bob Quinn | |
-|10/23| X-Men (2024) |6| Jed MacKay | Netho Diaz | |
-|10/23| Iron Man (2024) |1| Spencer Ackerman | Julius Ohta | |
-|10/23| Teenage Mutant Ninja Turtles (2024) |3| Jason Aaron | Cliff Chiang | |
-|10/23| Absolute Wonderwoman (2024) |1| Kelly Link | Hayden Sherman | |
-|10/23| The Sacred Damned #1 (2024) |1| Sabir Pirzada | Michael Walsh | |
-|10/23| The Power Fantasy (2024) |3| Kieron Gillen | Caspar Wijngaard | |
+|10/23| X-Factor (2024) |3| Mark Russell | Bob Quinn |2|
+|10/23| X-Men (2024) |6| Jed MacKay | Netho Diaz |2|
+|10/23| Iron Man (2024) |1| Spencer Ackerman | Julius Ohta |2|
+|10/23| Teenage Mutant Ninja Turtles (2024) |3| Jason Aaron | Cliff Chiang |2|
+|10/23| Absolute Wonderwoman (2024) |1| Kelly Link | Hayden Sherman |2|
+|10/23| The Sacred Damned #1 (2024) |1| Sabir Pirzada | Michael Walsh |2|
+|10/23| The Power Fantasy (2024) |3| Kieron Gillen | Caspar Wijngaard |2|
 |10/24| All-Star Superman (2005) |10| Grant Morrison | Frank Quitely | |
 |10/26| All-Star Superman (2005) |11| Grant Morrison | Frank Quitely | |
 |10/26| All-Star Superman (2005) |12| Grant Morrison | Frank Quitely | |
 |10/26| Superman (2023) |3| Joshua Williamson | Jamal Campbell | |
 |10/26| Superman (2023) |4| Joshua Williamson | Jamal Campbell & Nick Dragotta | |
+|10/27| Superman (2023) |5| Joshua Williamson | Jamal Campbell | |
+|10/27| Superman 2023 Annual |1| Joshua Williamson | Various[^7] | |
+|10/27| Superman (2023) |6| Joshua Williamson | Gleb Melnikov | |
+|10/27| The New Gods (1971) |7| Jack Kirby | Jack Kirby | |
+|10/27| The New Gods (1971) |8| Jack Kirby | Jack Kirby | |
+|10/28| Superman (2023) |7| Joshua Williamson | Various[^8] | |
+|10/28| Superman (2023) |8| Joshua Williamson | Various[^9] | |
+|10/28| Superman (2023) |9| Joshua Williamson | Bruno Redondo||
+|10/28| The New Gods (1971) |9| Jack Kirby | Jack Kirby | |
+|10/29| My Greatest Adventure (1955) |80| Arnold Drake & Bob Haney | Bruno Premiani | |
+|10/29| My Greatest Adventure (1955) |81| Arnold Drake & Bob Haney | Bruno Premiani | |
+|10/30| My Greatest Adventure (1955) |82| Arnold Drake | Bruno Premiani | |
+|10/30| Wonder Woman (2006) |14| Gail Simone | Terry Dodson | |
+|10/30| Poison Ivy / Swamp Thing: Feral Trees |1| G. Willow Wilson | Mike Perkins |2|
+|10/30| NYX (2024) |4| Collin Kelly & Jackson Lanzing | Enid Balám |2|
+|10/30| It Happened on Hyde Street: Devour (2024) |1| Maytal Zchut | Leila Leiz |2|
+|10/30| My Greatest Adventure (1955) |83| Arnold Drake | Bruno Premiani | |
+|11/1| My Greatest Adventure (1955) |84| Arnold Drake | Bruno Premiani | |
+|11/2| My Greatest Adventure (1955) |85| Arnold Drake | Bruno Premiani | |
+|11/2| Batman (2011) |1| Scott Snyder | Greg Capullo | |
+|11/2| Batman (2011) |2| Scott Snyder | Greg Capullo | |
+|11/2| Batman (2011) |3| Scott Snyder | Greg Capullo | |
+|11/2| Batman (2011) |4| Scott Snyder | Greg Capullo | |
+|11/2| Batman (2011) |5| Scott Snyder | Greg Capullo | |
+|11/2| Batman (2011) |6| Scott Snyder | Greg Capullo | |
+|11/2| Batman (2011) |7| Scott Snyder | Greg Capullo | |
+|11/2| Batman (2011) |8| Scott Snyder & James Tynion IV | Greg Capullo & Rafael Albuquerque | |
+|11/2| Batman (2011) |9| Scott Snyder & James Tynion IV | Greg Capullo & Rafael Albuquerque | |
+|11/2| Batman Annual (2011) |1| Scott Snyder & James Tynion IV | Jason Fabok | |
+
 
 
 
@@ -605,3 +639,6 @@ categories = [
 [^4]: Vita Ayala, Zeb Wells, and Ed Brisson
 [^5]: Valerio Schiti, Ray-Anthony Height, Bernard Chang, and Nico Leon
 [^6]: Ryan Stegman, Kev Walker, Danilo S. Beyruth, Ron LIm, Guiu Vilanova, Gerardo Sandoval, and Mark Bagley
+[^7]: Mahmud Asrar, Edwin Gaimon, Caitlin Yarsky, Max Raynor, and Jack Herbert
+[^8]: Gleb Melnikov, Dan Jurgens, Norm Rapmund, and Edwin Galmon
+[^9]: Gleb Melnikov, Norm Rapmund, David Baldeón, and Jamal Campbell
