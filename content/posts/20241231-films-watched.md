@@ -34,6 +34,7 @@ tags = [
     "Inside Out 2 (2024)",
     "Zack Snyder's Justice League (2021)",
     "Only Murders in the Building (2021-)",
+    "Agatha All Along (2024-)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -77,7 +78,8 @@ Decided to start tracking TV shows this year as well. Dates are the date in whic
 |10/16|:tv:| Inside Out 2 (2024) | |
 |10/18|:tv:| The Bear S3 (2024) | |
 |10/29|:tv:| Only Murders in the Building S3 (2024) | |
-|10/31|:tv:| Zack Snyder's Justice League (2021) | | 
+|10/31|:tv:| Zack Snyder's Justice League (2021) | |
+|11/2|:tv:| Agatha All Along S1 (2024) | |
 
 
 
