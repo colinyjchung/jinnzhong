@@ -14,6 +14,8 @@ tags = [
     "Joy Williams",
     "The Court Magician (2018)",
     "Sarah Pinsker",
+    "Another Drunk Gambler (1986)",
+    "Craig Nova",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -25,7 +27,8 @@ categories = [
 |10/14| Pop Squad (2006)                  | Paolo Bacigalupi | The Magazine of Fantasy & Science Fiction |       |
 |10/21| Open House on Haunted Hill (2020) | John Wiswell     | Diabolical Plots                          |       |
 |10/25| Dimmer (1969)                     | Joy Williams     | Paris Review                              |       |
-|10/28| The Court Magician (2018)         | Sarah Pinsker    | Lightspeed Magazine
+|10/28| The Court Magician (2018)         | Sarah Pinsker    | Lightspeed Magazine | |
+|11/04| Another Drunk Gambler (1986) | Craig Nova             | Paris Review | |        
 
 
 [Previous "Short Stories Read"](https://journal.jinnzhong.com/tags/short-stories-read/)
