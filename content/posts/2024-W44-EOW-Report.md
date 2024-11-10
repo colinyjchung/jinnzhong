@@ -16,7 +16,7 @@ tags = [
  "Wonder Woman (2006)",
  "Gail Simone",
  "G. Willow Wilson",
- "NYZ (2024)",
+ "NYX (2024)",
  "Collin Kelly",
  "Jackson Lanzing",
  "Batman (2011)",
