@@ -109,7 +109,7 @@ On Friday night, I decide for some reason it was important to take my entire fam
 |11/6| X-Factor (2024) |4| Mark Russell | Bob Quinn |
 |11/6| X-Men (2024) |7| Jed MacKay | Netho Diaz |
 |11/6| Nightwatcher (2024) |3| Juni Ba | Fero Pe |
-|11/6| Catwoman (2024) |1| Tate Brombal | Takeshi Miyazawa |
+|11/6| Batgirl (2024) |1| Tate Brombal | Takeshi Miyazawa |
 |11/6| Poison Ivy (2022) |27| G. Willow Wilson | Marcio Takara |
 |11/6| JSA (2024) |1| Jeff Lemire | Diego Olortegui |
 |11/6| Absolute Superman (2024) |1| Jason Aaron | Rafa Sandoval |
