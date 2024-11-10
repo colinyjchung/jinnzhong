@@ -633,8 +633,6 @@ categories = [
 |11/3| Batman (2011) |11| Scott Snyder & James Tynion IV | Greg Capullo & Rafael Albuquerque ||
 |11/3| Batman (2011) |12| Scott Snyder & James Tynion IV | Becky Cloonan & Andy Clarke ||
 |11/3| Batman (2011) |0| Scott Snyder & James Tynion IV | Greg Capullo & Andy Clarke ||
-|11/3| Batman (2011) |11| Scott Snyder & James Tynion IV | Greg Capullo & Jock ||
-|11/3| Batman (2011) |12| Scott Snyder & James Tynion IV | Greg Capullo & Jock ||
 |11/3| Batman (2011) |13| Scott Snyder & James Tynion IV | Greg Capullo & Jock ||
 |11/3| Batman (2011) |14| Scott Snyder & James Tynion IV | Greg Capullo & Jock ||
 |11/3| New Gods (1971) |10| Jack Kirby | Jack Kirby ||
