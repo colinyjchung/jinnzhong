@@ -651,7 +651,7 @@ categories = [
 |11/6| X-Men (2024) |7| Jed MacKay | Netho Diaz |2|
 |11/6| Nightwatcher (2024) |3| Juni Ba | Fero Pe |2|
 |11/6| Poison Ivy (2022) |27| G. Willow Wilson | Marcio Takara |2|
-|11/6| Catwoman (2024) |1| Tate Brombal | Takeshi Miyazawa |
+|11/6| Batgirl (2024) |1| Tate Brombal | Takeshi Miyazawa |
 |11/6| JSA (2024) |1| Jeff Lemire | Diego Olortegui ||
 |11/6| Absolute Superman (2024) |1| Jason Aaron | Rafa Sandoval ||
 |11/6| Aliens vs. Avengers (2024) |2| Jonathan Hickman | Esad Ribić |2|
