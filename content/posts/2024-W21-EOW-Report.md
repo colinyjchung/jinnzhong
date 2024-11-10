@@ -6,7 +6,7 @@ description = "End of Week Report for W21 of 2024"
 tags = [
     "Creative Process",
     "Olivia Hofer",
-    "LK",
+    "LJK",
     "Garage Fiction Podcast",
     "Sense and Sensibility (1811)",
     "Never Let Me Go (2005)",
