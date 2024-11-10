@@ -41,6 +41,7 @@ tags = [
     "Joe Kelly",
     "Jack Kirby",
     "Jackson Lanzing",
+    "Jeff Lemire",
     "Jeph Loeb",
     "Jason Loo",
     "Jed MacKay",
@@ -64,6 +65,7 @@ tags = [
     "Jordan Thomas",
     "Kelly Thompson",
     "Geoffrey Thorne",
+    "Peter J. Tomasi",
     "James Tynion IV",
     "Ram V",
     "Tom Waltz",
@@ -610,7 +612,7 @@ categories = [
 |10/29| My Greatest Adventure (1955) |80| Arnold Drake & Bob Haney | Bruno Premiani | |
 |10/29| My Greatest Adventure (1955) |81| Arnold Drake & Bob Haney | Bruno Premiani | |
 |10/30| My Greatest Adventure (1955) |82| Arnold Drake | Bruno Premiani | |
-|10/30| Wonder Woman (2006) |14| Gail Simone | Terry Dodson | |
+|10/30| Wonder Woman (2006) |14| Gail Simone | Terry Dodson |2|
 |10/30| Poison Ivy / Swamp Thing: Feral Trees |1| G. Willow Wilson | Mike Perkins |2|
 |10/30| NYX (2024) |4| Collin Kelly & Jackson Lanzing | Enid Balám |2|
 |10/30| It Happened on Hyde Street: Devour (2024) |1| Maytal Zchut | Leila Leiz |2|
@@ -627,7 +629,40 @@ categories = [
 |11/2| Batman (2011) |8| Scott Snyder & James Tynion IV | Greg Capullo & Rafael Albuquerque | |
 |11/2| Batman (2011) |9| Scott Snyder & James Tynion IV | Greg Capullo & Rafael Albuquerque | |
 |11/2| Batman Annual (2011) |1| Scott Snyder & James Tynion IV | Jason Fabok | |
-
+|11/3| Batman (2011) |10| Scott Snyder & James Tynion IV | Greg Capullo & Rafael Albuquerque ||
+|11/3| Batman (2011) |11| Scott Snyder & James Tynion IV | Greg Capullo & Rafael Albuquerque ||
+|11/3| Batman (2011) |12| Scott Snyder & James Tynion IV | Becky Cloonan & Andy Clarke ||
+|11/3| Batman (2011) |0| Scott Snyder & James Tynion IV | Greg Capullo & Andy Clarke ||
+|11/3| Batman (2011) |11| Scott Snyder & James Tynion IV | Greg Capullo & Jock ||
+|11/3| Batman (2011) |12| Scott Snyder & James Tynion IV | Greg Capullo & Jock ||
+|11/3| Batman (2011) |13| Scott Snyder & James Tynion IV | Greg Capullo & Jock ||
+|11/3| Batman (2011) |14| Scott Snyder & James Tynion IV | Greg Capullo & Jock ||
+|11/3| New Gods (1971) |10| Jack Kirby | Jack Kirby ||
+|11/3| New Gods (1971) |11| Jack Kirby | Jack Kirby ||
+|11/3| New Gods (1984) |6| Jack Kirby | Jack Kirby ||
+|11/4| Batman (2011) |15| Scott Snyder & James Tynion IV | Greg Capullo & Jock ||
+|11/5| Batman (2011) |16| Scott Snyder & James Tynion IV | Greg Capullo & Jock ||
+|11/5| Batman (2011) |17| Scott Snyder & James Tynion IV | Greg Capullo & Jock ||
+|11/5| Green Lantern Corps (2011) |1| Peter J. Tomasi| Fernando Pasarin||
+|11/5| Green Lantern Corps (2011) |2| Peter J. Tomasi| Fernando Pasarin||
+|11/5| Green Lantern Corps (2011) |3| Peter J. Tomasi| Fernando Pasarin||
+|11/5| Green Lantern Corps (2011) |4| Peter J. Tomasi| Fernando Pasarin||
+|11/6| X-Force (2024) |5| Geoffrey Thorne | Marcus To |2|
+|11/6| X-Factor (2024) |4| Mark Russell | Bob Quinn |2|
+|11/6| X-Men (2024) |7| Jed MacKay | Netho Diaz |2|
+|11/6| Nightwatcher (2024) |3| Juni Ba | Fero Pe |2|
+|11/6| Poison Ivy (2022) |27| G. Willow Wilson | Marcio Takara |2|
+|11/6| JSA (2024) |1| Jeff Lemire | Diego Olortegui ||
+|11/6| Absolute Superman (2024) |1| Jason Aaron | Rafa Sandoval ||
+|11/6| Aliens vs. Avengers (2024) |2| Jonathan Hickman | Esad Ribić |2|
+|11/7| Green Lantern Corps (2011) |5| Peter J. Tomasi| Fernando Pasarin||
+|11/7| Green Lantern Corps (2011) |6| Peter J. Tomasi| Fernando Pasarin||
+|11/7| Green Lantern Corps (2011) |7| Peter J. Tomasi| Claude St. Aubin||
+|11/7| Green Lantern Corps (2011) |8| Peter J. Tomasi| Fernando Pasarin||
+|11/7| Green Lantern Corps (2011) |9| Peter J. Tomasi| Fernando Pasarin||
+|11/8| Green Lantern Corps (2011) |10| Peter J. Tomasi| Fernando Pasarin||
+|11/8| Green Lantern Corps (2011) |11| Peter J. Tomasi| Fernando Pasarin||
+|11/8| Green Lantern Corps (2011) |12| Peter J. Tomasi| Fernando Pasarin||
 
 
 
