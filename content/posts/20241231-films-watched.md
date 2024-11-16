@@ -36,6 +36,7 @@ tags = [
     "Only Murders in the Building (2021-)",
     "Agatha All Along (2024-)",
     "Guardians of the Galaxy Vol 3 (2023)",
+    "Deadpool & Wolverine (2024)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -81,7 +82,8 @@ Decided to start tracking TV shows this year as well. Dates are the date in whic
 |10/29|:tv:| Only Murders in the Building S3 (2024) | |
 |10/31|:tv:| Zack Snyder's Justice League (2021) | |
 |11/2|:tv:| Agatha All Along S1 (2024) | |
-|11/7|:tv:| Guardians of the Galaxy Vol 3 (2023) |_rewatch_|
+|11/7|:tv:| Guardians of the Galaxy Vol 3 (2023) |rewatch|
+|11/15|:tv:| Deadpool & Wolverine (2024) ||
 
 
 
