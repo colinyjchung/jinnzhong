@@ -45,6 +45,7 @@ tags = [
     "Jeff Lemire",
     "Jeph Loeb",
     "Jason Loo",
+    "Kelly Sue McConnick",
     "Jed MacKay",
     "Hannah Rose May",
     "Peach Momoko",
@@ -63,6 +64,7 @@ tags = [
     "Declan Shalvey",
     "Gail Simone",
     "Scott Snyder",
+    "Brandon Thomas",
     "Jordan Thomas",
     "Kelly Thompson",
     "Geoffrey Thorne",
@@ -76,6 +78,7 @@ tags = [
     "Philip Kennedy Wilson",
     "Mark Waid",
     "Zeb Wells",
+    "Alyssa Wong",
     "Maytal Zchut",
     "Cody Ziglar",
 ]
@@ -663,7 +666,24 @@ categories = [
 |11/8| Green Lantern Corps (2011) |10| Peter J. Tomasi| Fernando Pasarin||
 |11/8| Green Lantern Corps (2011) |11| Peter J. Tomasi| Fernando Pasarin||
 |11/8| Green Lantern Corps (2011) |12| Peter J. Tomasi| Fernando Pasarin||
-
+|11/10| JSA Secret Files (1999) |1| Various[^10] | Various[^11] ||
+|11/10| Justice Society of America (2022) |1| Geoff Johns | Mikel Janín ||
+|11/10| Justice Society of America (2022) |2| Geoff Johns | Mikel Janín ||
+|11/10| Justice Society of America (2022) |3| Geoff Johns | Mikel Janín ||
+|11/12| Wolverine (1988) |69| Larry Hama | Dwayne Turner ||
+|11/12| G.I. Joe (2024) |1| Joshua Williamson | Tom Reilly ||
+|11/12| FML (2024) |1| Kelly Sue McConnick | David López ||
+|11/12| NYX (2024) |5| Collin Kelly & Jackson Lanzing | Francesco Mortarino ||
+|11/12| Psylocke (2024) |1| Alyssa Wong | Vincenzo Carratù ||
+|11/12| Black Lightning (2024) |1| Brandon Thomas | Fico Ossio ||
+|11/12| Absolute Batman (2024) |2| Scott Snyder | Nick Dragotta ||
+|11/12| Uncanny X-Men (2024) |5| Gail Simone | David Marquez ||
+|11/12| Justice Society of America (2022) |4| Geoff Johns | Mikel Janín ||
+|11/12| Justice Society of America (2022) |5| Geoff Johns | Mikel Janín ||
+|11/14| Justice Society of America (2022) |6| Geoff Johns | Mikel Janín ||
+|11/14| Spider-Gwen: The Ghost Spider (2024) | Stephanie Phillips | Federica Mancin & Paolo Villenelli ||
+|11/15| Justice Society of America (2022) |7| Geoff Johns | Mikel Janín ||
+|11/15| Justice Society of America (2022) |8| Geoff Johns | Mikel Janín ||
 
 
 [Previous "Comics Reads"](https://journal.jinnzhong.com/tags/comics-read/)
@@ -677,3 +697,5 @@ categories = [
 [^7]: Mahmud Asrar, Edwin Gaimon, Caitlin Yarsky, Max Raynor, and Jack Herbert
 [^8]: Gleb Melnikov, Dan Jurgens, Norm Rapmund, and Edwin Galmon
 [^9]: Gleb Melnikov, Norm Rapmund, David Baldeón, and Jamal Campbell
+[^10]: David S. Goyer, James Robinson, Steven Grant, Ron Marz
+[^11]: Scott Benefiel, Eddy Newell, Chris Weston
