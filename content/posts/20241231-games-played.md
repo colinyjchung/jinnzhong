@@ -1,6 +1,6 @@
 +++ 
 author = "Jinn Zhong" 
-title = "Games Played 2024 (2)" 
+title = "Games Played 2024 (12)" 
 date = "2024-12-31" 
 description = "None Yet" 
 tags = [
@@ -38,7 +38,7 @@ categories = [
 | 10/19 | GSR | Love Letter: Batman (2015) | CFMa**Mi** | 2/0/2/3 |
 
 
-## RPG Sessions (5)
+## RPG Sessions (6)
 | Date | Loc | Sys | Party | Ep. |
 | ---: | :---: | :--- | :--- |:--- |
 | 2/3 | GSR | HtR5e | Rain City Reckoning | [Making Friends](https://journal.jinnzhong.com/rcr-htr-e10-making-friends/) |
@@ -46,6 +46,7 @@ categories = [
 | 5/18 | GSR | HtR5e | Rain City Reckoning | [Sam the Softie](https://journal.jinnzhong.com/rcr-htr-e11-sam-the-softie/) |
 | 7/13 | GSR | HtR5e | Rain City Reckoning | [k33tz the Sorcerer](https://journal.jinnzhong.com/rcr-htr-e12-k33tz-the-sorcerer/) |
 | 8/10 | GSR | HtR5e | Rain City Reckoning | [Magdela, Hassan, and Rada](https://journal.jinnzhong.com/rcr-htr-e13-magdela-hassan-and-rada/) |
+| 11/16 | GSR | HtR5e | Rain City Reckoning | [Vials of Shit](https://journal.jinnzhong.com/rcr-htr-e14-vials-of-shit/) |
 
 [Previous "Games Played" Here](https://journal.jinnzhong.com/tags/games-played/)
 
