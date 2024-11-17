@@ -37,6 +37,7 @@ tags = [
     "Agatha All Along (2024-)",
     "Guardians of the Galaxy Vol 3 (2023)",
     "Deadpool & Wolverine (2024)",
+    "Spider-Man: Into the Spider-Verse (2018)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -84,6 +85,7 @@ Decided to start tracking TV shows this year as well. Dates are the date in whic
 |11/2|:tv:| Agatha All Along S1 (2024) | |
 |11/7|:tv:| Guardians of the Galaxy Vol 3 (2023) |rewatch|
 |11/15|:tv:| Deadpool & Wolverine (2024) ||
+|11/16|:tv:| Spider-Man: Into the Spider-Verse (2018) ||
 
 
 
