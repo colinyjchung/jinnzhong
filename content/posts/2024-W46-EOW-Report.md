@@ -19,13 +19,13 @@ tags = [
  "Larry Hama",
  "G.I. Joe (2024)",
  "Joshua Williamson",
- "FML (2024)"
+ "FML (2024)",
  "Kelly Sue McConnick",
  "NYX (2024)",
  "Collin Kelly",
  "Jackson Lanzing",
  "Psylocke (2024)",
- "Black Lightning (2024)"
+ "Black Lightning (2024)",
  "Brandon Thomas",
  "Absolute Batman (2024)",
  "Scott Snyder",
