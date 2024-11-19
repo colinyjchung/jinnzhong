@@ -5,6 +5,8 @@ date = "2024-07-13"
 description = "Are you human? Yes. No. Maybe?"
 tags = [
     "Ogrebeef",
+    "Glausers",
+    "FYC",
     "RPG",
     "Rain City Reckoning",
     "Roleplaying Games",
