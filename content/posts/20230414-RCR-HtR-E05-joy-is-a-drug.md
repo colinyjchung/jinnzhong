@@ -5,6 +5,7 @@ date = "2023-04-14"
 description = "I feel so damn happy"
 tags = [
     "Ogrebeef",
+    "Glausers",
     "RPG",
     "Rain City Reckoning",
     "Roleplaying Games",
