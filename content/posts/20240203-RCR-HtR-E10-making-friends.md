@@ -5,6 +5,8 @@ date = "2024-02-03"
 description = "Let's make a lot of friends tonight!"
 tags = [
     "Ogrebeef",
+    "Glausers",
+    "FYC",
     "RPG",
     "Rain City Reckoning",
     "Roleplaying Games",
