@@ -5,6 +5,8 @@ date = "2023-09-01"
 description = "Death of Evelyn Kung"
 tags = [
     "Ogrebeef",
+    "Glausers",
+    "FYC",
     "RPG",
     "Rain City Reckoning",
     "Roleplaying Games",
