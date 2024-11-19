@@ -5,6 +5,7 @@ date = "2024-03-22"
 description = "If you believe in it, it will be true"
 tags = [
     "Ogrebeef",
+    "FYC",
     "RPG",
     "Rain City Reckoning",
     "Roleplaying Games",
