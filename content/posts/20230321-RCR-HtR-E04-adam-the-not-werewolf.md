@@ -5,6 +5,7 @@ date = "2023-03-21"
 description = "Mirrors are Portals"
 tags = [
     "Ogrebeef",
+    "Glausers",
     "RPG",
     "Rain City Reckoning",
     "Roleplaying Games",
