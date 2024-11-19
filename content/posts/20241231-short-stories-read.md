@@ -22,6 +22,8 @@ tags = [
     "Alyssa Wong",
     "A Witch's Guide to Escape (2018)",
     "Alix E. Harrow",
+    "The Traitor Baru Cormorant, Her Field General, and Their Wounds (2011)",
+    "Seth Dickinson",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -38,6 +40,8 @@ categories = [
 |11/04| Another Drunk Gambler (1986)                | Craig Nova       | Paris Review                              |       |        
 |11/11| Hungry Daughters of Starving Mothers (2015) | Alyssa Wong      | Nightmare Magazine                        |       |
 |11/18| A Witch's Guide to Escape (2018)            | Alix E. Harrow   | Apex Magazine                             |       |
+|11/19| The Traitor Baru Cormorant (2011)           | Seth Dickinson   | Beneath Ceaseless Skies                   |       |
+
 
 
 [Previous "Short Stories Read"](https://journal.jinnzhong.com/tags/short-stories-read/)
