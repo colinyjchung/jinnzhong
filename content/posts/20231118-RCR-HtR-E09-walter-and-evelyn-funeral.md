@@ -5,6 +5,8 @@ date = "2023-11-18"
 description = "Introducing Kass Brawne & k33tz"
 tags = [
     "Ogrebeef",
+    "Glausers",
+    "FYC",
     "RPG",
     "Rain City Reckoning",
     "Roleplaying Games",
