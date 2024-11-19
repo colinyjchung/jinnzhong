@@ -5,7 +5,8 @@ date = "2023-08-11"
 description = "Turn Bing into an Ally Mentor"
 tags = [
     "Ogrebeef",
-    "FC",
+    "Glausers",
+    "FYC",
     "RPG",
     "Rain City Reckoning",
     "Roleplaying Games",
