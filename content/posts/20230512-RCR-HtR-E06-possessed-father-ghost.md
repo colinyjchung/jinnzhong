@@ -5,6 +5,7 @@ date = "2023-05-12"
 description = "Who really knows their father anyway?"
 tags = [
     "Ogrebeef",
+    "Glausers",
     "RPG",
     "Rain City Reckoning",
     "Roleplaying Games",
