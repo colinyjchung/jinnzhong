@@ -5,6 +5,7 @@ date = "2022-10-17"
 description = "Joy is Made of Vampire Fluids!"
 tags = [
     "Ogrebeef",
+    "Glausers",
     "RPG",
     "Rain City Reckoning",
     "Roleplaying Games",
