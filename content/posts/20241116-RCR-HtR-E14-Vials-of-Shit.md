@@ -5,6 +5,7 @@ date = "2024-11-16"
 description = ""
 tags = [
     "Ogrebeef",
+    "Glausers",
     "FYC",
     "RPG",
     "Rain City Reckoning",
