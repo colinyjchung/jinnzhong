@@ -5,6 +5,7 @@ date = "2022-08-05"
 description = "Garbled Notes"
 tags = [
     "Ogrebeef",
+    "Glausers",
     "RPG",
     "Rain City Reckoning",
     "Roleplaying Games",
