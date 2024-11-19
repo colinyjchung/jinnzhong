@@ -5,6 +5,8 @@ date = "2024-05-18"
 description = "Fighting a Werewolf"
 tags = [
     "Ogrebeef",
+    "Glausers",
+    "FYC",
     "RPG",
     "Rain City Reckoning",
     "Roleplaying Games",
