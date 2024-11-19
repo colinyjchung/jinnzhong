@@ -20,6 +20,8 @@ tags = [
     "Craig Nova",
     "Hungry Daughters of Starving Mothers (2015)",
     "Alyssa Wong",
+    "A Witch's Guide to Escape (2018)",
+    "Alix E. Harrow",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -34,7 +36,8 @@ categories = [
 |10/28| The Court Magician (2018)                   | Sarah Pinsker    | Lightspeed Magazine                       |       |
 |11/03| Ten Deals with the Indigo Snake (2018)      | Mel Kassel       | Lightspeed Magazine                       |       |
 |11/04| Another Drunk Gambler (1986)                | Craig Nova       | Paris Review                              |       |        
-|11/11| Hungry Daughters of Starving Mothers (2015) | Alyssa Wong      | Nightmare                                 |       |   
+|11/11| Hungry Daughters of Starving Mothers (2015) | Alyssa Wong      | Nightmare Magazine                        |       |
+|11/18| A Witch's Guide to Escape (2018)            | Alix E. Harrow   | Apex Magazine                             |       |
 
 
 [Previous "Short Stories Read"](https://journal.jinnzhong.com/tags/short-stories-read/)
