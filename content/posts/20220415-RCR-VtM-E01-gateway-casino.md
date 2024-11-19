@@ -5,6 +5,7 @@ date = "2022-04-15"
 description = "Vampire After Two Decades"
 tags = [
     "Ogrebeef",
+    "Glausers",
     "RPG",
     "Rain City Reckoning",
     "Roleplaying Games",
