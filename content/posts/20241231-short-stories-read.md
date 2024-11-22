@@ -24,6 +24,8 @@ tags = [
     "Alix E. Harrow",
     "The Traitor Baru Cormorant, Her Field General, and Their Wounds (2011)",
     "Seth Dickinson",
+    "The Castle Jack Built (2012)",
+    "Emily Gilman",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -41,6 +43,7 @@ categories = [
 |11/11| Hungry Daughters of Starving Mothers (2015) | Alyssa Wong      | Nightmare Magazine                        |       |
 |11/18| A Witch's Guide to Escape (2018)            | Alix E. Harrow   | Apex Magazine                             |       |
 |11/19| The Traitor Baru Cormorant (2011)           | Seth Dickinson   | Beneath Ceaseless Skies                   |       |
+|11/20| The Castle Jack Built (2012)                | Emily Gilman     | Beneath Ceaseless Skies                   |       |
 
 
 
