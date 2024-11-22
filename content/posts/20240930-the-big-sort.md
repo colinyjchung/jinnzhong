@@ -6,7 +6,7 @@ description = "Priorities"
 tags = [
     "The Struggle",
     "Creative Process",
-    "Garage Fiction Podcast"
+    "Garage Fiction Podcast",
     "Olivia Hofer",
     "L.L. MacRae",
     "Bryan Cheyne",
