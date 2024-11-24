@@ -24,6 +24,7 @@ tags = [
     "Clay McLeod Chapman",
     "Chris Claremont",
     "Arnold Drake",
+    "Tananarive Due",
     "Gerry Duggan",
     "Warren Ellis",
     "Al Ewing",
@@ -36,6 +37,7 @@ tags = [
     "Jonathan Hickman",
     "Bryan Hill",
     "Tini Howard",
+    "Joseph Illidge",
     "Geoff Johns",
     "Joëlle Jones",
     "Collin Kelly",
@@ -61,6 +63,7 @@ tags = [
     "Greg Rucka",
     "Mark Russell",
     "Erica Schultz",
+    "Alex Segura",
     "Declan Shalvey",
     "Gail Simone",
     "Scott Snyder",
@@ -530,11 +533,11 @@ categories = [
 |10/12| Green Lantern (2005) | 4 | Geoff Johns | Ethan Van Sciver | |
 |10/12| Green Lantern (2005) | 5 | Geoff Johns | Ethan Van Sciver | |
 |10/12| Green Lantern (2005) | 6 | Geoff Johns | Simone Binachi | |
-|10/13| Green Lantern Corps: Recharge (2005) | 1 | Geoff Johns & David Gibbons | Patrick Gleason | |
-|10/13| Green Lantern Corps: Recharge (2005) | 2 | Geoff Johns & David Gibbons | Patrick Gleason | |
-|10/13| Green Lantern Corps: Recharge (2005) | 3 | Geoff Johns & David Gibbons | Patrick Gleason | |
-|10/13| Green Lantern Corps: Recharge (2005) | 4 | Geoff Johns & David Gibbons | Patrick Gleason | |
-|10/13| Green Lantern Corps: Recharge (2005) | 5 | Geoff Johns & David Gibbons | Patrick Gleason | |
+|10/13| Green Lantern Corps: Recharge (2005) | 1 | Geoff Johns & David Gibbons | Patrick Gleason |2|
+|10/13| Green Lantern Corps: Recharge (2005) | 2 | Geoff Johns & David Gibbons | Patrick Gleason |2|
+|10/13| Green Lantern Corps: Recharge (2005) | 3 | Geoff Johns & David Gibbons | Patrick Gleason |2|
+|10/13| Green Lantern Corps: Recharge (2005) | 4 | Geoff Johns & David Gibbons | Patrick Gleason |2|
+|10/13| Green Lantern Corps: Recharge (2005) | 5 | Geoff Johns & David Gibbons | Patrick Gleason |2|
 |10/13| Green Lantern (2005) | 7 | Geoff Johns | Carlos Pacheco | |
 |10/13| Waller vs. Wildstorm (2023) | 1 | Spencer Ackerman & Evan Narcisse | Jesús Merino | |
 |10/13| Waller vs. Wildstorm (2023) | 2 | Spencer Ackerman & Evan Narcisse | Jesús Merino | |
@@ -654,8 +657,8 @@ categories = [
 |11/6| X-Men (2024) |7| Jed MacKay | Netho Diaz |2|
 |11/6| Nightwatcher (2024) |3| Juni Ba | Fero Pe |2|
 |11/6| Poison Ivy (2022) |27| G. Willow Wilson | Marcio Takara |2|
-|11/6| Batgirl (2024) |1| Tate Brombal | Takeshi Miyazawa |
-|11/6| JSA (2024) |1| Jeff Lemire | Diego Olortegui ||
+|11/6| Batgirl (2024) |1| Tate Brombal | Takeshi Miyazawa |2|
+|11/6| JSA (2024) |1| Jeff Lemire | Diego Olortegui |2|
 |11/6| Absolute Superman (2024) |1| Jason Aaron | Rafa Sandoval ||
 |11/6| Aliens vs. Avengers (2024) |2| Jonathan Hickman | Esad Ribić |2|
 |11/7| Green Lantern Corps (2011) |5| Peter J. Tomasi| Fernando Pasarin||
@@ -671,19 +674,39 @@ categories = [
 |11/10| Justice Society of America (2022) |2| Geoff Johns | Mikel Janín ||
 |11/10| Justice Society of America (2022) |3| Geoff Johns | Mikel Janín ||
 |11/12| Wolverine (1988) |69| Larry Hama | Dwayne Turner ||
-|11/12| G.I. Joe (2024) |1| Joshua Williamson | Tom Reilly ||
-|11/12| FML (2024) |1| Kelly Sue McConnick | David López ||
-|11/12| NYX (2024) |5| Collin Kelly & Jackson Lanzing | Francesco Mortarino ||
-|11/12| Psylocke (2024) |1| Alyssa Wong | Vincenzo Carratù ||
-|11/12| Black Lightning (2024) |1| Brandon Thomas | Fico Ossio ||
-|11/12| Absolute Batman (2024) |2| Scott Snyder | Nick Dragotta ||
-|11/12| Uncanny X-Men (2024) |5| Gail Simone | David Marquez ||
+|11/12| G.I. Joe (2024) |1| Joshua Williamson | Tom Reilly |2|
+|11/12| FML (2024) |1| Kelly Sue McConnick | David López |2|
+|11/12| NYX (2024) |5| Collin Kelly & Jackson Lanzing | Francesco Mortarino |2|
+|11/12| Psylocke (2024) |1| Alyssa Wong | Vincenzo Carratù |2|
+|11/12| Black Lightning (2024) |1| Brandon Thomas | Fico Ossio |2|
+|11/12| Absolute Batman (2024) |2| Scott Snyder | Nick Dragotta |2|
+|11/12| Uncanny X-Men (2024) |5| Gail Simone | David Marquez |2|
 |11/12| Justice Society of America (2022) |4| Geoff Johns | Mikel Janín ||
 |11/12| Justice Society of America (2022) |5| Geoff Johns | Mikel Janín ||
 |11/14| Justice Society of America (2022) |6| Geoff Johns | Mikel Janín ||
 |11/14| Spider-Gwen: The Ghost Spider (2024) | Stephanie Phillips | Federica Mancin & Paolo Villenelli ||
 |11/15| Justice Society of America (2022) |7| Geoff Johns | Mikel Janín ||
 |11/15| Justice Society of America (2022) |8| Geoff Johns | Mikel Janín ||
+|11/16| Justice Society of America (2022) |9| Geoff Johns | Mikel Janín ||
+|11/16| Green Lantern (2023) |16| Jeremy Adams | Xermánico ||
+|11/18| Green Lantern Corps: Recharge (2005) | Geoff Johns & Dave Gibbons | Patrick Gleason ||
+|11/18| Wolverine (2024) |3| Saladin Ahmed | Martín Cóccolo |2|
+|11/18| Phoenix (2024) |5| Stephanie Phillips | Alessandro Miracolo |2|
+|11/18| The Question: All Along the Watchtower (2024) |1| Alex Segura | Cian Tormey |2|
+|11/18| Milestone Universe: The Shadow Cabinet (2024) |1| Joseph Illidge  | Darryl Banks |2|
+|11/18| Catwoman (2018) |70| Torunn Grønbekk | Fabiana Mascolo |2|
+|11/18| Storm (2024) |2| Murewa Ayodele | Lucas Werneck |2|
+|11/18| Exceptional X-Men (2024) |3| Eve L. Ewing | Carmen Carnero |2|
+|11/18| Ultimate Spider-Man (2024) |11| Jonathan Hickman | David Messina |2|
+|11/18| The Power Fantasy (2024) |4| Kieron Gillen | Caspar Wijngaard ||
+|11/18| Moon Dogs (2024) |1| Tananarive Due | Kelsey Ramsay ||
+|11/21| Green Lantern (2005) |14| Geoff Johns | Ivan Reis ||
+|11/21| Green Lantern (2005) |15| Geoff Johns | Ivan Reis ||
+|11/21| Green Lantern (2005) |16| Geoff Johns | Ivan Reis ||
+|11/21| Green Lantern (2005) |17| Geoff Johns | Ivan Reis ||
+|11/23| Green Lantern (2005) |18| Geoff Johns | Daniel Acuña & Dave Gibbons ||
+|11/23| Green Lantern (2005) |19| Geoff Johns | Daniel Acuña & Dave Gibbons ||
+|11/23| Green Lantern (2005) |20| Geoff Johns | Daniel Acuña & Dave Gibbons ||
 
 
 [Previous "Comics Reads"](https://journal.jinnzhong.com/tags/comics-read/)
