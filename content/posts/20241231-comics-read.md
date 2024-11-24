@@ -689,7 +689,6 @@ categories = [
 |11/15| Justice Society of America (2022) |8| Geoff Johns | Mikel Janín ||
 |11/16| Justice Society of America (2022) |9| Geoff Johns | Mikel Janín ||
 |11/16| Green Lantern (2023) |16| Jeremy Adams | Xermánico ||
-|11/18| Green Lantern Corps: Recharge (2005) | Geoff Johns & Dave Gibbons | Patrick Gleason ||
 |11/18| Wolverine (2024) |3| Saladin Ahmed | Martín Cóccolo |2|
 |11/18| Phoenix (2024) |5| Stephanie Phillips | Alessandro Miracolo |2|
 |11/18| The Question: All Along the Watchtower (2024) |1| Alex Segura | Cian Tormey |2|
