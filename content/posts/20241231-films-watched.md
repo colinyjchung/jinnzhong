@@ -38,6 +38,7 @@ tags = [
     "Guardians of the Galaxy Vol 3 (2023)",
     "Deadpool & Wolverine (2024)",
     "Spider-Man: Into the Spider-Verse (2018)",
+    "The Penguin (2024-)",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -86,6 +87,7 @@ Decided to start tracking TV shows this year as well. Dates are the date in whic
 |11/7|:tv:| Guardians of the Galaxy Vol 3 (2023) |rewatch|
 |11/15|:tv:| Deadpool & Wolverine (2024) ||
 |11/16|:tv:| Spider-Man: Into the Spider-Verse (2018) |rewatch|
+|11/28|:tv:| The Penguin S1 (2024) ||
 
 
 
