@@ -28,6 +28,8 @@ tags = [
     "Emily Gilman",
     "Welcome to Your Authentic Indian Experience (2017)",
     "Rebecca Roanhorse",
+    "Blood Grains Speak Through Memories (2016)",
+    "Jason Sanford",
 ]
 categories = [
     "Unnecessary Tracking",
@@ -47,6 +49,7 @@ categories = [
 |11/19| The Traitor Baru Cormorant (2011)                 | Seth Dickinson   | Beneath Ceaseless Skies                   |       |
 |11/20| The Castle Jack Built (2012)                      | Emily Gilman     | Beneath Ceaseless Skies                   |       |
 |11/26| Welcome to Your Authentic Indian Experience (2017)| Rebecca Roanhorse| Apex Magazine                             |       |
+|11/29| Blood Grains Speak Through Memories (2016)        | Jason Sanford    | Beneath Ceaseless Skies                   |       |
 
 
 [Previous "Short Stories Read"](https://journal.jinnzhong.com/tags/short-stories-read/)
