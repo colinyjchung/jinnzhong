@@ -36,7 +36,7 @@ tags = [
  "Blood Grains Speak Through Memories (2016)",
  "Jason Sanford",
  "The Penguin (2024-)",
- "Lauren LeFranc"
+ "Lauren LeFranc",
  "The Remarkable Life of Ibelin (2024)",
  "EOW Reports",
  ]
