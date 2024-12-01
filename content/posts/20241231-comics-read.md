@@ -723,7 +723,7 @@ categories = [
 |11/27| Green Lantern Corps (2006) |9| Keith Champagne | Patrick Gleason ||
 |11/27| Green Lantern Corps (2006) |10| Dave Gibbons | Patrick Gleason ||
 |11/27| Iron Man (2024) |2| Spencer Ackerman | Julius Ohta ||
-|11/27| Mystique (2024) |2|| Declan Shalvey | Declan Shalvey ||
+|11/27| Mystique (2024) |2| Declan Shalvey | Declan Shalvey ||
 |11/27| Teenage Mutant Ninja Turtles (2024) |4| Jason Aaron | Christopher Burnham ||
 |11/27| Absolute Wonder Woman (2024) |2| Kelly Thompson | Hayden Sherman ||
 |11/27| Uncanny X-Men (2024) |6| Gail Simone | Javier Garrón ||
