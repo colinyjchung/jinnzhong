@@ -21,6 +21,7 @@ tags = [
     "Erik Burnham",
     "Deniz Camp",
     "Donny Cates",
+    "Keith Champagne",
     "Clay McLeod Chapman",
     "Chris Claremont",
     "Arnold Drake",
@@ -29,7 +30,7 @@ tags = [
     "Warren Ellis",
     "Al Ewing",
     "Eve L. Ewing",
-    "David Gibbons",
+    "Dave Gibbons",
     "Kieron Gillen",
     "Torunn Grønbekk",
     "Larry Hama",
@@ -53,6 +54,7 @@ tags = [
     "Peach Momoko",
     "Grant Morrison",
     "Evan Narcisse",
+    "Ryan North",
     "Steve Orlando",
     "Alex Paknadel",
     "Benjamine Percy",
@@ -706,7 +708,43 @@ categories = [
 |11/23| Green Lantern (2005) |18| Geoff Johns | Daniel Acuña & Dave Gibbons ||
 |11/23| Green Lantern (2005) |19| Geoff Johns | Daniel Acuña & Dave Gibbons ||
 |11/23| Green Lantern (2005) |20| Geoff Johns | Daniel Acuña & Dave Gibbons ||
-
+|11/24| Green Lantern: Sinestro Corp Special (2007) |1| Geoff Johns | Ethan Van Sciver ||
+|11/24| Green Lantern (2005) |21| Geoff Johns | Ivan Reis ||
+|11/24| Green Lantern Corps (2006) |1| Dave Gibbons | Patrick Gleason ||
+|11/24| Green Lantern Corps (2006) |2| Dave Gibbons | Patrick Gleason ||
+|11/24| Green Lantern Corps (2006) |3| Dave Gibbons | Patrick Gleason ||
+|11/24| Planetary (1998) |17| Warren Ellis | John Cassaday ||
+|11/24| Planetary (1998) |18| Warren Ellis | John Cassaday ||
+|11/25| Green Lantern Corps (2006) |4| Dave Gibbons | Dave Gibbons ||
+|11/25| Green Lantern Corps (2006) |5| Dave Gibbons | Dave Gibbons ||
+|11/25| Green Lantern Corps (2006) |6| Dave Gibbons | Dave Gibbons ||
+|11/27| Green Lantern Corps (2006) |7| Keith Champagne | Patrick Gleason ||
+|11/27| Green Lantern Corps (2006) |8| Keith Champagne | Patrick Gleason ||
+|11/27| Green Lantern Corps (2006) |9| Keith Champagne | Patrick Gleason ||
+|11/27| Green Lantern Corps (2006) |10| Dave Gibbons | Patrick Gleason ||
+|11/27| Iron Man (2024) |2| Spencer Ackerman | Julius Ohta ||
+|11/27| Mystique (2024) |2|| Declan Shalvey | Declan Shalvey ||
+|11/27| Teenage Mutant Ninja Turtles (2024) |4| Jason Aaron | Christopher Burnham ||
+|11/27| Absolute Wonder Woman (2024) |2| Kelly Thompson | Hayden Sherman ||
+|11/27| Uncanny X-Men (2024) |6| Gail Simone | Javier Garrón ||
+|11/27| Justice League Unlimited (2024) |1| Mark Waid | Dan Mora |2|
+|11/28| Superman (2023) |10| Joshua Williamson | Bruno Redondo & Caio Filipe ||
+|11/28| Superman (2023) |11| Joshua Williamson | Bruno Redondo ||
+|11/28| Superman (2023) |12| Joshua Williamson | Bruno Redondo & Norm Rapmund||
+|11/29| Superman (2023) |13| Joshua Williamson | Rafael Sandoval||
+|11/29| Green Lantern Corps (2006) |11| Dave Gibbons | Patrick Gleason & Tom Nguyen ||
+|11/29| Superman (2023) |19| Joshua Williamson | Dan Mora ||
+|11/29| Namor (2024) |1| Jason Aaron | Paul Davidson & Alex Lins ||
+|11/29| Green Lantern Corps (2006) |12| Dave Gibbons | Patrick Gleason ||
+|11/29| Fantastic Four (2022) |1| Ryan North | Iban Coello ||
+|11/29| Fantastic Four (2022) |2| Ryan North | Iban Coello ||
+|11/29| Fantastic Four (2022) |3| Ryan North | Iban Coello ||
+|11/30| Power Girl (2023) |1| Leah Williams | Eduardo Pasarin ||
+|11/30| Power Girl (2023) |2| Leah Williams | Eduardo Pasarin ||
+|11/30| Power Girl (2023) |3| Leah Williams | Eduardo Pasarin ||
+|11/30| Power Girl (2023) |4| Leah Williams | Eduardo Pasarin ||
+|11/30| Power Girl (2023) |5| Leah Williams | David Baldeón ||
+|11/30| Power Girl (2023) |6| Leah Williams | Marguerite Sauvage ||
 
 [Previous "Comics Reads"](https://journal.jinnzhong.com/tags/comics-read/)
 
