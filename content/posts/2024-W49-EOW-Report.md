@@ -121,7 +121,6 @@ Finally, a colleague from the eBay days, who I haven't spoked to since 2008 reac
 |12/4| JSA (2024) |2| Jeff Lemire | Diego Olortegui |
 |12/4| The Ultimates (2024) |7| Deniz Camp | Juan Frigeri |
 |12/4| Wonder Woman (2006) |12| J. Torres | Paco Diaz |
-|12/4| Wonder Woman (2006) |12| J. Torres | Julian Lopez |
 |12/4| Amazons Attack! (2007) |1| Will Pfeiffer | Pete Woods |
 |12/4| Amazons Attack! (2007) |2| Will Pfeiffer | Pete Woods |
 |12/4| Amazons Attack! (2007) |3| Will Pfeiffer | Pete Woods |
