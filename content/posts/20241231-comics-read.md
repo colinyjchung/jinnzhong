@@ -35,6 +35,7 @@ tags = [
     "Torunn Grønbekk",
     "Larry Hama",
     "Bob Haney",
+    "Allen Heinberg",
     "Jonathan Hickman",
     "Bryan Hill",
     "Tini Howard",
@@ -46,6 +47,7 @@ tags = [
     "Jack Kirby",
     "Jackson Lanzing",
     "Jeff Lemire",
+    "Majorie Liu",
     "Jeph Loeb",
     "Jason Loo",
     "Kelly Sue McConnick",
@@ -58,8 +60,11 @@ tags = [
     "Steve Orlando",
     "Alex Paknadel",
     "Benjamine Percy",
+    "Will Pfeiffer",
     "Stephanie Phillips",
+    "Jodi Picoult",
     "Sabir Pirzada",
+    "Joe Quesada",
     "Jamie S. Rich",
     "James Robinson",
     "Greg Rucka",
@@ -74,9 +79,11 @@ tags = [
     "Kelly Thompson",
     "Geoffrey Thorne",
     "Peter J. Tomasi",
+    "J. Torres",
     "James Tynion IV",
     "Ram V",
     "Tom Waltz",
+    "Christian Ward",
     "Leah Williams",
     "Joshua Williamson",
     "G. Willow Wilson",
@@ -745,6 +752,55 @@ categories = [
 |11/30| Power Girl (2023) |4| Leah Williams | Eduardo Pasarin ||
 |11/30| Power Girl (2023) |5| Leah Williams | David Baldeón ||
 |11/30| Power Girl (2023) |6| Leah Williams | Marguerite Sauvage ||
+|12/1| Power Girl (2023) |7| Leah Williams | Marguerite Sauvage ||
+|12/1| Power Girl (2023) |8| Leah Williams | Eduardo Pansica ||
+|12/1| Power Girl (2023) |14| Leah Williams | Adriana Melo ||
+|12/1| Wonder Woman (2006) |1| Allen Heinberg | Terry Dodson ||
+|12/1| Wonder Woman (2006) |2| Allen Heinberg | Terry Dodson ||
+|12/2| Wonder Woman (2006) |3| Allen Heinberg | Terry Dodson ||
+|12/2| Wonder Woman (2006) |4| Allen Heinberg | Terry Dodson ||
+|12/3| Wonder Woman (2006) |5| Will Pfeifer | Geraldo Borjes & Jean Diaz ||
+|12/3| Wonder Woman (2006) |6| Jodi Picoult | Drew Johnson ||
+|12/3| Wonder Woman (2006) |7| Jodi Picoult | Drew Johnson ||
+|12/3| Wonder Woman (2006) |8| Jodi Picoult | Drew Johnson ||
+|12/4| Wonder Woman (2006) |9| Jodi Picoult | Terry Dodson ||
+|12/4| Wonder Woman (2006) |10| Jodi Picoult | Paco Diaz ||
+|12/4| X-Force (2024) |6| Geoffrey Thorne | Jim Towe ||
+|12/4| TMNT: Nightwatcher (2024) |4| Juni Ba | Fero Pe ||
+|12/4| Two Face (2024) |1| Christian Ward | Fabio Veras ||
+|12/4| Absolute Superman (2024) |2| Jason Aaron | Rafa Sandoval ||
+|12/4| Poison Ivy (2022) |28| G. Willow Wilson | Marcio Takara ||
+|12/4| NYX (2024) |6| Collin Kelly & Jackson Lanzing | Michael Shelfer ||
+|12/4| Wonder Woman (2006) |11| J. Torres | Paco Diaz ||
+|12/4| X-Men (2024) |8| Jed MacKay | Ryan Stegman ||
+|12/4| Power Girl (2023) |15| Leah Williams | Adriana Melo ||
+|12/4| JSA (2024) |2| Jeff Lemire | Diego Olortegui ||
+|12/4| The Ultimates (2024) |7| Deniz Camp | Juan Frigeri ||
+|12/4| Wonder Woman (2006) |12| J. Torres | Paco Diaz ||
+|12/4| Wonder Woman (2006) |12| J. Torres | Julian Lopez ||
+|12/4| Amazons Attack! (2007) |1| Will Pfeiffer | Pete Woods ||
+|12/4| Amazons Attack! (2007) |2| Will Pfeiffer | Pete Woods ||
+|12/4| Amazons Attack! (2007) |3| Will Pfeiffer | Pete Woods ||
+|12/6| Amazons Attack! (2007) |4| Will Pfeiffer | Pete Woods ||
+|12/6| Amazons Attack! (2007) |5| Will Pfeiffer | Pete Woods ||
+|12/7| Amazons Attack! (2007) |6| Will Pfeiffer | Pete Woods ||
+|12/7| Wonder Woman (2006) |13| J. Torres | Julian Lopez ||
+|12/7| Wonder Woman (2006) |14| Gail Simone | Ted Dodson ||
+|12/7| Wonder Woman (2006) |15| Gail Simone | Ted Dodson ||
+|12/7| NYX (2003) |1| Joe Quesada | Joshua Middleton ||
+|12/7| NYX (2003) |2| Joe Quesada | Joshua Middleton ||
+|12/7| NYX (2003) |3| Joe Quesada | Joshua Middleton ||
+|12/7| NYX (2003) |4| Joe Quesada | Joshua Middleton ||
+|12/7| NYX (2003) |5| Joe Quesada | Robert Teranishi ||
+|12/7| NYX (2003) |6| Joe Quesada | Robert Teranishi ||
+|12/7| NYX (2003) |7| Joe Quesada | Robert Teranishi ||
+|12/7| NYX (2008) |1| Majorie Liu | Kalman Andrasofszky ||
+|12/7| NYX (2008) |2| Majorie Liu | Kalman Andrasofszky ||
+|12/7| NYX (2008) |3| Majorie Liu | Kalman Andrasofszky & Sara Pichelli||
+|12/7| NYX (2008) |4| Majorie Liu | Kalman Andrasofszky & Sara Pichelli||
+|12/7| NYX (2008) |5| Majorie Liu | Kalman Andrasofszky ||
+|12/7| NYX (2008) |6| Majorie Liu | Kalman Andrasofszky & Sara Pichelli||
+
 
 [Previous "Comics Reads"](https://journal.jinnzhong.com/tags/comics-read/)
 
