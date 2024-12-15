@@ -45,6 +45,7 @@ tags = [
     "Collin Kelly",
     "Joe Kelly",
     "Jack Kirby",
+    "Craig Kyle",
     "Jackson Lanzing",
     "Jeff Lemire",
     "Majorie Liu",
@@ -91,6 +92,7 @@ tags = [
     "Mark Waid",
     "Zeb Wells",
     "Alyssa Wong",
+    "Christopher Yost",
     "Maytal Zchut",
     "Cody Ziglar",
 ]
@@ -799,6 +801,36 @@ categories = [
 |12/7| NYX (2008) |4| Majorie Liu | Kalman Andrasofszky & Sara Pichelli||
 |12/7| NYX (2008) |5| Majorie Liu | Kalman Andrasofszky ||
 |12/7| NYX (2008) |6| Majorie Liu | Kalman Andrasofszky & Sara Pichelli||
+|12/8| X-23 (2005) |1| Craig Kyle & Christopher Yost | Billy Tan ||
+|12/8| X-23 (2005) |2| Craig Kyle & Christopher Yost | Billy Tan ||
+|12/8| X-23 (2005) |3| Craig Kyle & Christopher Yost | Billy Tan ||
+|12/8| X-23 (2005) |4| Craig Kyle & Christopher Yost | Billy Tan ||
+|12/8| X-23 (2005) |5| Craig Kyle & Christopher Yost | Billy Tan ||
+|12/8| X-23 (2005) |6| Craig Kyle & Christopher Yost | Billy Tan ||
+|12/9| X-23 (2010) |1| Majorie Liu | Filipe Andrade & Nuno Alves ||
+|12/9| Wonder Woman (2006) |16| Gail Simone | Terry Dodson ||
+|12/11| Wonder Woman (2006) |17| Gail Simone | Terry Dodson & Ron Randall ||
+|12/11| Laura Kinney (2024) |1| Erica Schultz | Giada Belviso ||
+|12/11| Black Lightning (2024) |2|| Brandon Thomas | Fico Ossio ||
+|12/11| X-Factor (2024) |5| Mark Russell | Bob Quinn ||
+|12/11| Avengers (2023) |21| Jed MacKay | Valerio Schiti ||
+|12/11| Uncanny X-Men (2024) |0| Gail Simone | David Marquez & Edgar Salazar ||
+|12/11| Phoenix (2024) |6|Stephanie Phillips | Marco Renna ||
+|12/11| Storm (2024) |3| Murewa Ayodele | Lucas Werneck ||
+|12/11| Birds of Prey (2023) |14| Kelly Thompson | Sami Basri ||
+|12/11| Birds of Prey (2023) |15| Kelly Thompson | Sami Basri ||
+|12/11| Birds of Prey (2023) |16| Kelly Thompson | Sami Basri ||
+|12/11| Hyde Street (2024) |2| Geoff Johns | Ivan Reis ||
+|12/11| FML (2024) |2| Kelly Sue McConnick | David López ||
+|12/11| Ultimate Universe: One Year In (2024) |1| Deniz Camp | Jonas Scharf ||
+|12/11| Superwoman Special (2024) |1| Joshua Williamson | Laura Braga ||
+|12/12| Birds of Prey (2023) |1| Kelly Thompson | Leonardo Romero ||
+|12/12| Birds of Prey (2023) |2| Kelly Thompson | Leonardo Romero ||
+|12/12| Birds of Prey (2023) |3| Kelly Thompson | Leonardo Romero ||
+|12/13| Birds of Prey (2023) |4| Kelly Thompson | Leonardo Romero ||
+|12/14| Birds of Prey (2023) |5| Kelly Thompson | Arist Deyn ||
+|12/14| Birds of Prey (2023) |6| Kelly Thompson | Leonardo Romero ||
+|12/14| Birds of Prey (2023) |7| Kelly Thompson | Javier Pina ||
 
 
 [Previous "Comics Reads"](https://journal.jinnzhong.com/tags/comics-read/)
