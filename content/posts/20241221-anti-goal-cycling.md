@@ -2,17 +2,17 @@
 author = "Jinn Zhong"
 title = "Anti-Goal Cycling"
 date = "2024-12-21"
-description = "Forget SMART Goals”
+description = "Forget SMART Goals"
 tags = [
- "Creative Process",
- “LJK”,
- “Olivia Hofer”,
- “AJM”,
- “Ogrebeef”,
- “Beau Burdett”,
- "Ashley Janssen",
- "Anne-Laure Le Cunff",
- "Goals",
+   "Creative Process",
+   "LJK",
+   "Olivia Hofer",
+   "AJM",
+   "Ogrebeef",
+   "Beau Burdett",
+   "Ashley Janssen",
+   "Anne-Laure Le Cunff",
+   "Goals",
  ]
 
 categories = [
