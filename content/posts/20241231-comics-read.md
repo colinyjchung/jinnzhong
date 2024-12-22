@@ -20,16 +20,19 @@ tags = [
     "Ed Brubaker",
     "Erik Burnham",
     "Deniz Camp",
+    "Christopher Cantwell",
     "Donny Cates",
     "Keith Champagne",
     "Clay McLeod Chapman",
     "Chris Claremont",
+    "Michael Conrad",
     "Arnold Drake",
     "Tananarive Due",
     "Gerry Duggan",
     "Warren Ellis",
     "Al Ewing",
     "Eve L. Ewing",
+    "Sholly Fisch",
     "Dave Gibbons",
     "Kieron Gillen",
     "Torunn Grønbekk",
@@ -831,6 +834,22 @@ categories = [
 |12/14| Birds of Prey (2023) |5| Kelly Thompson | Arist Deyn ||
 |12/14| Birds of Prey (2023) |6| Kelly Thompson | Leonardo Romero ||
 |12/14| Birds of Prey (2023) |7| Kelly Thompson | Javier Pina ||
+|12/15| Birds of Prey (2023) |8| Kelly Thompson | Javier Pina & David Lopez||
+|12/15| Birds of Prey (2023) |9| Kelly Thompson | Jonathan Case & Gavin Guidry||
+|12/15| Birds of Prey (2023) |10| Kelly Thompson | Robbie Rodriguez & Gavin Guidry||
+|12/18| The New Gods (2024) |1| Ram V | Evan Cagle ||
+|12/18| The Question: All Along the Watchtower (2024) |2| Alex Segura | Cian Tormey ||
+|12/18| Sentinels (2024) |2| Alex Paknadel | Justin Mason ||
+|12/18| Challengers of the Unknown (2024) |1|| Christopher Cantwell | Sean Izaakse ||
+|12/18| Teenage Mutant Ninja Turtles (2024) |5| Jason Aaron | Darick Robertson ||
+|12/18| Absolute Batman (2024) |3| Scott Snyder | Nick Dragotta ||
+|12/18| Catwoman (2018) |71| Torunn Grønbekk | Marianna Ignazzi ||
+|12/19| Action Comics (2011) |1| Grant Morrison | Rags Morales ||
+|12/19| Action Comics (2011) |2| Grant Morrison | Rags Morales ||
+|12/20| Action Comics (2011) |3| Grant Morrison/Sholly Fisch | Rags Morales & Gene Ha/Brad Walker||
+|12/20| In Bloom (2024) |1| Michael Conrad | John Pearson ||
+|12/20| Psylocke (2024) |2| Alyssa Wong | Vincenzo Carratù ||
+|12/20| Ultimate Spider-Man (2024) |12| Jonathan Hickman | Marco Checchetto ||
 
 
 [Previous "Comics Reads"](https://journal.jinnzhong.com/tags/comics-read/)
