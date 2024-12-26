@@ -26,9 +26,10 @@ categories = [
 
 **LEGEND**
 * 📖 - book - novel or nonfiction
-* 🗨️ - superhero - comic
+* 💬 - speech_balloon - comic
 * 🎧 - headphones - audiobook
-* 📺 - tv - show or film on TV
+* 📺 - tv - show on TV
+* 📼 - vhs - film on TV
 * 📽️ - film_projector - film in theatre
 * 🎭 - performing_arts - live theatre
 * 🎼 - musical_score - album
