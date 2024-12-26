@@ -25,15 +25,14 @@ categories = [
 
 
 **LEGEND**
-* 📖 - book - novel or nonfiction
+* 📖 - book - novel
+* 📜 - scroll - history
 * 💬 - speech_balloon - comic
-* 🎧 - headphones - audiobook
-* 📺 - tv - show on TV
-* 📼 - vhs - film on TV
-* 📽️ - film_projector - film in theatre
-* 🎭 - performing_arts - live theatre
-* 🎼 - musical_score - album
-* 🧙‍♂️ - mage_man - TTRPG
+* 🗣️ - speaking_head - audiobook
+* 📺 - tv - TV show
+* 🎬 - clapper - film
+* 🎭 - performing_arts - theatre
+* 🥸 - disguised_face - TTRPG
 * 🎲 - game_die - board game
 
 
