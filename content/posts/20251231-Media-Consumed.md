@@ -19,9 +19,9 @@ categories = [
 ]
 +++
 
-| date | form | title | # | dir/gm | wri/pc | art/dp | ntes |
-| ---: | :---:| :---  | :---: | :--- | :--- | :--- | :--- |
-|00/00 |      |       |00|   |   |   |   |
+| d   | f   | title | dir/gm | wri/pc | art/dp | ntes |
+|---: |:---:| :---  | :---   | :---   | :---   | :--- |
+|00/00|     |       |        |        |        |      |
 
 
 **LEGEND**
@@ -30,9 +30,9 @@ categories = [
 * 💬 - speech_balloon - comic
 * 🗣️ - speaking_head - audiobook
 * 📺 - tv - TV show
-* 🎬 - clapper - film
+* 🎥 - movie_camera - film
 * 🎭 - performing_arts - theatre
-* 🥸 - disguised_face - TTRPG
+* 👺 - goblin - TTRPG
 * 🎲 - game_die - board game
 
 
