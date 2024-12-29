@@ -28,7 +28,7 @@ categories = [
 * 📖 - book - novel
 * 📜 - scroll - history
 * 💬 - speech_balloon - comic
-* 🗣️ - speaking_head - audiobook
+* 🎧 - headphones - audiobook
 * 📺 - tv - TV show
 * 🎥 - movie_camera - film
 * 🎭 - performing_arts - theatre
