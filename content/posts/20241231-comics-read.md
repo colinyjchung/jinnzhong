@@ -33,6 +33,7 @@ tags = [
     "Al Ewing",
     "Eve L. Ewing",
     "Sholly Fisch",
+    "Steve Foxe",
     "Dave Gibbons",
     "Kieron Gillen",
     "Torunn Grønbekk",
@@ -41,6 +42,7 @@ tags = [
     "Allen Heinberg",
     "Jonathan Hickman",
     "Bryan Hill",
+    "Jason Holtham",
     "Tini Howard",
     "Joseph Illidge",
     "Geoff Johns",
@@ -850,7 +852,22 @@ categories = [
 |12/20| In Bloom (2024) |1| Michael Conrad | John Pearson ||
 |12/20| Psylocke (2024) |2| Alyssa Wong | Vincenzo Carratù ||
 |12/20| Ultimate Spider-Man (2024) |12| Jonathan Hickman | Marco Checchetto ||
-
+|12/23| Scarlet Witch (2015) |13| James Robinson | Jonathan Marks-Barravecchia ||
+|12/23| Scarlet Witch (2015) |14| James Robinson | Shawn Crystal||
+|12/23| Scarlet Witch (2015) |15| James Robinson | Vanesa Del Ray ||
+|12/24| Action Comics (2011) |5| Grant Morrison/Sholly Fisch | Andy Kubert/ChrisCross||
+|12/25| Action Comics (2011) |6| Grant Morrison/Sholly Fisch | Andy Kubert/ChrisCross||
+|12/25| Fantastic Four (2022) |4| Ryan North | Iban Coello ||
+|12/26| Exceptional X-Men (2024) |4| Eve L. Ewing | Carmen Carnero ||
+|12/26| X-Men (2024) |9| Jed MacKay | Federico Vicentini & Ryan Stegman ||
+|12/26| Timeslide (2024) |1| Steve Foxe | Ivan Fiorelli ||
+|12/26| Motherf*ckin' Monsters |1| Jason Holtham | Michael Lee Harris ||
+|12/26| Metamorpho: Element Man (2025) |1| Al Ewing | Steve Lieber ||
+|12/26| Power Girl (2023) |16| Leah Williams | Adriana Melo ||
+|12/26| Justice League Unlimited (2024) |2| Mark Waid | Dan Mora ||
+|12/26| Absolute Wonder Woman (2024) |3| Kelly Thompson | Hayden Sherman ||
+|12/26| Superman (2022) |21| Joshua Williams | Dan Mora ||
+|12/28| Action Comics (2011) |7| Grant Morrison/Sholly Fisch | Rags Morales/Brad Walker||
 
 [Previous "Comics Reads"](https://journal.jinnzhong.com/tags/comics-read/)
 
