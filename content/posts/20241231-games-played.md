@@ -1,6 +1,6 @@
 +++ 
 author = "Jinn Zhong" 
-title = "Games Played 2024 (12)" 
+title = "Games Played 2024 (13)" 
 date = "2024-12-31" 
 description = "None Yet" 
 tags = [
@@ -18,6 +18,7 @@ tags = [
     "Betrayal at House on the Hill (2004)",
     "ナナ (2021)",
     "Love Letter: Batman (2015)",
+    "Wavelength (2019)",
 ]
 categories = [
     "Board Games",
@@ -27,7 +28,7 @@ categories = [
 ]
 +++
 
-## Board Games (6)
+## Board Games (7)
 | Date | Loc | Game | Players | Score |
 | ---: | :---: | :--- | :---: | :---: |
 | 1/30 | RTT | Waterloo Campaign 1815 (2019) | **B**C | 24/12 |
@@ -36,6 +37,7 @@ categories = [
 | 10/19 | GSR | ナナ (2021) | CFMa**Mi** | |
 | 10/19 | GSR | ナナ (2021) | CFMa**Mi** | |
 | 10/19 | GSR | Love Letter: Batman (2015) | CFMa**Mi** | 2/0/2/3 |
+| 12/25 | DTb | Wavelength (2019) | GLS&FC v SGL&CC |W|
 
 
 ## RPG Sessions (6)
