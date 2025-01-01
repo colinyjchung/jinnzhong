@@ -139,15 +139,15 @@ categories = [
 ## YEAR END TOTALS:
 |type|total|%|
 |:---|:---:|:---:|
-|gnr:| 6 | |
-|lit:| 4 | |
-|mm:| 1 | |
+|gnr:| 15 | 34.9%|
+|lit:| 12 | 27.9%|
+|mm:| 1 | 0.3%|
 |pol:| 0 | |
-|his:| 5 | |
-|rpg:| 0 | |
+|his:| 8 | 18.6%|
+|rpg:| 1 | 0.3%|
 |sci:| 0 | |
-|wis:| 1 | |
-|biz:| 0 | |
+|wis:| 1 | 0.3%|
+|biz:| 5 | 11.6%|
 
 ## LEGEND
 * gnr - (fiction): genre (sff/hor/mys)
