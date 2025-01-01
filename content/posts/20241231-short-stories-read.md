@@ -36,6 +36,8 @@ categories = [
 ]
 +++
 
+Didn't start tracking until 10/14. Changing how things will be tracked in 2025 anyway.
+
 | date | title                                            | author           | publication                               | notes |
 | ---:| :-------------------------------------------------| :--------------- | :---------------------------------------- | :---- |
 |10/14| Pop Squad (2006)                                  | Paolo Bacigalupi | The Magazine of Fantasy & Science Fiction |       |
