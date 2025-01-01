@@ -1,8 +1,8 @@
 +++ 
 author = "Jinn Zhong" 
-title = "Books Read 2024 (27)" 
+title = "Books Read 2024 (43)" 
 date = "2024-12-31" 
-description = "None Yet"
+description = "Everything Stopped After August Because of Comics"
 tags = [
     "Books Read",
     "Media Consumption",
