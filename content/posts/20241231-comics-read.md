@@ -1,8 +1,8 @@
 +++ 
 author = "Jinn Zhong" 
-title = "Comics Read 2024 (XX)" 
+title = "Comics Read 2024 (768)" 
 date = "2024-12-31" 
-description = "None Yet"
+description = "Fourth Time Back Into the Hobby. Floppies This Time."
 tags = [
     "Comics Read",
     "Media Consumption",
@@ -99,6 +99,7 @@ tags = [
     "Alyssa Wong",
     "Christopher Yost",
     "Maytal Zchut",
+    "Chip Zdarsky",
     "Cody Ziglar",
 ]
 categories = [
@@ -713,8 +714,8 @@ categories = [
 |11/18| Storm (2024) |2| Murewa Ayodele | Lucas Werneck |2|
 |11/18| Exceptional X-Men (2024) |3| Eve L. Ewing | Carmen Carnero |2|
 |11/18| Ultimate Spider-Man (2024) |11| Jonathan Hickman | David Messina |2|
-|11/18| The Power Fantasy (2024) |4| Kieron Gillen | Caspar Wijngaard ||
-|11/18| Moon Dogs (2024) |1| Tananarive Due | Kelsey Ramsay ||
+|11/18| The Power Fantasy (2024) |4| Kieron Gillen | Caspar Wijngaard |2|
+|11/18| Moon Dogs (2024) |1| Tananarive Due | Kelsey Ramsay |2|
 |11/21| Green Lantern (2005) |14| Geoff Johns | Ivan Reis ||
 |11/21| Green Lantern (2005) |15| Geoff Johns | Ivan Reis ||
 |11/21| Green Lantern (2005) |16| Geoff Johns | Ivan Reis ||
@@ -736,11 +737,11 @@ categories = [
 |11/27| Green Lantern Corps (2006) |8| Keith Champagne | Patrick Gleason ||
 |11/27| Green Lantern Corps (2006) |9| Keith Champagne | Patrick Gleason ||
 |11/27| Green Lantern Corps (2006) |10| Dave Gibbons | Patrick Gleason ||
-|11/27| Iron Man (2024) |2| Spencer Ackerman | Julius Ohta ||
-|11/27| Mystique (2024) |2| Declan Shalvey | Declan Shalvey ||
-|11/27| Teenage Mutant Ninja Turtles (2024) |4| Jason Aaron | Christopher Burnham ||
-|11/27| Absolute Wonder Woman (2024) |2| Kelly Thompson | Hayden Sherman ||
-|11/27| Uncanny X-Men (2024) |6| Gail Simone | Javier Garrón ||
+|11/27| Iron Man (2024) |2| Spencer Ackerman | Julius Ohta |2|
+|11/27| Mystique (2024) |2| Declan Shalvey | Declan Shalvey |2|
+|11/27| Teenage Mutant Ninja Turtles (2024) |4| Jason Aaron | Christopher Burnham |2|
+|11/27| Absolute Wonder Woman (2024) |2| Kelly Thompson | Hayden Sherman |2|
+|11/27| Uncanny X-Men (2024) |6| Gail Simone | Javier Garrón |2|
 |11/27| Justice League Unlimited (2024) |1| Mark Waid | Dan Mora |2|
 |11/28| Superman (2023) |10| Joshua Williamson | Bruno Redondo & Caio Filipe ||
 |11/28| Superman (2023) |11| Joshua Williamson | Bruno Redondo ||
@@ -761,7 +762,7 @@ categories = [
 |11/30| Power Girl (2023) |6| Leah Williams | Marguerite Sauvage ||
 |12/1| Power Girl (2023) |7| Leah Williams | Marguerite Sauvage ||
 |12/1| Power Girl (2023) |8| Leah Williams | Eduardo Pansica ||
-|12/1| Power Girl (2023) |14| Leah Williams | Adriana Melo ||
+|12/1| Power Girl (2023) |14| Leah Williams | Adriana Melo |2|
 |12/1| Wonder Woman (2006) |1| Allen Heinberg | Terry Dodson ||
 |12/1| Wonder Woman (2006) |2| Allen Heinberg | Terry Dodson ||
 |12/2| Wonder Woman (2006) |3| Allen Heinberg | Terry Dodson ||
@@ -772,17 +773,17 @@ categories = [
 |12/3| Wonder Woman (2006) |8| Jodi Picoult | Drew Johnson ||
 |12/4| Wonder Woman (2006) |9| Jodi Picoult | Terry Dodson ||
 |12/4| Wonder Woman (2006) |10| Jodi Picoult | Paco Diaz ||
-|12/4| X-Force (2024) |6| Geoffrey Thorne | Jim Towe ||
-|12/4| TMNT: Nightwatcher (2024) |4| Juni Ba | Fero Pe ||
-|12/4| Two Face (2024) |1| Christian Ward | Fabio Veras ||
-|12/4| Absolute Superman (2024) |2| Jason Aaron | Rafa Sandoval ||
-|12/4| Poison Ivy (2022) |28| G. Willow Wilson | Marcio Takara ||
-|12/4| NYX (2024) |6| Collin Kelly & Jackson Lanzing | Michael Shelfer ||
+|12/4| X-Force (2024) |6| Geoffrey Thorne | Jim Towe |2|
+|12/4| TMNT: Nightwatcher (2024) |4| Juni Ba | Fero Pe |2|
+|12/4| Two Face (2024) |1| Christian Ward | Fabio Veras |2|
+|12/4| Absolute Superman (2024) |2| Jason Aaron | Rafa Sandoval |2|
+|12/4| Poison Ivy (2022) |28| G. Willow Wilson | Marcio Takara |2|
+|12/4| NYX (2024) |6| Collin Kelly & Jackson Lanzing | Michael Shelfer |2|
 |12/4| Wonder Woman (2006) |11| J. Torres | Paco Diaz ||
 |12/4| X-Men (2024) |8| Jed MacKay | Ryan Stegman ||
-|12/4| Power Girl (2023) |15| Leah Williams | Adriana Melo ||
-|12/4| JSA (2024) |2| Jeff Lemire | Diego Olortegui ||
-|12/4| The Ultimates (2024) |7| Deniz Camp | Juan Frigeri ||
+|12/4| Power Girl (2023) |15| Leah Williams | Adriana Melo |2|
+|12/4| JSA (2024) |2| Jeff Lemire | Diego Olortegui |2|
+|12/4| The Ultimates (2024) |7| Deniz Camp | Juan Frigeri |2|
 |12/4| Wonder Woman (2006) |12| J. Torres | Paco Diaz ||
 |12/4| Amazons Attack! (2007) |1| Will Pfeiffer | Pete Woods ||
 |12/4| Amazons Attack! (2007) |2| Will Pfeiffer | Pete Woods ||
@@ -815,20 +816,20 @@ categories = [
 |12/9| X-23 (2010) |1| Majorie Liu | Filipe Andrade & Nuno Alves ||
 |12/9| Wonder Woman (2006) |16| Gail Simone | Terry Dodson ||
 |12/11| Wonder Woman (2006) |17| Gail Simone | Terry Dodson & Ron Randall ||
-|12/11| Laura Kinney (2024) |1| Erica Schultz | Giada Belviso ||
-|12/11| Black Lightning (2024) |2|| Brandon Thomas | Fico Ossio ||
-|12/11| X-Factor (2024) |5| Mark Russell | Bob Quinn ||
+|12/11| Laura Kinney (2024) |1| Erica Schultz | Giada Belviso |2|
+|12/11| Black Lightning (2024) |2|| Brandon Thomas | Fico Ossio |2|
+|12/11| X-Factor (2024) |5| Mark Russell | Bob Quinn |2|
 |12/11| Avengers (2023) |21| Jed MacKay | Valerio Schiti ||
-|12/11| Uncanny X-Men (2024) |0| Gail Simone | David Marquez & Edgar Salazar ||
-|12/11| Phoenix (2024) |6|Stephanie Phillips | Marco Renna ||
-|12/11| Storm (2024) |3| Murewa Ayodele | Lucas Werneck ||
+|12/11| Uncanny X-Men (2024) |7| Gail Simone | David Marquez & Edgar Salazar ||
+|12/11| Phoenix (2024) |6|Stephanie Phillips | Marco Renna |2|
+|12/11| Storm (2024) |3| Murewa Ayodele | Lucas Werneck |2|
 |12/11| Birds of Prey (2023) |14| Kelly Thompson | Sami Basri ||
 |12/11| Birds of Prey (2023) |15| Kelly Thompson | Sami Basri ||
 |12/11| Birds of Prey (2023) |16| Kelly Thompson | Sami Basri ||
-|12/11| Hyde Street (2024) |2| Geoff Johns | Ivan Reis ||
-|12/11| FML (2024) |2| Kelly Sue McConnick | David López ||
-|12/11| Ultimate Universe: One Year In (2024) |1| Deniz Camp | Jonas Scharf ||
-|12/11| Superwoman Special (2024) |1| Joshua Williamson | Laura Braga ||
+|12/11| Hyde Street (2024) |2| Geoff Johns | Ivan Reis |2|
+|12/11| FML (2024) |2| Kelly Sue McConnick | David López |2|
+|12/11| Ultimate Universe: One Year In (2024) |1| Deniz Camp | Jonas Scharf |2|
+|12/11| Superwoman Special (2024) |1| Joshua Williamson | Laura Braga |2|
 |12/12| Birds of Prey (2023) |1| Kelly Thompson | Leonardo Romero ||
 |12/12| Birds of Prey (2023) |2| Kelly Thompson | Leonardo Romero ||
 |12/12| Birds of Prey (2023) |3| Kelly Thompson | Leonardo Romero ||
@@ -839,35 +840,44 @@ categories = [
 |12/15| Birds of Prey (2023) |8| Kelly Thompson | Javier Pina & David Lopez||
 |12/15| Birds of Prey (2023) |9| Kelly Thompson | Jonathan Case & Gavin Guidry||
 |12/15| Birds of Prey (2023) |10| Kelly Thompson | Robbie Rodriguez & Gavin Guidry||
-|12/18| The New Gods (2024) |1| Ram V | Evan Cagle ||
-|12/18| The Question: All Along the Watchtower (2024) |2| Alex Segura | Cian Tormey ||
-|12/18| Sentinels (2024) |2| Alex Paknadel | Justin Mason ||
-|12/18| Challengers of the Unknown (2024) |1|| Christopher Cantwell | Sean Izaakse ||
-|12/18| Teenage Mutant Ninja Turtles (2024) |5| Jason Aaron | Darick Robertson ||
-|12/18| Absolute Batman (2024) |3| Scott Snyder | Nick Dragotta ||
-|12/18| Catwoman (2018) |71| Torunn Grønbekk | Marianna Ignazzi ||
+|12/18| The New Gods (2024) |1| Ram V | Evan Cagle |2|
+|12/18| The Question: All Along the Watchtower (2024) |2| Alex Segura | Cian Tormey |2|
+|12/18| Sentinels (2024) |2| Alex Paknadel | Justin Mason |2|
+|12/18| Challengers of the Unknown (2024) |1|| Christopher Cantwell | Sean Izaakse |2|
+|12/18| Teenage Mutant Ninja Turtles (2024) |5| Jason Aaron | Darick Robertson |2|
+|12/18| Absolute Batman (2024) |3| Scott Snyder | Nick Dragotta |2|
+|12/18| Catwoman (2018) |71| Torunn Grønbekk | Marianna Ignazzi |2|
 |12/19| Action Comics (2011) |1| Grant Morrison | Rags Morales ||
 |12/19| Action Comics (2011) |2| Grant Morrison | Rags Morales ||
 |12/20| Action Comics (2011) |3| Grant Morrison/Sholly Fisch | Rags Morales & Gene Ha/Brad Walker||
-|12/20| In Bloom (2024) |1| Michael Conrad | John Pearson ||
-|12/20| Psylocke (2024) |2| Alyssa Wong | Vincenzo Carratù ||
-|12/20| Ultimate Spider-Man (2024) |12| Jonathan Hickman | Marco Checchetto ||
+|12/20| In Bloom (2024) |1| Michael Conrad | John Pearson |2|
+|12/20| Psylocke (2024) |2| Alyssa Wong | Vincenzo Carratù |2|
+|12/20| Ultimate Spider-Man (2024) |12| Jonathan Hickman | Marco Checchetto |2|
 |12/23| Scarlet Witch (2015) |13| James Robinson | Jonathan Marks-Barravecchia ||
 |12/23| Scarlet Witch (2015) |14| James Robinson | Shawn Crystal||
 |12/23| Scarlet Witch (2015) |15| James Robinson | Vanesa Del Ray ||
 |12/24| Action Comics (2011) |5| Grant Morrison/Sholly Fisch | Andy Kubert/ChrisCross||
 |12/25| Action Comics (2011) |6| Grant Morrison/Sholly Fisch | Andy Kubert/ChrisCross||
 |12/25| Fantastic Four (2022) |4| Ryan North | Iban Coello ||
-|12/26| Exceptional X-Men (2024) |4| Eve L. Ewing | Carmen Carnero ||
+|12/26| Exceptional X-Men (2024) |4| Eve L. Ewing | Carmen Carnero |2|
 |12/26| X-Men (2024) |9| Jed MacKay | Federico Vicentini & Ryan Stegman ||
-|12/26| Timeslide (2024) |1| Steve Foxe | Ivan Fiorelli ||
-|12/26| Motherf*ckin' Monsters |1| Jason Holtham | Michael Lee Harris ||
-|12/26| Metamorpho: Element Man (2025) |1| Al Ewing | Steve Lieber ||
-|12/26| Power Girl (2023) |16| Leah Williams | Adriana Melo ||
-|12/26| Justice League Unlimited (2024) |2| Mark Waid | Dan Mora ||
-|12/26| Absolute Wonder Woman (2024) |3| Kelly Thompson | Hayden Sherman ||
-|12/26| Superman (2022) |21| Joshua Williams | Dan Mora ||
+|12/26| Timeslide (2024) |1| Steve Foxe | Ivan Fiorelli |2|
+|12/26| Motherf*ckin' Monsters |1| Jason Holtham | Michael Lee Harris |2|
+|12/26| Metamorpho: Element Man (2025) |1| Al Ewing | Steve Lieber |2|
+|12/26| Power Girl (2023) |16| Leah Williams | Adriana Melo |2|
+|12/26| Justice League Unlimited (2024) |2| Mark Waid | Dan Mora |2|
+|12/26| Absolute Wonder Woman (2024) |3| Kelly Thompson | Hayden Sherman |2|
+|12/26| Superman (2022) |21| Joshua Williams | Dan Mora |2|
 |12/28| Action Comics (2011) |7| Grant Morrison/Sholly Fisch | Rags Morales/Brad Walker||
+|12/29| Action Comics (2011) |8| Grant Morrison/Sholly Fisch | Rags Morales/Brad Walker||
+|12/29| Peter Parker: The Spectacular Spider-Man (2017) |6| Chip Zdarsky | Michael Walsh ||
+|12/30| The Immortal Hulk (2018) |1| Al Ewing | Joe Bennett ||
+|12/30| The Immortal Hulk (2018) |2| Al Ewing | Joe Bennett ||
+|12/30| The Immortal Hulk (2018) |3| Al Ewing | Various[^12] ||
+|12/30| The Immortal Hulk (2018) |4| Al Ewing | Joe Bennett ||
+|12/30| The Immortal Hulk (2018) |5| Al Ewing | Joe Bennett ||
+|12/31| The Immortal Hulk (2018) |6| Al Ewing | Lee Garbett ||
+
 
 [Previous "Comics Reads"](https://journal.jinnzhong.com/tags/comics-read/)
 
@@ -882,3 +892,4 @@ categories = [
 [^9]: Gleb Melnikov, Norm Rapmund, David Baldeón, and Jamal Campbell
 [^10]: David S. Goyer, James Robinson, Steven Grant, Ron Marz
 [^11]: Scott Benefiel, Eddy Newell, Chris Weston
+[^12]: Joe Bennett, Leonardo Romero, Paul Hornschemeier, Marguerite Sauvage, Garry Brown Michael Walsh
