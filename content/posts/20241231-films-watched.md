@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "Films & Shows Watched 2024 (22)"
+title = "Films & Shows Watched 2024 (40)"
 date = "2024-12-31"
 description = "All the films & TV shows I watched in 2024"
 tags = [
