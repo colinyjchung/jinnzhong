@@ -37,10 +37,10 @@ pygmentsUseClasses = true
     weight = 30
     
 [[menu.main]]
-    identifier = "cipher"
-    name = "cphr"
-    title = "cphr"
-    url = "/cipher/"
+    identifier = "tracker"
+    name = "trkr"
+    title = "trkr"
+    url = "/tracker/"
     weight = 40
 
 [[menu.main]]
