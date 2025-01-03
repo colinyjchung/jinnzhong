@@ -30,9 +30,9 @@ Due to space limitations, columns 4 and 5 will mean different things based on th
 * 🎲 - board game: players' initials/score
 * 📖/📃/📜/📰 - books: author only
 
-|d|f|t|A|B|
+|d|f|t|||
 |---:|:---:|:---|:---|:---|
-|00/00||||||
+|00/00|||||
 
 
 **LEGEND**
