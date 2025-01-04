@@ -17,7 +17,7 @@ categories = [
 ]
 +++
 
-|d|f|t|||
+|date||title|||
 |---:|:---:|:---|:---|:---|
 |01/01|📺|Dune: Prophecy (2024) S1E2|John Cameron|Elizabeth Padden & Kor Adana|
 |01/01|💬|Birds of Prey (2023) #11|Kelly Thompson|Various[^1]|
