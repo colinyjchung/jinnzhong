@@ -62,3 +62,4 @@ NOTE: Due to space limitations, columns 4 and 5 will mean different things based
 * 🎲 - board game: players' initials/score
 
 [^1]: Robbi Rodriguez, Javier Pina, and Gavin Guidry
+[^2]: Mario Puzo, David Newman, Leslie Newman, and Robert Benton
