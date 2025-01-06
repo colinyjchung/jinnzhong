@@ -16,7 +16,7 @@ categories = [
     "Unnecessary Tracking",
 ]
 customCss = [
-    "css/page2.css"
+    "css/custom.css"
 ]
 +++
 
