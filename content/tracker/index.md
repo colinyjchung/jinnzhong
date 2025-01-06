@@ -16,7 +16,7 @@ categories = [
     "Unnecessary Tracking",
 ]
 customCss = [
-    "css/custom.css"
+    "/themes/etch/assets/css/custom.css"
 ]
 +++
 
@@ -50,17 +50,17 @@ customCss = [
 
 
 ### LEGEND
-NOTE: Due to space limitations, columns 4 and 5 will mean different things based on the medium.
+**NOTE:** Due to space limitations, columns 4/5 mean different things based on medium.
 
 * 📖 - book (novel): author only
 * 📜 - book (history): author only
-* 📰 - book (econ/pol/sci): author only
+* 📰 - book (current): author only
 * 📃 - short story: author only
-* 💬 - comics: writer/artist
-* 🎧 - audiobooks: author/narrator
-* 📺 - tv shows: director/writer
-* 🎥 - film: director/writer
-* 🎭 - musicals: music & lyrics/book
+* 💬 - comic: writer/artist
+* 🎧 - audiobook: author/narrator
+* 📺 - tv episode: director/writer
+* 📽️ - film: director/writer
+* 🎭 - musical: music & lyrics/book
 * 👺 - TTRPG: DM/players' initials
 * 🎲 - board game: players' initials/score
 
