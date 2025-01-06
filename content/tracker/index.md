@@ -15,6 +15,9 @@ tags = [
 categories = [
     "Unnecessary Tracking",
 ]
+customCss = [
+    "css/page2.css"
+]
 +++
 
 |date||title|||
