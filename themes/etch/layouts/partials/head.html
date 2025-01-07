@@ -33,6 +33,7 @@
 
     <link rel="canonical" href="{{ .Permalink }}" />
 
+    {{ printf "%#v" . }}
     <title>{{ block "title" . }}
         {{ .Title }} – {{ .Site.Title }}
     {{ end }}
