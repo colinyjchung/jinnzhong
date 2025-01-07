@@ -62,3 +62,8 @@ pygmentsUseClasses = true
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[[redirects]]
+	from = "/*"
+	to = "/404/"
+	status = 404
