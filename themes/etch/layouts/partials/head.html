@@ -31,14 +31,6 @@
     {{ $css := $resources | resources.Concat "css/style.css" | minify }}
     {{ printf `<link rel="stylesheet" href="%s">` $css.RelPermalink | safeHTML }}
 
-    <link rel="canonical" href="{{ .Permalink }}" />
-
-    {{ printf "Title: %s" .Title }}
-    {{ printf "Type: %s" .Type }}
-    {{ printf "Kind: %s" .Kind }}
-    
-    <title>{{ block "title" . }}
-        {{ .Title }} – {{ .Site.Title }}
-    {{ end }}
-    </title>
+    <link rel="canonical" href="{{ .Permalink }}" />    
+    <title>{{ .Title }} – {{ .Site.Title }}</title>
 </head>
