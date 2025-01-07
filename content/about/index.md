@@ -1,5 +1,5 @@
 +++
-title = 'About'
+title = "About"
 +++
 
 Jinn is a paper fox wandering the suburban wilds of the Pacific Northwest.
