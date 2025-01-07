@@ -32,5 +32,12 @@
     {{ printf `<link rel="stylesheet" href="%s">` $css.RelPermalink | safeHTML }}
 
     <link rel="canonical" href="{{ .Permalink }}" />
-    <title>{{ .Title }} {{ default "::" .Site.Params.titleSeparator }} {{ .Site.Title }}</title>
+    <title>
+{{if eq .URL "404.html"}}
+    <title>Why Won'T This Work?</title>
+{{else}}
+    <title>{{ .Title }}</title>
+{{end}}
+</title>
+    
 </head>
