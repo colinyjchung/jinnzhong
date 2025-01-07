@@ -33,10 +33,9 @@
 
     <link rel="canonical" href="{{ .Permalink }}" />
 
-{{if eq .URL "404.html"}}
-    <title>Why Won't This Work?</title>
-{{else}}
+    {{ if eq .URL "404.html" }}<title>Why Won't This Work?</title>
+    {{ else }}
     <title>{{ .Title }}</title>
-{{end}}
+    {{ end -}}
     
 </head>
