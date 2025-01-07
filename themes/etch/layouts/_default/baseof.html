@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
-    {{ partialCached "head.html" . }}
+    {{ partial "head.html" . }}
     <body>
-        {{ partialCached "header.html" . }}
+        {{ partial "header.html" . }}
         <main id="content">
         {{- block "main" . }}{{- end }}
                 <div>
@@ -11,6 +11,6 @@
       {{ end }}
     </div>
         </main>
-        {{ partialCached "footer.html" . }}
+        {{ partial "footer.html" . }}
     </body>
 </html>
