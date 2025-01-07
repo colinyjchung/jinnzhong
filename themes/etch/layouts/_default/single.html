@@ -11,6 +11,9 @@
             {{ end }}
         {{- end -}}
         </div>
+        {{ define "title" }}
+    <title>{{ with .Title }}{{ . }}{{ else }}{{ .Site.Title }}{{ end }}</title>
+{{ end }}
     </header>
     {{- .Content -}}
 </article>
