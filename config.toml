@@ -10,7 +10,7 @@ pygmentsUseClasses = true
 
 [params]
   description = "Jinn's Not-So-Secret Repository of Notes"
-  copyright = "Copyright © 2001-2024 Jinn Zhong"
+  copyright = "Copyright © 2001-2025 Jinn Zhong"
   dark = "on"
   highlight = true
 
