@@ -1,6 +1,6 @@
 +++ 
 author = "Jinn Zhong" 
-title = "Media Consumption 2025" 
+title = "Story Consumption 2025" 
 tags = [
     "Books Read",
     "Comics Read",
