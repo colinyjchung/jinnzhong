@@ -47,6 +47,62 @@ customCss = [
 |01/04|📽️|The Flash (2023)|Andy Muschetti|Christina Hodson|
 |01/04|📺|A Man on the Inside (2024) S1E8|Michael Schur|Dan Schofield|
 |01/04|📽️|Superman (1978)|Richard Donner|Various[^2]|
+|01/05|📺|Ghosts (2021) S2E10|Jay Karas|Joe Port & Joe Wiseman|
+|01/05|💬|Cable: Love & Chrome (2025) #1|David Pepose|Mike Henderson|
+|01/05|💬|Deadpool/Wolverine (2025) #1|Benjamin Percy|Joshua Cassara|
+|01/05|💬|The Atom Project (2025) #1|Ryan Parrott & John Ridley|Mike Perkins|
+|01/06|💬|Batgirl (2024) #3|Tate Brombal|Takeshi Miyazawa|
+|01/06|💬|Poison Ivy (2022) #29|G. Willow Wilson|Marcio Takara|
+|01/06|💬|JSA (2024) #3|Jeff Lemire|Diego Olortegui|
+|01/06|📺|Bob’s Burgers (2011) S15E8|Bernard Derriman|Nora Smith|
+|01/06|📺|Bob’s Burgers (2011) S15E9|Chris Song|Steven Davis|
+|01/07|💬|Absolute Superman (2024) #3|Jason Aaron|Rafa Sandoval|
+|01/07|💬|The Power Fantasy (2024) #5|Kieron Gillen|Caspar Wijngaard|
+|01/07|💬|Birds of Prey (2023) #12|Kelly Thompson|Various[^3]|
+|01/07|💬|Birds of Prey (2023) #13|Kelly Thompson|Gavin Guidry|
+|01/07|📺|Modern Family (2009) S8E14|Ken Whittingham|Danny Zuker|
+|01/08|💬|Spirit World (2023) #1|Alyssa Wong|Haining|
+|01/08|💬|Magik (2025) #1|Ashley Allen|Germán Peralta|
+|01/08|💬|Sentinels (2024) #4|Alex Paknadel|Justin Mason|
+|01/08|💬|NYX (2024) #0|Collin Kelly & Jackson Lanzing|Enid Balám|
+|01/08|💬|Uncanny X-Men (2024) #8|Gail Simone|Javier Garrón|
+|01/08|💬|Green Lantern: Fractured Spectrum #1 (2025) #1|Jeremy Adams|V. Ken Marion|
+|01/08|💬|Birds of Prey (2023) #17|Kelly Thompson|Sami Basri|
+|01/08|💬|Absolute Batman (2024) #4|Scott Snyder|Gabriel Hernández Walta|
+|01/08|💬|Spirit World (2023) #2|Alyssa Wong|Haining|
+|01/08|💬|Spirit World (2023) #3|Alyssa Wong|Haining|
+|01/08|📺|Bob’s Burgers (2011) S15E10|Ryan Mattos|Holly Schlesinger|
+|01/08|💬|Spirit World (2023) #4|Alyssa Wong|Haining|
+|01/08|💬|X-Men (2024) #8|Jed MacKay|Ryan Stegman|
+|01/08|💬|Uncanny X-Men (2024) #7|Gail Simone|David Marquez & Edgar Salazar|
+|01/08|💬|X-Men (2024) #9|Jed MacKay|Federico Vicentini|
+|01/08|💬|Uncanny X-Men (2024) #8|Gail Simone|Javier Garrón|
+|01/09|💬|Spirit World (2023) #5|Alyssa Wong|Haining|
+|01/09|💬|Spirit World (2023) #6|Alyssa Wong|Haining|
+|01/09|💬|Green Lantern: Fractured Spectrum #1 (2025) #1|Jeremy Adams|V. Ken Marion|
+|01/09|📺|Abbott Elementary (2021)|Randall Einhorn|Garrett Werner|
+|01/09|💬|Action Comics (2011) #9|Grant Morrison/Sholly Fisch|Gene Ha/Cully Hamner|
+|01/10|💬|Dazzler (2024) #2|Jason Loo|Rafael Loureiro|
+|01/10|💬|Uncanny X-Men (1981) #244|Chris Claremont|Marc Silvestri|
+|01/10|💬|X-Force (2019) #1|Benjamin Percy|Joshua Cassara|
+|01/10|💬|X-Force (2019) #2|Benjamin Percy|Joshua Cassara|
+|01/10|💬|X-Force (2019) #3|Benjamin Percy|Joshua Cassara|
+|01/10|💬|The Ultimates (2024) #8|Deniz Camp|Juan Frigeri|
+|01/10|💬|Something is Killing the Children (2019) #1|James Tynion IV|Werther Dell'Edera|
+|01/10|💬|Something is Killing the Children (2019) #2|James Tynion IV|Werther Dell'Edera|
+|01/10|💬|Something is Killing the Children (2019) #3|James Tynion IV|Werther Dell'Edera|
+|01/10|💬|Something is Killing the Children (2019) #4|James Tynion IV|Werther Dell'Edera|
+|01/10|💬|Something is Killing the Children (2019) #5|James Tynion IV|Werther Dell'Edera|
+|01/10|💬|Something is Killing the Children (2019) #6|James Tynion IV|Werther Dell'Edera|
+|01/11|💬|Something is Killing the Children (2019) #7|James Tynion IV|Werther Dell'Edera|
+|01/11|💬|Something is Killing the Children (2019) #8|James Tynion IV|Werther Dell'Edera|
+|01/11|💬|Something is Killing the Children (2019) #9|James Tynion IV|Werther Dell'Edera|
+|01/11|💬|Something is Killing the Children (2019) #10|James Tynion IV|Werther Dell'Edera|
+|01/11|💬|Something is Killing the Children (2019) #11|James Tynion IV|Werther Dell'Edera|
+|01/11|💬|Something is Killing the Children (2019) #12|James Tynion IV|Werther Dell'Edera|
+|01/11|💬|Something is Killing the Children (2019) #13|James Tynion IV|Werther Dell'Edera|
+|01/11|💬|Something is Killing the Children (2019) #14|James Tynion IV|Werther Dell'Edera|
+|01/11|💬|Something is Killing the Children (2019) #15|James Tynion IV|Werther Dell'Edera|
 
 
 ### LEGEND
@@ -66,3 +122,4 @@ customCss = [
 
 [^1]: Robbi Rodriguez, Javier Pina, and Gavin Guidry
 [^2]: Mario Puzo, David Newman, Leslie Newman, and Robert Benton
+[^3]: Javier Pina, Sophie Campbell, & Gavin Guidry
