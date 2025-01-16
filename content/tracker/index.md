@@ -64,7 +64,7 @@ customCss = [
 |01/08|💬|Spirit World (2023) #1|Alyssa Wong|Haining|
 |01/08|💬|Magik (2025) #1|Ashley Allen|Germán Peralta|
 |01/08|💬|Sentinels (2024) #4|Alex Paknadel|Justin Mason|
-|01/08|💬|NYX (2024) #0|Collin Kelly & Jackson Lanzing|Enid Balám|
+|01/08|💬|NYX (2024) #7|Collin Kelly & Jackson Lanzing|Enid Balám|
 |01/08|💬|Uncanny X-Men (2024) #8|Gail Simone|Javier Garrón|
 |01/08|💬|Green Lantern: Fractured Spectrum #1 (2025) #1|Jeremy Adams|V. Ken Marion|
 |01/08|💬|Birds of Prey (2023) #17|Kelly Thompson|Sami Basri|
