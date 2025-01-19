@@ -103,7 +103,46 @@ customCss = [
 |01/11|💬|Something is Killing the Children (2019) #13|James Tynion IV|Werther Dell'Edera|
 |01/11|💬|Something is Killing the Children (2019) #14|James Tynion IV|Werther Dell'Edera|
 |01/11|💬|Something is Killing the Children (2019) #15|James Tynion IV|Werther Dell'Edera|
-
+|01/11|📽️|Wonder (2017)|Steven Chboksky|Steven Conrad & Jack Thorne|
+|01/12|💬|Invisible Kingdom (2019) #1|G. Willow Wilson|Christian Ward|
+|01/12|💬|Invisible Kingdom (2019) #2|G. Willow Wilson|Christian Ward|
+|01/12|💬|Invisible Kingdom (2019) #3|G. Willow Wilson|Christian Ward|
+|01/12|💬|Invisible Kingdom (2019) #4|G. Willow Wilson|Christian Ward|
+|01/12|💬|Invisible Kingdom (2019) #5|G. Willow Wilson|Christian Ward|
+|01/12|💬|Invisible Kingdom (2019) #6|G. Willow Wilson|Christian Ward|
+|01/12|💬|Invisible Kingdom (2019) #7|G. Willow Wilson|Christian Ward|
+|01/12|💬|Invisible Kingdom (2019) #8|G. Willow Wilson|Christian Ward|
+|01/12|💬|Invisible Kingdom (2019) #9|G. Willow Wilson|Christian Ward|
+|01/12|💬|Invisible Kingdom (2019) #10|G. Willow Wilson|Christian Ward|
+|01/12|💬|Invisible Kingdom (2019) #11|G. Willow Wilson|Christian Ward|
+|01/12|💬|Invisible Kingdom (2019) #12|G. Willow Wilson|Christian Ward|
+|01/12|💬|Invisible Kingdom (2019) #13|G. Willow Wilson|Christian Ward|
+|01/12|💬|Invisible Kingdom (2019) #14|G. Willow Wilson|Christian Ward|
+|01/12|💬|Invisible Kingdom (2019) #15|G. Willow Wilson|Christian Ward|
+|01/12|📽️|The Holdovers (2023)|Alexander Payne|David Hemingson|
+|01/12|📜|The Secret Life of Elias of Babylon and the Uses of Global Microhistory (2014)|John-Paul A. Ghobrial||
+|01/15|💬|Ultimate Wolverine (2025) #1|Chris Condon|Alessandro Cappuccio|
+|01/15|💬|Magik (2025) #1|Ashley Allen|Germán Peralta|
+|01/15|💬|Challengers of the Unknown (2024) #2|Christopher Cantwell|Sean Izaakse|
+|01/15|💬|The Question: All Along the Watchtower (2024) #3|Alex Segura|Cian Tormey|
+|01/15|💬|Storm (2024) #4|Murewa Ayodele|Lucas Werneck|
+|01/15|💬|Exceptional X-Men (2024) #5|Eve L. Ewing|Carmen Carnero|
+|01/15|💬|The New Gods (2024) #2|Ram V|Evan Cagle & Jesse Lonergan|
+|01/15|💬|FML (2024) #3|Kelly Sue McConnick|David López|
+|01/15|💬|Action Comics (2011) #10|Grant Morrison/Sholly Fisch|Rags Morales/CAFU|
+|01/15|💬|Action Comics (2011) #11|Grant Morrison/Sholly Fisch|Various[^4]/CAFU|
+|01/15|💬|NYX (2024) #7|Collin Kelly & Jackson Lanzing|Enid Balám|
+|01/15|💬|Birds of Prey (2023) #17|Kelly Thompson|Sami Basri|
+|01/16|Action Comics (2011) #12|Grant Morrison|Various[^4]|
+|01/16|💬|Ultimate Wolverine (2025) #1|Chris Condon|Alessandro Cappuccio|
+|01/16|💬|Absolute Batman (2024) #4|Scott Snyder||
+|01/17|💬|Green Lantern (1990) #48|Ron Marz|Bill Willingham|
+|01/18|💬|Green Lantern (1990) #49|Ron Marz|Fred Haynes|
+|01/18|💬|Green Lantern (1990) #50|Ron Marz|Darryl Banks|
+|01/18|📺|Severance (2022) S1E8|Ben Stiller|Dan Erickson|
+|01/18|📺|Severance (2022) S1E9|Ben Stiller|Dan Erickson|
+|01/18|📺|Severance (2022) S2E1|Ben Stiller|Dan Erickson|
+|01/18|👺|Hunter: The Reckoning (2022)|Ogrebeef|CFHM[^6]|
 
 ### LEGEND
 **NOTE:** Due to space limitations, columns 4/5 mean different things based on medium.
@@ -123,3 +162,6 @@ customCss = [
 [^1]: Robbi Rodriguez, Javier Pina, and Gavin Guidry
 [^2]: Mario Puzo, David Newman, Leslie Newman, and Robert Benton
 [^3]: Javier Pina, Sophie Campbell, & Gavin Guidry
+[^4]: Rags Morales, Rick Bryant, and Brad Walker
+[^5]: Rags Morales, CAFU, and Brad Walker
+[^6]: E15: [Goodbye George, Goodbye Sarah](https://journal.jinnzhong.com/rcr-htr-e15-goodbye-george-goodbye-sarah/), _campaign series finale_
