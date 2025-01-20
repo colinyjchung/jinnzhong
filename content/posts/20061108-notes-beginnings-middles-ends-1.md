@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "NOTES: Beginnings, Middles, & Ends (1992) by Nancy Kress P.1/3"
+title = "NOTES: Beginnings, Middles, & Ends (1992) 1/3"
 date = "2006-11-08"
 description = "NOTES: Beginnings, Middles, & Ends (1992) by Nancy Kress"
 tags = [
@@ -13,6 +13,9 @@ categories = [
     "Craft of Storytelling",
 ]
 +++
+
+Notes on _Beginnings, Middles, & Ends_ (1992) by Nancy Kress, part one of three.
+
 {{< toc >}}
 
 * You have three paragraphs in a short story and three pages in a novel to capture the reader’s interest.
