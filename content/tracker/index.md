@@ -120,7 +120,7 @@ customCss = [
 |01/12|💬|Invisible Kingdom (2019) #14|G. Willow Wilson|Christian Ward|
 |01/12|💬|Invisible Kingdom (2019) #15|G. Willow Wilson|Christian Ward|
 |01/12|📽️|The Holdovers (2023)|Alexander Payne|David Hemingson|
-|01/12|📜|The Secret Life of Elias of Babylon and the Uses of Global Microhistory (2014)|John-Paul A. Ghobrial||
+|01/12|📜|The Secret Life of Elias of Babylon (2014)|John-Paul A. Ghobrial||
 |01/15|💬|Ultimate Wolverine (2025) #1|Chris Condon|Alessandro Cappuccio|
 |01/15|💬|Magik (2025) #1|Ashley Allen|Germán Peralta|
 |01/15|💬|Challengers of the Unknown (2024) #2|Christopher Cantwell|Sean Izaakse|
