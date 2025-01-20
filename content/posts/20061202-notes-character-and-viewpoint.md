@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "NOTES: Characters and Viewpoint (1988) by Orson Scott Card"
+title = "NOTES: Characters and Viewpoint (1988)"
 date = "2006-12-02"
 description = "NOTES: Characters and Viewpoint (1988) by Orson Scott Card"
 tags = [
@@ -13,6 +13,9 @@ categories = [
     "Craft of Storytelling",
 ]
 +++
+
+Notes on _Characters and Viewpoint_ (1988) by Orson Scott Card
+
 {{< toc >}}
 
 ## What is a Character?
