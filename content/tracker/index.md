@@ -16,7 +16,7 @@ categories = [
     "Unnecessary Tracking",
 ]
 customCss = [
-    "/themes/etch/assets/css/custom.css"
+    "/themes/etch/assets/css/tracker.css"
 ]
 +++
 
