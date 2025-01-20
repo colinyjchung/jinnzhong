@@ -1,6 +1,7 @@
 +++ 
 author = "Jinn Zhong" 
-title = "Story Consumption 2025" 
+title = "Story Consumption 2025"
+layout = "tracker"
 tags = [
     "Books Read",
     "Comics Read",
@@ -14,9 +15,6 @@ tags = [
 ]
 categories = [
     "Unnecessary Tracking",
-]
-customCss = [
-    "/themes/etch/assets/css/tracker.css"
 ]
 +++
 
