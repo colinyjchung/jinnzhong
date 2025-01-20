@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "NOTES: Beginnings, Middles, & Ends (1992) by Nancy Kress P.3/3"
+title = "NOTES: Beginnings, Middles, & Ends (1992) 3/3"
 date = "2006-11-08"
 description = "NOTES: Beginnings, Middles, & Ends (1992) by Nancy Kress"
 tags = [
@@ -14,6 +14,8 @@ categories = [
 ]
 +++
 {{< toc >}}
+
+Notes on _Beginnings, Middles, & Ends_ (1992) by Nancy Kress, part three of three.
 
 # EXERCISES from Beginnings, Middles, and Ends 
 
