@@ -9,7 +9,7 @@
             {{ else }}
                 <time>{{ .Lastmod | time.Format (i18n "post.updated") }}</time>
             {{ end }}
-             {{ $resources = $resources | append (resources.Get "css/custom.css") -}}
+             {{ $resources = $resources | append (resources.Get "css/tracker.css") -}}
         {{- end -}}
         </div>
     </header>
