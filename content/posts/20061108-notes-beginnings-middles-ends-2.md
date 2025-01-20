@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "NOTES: Beginnings, Middles, & Ends (1992) by Nancy Kress P.2/3"
+title = "NOTES: Beginnings, Middles, & Ends (1992) 2/3"
 date = "2006-11-08"
 description = "NOTES: Beginnings, Middles, & Ends (1992) by Nancy Kress"
 tags = [
@@ -13,6 +13,9 @@ categories = [
     "Craft of Storytelling",
 ]
 +++
+
+Notes on _Beginnings, Middles, & Ends_ (1992) by Nancy Kress, part two of three.
+
 {{< toc >}}
 
 ## THE CLIMAX
