@@ -1,7 +1,7 @@
 +++ 
 author = "Jinn Zhong" 
 title = "Story Consumption 2025"
-layout = "tracker"
+customSCSS = ["css/tracker.css"]
 tags = [
     "Books Read",
     "Comics Read",
