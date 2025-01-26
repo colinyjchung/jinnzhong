@@ -141,6 +141,47 @@ categories = [
 |01/18|📺|Severance (2022) S1E9|Ben Stiller|Dan Erickson|
 |01/18|📺|Severance (2022) S2E1|Ben Stiller|Dan Erickson|
 |01/18|👺|Hunter: The Reckoning (2022)|Ogrebeef|CFHM[^6]|
+|01/19|💬|Convergence: Justice Society of America (2015) #1|Dan Abnett|Tom Derenick|
+|01/19|💬|Convergence: Justice Society of America (2015) #2|Dan Abnett|Tom Derenick|
+|01/19|💬|Green Lantern (1990) #51|Ron Marz|Darryl Banks|
+|01/19|💬|Green Lantern (1990) #52|Ron Marz|Various[^7]|
+|01/19|💬|Green Lantern (1990) #53|Ron Marz|Darryl Banks|
+|01/19|📜|Inventing Sincerity, Refashioning Prudence (1097)|John Martin||
+|01/20|💬|JSA (1999) #1|James Robinson & David S. Goyer|Stephen Sandowski|
+|01/20|💬|JSA (1999) #2|James Robinson & David S. Goyer|Stephen Sandowski|
+|01/20|💬|JSA (1999) #3|James Robinson & David S. Goyer|Stephen Sandowski|
+|01/20|💬|JSA (1999) #4|James Robinson & David S. Goyer|Stephen Sandowski|
+|01/21|💬|JSA (1999) #5|James Robinson & David S. Goyer|Derec Aucoin|
+|01/21|💬|The Question: All Along the Watchtower (2024) #3|Alex Segura|Cian Tormey|
+|01/21|💬|Challengers of the Unknown (2024) #2|Christopher Cantwell|Sean Izaakse|
+|01/21|💬|Exceptional X-Men (2024) #5|Eve L. Ewing|Carmen Carnero|
+|01/21|💬|Storm (2024) #4|Murewa Ayodele|Lucas Werneck|
+|01/21|💬|Do a Powerbomb (2022) #1|Daniel Warren Johnson|Daniel Warren Johnson|
+|01/21|💬|Do a Powerbomb (2022) #2|Daniel Warren Johnson|Daniel Warren Johnson|
+|01/22|💬|Phoenix (2024) #7|Stephanie Phillips|Marco Renna|
+|01/22|💬|Justice League Unlimited (2024) #3|Mark Waid|Dan Mora|
+|01/22|💬|Metamorpho: Element Man (2025) #2|Al Ewing|Steve Lieber|
+|01/22|💬|Power Girl (2023) #17|Leah Williams|David Baldeón|
+|01/22|💬|Superman (2022) #22|Joshua Williams|Dan Mora|
+|01/22|💬|Finders / Keepers #1|Vita Ayala|Skylar Patridge|
+|01/22|💬|Uncanny X-Men (2024) #0|Gail Simone|Andrei Bressan|
+|01/22|💬|Ultimate Spider-Man (2024) #13|Jonathan Hickman|Marco Checchetto|
+|01/22|💬|Absolute Wonder Woman (2024) #4|Kelly Thompson|Hayden Sherman|
+|01/23|💬|JSA (1999) #6|James Robinson & David S. Goyer|Stephen Sandowski|
+|01/23|💬|JSA (1999) #7|David S. Goyer & Geoff Johns|Stephen Sandowski|
+|01/23|📽️|Challengers (2024)|Luca Guadagnino|Justin Kuritzkes|
+|01/23|💬|Do a Powerbomb (2022) #3|Daniel Warren Johnson|Daniel Warren Johnson|
+|01/23|💬|Do a Powerbomb (2022) #4|Daniel Warren Johnson|Daniel Warren Johnson|
+|01/24|🎭|Beetlejuice the Musical (2018)|Eddie Perfect|Scott Brown & Anthony King|
+|01/24|💬|Do a Powerbomb (2022) #5|Daniel Warren Johnson|Daniel Warren Johnson|
+|01/24|💬|Do a Powerbomb (2022) #6|Daniel Warren Johnson|Daniel Warren Johnson|
+|01/24|💬|Do a Powerbomb (2022) #7|Daniel Warren Johnson|Daniel Warren Johnson|
+|01/25|💬|The Many Deaths of Laila Starr (2021) #1|Ram V|Filipe Andrade|
+|01/25|💬|The Many Deaths of Laila Starr (2021) #2|Ram V|Filipe Andrade|
+|01/25|📺|St. Denis Medical (2024) S1E8|Shahrzad Davani| Bridget Kyle & Vicky Luu|
+|01/25|📺|Severance (2022) S2E2|Sam Donovan|Mohamad El Masri|
+
+
 
 ### LEGEND
 **NOTE:** Due to space limitations, columns 4/5 mean different things based on medium.
