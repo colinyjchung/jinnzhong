@@ -189,7 +189,7 @@ categories = [
 * 📖 - book (novel): author only
 * 📜 - book (history): author only
 * 📰 - book (current): author only
-* 📃 - short story: author only
+* 📃 - short story: author/publication
 * 💬 - comic: writer/artist
 * 🎧 - audiobook: author/narrator
 * 📺 - tv episode: director/writer
