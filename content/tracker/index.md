@@ -204,3 +204,4 @@ categories = [
 [^4]: Rags Morales, Rick Bryant, and Brad Walker
 [^5]: Rags Morales, CAFU, and Brad Walker
 [^6]: E15: [Goodbye George, Goodbye Sarah](https://journal.jinnzhong.com/rcr-htr-e15-goodbye-george-goodbye-sarah/), _campaign series finale_
+[^7]: Steve Carr, Jamal Igle, & Darryl Banks
