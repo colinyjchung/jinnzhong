@@ -18,7 +18,9 @@ categories = [
 ]
 +++
 
-|date||title|||
+## January 2025
+
+||||||
 |---:|:---:|:---|:---|:---|
 |01/01|📺|Dune: Prophecy (2024) S1E2|John Cameron|Elizabeth Padden & Kor Adana|
 |01/01|💬|Birds of Prey (2023) #11|Kelly Thompson|Various[^1]|
@@ -180,7 +182,44 @@ categories = [
 |01/25|💬|The Many Deaths of Laila Starr (2021) #2|Ram V|Filipe Andrade|
 |01/25|📺|St. Denis Medical (2024) S1E8|Shahrzad Davani| Bridget Kyle & Vicky Luu|
 |01/25|📺|Severance (2022) S2E2|Sam Donovan|Mohamad El Masri|
+|01/26|📃|City Boy (1966)|Leonard Michaels|Paris Review|
+|01/26|📃|Emmy Moore’s Journal (1974)|Jane Bowles|Paris Review|
+|01/26|📺|Saturday Night Live (1975) S50E12|Timothée Chalamet||
+|01/26|💬|Power Girl (2023) #17|Leah Williams|David Baldeón|
+|01/26|💬|Superman (2022) #22|Joshua Williams|Dan Mora|
+|01/26|💬|Justice League Unlimited (2024) #3|Mark Waid|Dan Mora|
+|01/26|💬|The New Gods (2024) #2|Ram V|Evan Cagle|
+|01/26|📃|Bangkok (2003)|James Salter|Paris Review|
+|01/27|💬|The Immortal Hulk (2018) #8|Al Ewing|Joe Bennett|
+|01/27|💬|The Immortal Hulk (2018) #9|Al Ewing|Joe Bennett & Martin Simmonds|
+|01/27|💬|The Immortal Hulk (2018) #10|Al Ewing|Joe Bennett|
+|01/27|💬|Phoenix (2024) #7|Stephanie Phillips|Marco Renna|
+|01/27|💬|Metamorpho: Element Man (2025) #2|Al Ewing|Steve Lieber|
+|01/28|📺|Silicon Valley (2014) S1E1|Mike Judge|Various[^8]|
+|01/29|💬|In Bloom (2024) #2|Michael Conrad|John Pearson|
+|01/29|💬|Teenage Mutant Ninja Turtles (2024) #6|Jason Aaron|Juan Ferreyra|
+|01/29|💬|DC Power: Rise of the Power Company #1|Various[^9]|Various[^10]|
+|01/29|💬|Green Lantern (2023) #19|Jeremey Adams|Various[^11]|
+|01/29|💬|Superman: Lex Luthor Special #1|Joshua Williamson|Eddy Barrows|
+|01/29|💬|X-Men (2024) #10|Jed MacKay|Netho Diaz|
+|01/29|💬|Green Lantern (2005) #6|Geoff Johns|Simone Bianchi|
+|01/29|💬|Storm: Lifedream (2025) #1|Various[^12]|Various[^13]|
+|01/29|💬|Giant Size X-Men: Storm (2020) #1|Jonathan Hickman|Russell Dauterman|
+|01/29|💬|Hyde Street (2024) #3|Geoff Johns|Ivan Reis|
+|01/29|💬|Green Lantern (1990) #50|Rob Marz|Darryl Banks|
+|01/30|💬|DC's Lex and the City (2025) #1|Various[^14]|Various[^15]|
+|01/31|💬|JSA (1999) #8|David S. Goyer & Geoff Johns|Stephen Sandowski|
 
+**January Numbers**
+|||
+|:---:|:---:|
+|💬|157|
+|📽️|6|
+|📜|2|
+|🎭|1|
+|👺|1|
+|📃|3|
+|📺|19|
 
 
 ### LEGEND
@@ -205,3 +244,11 @@ categories = [
 [^5]: Rags Morales, CAFU, and Brad Walker
 [^6]: E15: [Goodbye George, Goodbye Sarah](https://journal.jinnzhong.com/rcr-htr-e15-goodbye-george-goodbye-sarah/), _campaign series finale_
 [^7]: Steve Carr, Jamal Igle, & Darryl Banks
+[^8]: Mike Judge, John Altschuler, & Dave Krinsky
+[^9]: Brandon Thomas, John Jennings, Vita Ayala, & Zipporah Smith
+[^10]: Charles Stewart III, Kelsey Ramsay, Atagun Ilhan, Caanan White, & Ray-Anthony Height
+[^11]: Oclair Albert, Jason Paz, & Fernando Pasarin
+[^12]: John Jennings, Angélique Roché, Brittney Morris, & Curtis Baxter
+[^13]: Edwin Galmon, Alitha E. Martinez, Charles Stewart III, & Karen S. Darboe
+[^14]: To be added later
+[^15]: To be added later
