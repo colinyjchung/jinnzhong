@@ -2,18 +2,17 @@
 author = "Jinn Zhong"
 title = "Exonarrative Factors in Story Critique"
 date = "2025-02-13"
-description = "Stupid Reasons Why People Like Stories”
+description = "Stupid Reasons Why People Like Stories"
 tags = [
- "Creative Process",
- "Running Against the Devil (2020)",
- "Rick Wilson",
+   "Creative Process",
+   "Running Against the Devil (2020)",
+   "Rick Wilson",
 ]
 categories = [
- "Chasing Black Swans",
- "Story Dissection",
+   "Chasing Black Swans",
+   "Story Dissection",
 ]
 +++
-
 Since getting back into comics, I've thought a lot about reviews and reader reactions. The comics fanbase is notorious for being one of the most "passionate" (I put that in quotes as the spectrum ranges _widely_ from hateful viciousness and needless cruelty to blind loyalty and admiration, to the point of worship... to the characters, the creators, the publishers, the industry). I've dived headfirst into this wide array of reactions and thought about what and how readers judge/critique the art and stories that come out of this industry. A lot of this initial thought process was catalzyzed by being on _League of Comic Geeks_ and reading other people's reviews of books I liked/disliked as a -- possibly from a peer affirmation POV (e.g. "Am I liking/disliking the right things?") -- but also, eventually, seeing how what people liked/disliked can often be the strangest, niche factors as I want to discuss in this entry.
 
 Some of my thoughts on what I'm calling "Exonarrative Factors" -- which defines whether a fan liked or disliked a book/story based on metrics I personally believe are "outside" of the actual story and how it was crafted -- are from thoughts I've had brewing in my brain for over a decade i/r/t to narrative in general (TV series, films, etc.); but another piece of the puzzle fell into place when I reflected on _Running Against the Devil_ (2020), which I read and summarized in a newsletter back in 2022. There are some interesting correlations between the American voter base (or any, really) and comic fanbase. One quick, obvious example are "single issue voters". These are people who will vote for the party that backs their one issue, ignore every other policy on their platform, and despise the other party, again, because of a single issue. Abortion, gun control, and immigration are examples of this. To me, these are akin to audiences who have are turned off (or turned on) by a story based on a singular trope, singular topic, or singular format. If you have that "one thing", regardless of how well the story is crafted or told, they will instantly love or dismiss it.
