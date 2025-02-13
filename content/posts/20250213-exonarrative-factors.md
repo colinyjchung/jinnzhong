@@ -1,8 +1,8 @@
 +++
 author = "Jinn Zhong"
-title = "Exonarrative Factors in Story Critique”
+title = "Exonarrative Factors in Story Critique"
 date = "2025-02-13"
-description = “Stupid Reasons Why People Like Stories”
+description = "Stupid Reasons Why People Like Stories”
 tags = [
  "Creative Process",
  "Running Against the Devil (2020)",
