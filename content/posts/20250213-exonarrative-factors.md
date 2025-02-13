@@ -7,8 +7,7 @@ tags = [
  "Creative Process",
  "Running Against the Devil (2020)",
  "Rick Wilson",
- ]
-
+]
 categories = [
  "Chasing Black Swans",
  "Story Dissection",
