@@ -210,12 +210,11 @@ categories = [
 |01/30|💬|DC's Lex and the City (2025) #1|Various[^14]|Various[^15]|
 |01/31|💬|JSA (1999) #8|David S. Goyer & Geoff Johns|Stephen Sandowski|
 
-**January Numbers**
-|||||||
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|💬|157|📺|19|📽️|6|
-|📃|3|📜|2|||
-|👺|1|🎭|1|||
+## Numbers
+|    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |🎭   |👺   |🎲  |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|JAN |0    |2    |0    |3    |157  |0    |0    |19   |6    |1    |1    |0    |
+
 
 
 
@@ -224,10 +223,11 @@ categories = [
 **NOTE:** Due to space limitations, columns 4/5 mean different things based on medium.
 
 * 📖 - book (novel): author only
-* 📜 - book (history): author only
+* 📜 - book/article (history): author only
 * 📰 - book (current): author only
 * 📃 - short story: author/publication
 * 💬 - comic: writer/artist
+* 📑 - module: designer/system
 * 🎧 - audiobook: author/narrator
 * 📺 - tv episode: director/writer
 * 📽️ - film: director/writer
