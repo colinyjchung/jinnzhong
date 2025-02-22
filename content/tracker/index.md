@@ -211,9 +211,9 @@ categories = [
 |01/31|💬|JSA (1999) #8|David S. Goyer & Geoff Johns|Stephen Sandowski|
 
 ## Numbers
-|    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |🎭   |👺   |🎲  |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|JAN |0    |2    |0    |3    |157  |0    |0    |19   |6    |1    |1    |0    |
+|    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎤   |🏛️   |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|JAN |0    |2    |0    |3    |157  |0    |0    |19   |6    |1    |0    |1    |0    |0    |
 
 
 
@@ -231,9 +231,12 @@ categories = [
 * 🎧 - audiobook: author/narrator
 * 📺 - tv episode: director/writer
 * 📽️ - film: director/writer
-* 🎭 - musical: music & lyrics/book
 * 👺 - TTRPG: DM/players' initials
 * 🎲 - board game: players' initials/score
+* 🎭 - musical: music & lyrics/book
+* 🎭 - play: playwright/director
+* 🎤 - live music: band or performer
+* 🏛️ - museum/exhibit: location
 
 [^1]: Robbi Rodriguez, Javier Pina, and Gavin Guidry
 [^2]: Mario Puzo, David Newman, Leslie Newman, and Robert Benton
