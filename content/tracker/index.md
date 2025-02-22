@@ -248,5 +248,5 @@ categories = [
 [^11]: Oclair Albert, Jason Paz, & Fernando Pasarin
 [^12]: John Jennings, Angélique Roché, Brittney Morris, & Curtis Baxter
 [^13]: Edwin Galmon, Alitha E. Martinez, Charles Stewart III, & Karen S. Darboe
-[^14]: To be added later
-[^15]: To be added later
+[^14]: Sina Grace, Maggie Tokuda-Hall, Johnathan Rivera, Charles Skaggs, Brendan Hay, Sabrina Futch, Callie C. Miller, Dave Wielgosz
+[^15]: Sina Grace, Leslie Hung, Michael Avod Deming, Serg Acuña, Stephen Byrne, M.L. Sanapo, Lisa Sterle, Howard Porter
