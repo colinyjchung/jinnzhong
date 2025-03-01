@@ -18,6 +18,8 @@ categories = [
 ]
 +++
 
+{{< toc >}}
+
 ## January 2025
 
 ||||||
@@ -210,10 +212,122 @@ categories = [
 |01/30|💬|DC's Lex and the City (2025) #1|Various[^14]|Various[^15]|
 |01/31|💬|JSA (1999) #8|David S. Goyer & Geoff Johns|Stephen Sandowski|
 
+## February
+||||||
+|---:|:---:|:---|:---|:---|
+|02/01|📺|St. Denis Medical (2024) S1E9|Bill Benz|Naomi Ekperigin|
+|02/01|📃|Like a River Loves the Sky (2018)|Emma Törzs|Uncanny|
+|02/01|💬|The Power Fantasy (2024) #5|Kieron Gillen|Caspar Wijngaard|
+|02/01|💬|FML (2024) #3|Kelly Sue DeConnick|David López|
+|02/01|💬|Uncanny X-Men (2024) #9|Gail Simone|Andrei Bresson|
+|02/01|📃|Car Crash While Hitchhiking (1989)|Denis Johnson|Paris Review|
+|02/01|📃|Pelican Song (2004)|Mary-Beth Hugh|Paris Review|
+|02/02|📃|Pelican Song (2004)|Mary-Beth Hugh|Paris Review|
+|02/04|📃|Midnight Hour (2015)|Mary Robinette Kowal|Uncanny|
+|02/04|💬|Absolute Wonder Woman (2024) #4|Kelly Thompson|Hayden Sherman|
+|02/04|💬|In Bloom (2024) #2|Michael Conrad|John Pearson|
+|02/04|💬|Storm: Lifedream (2025) #1|Various[^12]|Various[^13]|
+|02/04|💬|DC Power: Rise of the Power Company #1|Various[^9]|Various[^10]|
+|02/05|💬|The Many Deaths of Laila Starr (2021) #3|Ram V|Filipe Andrade|
+|02/05|💬|The Many Deaths of Laila Starr (2021) #4|Ram V|Filipe Andrade|
+|02/05|💬|The Many Deaths of Laila Starr (2021) #5|Ram V|Filipe Andrade|
+|02/05|💬|Phoenix (2024) #8|Stephanie Phillips|Alessandro Miracolo|
+|02/05|💬|Poison Ivy (2022) #30|G. Willow Wilson|Marcio Takara|
+|02/05|💬|Batgirl (2024) #4|Tate Brombal|Takeshi Miyazawa|
+|02/05|💬|JSA (2024) #4|Jeff Lemire|Joey Vazquez|
+|02/05|💬|Absolute Superman (2024) #4|Jason Aaron|Rafa Sandoval|
+|02/05|💬|Birds of Prey (2023) #18|Kelly Thompson|Juann Cabal|
+|02/05|💬|Justice League: The Atom Project (2025) #2|Ryan Parrott & John Ridley|Mike Perkins|
+|02/05|💬|The Ultimates (2024) #9|Deniz Camp|Chris Allen|
+|02/05|📺|High Potential (2024) S1E4|Pete Chatmon|Andrea M. Scott & Marc Halsey|
+|02/06|📽️|Back in Action (2025)|Seth Gordon|Seth Gordon & Brendan O’Brien|
+|02/07|📃|The Traitor Baru Cormorant (2011)|Seth Dickinson|Beneath Ceaseless Skies|
+|02/07|💬|Finders/Keepers (2025) #1|Vita Ayala|Skylar Patridge|
+|02/07|💬|Green Lantern (2023) #19|Jeremey Adams|Various[^11]|
+|02/07|💬|Ultimate Spider-Man (2024) #13|Jonathan Hickman|Marco Checchetto|
+|02/07|💬|Superman: Lex Luthor Special #1|Joshua Williamson|Eddy Barrows|
+|02/07|💬|Teenage Mutant Ninja Turtles (2024) #6|Jason Aaron|Juan Ferreyra|
+|02/13|📽️|Captain America: Brave New World (2025)[^16]|Julius Onah|Various[^17]|
+|02/13|📽️|Bridget Jones: Mad About the Boy (2025)[^16]|Michael Morris|Various[^18]|
+|02/16|📽️|Wolfs (2024)|Jon Watts|Jon Watts|
+|02/16|📽️|Fall Guy (2024)|David Leitch|Drew Pearce|
+|02/16|📽️|Civil War (2024)|Alex Garland|Alex Garland|
+|02/17|💬|Ultimate X-Men (2024) #8|Peach Momoko| Peach Momoko|
+|02/17|💬|Ultimate X-Men (2024) #9|Peach Momoko| Peach Momoko|
+|02/17|💬|X-Men (2024) #10|Jed MacKay|Netho Diaz|
+|02/17|💬|Hyde Street (2024) #3|Geoff Johns|Ivan Reis|
+|02/17|💬|Justice League: The Atom Project (2025) #2|Ryan Parrott & John Ridley|Mike Perkins|
+|02/17|💬|Birds of Prey (2023) #18|Kelly Thompson|Juann Cabal|
+|02/17|📃|Funes, the Memorious (1962)|Jorge Luis Borges|Paris Review|
+|02/18|💬|Phoenix (2024) #8|Stephanie Phillips|Alessandro Miracolo|
+|02/18|📃|Office Hours (2022)|Ling Ma|The Atlantic|
+|02/18|💬|One World Under Doom (2025) #1|Ryan North|R.B. Silva|
+|02/18|💬|Green Lantern Corps (2025) #1|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
+|02/18|💬|X-Men (2024) #11|Jed MacKay|Netho Diaz|
+|02/18|💬|Absolute Batman (2024) #5|Scott Snyder|Nick Dragotta|
+|02/19|📽️|Argylle (2024)|Matthew Vaughn|Jason Fuchs|
+|02/20|💬|Aliens vs. Avengers (2024) #3|Jonathan Hickman|Esad Ribić|
+|02/20|💬|NYX (2024) #8|Collin Kelly & Jackson Lanzing|Francesco Mortarino|
+|02/20|💬|Uncanny X-Men (2024) #10|Gail Simone|Andrei Bressan|
+|02/20|💬|Exceptional X-Men (2024) #6|Eve L. Ewing|Carmen Carnero|
+|02/20|💬|Storm (2024) #5|Murewa Ayodele|Lucas Werneck|
+|02/20|💬|Zatanna (2025) #1|Jamal Campbell|Jamal Campbell|
+|02/20|💬|The Question: All Along the Watchtower (2024) #4|Alex Segura|Cian Tormey & Raül Fernández|
+|02/20|💬|Challengers of the Unknown (2024) #3|Christopher Cantwell|Sean Izaakse|
+|02/20|💬|The New Gods (2024) #3|Ram V|Riccardo Federici & Evan Cagle|
+|02/21|💬|Absolute Superman (2024) #4|Jason Aaron|Rafa Sandoval|
+|02/21|💬|The Ultimates (2024) #9|Deniz Camp|Juan Frigeri|
+|02/21|💬|House of X (2019) #1[^19]|Jonathan Hickman|Pepe Larraz|
+|02/22|💬|Outlawed (2020) #1|Eve L. Ewing|Kim Jacinto|
+|02/22|🏛️|The Art of Banksy: "Without Limits" (2025)|1 Alexander||
+|02/22|📺|Ghosts (2021) S4E13|Rose McIver|Brian Bahe|
+|02/22|💬|Power Girl (2023) #1|Leah Williams|Eduardo Pansica|
+|02/22|💬|Power Girl (2023) #2|Leah Williams|Eduardo Pansica|
+|02/22|💬|Power Girl (2023) #3|Leah Williams|Eduardo Pansica|
+|02/22|💬|Power Girl (2023) #4|Leah Williams|Eduardo Pansica|
+|02/22|💬|Power Girl (2023) #5|Leah Williams|David Baldeón|
+|02/22|💬|Green Lantern Corps (2025) #1|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
+|02/23|💬|Champions (2019) #3|Jim Zub|Steven Cummings|
+|02/23|💬|X-Men (2024) #11|Jed MacKay|Netho Diaz|
+|02/23|💬|One World Under Doom (2025) #1|Ryan North|R.B. Silva|
+|02/23|💬|Absolute Batman (2024) #5|Scott Snyder|Nick Dragotta|
+|02/23|💬|Uncanny X-Men (2024) #10|Gail Simone|Andrei Bressan|
+|02/23|💬|Storm (2024) #5|Murewa Ayodele|Lucas Werneck|
+|02/23|💬|Aliens vs. Avengers (2024) #3|Jonathan Hickman|Esad Ribić|
+|02/23|💬|Zatanna (2025) #1|Jamal Campbell|Jamal Campbell|
+|02/23|💬|Exceptional X-Men (2024) #6|Eve L. Ewing|Carmen Carnero|
+|02/23|💬|The Question: All Along the Watchtower (2024) #4|Alex Segura|Cian Tormey & Raül Fernández|
+|02/23|💬|The Terrifics (2018) #1|Jeff Lemire|Ivan Reis|
+|02/23|💬|Challengers of the Unknown (2024) #3|Christopher Cantwell|Sean Izaakse|
+|02/23|💬|The New Gods (2024) #3|Ram V|Riccardo Federici & Evan Cagle|
+|02/23|💬|The Power Fantasy (2024) #6|Kieron Gillen|Caspar Wijngaard|
+|02/23|📽️|The Wild Robot (2024)|Chris Sanders|Chris Sanders|
+|02/23|💬|Champions (2020) #1|Eve L. Ewing|Simone di Meo|
+|02/24|💬|Children of the Atom (2021) #1|Vita Ayala|Bernard Chang|
+|02/25|📺|The Fresh Prince of Bel-Air (1990) S1E3|Jeff Melman|Rob Edwards|
+|02/25|📃|Old Birds (1999)|Bernard Cooper|Paris Review|
+|02/26|💬|Sentinels (2024) #5|Alex Paknadel|Justin Mason|
+|02/26|💬|Power Girl (2023) #18|Leah Williams|David Baldeón|
+|02/26|💬|X-Men (2024) #12|Jed MacKay|Netho Diaz|
+|02/26|💬|Teenage Mutant Ninja Turtles (2024) #7|Jason Aaron|Juan Ferreyra|
+|02/26|💬|Ultimate Spider-Man (2024) #14|Jonathan Hickman|Marco Checchetto|
+|02/26|💬|Justice League Unlimited (2024) #4|Mark Waid|Dan Mora|
+|02/26|💬|Green Lantern (2023) #20|Jeremey Adams|Jack Herbert|
+|02/26|💬|Superman (2022) #23|Joshua Williams|Dan Mora|
+|02/26|💬|FML (2024) #4|Kelly Sue McConnick|David López|
+|02/26|💬|Absolute Wonder Woman (2024) #5|Kelly Thompson|Hayden Sherman|
+|02/26|💬|Children of the Atom (2021) #2|Vita Ayala|Bernard Chang|
+|02/26|💬|Children of the Atom (2021) #3|Vita Ayala|Bernard Chang|
+|02/27|📽️|The Substance (2024)|Coralie Fargeat| Coralie Fargeat|
+|02/28|💬|Exceptional X-Men (2024) #1[^19]|Eve L. Ewing|Carmen Carnero|
+|02/28|💬|Aliens vs. Avengers (2024) #2[^19]|Jonathan Hickman|Esad Ribić|
+
+
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎤   |🏛️   |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |JAN |0    |2    |0    |3    |157  |0    |0    |19   |6    |1    |0    |1    |0    |0    |
+|FEB |0    |0    |0    |9    |83   |0    |0    |4    |9    |0    |0    |0    |0    |1    |
 
 
 
