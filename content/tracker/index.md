@@ -212,7 +212,7 @@ categories = [
 |01/30|💬|DC's Lex and the City (2025) #1|Various[^14]|Various[^15]|
 |01/31|💬|JSA (1999) #8|David S. Goyer & Geoff Johns|Stephen Sandowski|
 
-## February
+## February 2025
 ||||||
 |---:|:---:|:---|:---|:---|
 |02/01|📺|St. Denis Medical (2024) S1E9|Bill Benz|Naomi Ekperigin|
@@ -277,7 +277,7 @@ categories = [
 |02/20|💬|The New Gods (2024) #3|Ram V|Riccardo Federici & Evan Cagle|
 |02/21|💬|Absolute Superman (2024) #4|Jason Aaron|Rafa Sandoval|
 |02/21|💬|The Ultimates (2024) #9|Deniz Camp|Juan Frigeri|
-|02/21|💬|House of X (2019) #1[^19]|Jonathan Hickman|Pepe Larraz|
+|02/21|💬|House of X (2019) #1|Jonathan Hickman|Pepe Larraz|
 |02/22|💬|Outlawed (2020) #1|Eve L. Ewing|Kim Jacinto|
 |02/22|🏛️|The Art of Banksy: "Without Limits" (2025)|1 Alexander||
 |02/22|📺|Ghosts (2021) S4E13|Rose McIver|Brian Bahe|
@@ -319,8 +319,8 @@ categories = [
 |02/26|💬|Children of the Atom (2021) #2|Vita Ayala|Bernard Chang|
 |02/26|💬|Children of the Atom (2021) #3|Vita Ayala|Bernard Chang|
 |02/27|📽️|The Substance (2024)|Coralie Fargeat| Coralie Fargeat|
-|02/28|💬|Exceptional X-Men (2024) #1[^19]|Eve L. Ewing|Carmen Carnero|
-|02/28|💬|Aliens vs. Avengers (2024) #2[^19]|Jonathan Hickman|Esad Ribić|
+|02/28|💬|Exceptional X-Men (2024) #1|Eve L. Ewing|Carmen Carnero|
+|02/28|💬|Aliens vs. Avengers (2024) #2|Jonathan Hickman|Esad Ribić|
 
 
 ## Numbers
@@ -370,4 +370,3 @@ categories = [
 [^16]: Newport Mall, Pasay City, Metro Manila
 [^17]: Rob Edwards, Malcolm Spellman, Dalan Musson, Julius Onah, and Peter Glanz
 [^18]: Helen Fielding, Dan Mazer, and Abi Morgan
-[^19]: 3rd Read
