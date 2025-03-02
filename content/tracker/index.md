@@ -333,7 +333,7 @@ categories = [
 
 
 
-### LEGEND
+## Legend
 **NOTE:** Due to space limitations, columns 4/5 mean different things based on medium.
 
 * 📖 - book (novel): author only
@@ -349,7 +349,7 @@ categories = [
 * 🎲 - board game: players' initials/score
 * 🎭 - musical: music & lyrics/book
 * 🎭 - play: playwright/director
-* 🎤 - live music: band or performer
+* 🎤 - live music: band or performer/location
 * 🏛️ - museum/exhibit: location
 
 [^1]: Robbi Rodriguez, Javier Pina, and Gavin Guidry
@@ -367,3 +367,7 @@ categories = [
 [^13]: Edwin Galmon, Alitha E. Martinez, Charles Stewart III, & Karen S. Darboe
 [^14]: Sina Grace, Maggie Tokuda-Hall, Johnathan Rivera, Charles Skaggs, Brendan Hay, Sabrina Futch, Callie C. Miller, Dave Wielgosz
 [^15]: Sina Grace, Leslie Hung, Michael Avod Deming, Serg Acuña, Stephen Byrne, M.L. Sanapo, Lisa Sterle, Howard Porter
+[^16]: Newport Mall, Pasay City, Metro Manila
+[^17]: Rob Edwards, Malcolm Spellman, Dalan Musson, Julius Onah, and Peter Glanz
+[^18]: Helen Fielding, Dan Mazer, and Abi Morgan
+[^19]: 3rd Read
