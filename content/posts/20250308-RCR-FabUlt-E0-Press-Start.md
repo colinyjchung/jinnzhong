@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "RCR-FabUlt-E0: Tutorial"
+title = "RCR-FabUlt-E0: Press Start Tutorial"
 date = "2025-03-08"
 description = "Tutorial Session"
 tags = [
