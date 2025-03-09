@@ -322,12 +322,48 @@ categories = [
 |02/28|💬|Exceptional X-Men (2024) #1|Eve L. Ewing|Carmen Carnero|
 |02/28|💬|Aliens vs. Avengers (2024) #2|Jonathan Hickman|Esad Ribić|
 
+## March 2025
+||||||
+|---:|:---:|:---|:---|:---|
+|03/01|📃|Except for the Sickness I’m Quite Healthy Now. You Can Believe That. (1968)|Thomas Glynn|Paris Review|
+|03/01|📃|Likely Lake (2002)|Mary Robison|Paris Review|
+|03/01|💬|Wonder Woman: Earth One (2016) V1|Grant Morrison|Yanick Paquette|
+|03/01|📺|Abbott Elementary (2021) S4E15|Randall Einhorn|Lizzy Darrell|
+|03/01|💬|X-Men (2024) #12|Jed MacKay|Netho Diaz|
+|03/01|💬|Teenage Mutant Ninja Turtles (2024) #7|Jason Aaron|Juan Ferreyra|
+|03/01|💬|Sentinels (2024) #5|Alex Paknadel|Justin Mason|
+|03/01|💬|Power Girl (2023) #18|Leah Williams|David Baldeón|
+|03/01|💬|Ultimate Spider-Man (2024) #14|Jonathan Hickman|Marco Checchetto|
+|03/01|💬|Justice League Unlimited (2024) #4|Mark Waid|Dan Mora|
+|03/01|💬|Superman (2022) #23|Joshua Williams|Dan Mora|
+|03/01|💬|Green Lantern (2023) #20|Jeremey Adams|Jack Herbert|
+|03/02|📃|Several Garlic Tales (1966)|Donald Barthelme|Paris Review|
+|03/03|📃|Proof by Induction (2021)|José Pablo Iriarte|Uncanny Magazine|
+|03/04|📃|Over the River and Through the Wood (1934)|John O'Hara|New Yorker|
+|03/05|💬|Wonder Woman: Earth One (2016) V2|Grant Morrison|Yanick Paquette|
+|03/05|💬|Batgirl (2024) #5|Tate Brombal|Takeshi Miyazawa|
+|03/05|💬|Uncanny X-Men (2024) #11|Gail Simone|Javier Garrón|
+|03/05|💬|NYX (2024) #9|Collin Kelly & Jackson Lanzing|Francesco Mortarino|
+|03/05|💬|Storm (2024) #6|Murewa Ayodele|Luciano Vecchio|
+|03/05|💬|Poison Ivy (2022) #0|G. Willow Wilson|Brian Level|
+|03/05|💬|Birds of Prey (2023) #19|Kelly Thompson|Juann Cabal|
+|03/05|💬|JSA (2024) #5|Jeff Lemire|Diego Olortegui|
+|03/05|💬|Justice League: The Atom Project (2025) #3|Ryan Parrott & John Ridley|Mike Perkins|
+|03/05|💬|The Ultimates (2024) #10|Deniz Camp|Juan Frigeri|
+|03/05|💬|FML (2024) #4|Kelly Sue McConnick|David López|
+|03/05|💬|The Power Fantasy (2024) #6|Kieron Gillen|Caspar Wijngaard|
+|03/05|💬|Absolute Wonder Woman (2024) #5|Kelly Thompson|Hayden Sherman|
+|03/06|💬|Wonder Woman: Earth One (2016) V3|Grant Morrison|Yanick Paquette|
+|03/06|💬|Infinite Crisis (2005) #1|Geoff Johns|Phil Jimenez|
+|03/07|💬|Infinite Crisis (2005) #2|Geoff Johns|Phil Jimenez|
+|03/08|👺|Fabula Ultima (2023)|Ogrebeef|CFHM[^19]|
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎤   |🏛️   |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |JAN |0    |2    |0    |3    |157  |0    |0    |19   |6    |1    |0    |1    |0    |0    |
 |FEB |0    |0    |0    |9    |83   |0    |0    |4    |9    |0    |0    |0    |0    |1    |
+|MAR |0    |0    |0    |0    |00   |0    |0    |0    |0    |0    |0    |0    |0    |0    |
 
 
 
