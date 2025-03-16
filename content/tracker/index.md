@@ -150,7 +150,7 @@ categories = [
 |01/19|💬|Green Lantern (1990) #51|Ron Marz|Darryl Banks|
 |01/19|💬|Green Lantern (1990) #52|Ron Marz|Various[^7]|
 |01/19|💬|Green Lantern (1990) #53|Ron Marz|Darryl Banks|
-|01/19|📜|Inventing Sincerity, Refashioning Prudence (1097)|John Martin||
+|01/19|📜|Inventing Sincerity, Refashioning Prudence (1997)|John Martin||
 |01/20|💬|JSA (1999) #1|James Robinson & David S. Goyer|Stephen Sandowski|
 |01/20|💬|JSA (1999) #2|James Robinson & David S. Goyer|Stephen Sandowski|
 |01/20|💬|JSA (1999) #3|James Robinson & David S. Goyer|Stephen Sandowski|
@@ -357,6 +357,25 @@ categories = [
 |03/06|💬|Infinite Crisis (2005) #1|Geoff Johns|Phil Jimenez|
 |03/07|💬|Infinite Crisis (2005) #2|Geoff Johns|Phil Jimenez|
 |03/08|👺|Fabula Ultima (2023)|Ogrebeef|CFHM[^19]|
+|03/09|📃|Love Is the Plan the Plan Is Death (1973)|James Tiptree, Jr.|The Alien Condition|
+|03/10|📃|Why Don’t You Dance (1981)|Raymond Carver|Paris Review|
+|03/12|💬|Phoenix (2024) #9|Stephanie Phillips|Alessandro Miracolo|
+|03/12|💬|X-Men (2024) #13|Jed MacKay|Netho Diaz|
+|03/12|💬|X-Factor (2024) #8|Mark Russell|Bob Quinn|
+|03/12|💬|Green Lantern Corps (2025) #2|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
+|03/12|💬|Absolute Superman (2024) #5|Jason Aaron|Rafa Sandoval|
+|03/12|💬|Hyde Street (2024) #4|Geoff Johns|Ivan Reis|
+|03/12|📃|The Palace Thief (1993)|Ethan Canin|Paris Review|
+|03/12|💬|Resurrection Man (1997)|Dan Abnett & Alan Lanning|Jackson Guice|
+|03/13|📃|The Castle That Jack Built (2012)|Emily Gilman|Beneath Ceaseless Skies|
+|03/13|📃|Flying Carpets (1997)|Steven Millhauser|Paris Review|
+|03/13|📺|Abbott Elementary (2021) S4E17 “Karaoke”|Matthew Pexa|Brittani Nichols|
+|03/13|📺|How I Met Your Mother (2005) S3E8 “Spoiler Alert”|Pamela Fryman|Stephen Lloyd|
+|03/14|📺|St. Denis Medical (2024) S1E14 "Listen to Your Ladybugs"|Bill Benz|Kyle Mack|
+|03/14|📺|Ghosts (2021) S4E16 "St. Hetty's Day"|Pete Chatmon|Josh Malmuth|
+|03/15|📜|The Cheese and the Worms (1976)|Carlo Ginzburg|tr.John & Anne C. Tedeschi|
+
+
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎤   |🏛️   |
@@ -406,3 +425,4 @@ categories = [
 [^16]: Newport Mall, Pasay City, Metro Manila
 [^17]: Rob Edwards, Malcolm Spellman, Dalan Musson, Julius Onah, and Peter Glanz
 [^18]: Helen Fielding, Dan Mazer, and Abi Morgan
+[^19]: [E0: Press Start Tutorial](https://journal.jinnzhong.com/rcr-fabult-e0-press-start-tutorial/), Quest Central
