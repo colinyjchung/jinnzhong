@@ -16,7 +16,8 @@ A project dashboard for what's being worked on.
 |   | **BACKLOG**                                            | ~~~~~~ | ~~~~~~ | ~~~~~~ | ~~~~~~ | ~~~~~~ | ~~ | 
 |   |                                                        |        |        |        |        |        |    |
 |   | [ROBOT](https://journal.jinnzhong.com/tags/prj-robot/) | 240128 |        | 240129 |        |        | 2  |  
-|   | [AURA](https://journal.jinnzhong.com/tags/prj-aura/)   | 240106 |        | 240106 |        |        | 1  |  
+|   | [AURA](https://journal.jinnzhong.com/tags/prj-aura/)   | 240106 |        | 240106 |        |        | 1  |
+|   | [MERCI](https://journal.jinnzhong.com/tags/prj-merci/) | 250314 |        |        |        |        |    |
 
 
 [^1]: LEGEND for **Project Status Dashboard**
