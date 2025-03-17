@@ -345,7 +345,7 @@ categories = [
 |03/05|💬|Uncanny X-Men (2024) #11|Gail Simone|Javier Garrón|
 |03/05|💬|NYX (2024) #9|Collin Kelly & Jackson Lanzing|Francesco Mortarino|
 |03/05|💬|Storm (2024) #6|Murewa Ayodele|Luciano Vecchio|
-|03/05|💬|Poison Ivy (2022) #0|G. Willow Wilson|Brian Level|
+|03/05|💬|Poison Ivy (2022) #31|G. Willow Wilson|Brian Level|
 |03/05|💬|Birds of Prey (2023) #19|Kelly Thompson|Juann Cabal|
 |03/05|💬|JSA (2024) #5|Jeff Lemire|Diego Olortegui|
 |03/05|💬|Justice League: The Atom Project (2025) #3|Ryan Parrott & John Ridley|Mike Perkins|
