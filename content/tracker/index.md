@@ -417,6 +417,9 @@ categories = [
 |03/22|📽️|Glass Onion (2022)|Rian Johnson|Rian Johnson|
 |03/22|📃|Destinations of Joy (2020)|Alexander Weinstein|Lightspeed|
 |03/22|📃|The Wife's Story (1982)|Ursula K. LeGuin|The Compass Rose|
+|03/22|💬|Infinite Crisis (2005) #5|Geoff Johns|Phil Jimenez & Ivan Reis|
+|03/22|💬|Infinite Crisis (2005) #6|Geoff Johns|Various[^21]|
+|03/22|💬|Infinite Crisis (2005) #7|Geoff Johns|Various[^22]|
 
 
 ## Numbers
@@ -468,3 +471,6 @@ categories = [
 [^17]: Rob Edwards, Malcolm Spellman, Dalan Musson, Julius Onah, and Peter Glanz
 [^18]: Helen Fielding, Dan Mazer, and Abi Morgan
 [^19]: [E0: Press Start Tutorial](https://journal.jinnzhong.com/rcr-fabult-e0-press-start-tutorial/), Quest Central
+[^20]: George Pérez, Ivan Reis & Phil Jimenez
+[^21]: Jerry Ordway, George Pérez, Ivan Reis & Phil Jimenez
+[^22]: Joe Bennett, George Pérez, Ivan Reis & Phil Jimenez
