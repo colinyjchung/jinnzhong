@@ -374,7 +374,49 @@ categories = [
 |03/14|📺|St. Denis Medical (2024) S1E14 "Listen to Your Ladybugs"|Bill Benz|Kyle Mack|
 |03/14|📺|Ghosts (2021) S4E16 "St. Hetty's Day"|Pete Chatmon|Josh Malmuth|
 |03/15|📜|The Cheese and the Worms (1976)|Carlo Ginzburg|tr.John & Anne C. Tedeschi|
-
+|03/16|📺|30 Rock (2006) S1E11 "The Head and the Hair"|Gail Mancuso|Tina Fey & John Riggi|
+|03/16|📺|30 Rock (2006) S1E12 "Black Tie"|Don Scardino|Tina Fey & Kay Cannon|
+|03/16|💬|Infinite Crisis (2005) #3|Geoff Johns|George Pérez & Phil Jimenez|
+|03/16|💬|Infinite Crisis (2005) #4|Geoff Johns|Various[^20]|
+|03/16|💬|Batgirl (2024) #5|Tate Brombal|Takeshi Miyazawa|
+|03/16|💬|Poison Ivy (2022) #31|G. Willow Wilson|Brian Level|
+|03/16|💬|Birds of Prey (2023) #19|Kelly Thompson|Juann Cabal|
+|03/16|💬|JSA (2024) #5|Jeff Lemire|Diego Olortegui|
+|03/16|💬|Justice League: The Atom Project (2025) #3|Ryan Parrott & John Ridley|Mike Perkins|
+|03/16|💬|Phoenix (2024) #9|Stephanie Phillips|Alessandro Miracolo|
+|03/16|💬|Green Lantern Corps (2025) #2|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
+|03/16|💬|The Ultimates (2024) #10|Deniz Camp|Juan Frigeri|
+|03/17|📃|Dinner at the Bank of England (1996)|Guy Davenport|Paris Review|
+|03/18|💬|The Manchurian (2024) #1)|Pornsak Pichetshote|Terry Dodson|
+|03/18|📽️|This is 40 (2012)|Judd Apatow|Judd Apatow|
+|03/19|💬|X-Force (2024) #9|Geoffrey Thorne|Marcus To|
+|03/19|💬|Exceptional X-Men (2024) #7|Eve L. Ewing|Carmen Carnero|
+|03/19|💬|The Question: All Along the Watchtower (2024) #0|Alex Segura|Cian Tormey & Raúl Fernández|
+|03/19|💬|Challengers of the Unknown (2024) #4|Christopher Cantwell|Sean Izaakse|
+|03/19|💬|Absolute Flash (2025) #1|Jeff Lemire|Nick Robles|
+|03/19|💬|Absolute Batman (2024) #6|Scott Snyder|Nick Dragotta|
+|03/19|💬|Zatanna (2025) #2|Jamal Campbell|Jamal Campbell|
+|03/19|📺|St. Denis Medical (2024) S1E9 “You Got to Have a Plan”|Bill Benz|Naomi Ekperigin|
+|03/19|💬|Assorted Crisis Events (2025) #1|Deniz Camp|Eric Zawadzki|
+|03/19|💬|The Power Fantasy (2024) #7|Kieron Gillen|Caspar Wijngaard|
+|03/19|💬|The New Gods (2024) #4|Ram V|Evan Cagle & Bernard Chang|
+|03/19|💬|Absolute Superman (2024) #5|Jason Aaron|Rafa Sandoval|
+|03/20|📃|Lying Presences (1982)|Norman Rush|Paris Review|
+|03/20|💬|Resurrection Man (1997) #2|Dan Abnett & Andy Lanning|Butch Guice|
+|03/20|💬|Resurrection Man (1997) #3|Dan Abnett & Andy Lanning|Butch Guice|
+|03/20|💬|Resurrection Man (1997) #4|Dan Abnett & Andy Lanning|Butch Guice|
+|03/20|💬|Resurrection Man (1997) #5|Dan Abnett & Andy Lanning|Butch Guice|
+|03/20|💬|Resurrection Man (1997) #6|Dan Abnett & Andy Lanning|Butch Guice & Dexter Vines|
+|03/20|💬|Resurrection Man (1997) #7|Dan Abnett & Andy Lanning|Tom Grindberg|
+|03/20|💬|Resurrection Man (1997) #8|Dan Abnett & Andy Lanning|Butch Guice|
+|03/21|📽️|Conclave (2024)|Edward Berger|Peter Straughan|
+|03/21|📃|How Sargoth Lay Siege to Zaremm (1972)|Lin Carter|Swordsmen and Supermen|
+|03/21|📃|Tale of Hauk (1977)|Poul Anderson|Swords Against Darkness|
+|03/22|📃|A Girl of Nails and Teeth (2022)|Hannah Yang|Nightmare|
+|03/22|📃|Five Views of the Planet Tartarus (2024)|Rachael K. Jones|Lightspeed|
+|03/22|📽️|Glass Onion (2022)|Rian Johnson|Rian Johnson|
+|03/22|📃|Destinations of Joy (2020)|Alexander Weinstein|Lightspeed|
+|03/22|📃|The Wife's Story (1982)|Ursula K. LeGuin|The Compass Rose|
 
 
 ## Numbers
