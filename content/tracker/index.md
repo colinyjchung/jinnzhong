@@ -366,7 +366,7 @@ categories = [
 |03/12|💬|Absolute Superman (2024) #5|Jason Aaron|Rafa Sandoval|
 |03/12|💬|Hyde Street (2024) #4|Geoff Johns|Ivan Reis|
 |03/12|📃|The Palace Thief (1993)|Ethan Canin|Paris Review|
-|03/12|💬|Resurrection Man (1997)|Dan Abnett & Alan Lanning|Jackson Guice|
+|03/12|💬|Resurrection Man (1997) #1|Dan Abnett & Alan Lanning|Jackson Guice|
 |03/13|📃|The Castle That Jack Built (2012)|Emily Gilman|Beneath Ceaseless Skies|
 |03/13|📃|Flying Carpets (1997)|Steven Millhauser|Paris Review|
 |03/13|📺|Abbott Elementary (2021) S4E17 “Karaoke”|Matthew Pexa|Brittani Nichols|
