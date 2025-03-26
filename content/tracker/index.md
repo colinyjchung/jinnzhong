@@ -391,7 +391,7 @@ categories = [
 |03/18|📽️|This is 40 (2012)|Judd Apatow|Judd Apatow|
 |03/19|💬|X-Force (2024) #9|Geoffrey Thorne|Marcus To|
 |03/19|💬|Exceptional X-Men (2024) #7|Eve L. Ewing|Carmen Carnero|
-|03/19|💬|The Question: All Along the Watchtower (2024) #0|Alex Segura|Cian Tormey & Raúl Fernández|
+|03/19|💬|The Question: All Along the Watchtower (2024) #5|Alex Segura|Cian Tormey & Raúl Fernández|
 |03/19|💬|Challengers of the Unknown (2024) #4|Christopher Cantwell|Sean Izaakse|
 |03/19|💬|Absolute Flash (2025) #1|Jeff Lemire|Nick Robles|
 |03/19|💬|Absolute Batman (2024) #6|Scott Snyder|Nick Dragotta|
