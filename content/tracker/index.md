@@ -122,7 +122,7 @@ categories = [
 |01/12|💬|Invisible Kingdom (2019) #14|G. Willow Wilson|Christian Ward|
 |01/12|💬|Invisible Kingdom (2019) #15|G. Willow Wilson|Christian Ward|
 |01/12|📽️|The Holdovers (2023)|Alexander Payne|David Hemingson|
-|01/12|📜|The Secret Life of Elias of Babylon (2014)|John-Paul A. Ghobrial||
+|01/12|📜|The Secret Life of Elias of Babylon (2014)|John-Paul A. Ghobrial|Past and Present no.222|
 |01/15|💬|Ultimate Wolverine (2025) #1|Chris Condon|Alessandro Cappuccio|
 |01/15|💬|Magik (2025) #1|Ashley Allen|Germán Peralta|
 |01/15|💬|Challengers of the Unknown (2024) #2|Christopher Cantwell|Sean Izaakse|
@@ -150,7 +150,7 @@ categories = [
 |01/19|💬|Green Lantern (1990) #51|Ron Marz|Darryl Banks|
 |01/19|💬|Green Lantern (1990) #52|Ron Marz|Various[^7]|
 |01/19|💬|Green Lantern (1990) #53|Ron Marz|Darryl Banks|
-|01/19|📜|Inventing Sincerity, Refashioning Prudence (1997)|John Martin||
+|01/19|📜|Inventing Sincerity, Refashioning Prudence (1997)|John Martin|American Historical Review V102/No5|
 |01/20|💬|JSA (1999) #1|James Robinson & David S. Goyer|Stephen Sandowski|
 |01/20|💬|JSA (1999) #2|James Robinson & David S. Goyer|Stephen Sandowski|
 |01/20|💬|JSA (1999) #3|James Robinson & David S. Goyer|Stephen Sandowski|
