@@ -514,3 +514,7 @@ categories = [
 [^20]: George Pérez, Ivan Reis & Phil Jimenez
 [^21]: Jerry Ordway, George Pérez, Ivan Reis & Phil Jimenez
 [^22]: Joe Bennett, George Pérez, Ivan Reis & Phil Jimenez
+[^23]: Butch Guice, Joe Phillips, & Jasen Rodriguez
+[^24]: George Meyer, Sam Simon, John Swartzwelder, and Jon Vitti
+[^25]: Enid Balám, Gleb Melnikov, and Federica Mancin
+[^26]: Seth Rogen, Evan Goldberg, Peter Huyck, Alex Gregory, & Frida Perez
