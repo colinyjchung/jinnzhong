@@ -420,7 +420,47 @@ categories = [
 |03/22|💬|Infinite Crisis (2005) #5|Geoff Johns|Phil Jimenez & Ivan Reis|
 |03/22|💬|Infinite Crisis (2005) #6|Geoff Johns|Various[^21]|
 |03/22|💬|Infinite Crisis (2005) #7|Geoff Johns|Various[^22]|
-
+|03/23|💬|Resurrection Man (1997) #9|Dan Abnett & Andy Lanning|Butch Guice|
+|03/23|💬|Resurrection Man (1997) #10|Dan Abnett & Andy Lanning|Butch Guice|
+|03/23|📺|Abbott Elementary (2021) S4E18 "Audit"|Jaime Eliezer Karas|Ava Coleman|
+|03/23|💬|Resurrection Man (1997) #11|Dan Abnett & Andy Lanning|Butch Guice|
+|03/23|💬|Resurrection Man (1997) #12|Dan Abnett & Andy Lanning|Butch Guice|
+|03/23|💬|Resurrection Man (1997) #13|Dan Abnett & Andy Lanning|Mike McKone|
+|03/23|💬|Resurrection Man (1997) #14|Dan Abnett & Andy Lanning|Various[^23]|
+|03/24|📺|It's Always Sunny in Philadephia (2005) S7E11 "Thunder Gun Express"|Matt Shakman|Dave Chernin & John Chernin|
+|03/25|📺|The Simpsons (1989) S1E11 “Crepes of Wrath"|Wesley Archer & Milton Gray|Various[^24]|
+|03/25|📜|The Return of Martin Guerre (1983)|Natalie Zemon Davis||
+|03/25|📃|A Girl of Nails and Teeth (2022)|Hannah Yang|Nightmare|
+|03/25|📃|Five Views of the Planet Tartarus (2024)|Rachael K. Jones|Lightspeed|
+|03/25|📃|The Wife’s Story (1982)|Ursula K. LeGuin|The Compass Rose|
+|03/25|📃|Ten Stories from Flaubert (2010)|Lydia Davis|Paris Review|
+|03/26|💬|X-Manhunt Omega (2025) #1|Gail Simone & Murewa Ayodele|Various[^25]|
+|03/26|💬|Doom's Division (2025) #1|Yoon Ha Lee|Minkyu Jung|
+|03/26|💬|Absolute Martian Manhunter (2025) #1|Deniz Camp|Javier Rodríguez|
+|03/26|📺|The Studio (2025) S1E1 "The Promotion"|Seth Rogen & Evan Goldberg|Various[^26]|
+|03/26|💬|Uncanny X-Men (2024) #12|Gail Simone|Gavin Guidry|
+|03/26|💬|Ultimate Spider-Man (2024) #15|Jonathan Hickman|David Messina|
+|03/26|💬|Justice League Unlimited (2024) #5|Mark Waid|Dan Mora|
+|03/26|💬|Superman (2022) #24|Joshua Williams|Dan Mora|
+|03/26|💬|Green Lantern (2023) #21|Jeremey Adams|Jack Herbert|
+|03/26|💬|Absolute Wonder Woman (2024) #6|Kelly Thompson|Mattia De Lulis & Dustin Nguyen|
+|03/26|💬|The New Gods (2024) #4|Ram V|Evan Cagle & Bernard Chang|
+|03/26|💬|The Power Fantasy (2024) #7|Kieron Gillen|Caspar Wijngaard|
+|03/27|📃|The Beau Monde of Mrs. Bridge (1955)|Evan S. Connell|Paris Review|
+|03/27|📃|Night Flight to Stockholm (1978)|Dallas Wiebe|Paris Review|
+|03/28|💬|Doom's Division (2025) #1|Yoon Ha Lee|Minkyu Jung|
+|03/28|💬|Hyde Street (2024) #4|Geoff Johns|Ivan Reis|
+|03/28|💬|Absolute Flash (2025) #1|Jeff Lemire|Nick Robles|
+|03/28|💬|Zatanna (2025) #2|Jamal Campbell|Jamal Campbell|
+|03/28|💬|The Question: All Along the Watchtower (2024) #5|Alex Segura|Cian Tormey & Raúl Fernández|
+|03/28|💬|Challengers of the Unknown (2024) #4|Christopher Cantwell|Sean Izaakse|
+|03/28|💬|Absolute Wonder Woman (2024) #6|Kelly Thompson|Mattia De Lulis & Dustin Nguyen|
+|03/28|💬|Absolute Batman (2024) #6|Scott Snyder|Nick Dragotta|
+|03/28|💬|Assorted Crisis Events (2025) #1|Deniz Camp|Eric Zawadzki|
+|03/28|💬|Resurrection Man (2011) #1|Dan Abnett & Andy Lanning|Fernando Dagino|
+|03/29|💬|Doctor Strange (2023) #1|Jed MacKay|Pasqual Ferry|
+|03/29|📺|The Studio (2025) S1E2 "The Oner"|Seth Rogen & Evan Goldberg|Peter Huyck|
+|03/29|📜|The Refashioning of Martin Guerre (1988)|Robert Finlay|American Historical Review V93/No3|
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎤   |🏛️   |
