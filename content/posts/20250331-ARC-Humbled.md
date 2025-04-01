@@ -7,7 +7,6 @@ tags = [
    "Creative Process",
    "ARC",
    "ARC: Humbled",
-
 ]
 categories = [
    "Craft of Storytelling",

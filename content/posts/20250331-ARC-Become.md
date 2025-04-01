@@ -7,7 +7,6 @@ tags = [
    "Creative Process",
    "ARC",
    "ARC: Become",
-
 ]
 categories = [
    "Craft of Storytelling",

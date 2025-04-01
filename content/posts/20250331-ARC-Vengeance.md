@@ -7,7 +7,6 @@ tags = [
    "Creative Process",
    "ARC",
    "ARC: Vengeance",
-
 ]
 categories = [
    "Craft of Storytelling",

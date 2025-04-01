@@ -7,7 +7,6 @@ tags = [
    "Creative Process",
    "ARC",
    "ARC: Fugitive",
-
 ]
 categories = [
    "Craft of Storytelling",

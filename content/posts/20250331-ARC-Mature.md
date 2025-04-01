@@ -7,7 +7,6 @@ tags = [
    "Creative Process",
    "ARC",
    "ARC: Mature",
-
 ]
 categories = [
    "Craft of Storytelling",

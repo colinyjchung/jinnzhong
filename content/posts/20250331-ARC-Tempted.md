@@ -7,7 +7,6 @@ tags = [
    "Creative Process",
    "ARC",
    "ARC: Tempted",
-
 ]
 categories = [
    "Craft of Storytelling",

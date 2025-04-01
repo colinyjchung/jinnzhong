@@ -7,7 +7,6 @@ tags = [
    "Creative Process",
    "ARC",
    "ARC: Protect",
-
 ]
 categories = [
    "Craft of Storytelling",

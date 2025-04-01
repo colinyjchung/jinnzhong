@@ -7,7 +7,6 @@ tags = [
    "Creative Process",
    "ARC",
    "ARC: Spiral",
-
 ]
 categories = [
    "Craft of Storytelling",
