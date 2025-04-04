@@ -461,13 +461,34 @@ categories = [
 |03/29|💬|Doctor Strange (2023) #1|Jed MacKay|Pasqual Ferry|
 |03/29|📺|The Studio (2025) S1E2 "The Oner"|Seth Rogen & Evan Goldberg|Peter Huyck|
 |03/29|📜|The Refashioning of Martin Guerre (1988)|Robert Finlay|American Historical Review V93/No3|
+|03/30|💬|Doctor Strange (2023) #2|Jed MacKay|Pasqual Ferry|
+|03/30|💬|Resurrection Man (1997) #15|Dan Abnett & Andy Lanning|Butch Guice|
+|03/30|💬|Resurrection Man (1997) #16|Dan Abnett & Andy Lanning|Butch Guice|
+|03/30|💬|Resurrection Man (1997) #17|Dan Abnett & Andy Lanning|Butch Guice|
+|03/30|💬|Supergirl (1996) #24|Peter David|Leonard Kirk|
+|03/30|💬|Resurrection Man (1997) #18|Dan Abnett & Andy Lanning|Jim Calfiore & Sal Velluto|
+|03/30|📃|The Chance Planet (2014)|Elizabeth Bear|Tor.com|
+|03/30|💬|Resurrection Man (1997) #19|Dan Abnett & Andy Lanning|Butch Guice|
+|03/30|📜|On the Lame (1988)|Natalie Zemon Davis|American Historical Review V93/No3|
+|03/30|💬|Superman (2022) #24|Joshua Williams|Dan Mora|
+|03/30|💬|Justice League Unlimited (2024) #5|Mark Waid|Dan Mora|
+|03/30|💬|Green Lantern (2023) #21|Jeremey Adams|Jack Herbert|
+|03/30|💬|Absolute Martian Manhunter (2025) #1|Deniz Camp|Javier Rodríguez|
+|03/31|📃|Jewels in the Forest (1939)|Fritz Lieber|Unknown|
+|03/31|📃|Empire of the Necromnacers (1932)|Clark Ashton Smith|Weird Tales|
+
+## April 2025
+||||||
+|---:|:---:|:---|:---|:---|
+
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎤   |🏛️   |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |JAN |0    |2    |0    |3    |157  |0    |0    |19   |6    |1    |0    |1    |0    |0    |
 |FEB |0    |0    |0    |9    |83   |0    |0    |4    |9    |0    |0    |0    |0    |1    |
-|MAR |0    |0    |0    |0    |00   |0    |0    |0    |0    |0    |0    |0    |0    |0    |
+|MAR |0    |4    |0    |27   |103  |0    |0    |13   |3    |1    |0    |0    |0    |0    |
+|APR |0    |0    |0    |0    |00   |0    |0    |0    |0    |0    |0    |0    |0    |0    |
 
 
 
