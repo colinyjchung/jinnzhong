@@ -480,7 +480,49 @@ categories = [
 ## April 2025
 ||||||
 |---:|:---:|:---|:---|:---|
-
+|04/02|💬|We're Taking Everyone Down with Us #1|Matthew Rosenberg|Stefano Landin|
+|04/02|💬|Poison Ivy (2022) #32|G. Willow Wilson|Brian Level|
+|04/02|💬|Justice League: The Atom Project (2025) #1|Ryan Parrott & John Ridley|Mike Perkins|
+|04/02|💬|Batgirl (2024) #6|Tate Brombal|Takeshi Miyazawa|
+|04/02|💬|JSA (2024) #6|Jeff Lemire|Diego Olortegui|
+|04/02|💬|Birds of Prey (2023) #0|Kelly Thompson|Sami Basri|
+|04/02|💬|Absolute Green Lantern (2025) #1|Al Ewing|Jahnoy Lindsay|
+|04/03|💬|X-Men (2024) #14|Jed MacKay|Ryan Stegman|
+|04/03|💬|Resurrection Man: Quantum Karma (2025) #1|Ram V|Anand Radhakrishnan & Butch Guice|
+|04/03|💬|Absolute Superman (2024) #6|Jason Aaron|Carmine Di Giandomenico|
+|04/04|📃|The Secret Life of Walter Mitty (1939)|James Thurber|New Yorker|
+|04/05|📃|Turjan of Miir (1950)|Jack Vance|Dying Earth|
+|04/05|💬|Secret Six (2025) #1|Nichole Maines|Stephen Segovia|
+|04/05|📃|A Hero at the Gates (1979)|Tanith Lee|Shayol|
+|04/05|📺|White Lotus (2021) S3E1 "Same Spirits, New Forms"|Mike White|Mike White|
+|04/05|📺|White Lotus (2021) S3E2 "Special Treatments"|Mike White|Mike White|
+|04/05|📽️|Flow (2024)|Gints Zilbalodis|Gints Zilbalodis & Matīss Kaža|
+|04/05|📺|White Lotus (2021) S3E3 "Special Treatments"|Mike White|Mike White|
+|04/05|💬|Uncanny X-Men (2024) #11|Gail Simone|Javier Garrón|
+|04/05|💬|Champions (2020) #2|Eve L. Ewing|Robert Quinn|
+|04/08|💬|NYX (2024) #9|Collin Kelly & Jackson Lanzing|Francesco Mortarino|
+|04/08|💬|Storm (2024) #6|Murewa Ayodele|Luciano Vecchio|
+|04/08|💬|X-Men (2024) #13|Jed MacKay|Netho Diaz|
+|04/08|💬|X-Factor (2024) #8|Mark Russell|Bob Quinn|
+|04/08|💬|X-Force (2024) #9|Geoffrey Thorne|Marcus To|
+|04/08|💬|Exceptional X-Men (2024) #7|Eve L. Ewing|Carmen Carnero|
+|04/08|💬|X-Manhunt Omega (2025) #1|Gail Simone & Murewa Ayodele|Various[^25]|
+|04/08|💬|Uncanny X-Men (2024) #12|Gail Simone|Gavin Guidry|
+|04/08|💬|Resurrection Man (1997) #20|Dan Abnett & Andy Lanning|Butch Guice|
+|04/08|📺|Ghosts (2021) S4E17 “His Girl Shiki”|Todd Biermann|Joe Port & Joe Wiseman|
+|04/09|💬|Phoenix (2024) #10|Stephanie Phillips|Alessandro Miracolo|
+|04/09|💬|Storm (2024) #7|Murewa Ayodele|Luciano Vecchio|
+|04/09|💬|Uncanny X-Men (2024) #13|Gail Simone|David Marquez|
+|04/09|💬|The Ultimates (2024) #11|Deniz Camp|Juan Frigeri|
+|04/09|💬|Hyde Street (2024) #5|Geoff Johns|Francis Portela|
+|04/09|💬|Green Lantern Corps (2025) #3|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
+|04/09|💬|Absolute Batman (2024) #7|Scott Snyder|Marcos Martín|
+|04/10|📺|Abbott Elementary (2021) S4E21 "Rally"|Claire Scanlon|Joya McCrory|
+|04/10|📃|Old Birds (1999)|Bernard Cooper|Paris Review|
+|04/11|💬|Children of the Atom (2021) #4|Vita Ayala|Paco Medina|
+|04/11|💬|Children of the Atom (2021) #5|Vita Ayala|Paco Medina|
+|04/12|📺|The Studio (2025) S1E3 “The Note”|Seth Rogen & Evan Goldberg|Seth Rogen & Evan Goldberg|
+|04/12|📺|The Studio (2025) S1E4 “The Note”|Seth Rogen & Evan Goldberg|Peter Huyck|
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎤   |🏛️   |
