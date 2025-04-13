@@ -11,7 +11,7 @@ tags = [
  "Cat Rambo",
  "Scott Snyder",
  "Michael Tworek",
- "Sandra Tayler"
+ "Sandra Tayler",
  "ASSW",
  "SLSC",
  ]
