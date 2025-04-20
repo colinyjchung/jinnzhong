@@ -614,3 +614,6 @@ categories = [
 [^24]: George Meyer, Sam Simon, John Swartzwelder, and Jon Vitti
 [^25]: Enid Balám, Gleb Melnikov, and Federica Mancin
 [^26]: Seth Rogen, Evan Goldberg, Peter Huyck, Alex Gregory, & Frida Perez
+[^27]: Mark Waid, Dan Slott, & Joshua Williams
+[^28]: Jorge Jiménez, Belén Ortega, & Dan Mora
+[^29]: Akihiro Saitō, Masaki Watanabe, & Yoshihiro Nishio
