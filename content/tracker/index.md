@@ -523,6 +523,39 @@ categories = [
 |04/11|💬|Children of the Atom (2021) #5|Vita Ayala|Paco Medina|
 |04/12|📺|The Studio (2025) S1E3 “The Note”|Seth Rogen & Evan Goldberg|Seth Rogen & Evan Goldberg|
 |04/12|📺|The Studio (2025) S1E4 “The Note”|Seth Rogen & Evan Goldberg|Peter Huyck|
+|04/13|📺|Black Mirror (2011) S7E1 "Common People"|Ally Pankiw|Charlie Brooker|
+|04/13|📺|Ghosts (2021) S4E18 "Smooching and Smushing"|Todd Biermann|Rupinder Gill & Sophia Lear|
+|04/16|💬|Batman/Superman: World's Finest (2022) #38|Mark Waid|Clayton Henry|
+|04/16|💬|Teenage Mutant Ninja Turtles (2024) #8|Jason Aaron|Juan Ferreyra|
+|04/16|💬|Exceptional X-Men (2024) #0|Eve L. Ewing|Carmen Carnero|
+|04/16|💬|Zatanna (2025) #3|Jamal Campbell|Jamal Campbell|
+|04/16|💬|Challengers of the Unknown (2024) #5|Christopher Cantwell|Sean Izaakse & Amancay Nahuelpan|
+|04/16|💬|Summer of Superman Special #1 (2025)|Various[^27]|Various[^28]|
+|04/16|💬|Absolute Flash (2025) #2|Jeff Lemire|Nick Robles|
+|04/16|💬|The New Gods (2024) #5|Ram V|Evan Cagle & Andrew MacLean|
+|04/17|💬|JSA (2024) #6|Jeff Lemire|Diego Olortegui|
+|04/17|💬|Batgirl (2024) #6|Tate Brombal|Takeshi Miyazawa|
+|04/17|💬|Justice League: The Atom Project (2025) #1|Ryan Parrott & John Ridley|Mike Perkins|
+|04/17|💬|Poison Ivy (2022) #32|G. Willow Wilson|Brian Level|
+|04/17|📺|Sakamoto Days (2025) E1 "The Legendary Hit Man"|Masaki Watanabe|Masaki Watanabe|
+|04/17|📺|Sakamoto Days (2025) E2 "Vs. Son Hee and Bacho"|Various[^29]|Masaki Watanabe|
+|04/17|📺|Sakamoto Days (2025) E3 "Welcome to Sugar Park"|Yoshihiro Nishio|Masaki Watanabe & Akihiro Saitō|
+|04/17|📺|Sakamoto Days (2025) E4 "Hard-Boiled"|Yoshihide Ibata|Yoshihide Ibata|
+|04/18|📺|Abbott Elementary (2021) S4E22 "Please Touch Museum"|Randall Einhorn|Riley Dufurrena & Garrett Werner|
+|04/18|📺|The Simpsons (1989) S36E14 "P.S. I Hate You"|Mike Frank Polcino|Cesar Mazariegos|
+|04/19|💬|Ultimate Spider-Man (2024) #15|Jonathan Hickman|David Messina|
+|04/19|📺|White Lotus (2021) S3E4 "Hide of Seek"|Mike White|Mike White|
+|04/19|📃|The Story of Mimi-Nashi-Hōïchi (1782)|Isseki Sanjin|trans. Lafcadio Hearn|
+|04/19|📃|Oshidora|Japanese Folklore|trans. Lafcadio Hearn|
+|04/19|📃|The Story of O-Tei|Japanese Folklore|trans. Lafcadio Hearn|
+|04/19|📃|Tower of the Elephant (1933)|Robert E. Howard|Weird Tales|
+|04/19|💬|Phoenix (2024) #10|Stephanie Phillips|Alessandro Miracolo|
+|04/19|💬|X-Men (2024) #14|Jed MacKay|Ryan Stegman|
+|04/19|💬|Storm (2024) #7|Murewa Ayodele|Luciano Vecchio|
+|04/19|💬|The Ultimates (2024) #11|Deniz Camp|Juan Frigeri|
+|04/19|💬|Resurrection Man: Quantum Karma (2025) #1|Ram V|Anand Radhakrishnan & Butch Guice|
+
+
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎤   |🏛️   |
