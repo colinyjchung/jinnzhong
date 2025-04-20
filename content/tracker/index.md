@@ -527,7 +527,7 @@ categories = [
 |04/13|📺|Ghosts (2021) S4E18 "Smooching and Smushing"|Todd Biermann|Rupinder Gill & Sophia Lear|
 |04/16|💬|Batman/Superman: World's Finest (2022) #38|Mark Waid|Clayton Henry|
 |04/16|💬|Teenage Mutant Ninja Turtles (2024) #8|Jason Aaron|Juan Ferreyra|
-|04/16|💬|Exceptional X-Men (2024) #0|Eve L. Ewing|Carmen Carnero|
+|04/16|💬|Exceptional X-Men (2024) #8|Eve L. Ewing|Carmen Carnero|
 |04/16|💬|Zatanna (2025) #3|Jamal Campbell|Jamal Campbell|
 |04/16|💬|Challengers of the Unknown (2024) #5|Christopher Cantwell|Sean Izaakse & Amancay Nahuelpan|
 |04/16|💬|Summer of Superman Special #1 (2025)|Various[^27]|Various[^28]|
