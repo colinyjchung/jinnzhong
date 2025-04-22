@@ -26,6 +26,32 @@ categories = [
 * I did sneak in at least one question to Scott before our call ended, which was "How do you decide which of your million ideas do you decide to work on?" And he said, don't worry about the marketing side of it. Pick something you're excited about, pick something you think you'll genuinely enjoy writing. Which, when it came to the end of the week, a bookend of mentors if you will, and I was telling Cat about some of the projects I was half-committed to, she asked me if I was excited about it, which ultimately, verified the compass artists use to pick projects to commit to. And it's a 180º shift from what I've been doing in marketing for almost two decades now. We don't pick projects out of excitement, we pick them based on what we think will have the greatest potential for success based on market trends, market pain, and the uniqueness of the unique selling proposition. If the mechanism isn't "cool" enough, don't do it. If you don't think it'll resonate with the market, don't do it. If you don't think you'll make millions, don't do it. So with this 180º turn on artistic projects, where I don't care what the market thinks because that ends up getting in the way of getting said art done, and I have to pick purely out of selfish reasons of... "does this excite me?"... I get the luxury of following my emotions. It's freeing, but also immobilizing. So of course, me being me, I put some criteria on it to help me navigate my hundreds of ideas. (It's not hundreds, more like just over 50). The number one criteria is it's something that I can actually get done and completed inside a month. So that means no crazy worldbuilding, no insane amount of research into slang, lingo, accents, no reading a giant book just for research. That's not to say I can't do those things but I need to plan them out better. At least for this first deadline(s). Another rule that would really help is if there is research, it's related to the long-term goal of landing in the historical fiction target of Renaissance/Reformation period. Put another way, the first stories due for Snyder and Rambo have to be worlds/rules I already know, and/or stuff I can easily make up or hand wave. So with that, I think I've narrowed  down the ideas to three for Snyder and six for Rambo. I think the discrepancy is fine as I'll be moving at a much slower pace for Snyder anyway. Ten pages is half an issue, which is one tenth of a five issue arc, and since I can't draw at all, it's not like it'll magically come into fruition unless I'm willing to pony up for an artist, and I would have to really believe in the script before I did that and attempt to sell it to Image, or Vertigo now that James Tynion IV is bringing it back. I mean, I guess Boom and Dark Horse are still available, but who knows where IDW will be in a few months. I joked about buying IDW with Simon. I mean. Trading at 33¢ OTC, it's a 8.9M market cap. So no, I can't actually buy it, but nine milly also isn't insane for picking up with proper leveraging haha. I think the only challenge is what do they have aside from TMNT? Just checked. They also have Sonic, MLP, Godzilla, Locke and Key and Beneath the Trees. Ok, that's enough of a tangent and meandering for me.
 * Last ASSW, was my turn up for story workshop, and the first draft of [prj:MUSIC](https://journal.jinnzhong.com/tags/prj-music/)	 was submitted. Feedback was mostly positive with similar constructive feedback across the board. Surprisingly, for someone who keeps pounding on MECH as the thing, that was what I needed most work on. A more clear idea of the rules. I did not think about it thoroughly. Easy to fix. Reduce the lists was another, which I _knew_ was an issue the moment I submitted it but didn't care because I just wanted to hit the Monday deadline. And from Cat herself, the ending could be drawn out more, ALSO something I knew was problematic going in. The final scene was rushed. Some other useful ideas was to create more emotional anchors for the owner, the love interest. In short, this felt like a win. It was a pretty solid story that resonated with a lot of the group and I have edits that didn't surprise me and I know how to get it to the finish line. Hurray.
 
+### Q&A w/Cat + Notes
+
+1. Where you see yourself as being right now, and where you'd like to be in five years.
+    * RIGHT NOW
+        * I am at the very beginning. This is the first time in my life I’ve taken a proper concerted attempt at writing fiction and focusing on story craft consistently.
+        * I’ve been stuck on figuring out story craft for two decades it seems. I think I’ve finally cracked the code? Structure, plot, character arcs. Not worried about voice.
+        * Wanted to write fiction since early twenties. Attempted one novella in 2007, one rejection, quit to focus on career. Second attempt 2015-2017. A lot of first scenes that I thought was flash, but no middle, no end. Fell into structure rabbit hole.
+    * FIVE YEARS
+        * The dream is to be a full-time novelist, with comic books, TV scripts on the side, but so much of that is based on luck and I don’t want to think about it at all.
+        * I cannot see myself replacing my income to tell stories in five years.
+        * So a more honest five year goal is to have maybe 
+            * Two novels written and being shopped around 
+            * At least 20 short stories published
+            * Perhaps a few miniseries at the Big 2 comics (preferably DC)
+2. What projects you're currently working on, and what would help you with them?
+    * I do not have any current projects that are hard coded. I think I would simply like to get into a rhythm of producing one short story a month. That’s the most important thing for me. A rhythm where something is made and completed each month. I really just need to put In the reps
+    * I have short story ideas, but each one needs work and development.
+        * How do I decided which idea to commit to and get done?
+        * I have an addiction to research — creating a sense of gravitas and authenticity and easter eggs.
+        * I have an addiction to showing off — playing with language.
+3. What things would you like to focus on in terms of developing your writing?
+    * I know I have language and prose down. I know I have an ear for it.
+    * STORY CRAFT - 
+        * Making sure my arcs hit resonance.
+        * To get really comfortable riffing on arc/mech/prog.
+        * Memorable characters that fit the mechanism.
 
 ## Four Thousand Weeks
 
