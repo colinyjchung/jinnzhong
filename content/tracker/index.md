@@ -554,7 +554,39 @@ categories = [
 |04/19|💬|Storm (2024) #7|Murewa Ayodele|Luciano Vecchio|
 |04/19|💬|The Ultimates (2024) #11|Deniz Camp|Juan Frigeri|
 |04/19|💬|Resurrection Man: Quantum Karma (2025) #1|Ram V|Anand Radhakrishnan & Butch Guice|
-
+|04/20|💬|Green Lantern: War Journal (2023) #1|Phillip Kennedy Johnson|Montos|
+|04/20|💬|Green Lantern: War Journal (2023) #2|Phillip Kennedy Johnson|Montos|
+|04/20|📺|White Lotus (2021) S3E5 "Full-Moon Party"|Mike White|Mike White|
+|04/20|📺|Last of Us (2023) S2E1 "Future Days"|Craig Mazin|Craig Mazin|
+|04/21|📺|White Lotus (2021) S3E6 "Denials"|Mike White|Mike White|
+|04/21|📺|Last of Us (2023) S2E2 "Through the Valley"|Mark Mylod|Craig Mazin|
+|04/22|💬|Absolute Green Lantern (2025) #1|Al Ewing|Jahnoy Lindsay|
+|04/22|💬|Green Lantern Corps (2025) #3|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
+|04/22|💬|Birds of Prey (2023) #20|Kelly Thompson|Sami Basri|
+|04/22|💬|Hyde Street (2024) #5|Geoff Johns|Francis Portela|
+|04/22|💬|Batman/Superman: World's Finest (2022) #38|Mark Waid|Clayton Henry|
+|04/22|💬|Absolute Flash (2025) #2|Jeff Lemire|Nick Robles|
+|04/23|💬|X-Men (2024) #15|Jed MacKay|Ryan Stegman & C.F. Villa|
+|04/23|💬|Justice League Unlimited (2024) #6|Mark Waid|Travis Moore|
+|04/23|💬|Superman (2022) #25|Joshua Williams|Various[^30]|
+|04/23|💬|Green Lantern (2023) #22|Jeremey Adams|Xermánico|
+|04/23|💬|Absolute Martian Manhunter (2025) #2|Deniz Camp|Javier Rodríguez|
+|04/23|💬|Absolute Wonder Woman (2024) #7|Kelly Thompson|Mattie De Iulis|
+|04/23|💬|Assorted Crisis Events (2025) #2|Deniz Camp|Eric Zawadzki|
+|04/23|💬|The Power Fantasy (2024) #8|Kieron Gillen|Caspar Wijngaard|
+|04/23|💬|We're Taking Everyone Down with Us #1|Matthew Rosenberg|Stefano Landin|
+|04/24|📃|Ubazakura|Japanese Folklore|trans. Lafcadio Hearn|
+|04/24|📃|Diplomacy|Japanese Folklore|trans. Lafcadio Hearn|
+|04/24|📺|Ghosts (2021) S4E19|Christine Gernon|Skander Halim & Talia Bernstein|
+|04/24|🎤|Mogwai|Commodore Ballroom||
+|04/25|📺|Sakamoto Days (2025) E5 “Source of Strength”|Takatoshi Suzuki|Masaki Watanabe|
+|04/25|📺|Sakamoto Days (2025) E6 “Heisuke Mashimo”|Yūki Taki & Tomoko Hiramuki|Susumu Nishizawa & Yūki Taki|
+|04/25|📺|Sakamoto Days (2025) E7 “Jurassic Bastard”|Yoshihiro Nishio|Hironori Tanaka|
+|04/25|📺|Sakamoto Days (2025) E8 “Sakamoto's vs. the Lab”|Kōki Onoue|Yukio Nishimoto|
+|04/26|💬|Superman (1986) #52|Jerry Ordway|Jerry Ordway|
+|04/26|💬|Adventures of Superman (1987) #474|Dan Jurgens|Dan Jurgens|
+|04/26|📃|Likely Lake (2002)|Mary Robison|Paris Review|
+|04/26|👺|Fabula Ultima (2023)|Ogrebeef|CFHM[^31]|
 
 
 ## Numbers
@@ -617,3 +649,5 @@ categories = [
 [^27]: Mark Waid, Dan Slott, & Joshua Williams
 [^28]: Jorge Jiménez, Belén Ortega, & Dan Mora
 [^29]: Akihiro Saitō, Masaki Watanabe, & Yoshihiro Nishio
+[^30]: Dan Mora, Jamal Campbell, and Eddy Barrows
+[^31]: [E00: Donut, Moon, & Space Whales](https://journal.jinnzhong.com/rcr-fabult-e00-donut-moon-space-whales/), Glausers
