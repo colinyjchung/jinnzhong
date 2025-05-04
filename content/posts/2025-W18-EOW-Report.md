@@ -1,0 +1,52 @@
++++
+author = "Jinn Zhong"
+title = "2025-W18 EOW Report"
+date = "2025-05-04"
+description = "End of Week Report for W18 of 2025"
+tags = [
+ "Creative Process",
+ "EOW Reports",
+ "prj: WAITE",
+ "prj: MUSIC",
+ "Cat Rambo",
+ "LJK",
+ "BJC",
+ "DBM",
+ "AJM",
+ "Garage Fiction Podcast",
+ ]
+
+categories = [
+ "Chasing Black Swans",
+ "Doing the Work",
+]
++++
+{{< toc >}}
+
+## Anti-Goal Cycling
+
+* Haven't touched [prj:MUSIC](https://journal.jinnzhong.com/tags/prj-music/). I'm not letting the feedback age and ferment on purpose. I've just been rushing to get words down for the next one ([prj:WAITE](https://journal.jinnzhong.com/tags/prj-waite/)) before my mid-May deadline for Cat Rambo. Which is wonderful. Deadlines are great. And that's what I did this week. I read _The Pot of Tulips_ (1855) by James O'Brien because I thought I would go down the occult detective route a bit, but ended up realizing it was the wrong path, and then I pivoted to find a new arc -- sorta based on _Likely Lake_ by Mary Robison. I think I have most of it, or at least enough of it down to move forward on. I've got most of the first scene written. Just need to keep powering through it.
+* Behind on my second reading of _The Cheese and the Worms_ (1976). Have a call with Michael this Friday and I might be ill-prepared. Need to sneak in notes when I can. That said, I am burning through MacCulloch's _The Reformation_ (2003) on audio while I run errands and the one day I workout without my PT, and Mortimer's _Time Traveller's Guide to Elizabethan England_ (2010) while doing daily stretches.
+
+
+## Four Thousand Weeks
+
+| Wks Lft | HP |
+| :--- | :--- |
+| 1696/4000 | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:42.400%;height:15px;background:#006600;font-size:12px; color:white; line-height:12px;">42.400%</div></div> |
+
+* Both LJK and BJC asked me if I was unhappy this past week. Odd. With the former, we dug into it and there's a good possibility that it's just me only sharing negative things with her, along with my complaining here in this journal? With BJC, it was the fact I was complaining so much about work on Friday night at our dinner. And then this morning, I had a conversation with AJM about it, and she pointed out that I just "talk things through" and that's just me. Because here's the thing, I think I'm in a fairly good place right now. With Client A, I see potential for upward movement as job and that's all anyone can ask for when it comes to a full-time job right? Growth, learning, opportunities for more? And because it _is_ a job where I can check out in the evenings and weekends, and _because_ I'm no longer writing copy and stressing out about it, I have the mental bandwidth to think and write fiction (not as much time as _I'd like_, but certainly a LOT more than any previous attempts at this). So this routine, there's something to it. I feel like progress on the "one thing" I've wanted to do forever finally has room to be nurtured, grown, and hopefully, soon, bloom and flourish this year. So am I on a whole, net-positive on my emotional portfolio? Yes, I'd say so. But AJM and I dug into it more and I also realized she has always "got me" because she immediately saw that I'm someone who's always "putting on a show" and "saying stuff just to get a reaction" because _she's the same way_. On one hand, sure it could be a deflective coping mechanism, or a way to downplay the interior emotions, but there are a lot of times also where it's just like... how to be interesting because we grew up poor and attention starved and being "interesting" was just something we fine-tuned? I don't know if it's healthy or unhealthy or it just is, but it _is_ fascinating and as I dig more and more into emotional character arcs, I'm paying a lot more attention to these small subtle, nuances and idiosyncrasies that we all have, like the other day, I got annoyed when - driving out of the mall where we had breakfast, and needing to get to CQC to shop at T&T -- my wife points out there's a faster way if I turn right instead of turning left back to the main artery that is Lougheed. This annoyed me because I realized that I would prefer a LONGER ROUTE where I don't have to expend ANY BRAINPOWER, just so I can shut off my brain to daydream or whatever. My wife on the other hand, she's constantly thinking about all these minute and detailed expediencies and efficiencies and how not to waste a single second of her life, check things off her list as quickly as possible. And this is such a cute little small point of difference. I'm the creative, I need my turn brain off time. She's the practical one and just needs errands taken care of. And these little differences between humans is what makes literary fiction great when you dramatize them. So I'm paying more attention to them now.
+* Just got a text from my dad that his eldest brother, my oldest uncle, passed away. He was always a reticent, reserved man. I barely knew him. My only memory of him interacting with me was in an indirect way when he complimented my piano playing to my parents, and he would use the verb _daa_ (to hit) instead of _taan_ (to play I/r/t an instrument), and I would point this error out to my mom and my mom would be like, they just don't know better. Point is, we barely interacted, but I grew up with my cousins and we spent a lot of time together, so he was "around". With that said - what's important about him is that without him I would not be in Canada. I've been thinking about this a lot for the last five years on and off. The fact that a series of events had to happen in order for my entire family to have ended up in Vancouver. How in 1968 my uncle was conscripted to the Southern Vietnamese Navy. How he fought with the Americans against the North, and during the Fall of Saigon, he escaped with their help to Guam, then made his way to California (in some other parallel timeline, I am a Californian), but due to some friends in Vancouver, he moves up to CANADA instead. There he sponsors his ENTIRE FAMILY over to Vancouver. Took three attempts to do it. I don't know if it's because my family on my dad's size is hilariously huge (3 aunts, 9 uncles) or if Canada was slowing its roll on Asian immigrants in the late seventies or what, but it took three attempts but HE DID IT. He sponsored (most of them) here. I have one aunt (the eldest) in HK, 2 died in an attempt to escape Communist Vietnam. THE POINT IS HOWEVER -- I'm here because of all these insane external forces, the Cold War, Vietnam War, just so happened my eldest uncle fought on the American side and left with them, just so happened he had friends in Vancouver and didn't stay in California. 1,353,000 people died (including 282,000 US and allied military deaths) for one of the stupidest, pointless war ever. But if it had not happened and that chain of events not fall in place the way it did just so... My immigrant father from Vietnam would not have met my immigrant mother from Hong Kong in an English class in Vancouver. I just can't stop thinking about this the last five years in my mid-forties, just how mind-blowing this is, what I owe my existence to, my current life... raised in East Vancouver during the greatest bull run in history, which gave me the opportunities to go to university in the 2000s. Could a blue collar family in Vancouver do the same today? I don't think so. The last twenty years has just been unstable economically. The wealth disparity keeps widening. The poor keep getting crushed. I am a product of someone who climbed the ladder and a part of the generation that will pull it up. My children will benefit from this. It is simply mind boggling. RIP _baak fu_.
+
+
+## Story Introspection
+* Is HBO having another renaissance or am I just not watching widely enough anymore (because I'm still stuck in comic and short story land and don't watch the same amount of TV like I used to)? I mean, I haven't watched Yellowjackets, Andor, Daredevil, Severance, Wheel of Time despite them dropping from days to months ago. Regardless -- I am one episode from finishing White Lotus S3, and Last of Us S2 is peak, as the kids say these days.
+* Reread _The Beau Monde of Mrs. Bridges_ (1955) by Evan S. Connell this past week to convert into a zettelkasten THB. Man, this story whipped me into a furious rage the first time, and it did it again equally as well the second time because these people... exist. Just privileged people who grew up in a sheltered vacuum, who never had to fight, never had to scrap, got everything handed to them, so they have no resilience, no need to think critically, no need to truly defend their turf... which is fine if they didn't have power, but THEY DO, so this mass of privileged folk, who don't think, who do everything to be pleasant, and nice, to make pleasant conversation and not intrude, not be rude, not step on toes, they just make nice and take up space and aren't even aware of how much they do. ANYWAY - because of this and _Pelican Song_ by Mary Beth-Hugh, I think I have a fairly good story I can write about idiotic privileged folk.
+* Read _The Pot of Tulips_ (1855) by James O'Brien, which some online folk argue is the first occult detective story. It was... charming. It was also printed in Harper's of all places. Gave me some ideas to steer [prj:WAITE](https://journal.jinnzhong.com/tags/prj-waite/). That's really the only reason I read it. I might read others. Early Occult Detective stories. 
+* Ultimate Spider-Man #16 is a seven star issue. Not five, not six. SEVEN. Holy fuck I was having my mind blown, my jaw dropped, my WTF IS HAPPENING radar broken the ENTIRE TIME I WAS READING IT. Bravo Mr. Hickman. Bravo. 
+* I bought the DC Finest _Justice Society of America_, "For America and Democracy". I don't know what it is about JSA. There's just something about them that I want to really love, but so far, not a single story has really blown me away except Geoff John's miniseries last year, and even that was slightly weird because it was Huntress time-traveling and building a different version of JSA. I don't know if it's the concept that's carrying me through or what. The characters are just so interesting and it has the theme of mentorship and work family that I like, but I dunno. Feel like there's something that could be done with these characters that's just not being done right.
+
+
+
+
+Archive of all EOW reports [here](https://journal.jinnzhong.com/tags/eow-reports)
