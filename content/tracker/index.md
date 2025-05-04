@@ -587,6 +587,32 @@ categories = [
 |04/26|💬|Adventures of Superman (1987) #474|Dan Jurgens|Dan Jurgens|
 |04/26|📃|Likely Lake (2002)|Mary Robison|Paris Review|
 |04/26|👺|Fabula Ultima (2023)|Ogrebeef|CFHM[^31]|
+|04/27|📺|Last of Us (2023) S2E3 "The Path"|Peter Hoar|Craig Mazin|
+|04/27|📃|The Pot of Tulips (1855)|James O'Brien|Harper's|
+|04/28|💬|Challengers of the Unknown (2024) #5|Christopher Cantwell|Sean Izaakse & Amancay Nahuelpan|
+|04/28|💬|Zatanna (2025) #3|Jamal Campbell|Jamal Campbell|
+|04/28|💬|Summer of Superman Special #1 (2025)|Various[^27]|Various[^28]|
+|04/28|💬|Teenage Mutant Ninja Turtles (2024) #8|Jason Aaron|Juan Ferreyra|
+|04/28|📺|St. Denis Medical (2024) S1E17 "Bruce-ic and the Mus-ic"|Trent O'Donnell|Bridget Kyle & Vicky Luu|
+|04/29|💬|The Question: All Along the Watchtower (2024) #6|Alex Segura|Cian Tormey|
+|04/29|💬|Doom's Division (2025) #2|Yoon Ha Lee|Minkyu Jung|
+|04/29|💬|NYX (2024) #10|Jackson Lanzing & Collin Kelly|Francesco Mortarino|
+|04/29|💬|Ultimate Spider-Man (2024) #16|Jonathan Hickman|Marco Checchetto|
+|04/29|📃|The Dreaming City (1961)|Michael Moorcock|Science Fantasy|
+|04/29|💬|All-Star Comics (1940) #3|Various[^32]|Various[^33]|
+|04/30|📺|White Lotus (2021) S3E7 "Killer Instincts"|Mike White|Mike White|
+|04/30|💬|All-Star Comics (1940) #4|Gardner Fox & Evelyn Gaines|Various[^34]|
+
+## May 2025
+||||||
+|---:|:---:|:---|:---|:---|
+|05/02|💬|Action Comics (1938) #1|Jerry Siegel|Joe Schuster|
+|05/02|💬|Justice League of America (1960) #45|Gardner Fox|Alex Sekowsky|
+|05/02|📃|The Beau Monde of Mrs. Bridgeport (1955)|Evan S. Connell|Paris Review|
+|05/03|💬|Wonder Woman (2006) #18|Gail Simone|Bernard Chang|
+|05/03|💬|Wonder Woman (2006) #19|Gail Simone|Bernard Chang|
+|05/03|💬|Wonder Woman (2006) #20|Gail Simone|Aaron Lopresti|
+|05/03|💬|Doom that Came to Sarnath (1935)|H.P. Lovecraft|Marvel Tales of Science and Fantasy|
 
 
 ## Numbers
@@ -595,7 +621,7 @@ categories = [
 |JAN |0    |2    |0    |3    |157  |0    |0    |19   |6    |1    |0    |1    |0    |0    |
 |FEB |0    |0    |0    |9    |83   |0    |0    |4    |9    |0    |0    |0    |0    |1    |
 |MAR |0    |4    |0    |27   |103  |0    |0    |13   |3    |1    |0    |0    |0    |0    |
-|APR |0    |0    |0    |0    |00   |0    |0    |0    |0    |0    |0    |0    |0    |0    |
+|APR |0    |0    |0    |13   |78   |0    |0    |28   |1    |1    |0    |0    |1    |0    |
 
 
 
@@ -651,3 +677,6 @@ categories = [
 [^29]: Akihiro Saitō, Masaki Watanabe, & Yoshihiro Nishio
 [^30]: Dan Mora, Jamal Campbell, and Eddy Barrows
 [^31]: [E00: Donut, Moon, & Space Whales](https://journal.jinnzhong.com/rcr-fabult-e00-donut-moon-space-whales/), Glausers
+[^32]: Gardner Fox, Jerry Siegel, Ken Fitch, Sheldon Mayer, Bill O'Connor, and Evelyn Gaines
+[^33]: E.E. Hibbard, Sheldon Moldoff, Bernard Bailey, Sheldon Mayer, Chad Grothkopf, Howard Sherman, Ben Flinton, and Martin Nodell
+[^34]: E.E. Hibbard, Sheldon Moldoff, Bernard Bailey, Chad Grothkopf, Howard Sherman, Ben Flinton, and Martin Nodell
