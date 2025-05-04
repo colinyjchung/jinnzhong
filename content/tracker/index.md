@@ -577,7 +577,7 @@ categories = [
 |04/23|💬|We're Taking Everyone Down with Us #1|Matthew Rosenberg|Stefano Landin|
 |04/24|📃|Ubazakura|Japanese Folklore|trans. Lafcadio Hearn|
 |04/24|📃|Diplomacy|Japanese Folklore|trans. Lafcadio Hearn|
-|04/24|📺|Ghosts (2021) S4E19|Christine Gernon|Skander Halim & Talia Bernstein|
+|04/24|📺|Ghosts (2021) S4E19 "Pinkus Returns"|Christine Gernon|Skander Halim & Talia Bernstein|
 |04/24|🎤|Mogwai|Commodore Ballroom||
 |04/25|📺|Sakamoto Days (2025) E5 “Source of Strength”|Takatoshi Suzuki|Masaki Watanabe|
 |04/25|📺|Sakamoto Days (2025) E6 “Heisuke Mashimo”|Yūki Taki & Tomoko Hiramuki|Susumu Nishizawa & Yūki Taki|
@@ -612,6 +612,7 @@ categories = [
 |05/03|💬|Wonder Woman (2006) #18|Gail Simone|Bernard Chang|
 |05/03|💬|Wonder Woman (2006) #19|Gail Simone|Bernard Chang|
 |05/03|💬|Wonder Woman (2006) #20|Gail Simone|Aaron Lopresti|
+|05/03|📺|Ghosts (2021) S4E21 "Kyle"|Trent O'Donnell|Joe Port & Joe Wiseman|
 |05/03|💬|Doom that Came to Sarnath (1935)|H.P. Lovecraft|Marvel Tales of Science and Fantasy|
 
 
@@ -622,6 +623,7 @@ categories = [
 |FEB |0    |0    |0    |9    |83   |0    |0    |4    |9    |0    |0    |0    |0    |1    |
 |MAR |0    |4    |0    |27   |103  |0    |0    |13   |3    |1    |0    |0    |0    |0    |
 |APR |0    |0    |0    |13   |78   |0    |0    |28   |1    |1    |0    |0    |1    |0    |
+|MAY |0    |0    |0    |00   |00   |0    |0    |00   |0    |0    |0    |0    |0    |0    |
 
 
 
