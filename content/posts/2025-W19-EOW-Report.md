@@ -1,0 +1,72 @@
++++
+author = "Jinn Zhong"
+title = "2025-W19 EOW Report"
+date = "2025-05-11"
+description = "End of Week Report for W19 of 2025"
+tags = [
+ "Creative Process",
+ "EOW Reports",
+ "prj: WAITE",
+ "prj: MUSIC",
+ "Cat Rambo",
+ "L.L. MacRae",
+ "Olivia Hofer",
+ "Bryan Cheyne",
+ "Garage Fiction Podcast",
+ ]
+
+categories = [
+ "Chasing Black Swans",
+ "Doing the Work",
+]
++++
+{{< toc >}}
+
+## Anti-Goal Cycling
+
+* Still haven't touched [prj:MUSIC](https://journal.jinnzhong.com/tags/prj-music/). Right now, I don't have time for dealing with feedback on a story when I'm chasing a deadline for [prj:WAITE](https://journal.jinnzhong.com/tags/prj-waite/), which is due on the 16th. I might end up handing in only the first two scenes to Cat Rambo at this point. There are two worries here. One, if I don't have time to edit and revise, I might never get stories done. I think prj: MUSIC is good. I would like to revise it. I don't have time because I can barely afford to draft. And the drafting of prj: WAITE is going so slow because I'm still somehow managing to find rabbit holes to burrow into. I've included all the different ways you call Cantonese relatives, and wove it on top of the Tarot symbology. It makes the tapestry more dense and rich, but it's not getting the story finished faster. There's a possibility I may have to accept that this is simply how I tell stories and I cannot tell stories any other way without weaving in a million things and finding new rabbit holes to go down. I don't know.
+* Because of the funeral I attended on Friday, my call with Michael for _The Cheese and the Worms_ has been delayed to the end of the month, which gives me time to prepare more. 72% done on MacCulloch's _The Reformation_ (2003) on audio and nearly done on Mortimer's _Time Traveller's Guide to Elizabethan England_ (2010). Both will require a re-read. The former an actual read with taking of notes. The second, the same.
+
+
+## Four Thousand Weeks
+
+| Wks Lft | HP |
+| :--- | :--- |
+| 1695/4000 | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:42.375%;height:15px;background:#006600;font-size:12px; color:white; line-height:12px;">42.375%</div></div> |
+
+* Funeral for my eldest uncle on my father's side this past Friday, my _baak fu_, the eulogy/obituary hybrid that my cousin wrote below. A lot of facts that I simply didn't know because my family, as most Asian families are I assume, are very much reticent about these things, not sharing stories of hardships. Or maybe others do and we're just more secretive. I had assumed last week that the three attempts to sponsor family members was two failure and a success like a try-fail cycle. It was not. The first sponsorship was my father in 1978. The second one was him flying to a refugee camp in Indonesia to get Mike and Nick. The third was the rest. I did not know that he basically housed, clothed, fed everyone. My youngest uncles and aunt would've been ages 6 to 13. That's a lot of children to take care of in the eighties. I didn't know -- but it made sense -- that he worked 12-16 hour days to do all this. I mean, of course he did. But also, omg, he _did_ that.
+
+
+> Tuong ‘Talent’ CHUNG passed away peacefully on May 4, 2025 at the age of 76, in his home in Vancouver Canada. His back-and-forth battle with various medical issues in recent years showed his courage in facing life’s challenges with a smile. Despite the difficulties, Tuong lived life on his own terms and didn’t let it hold him back from doing the things he enjoyed most with the people he wanted to enjoy them with.
+
+> Born in Gia Dinh, Vietnam March 24, 1949 to Vi Huu Chung and Truong Hao, he was the second of thirteen children. As a child growing up, he lived and breathed martial arts and aspired to be a professional martial artist. However, this was not to be as war broke out while he was finishing high school.
+
+> Drafted into the Navy of the Republic of Vietnam at 19 years of age, he served as a ‘Trung sĩ nhất’ (Petty Officer First Class) until the end of the war, when he made this entry into his journal...
+
+> 30/04/1975:
+
+> _Ngày cuối của tháng trong năm - một ngày thật kinh hoàng, VN mất. Sau những năm dài khắc khoải, chiến đấu, để rồi nhận lấy hậu quả của ngày hôm nay. Sự sống và tự do đã thúc đẩy con người tìm đến một quyết định dứt khoát._
+
+> _The last day of the month of that year - a terrible day, VN lost. After enduring long years filled with anxiety and fighting, only to receive the consequences of today. For life and freedom, people have now been pushed to make a decisive decision (to stay or leave)._
+
+> From there he was evacuated along with the US military and made a series of stops in the Philippines, Guam and California before finally ﬁnding himself here in Vancouver, Canada on July 11, 1975. With almost zero English and armed with nothing more than a high school education, he did what he knew best - worked hard.
+
+> He did everything from washing dishes to various labor jobs, even contributing to the building of the CN tower; all for one goal, to reunite the family that was now scattered all over Asia. After working 12-16hr days at multiple jobs, for three years, he was able to save enough money to sponsor the first of his 13 siblings, David, from Hong Kong in 1978. At this point, he wasn’t sure who made it out and who was left. He learned that the refugee boat carrying 3 of his brothers and 1 sister had capsized during their escape from Vietnam. Tragically, his brother Hue and sister Anh were lost at sea, but Mike and Nick made it to a refugee camp in Indonesia. Knowing this, he ﬂew there to pick them up personally and brought them to Canada.
+
+> There were now more mouths to feed here, and more than half of the family was still in Vietnam. He continued to work tirelessly to send money and care packages back home, filled with day-to-day goods and treats (some that never got to be enjoyed because Auntie Lesley would sometimes sneak them out before anyone knew), until he had enough money to sponsor the rest of his family over. By 1981, after 6 long years, his parents along with his 6 younger siblings Pamela, Larry, Frank, Henry, Lesley and Dan made it to Canada, and the family (with the exception of his eldest sister, Ann) was finally reunited at last.
+
+> Tuong met Lan in June of 1980, it wasn’t quite love at first sight, and although Lan was sure she was somehow tricked and kidnapped, they were married for 44 years and had two sons together, and now a granddaughter.
+
+> Today, the Chung family has grown to over 40 and counting. Tuong ‘Talent’ Chung is survived by his wife Lan, his two sons, Louis and Tommy, his daughter-in-law, Sanae, granddaughter, Karin and all his brothers and sisters and their families.
+
+
+## Story Introspection
+* Been hopping around a lot across DC history. Read some Superman Triangle Era stuff. Read George Pérez's Wonder Woman run. Read the first few issues of Action Comics. Some All-Star Comics. Gardner Fox. And Mark Waid's Kingdom Come. Just hopping around a lot. Partly because of the list of "DC Finest" comics that are being released this year. Partly because of the "DC Compacts" as well. And also because I have fallen into the rabbit hole of action figures the past two weeks. It started off with just the Kilowog and Kyle Rayner two-pack, but then I felt weird just having _two_ Green Lanterns, so I found myself a John Stewart. And then Hourman that was exclusive to Target was released, which doesn't help me as a Canadian, and I saw it on Amazon, but didn't want to pay Bezos money, and then I discovered GameStop maybe had it, which led to finding out that some Quebecois investor (who co-owns McFarlane Toys) bought all the Canadian GameStops back and turned it back into EB Games, which led down another rabbit hole where I was like, well, I can't just have Hourman by himself, right? So then I get Doctor Fate... and hunt down other EB Games for Hackman, Spectre, and Jay Garrick Flash. So then I cave and get Alan Scott Green Lantern on Amazon as he wasn't available anywhere else. And through some roundabout way of trying to get over the $75 limit for free shipping... I get Brainiac as well, which led down this alley where I find out DCUI doesn't have a large swathe of Action Comics, but most notably issue #242 where Brainiac first appears, so now I'm annoyed and thinking I should just buy Silver Age omnibuses, DC Finest, and other compilations... but then I'm waffling and I'm like, just pay the $145 for DC Ultra and maybe, maybe I should go back to the plan of getting an iPad to read these comics instead of on my iPhone, so I'm looking at iPads on Saturday and the 10 is $400. Short of all this stream of consciousness is that I'm all over the place with comics right now.
+* That said, I reread almost everything for the second time and I'm caught up from the last month. Absolute Woman #7, New Gods #5, and Absolute Martian Manhunter #2 remain sixes. That week was just sublime in releases. I wrote in my journal, _what makes a story a 5 or 6 for me is that they're taking fresh, interesting concepts, or even known ones in a new context, or presented in an unfamiliar/unique format, but still tell a human story with emotionality, an arc you can understand and follow._ There is just enough of the strange, unique, and interesting... references or a grand message, but delivered in a story we can all relate to. That's the craft. The craft is delivering emotionality, breaking through all the distractions that we go through, and getting close enough to the center of each person's soul to connect them to the human condition... to remind them of what it means to _be_ human, but TRICK them with the sugared shell of the pill. The candy is that newness, the frame, the odd mechanism, the genre, the concepts. The short of it is -- how do we trick our audience via story (the emotional arc of characters we can't take our eyes off of)... and deliver a message? A moral lesson? A grand sense of what we want to say. The CDA. When it's done badly, we call it grandstanding, propaganda, and platforming. When it's done subtly, you get that rush of epiphany that doesn't feel like it was hammered over your head. That it flowed naturally. And what's really interesting is that it's "audience-dependent" based on audience sophistication. Different audiences have different tastes and that taste can be defined by how "well-read" they are. Simple stories don't work for some people because they've "seen it before". You need to trick them in new and interesting ways.
+* Interestingly enough, Ultimate Spider-Man #16 which was going all gaga for last week, upon a second reading, I found myself not as impressed. And I'm wondering if it's because the reveal -- which was yes, well-crafted, the parallel timelines well-woven, the magic trick well-executed -- but I wonder if plot reveals like these, this rush of information that relies on a "shock and aw" factor only work once. I recall rewatching Inception and being so bored by the Parisian cafe scene because I realized it was a sugar pill of beautiful SFX for Nolan to deliver exposition of how the dreamscape works. And once you realize no plot or character development happens, there are no stakes, and no inherent tension... you realize it's just a big distraction for bad writing. Exposition could've been dramatized and it would've just as been effective. So now I'm wondering after reading Ultimate Spider-Man #16 how I would feel if I sat down to watch Money Heist again. Assuming of course, I have a memory of all the big reveals. Point is - these cat-and-mouse parallel timelines where one side is hidden to you... I wonder if they're good for one viewing/reading and then it's no good. But that can't be true. I know there are other stories where I've re-consumed multiple times and enjoyed them despite knowing the twist. Sixth Sense is a great example. But why? Is it again... emotional arcs? The fact that there is tension between Bruce Willis and Haley Joel Osment? That there are sufficient STORY CRAFT as per the last bullet and it's not purely plot driven? What about Oceans Eleven? I've watched that movie so many times. What allows for the re-watchability despite knowing all the twists and turns? Is it purely because of the competence porn? The acting? Or because of the RELATIONSHIPS between the characters? I can re-watch Oceans Eleven because of the dynamics between George Clooney, Brad Pitt, and Matt Damon, yes? TO BE CLEAR HERE, I didn't rate USM #16 something low. It is still an A+ story. But it feel from the "divine" upon the second read. Perhaps it was never _meant_ to be in the S-Tier, but the jaw-dropping WTF moments only made it so.
+* In short story land, David Madison's "Tower of Darkness" (1977) lost me within the first scene or two as soon as modern language seeped into the story. That really bothers me, I've noticed. The moment fantasy characters use modern slang. It just breaks immersion for me. And then it ended up being some boring vampire trope thing. Manley Wade Wellman's "Straggler from Atlantis" (1977), on the other hand, had a bit of that "foreign-ness" that I'm looking for in my fantasy. It should be slightly off in the sense that they are humans, like us, and might have similar emotionality, but they are also of a different time and the micro decisions, language, and beliefs they have, how they act, how they talk to each other... _it should be strange and unusual_. Enough for us to recognize they are humans, but not us. That to me is what makes good fantasy. Or historical fiction. Or hell, even sci-fi. I want to see weird interesting decisions, because of their culture, their environment, their beliefs... that are uniquely NOT OURS. I would also argue that good literary fiction follows the same rules for me. I want to read about people who are NOT ME and have totally different value systems. And if it's about someone like me, then I want it to hold a mirror up to me in a way that makes me see myself in a way I've never seen before, or I have, but never articulated into words. Because great literary fiction reveals stuff about ourselves as if we're strangers to ourselves. Anyway, Madison meh. Wellman, good, and I found a used copy of "John the Balladeer" at Western Sky Books.
+
+
+
+
+Archive of all EOW reports [here](https://journal.jinnzhong.com/tags/eow-reports)
