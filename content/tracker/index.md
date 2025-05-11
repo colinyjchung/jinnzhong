@@ -614,7 +614,47 @@ categories = [
 |05/03|💬|Wonder Woman (2006) #20|Gail Simone|Aaron Lopresti|
 |05/03|📺|Ghosts (2021) S4E21 "Kyle"|Trent O'Donnell|Joe Port & Joe Wiseman|
 |05/03|💬|Doom that Came to Sarnath (1935)|H.P. Lovecraft|Marvel Tales of Science and Fantasy|
-
+|05/04|📃|Tower of Darkness (1977)|David Madison|Swords Against Darkness III|
+|05/05|💬|Wonder Woman (1942) #306|Dan Mishkin & Joey Cavalieri|Don Heck & Michael Bair|
+|05/05|💬|Hawkman (2018) #1|Robert Venditti|Bryan Hitch|
+|05/05|📺|Last of Us (2023) S2E4 "Day One"|Kate Herron|Craig Mazin|
+|05/06|💬|Wonder Woman (2006) #22|Gail Simone|Aaron Lopresti|
+|05/07|💬|We're Taking Everyone Down With Us (2025) #2|Matthew Rosenberg|Stefano Landini|
+|05/07|💬|Free Comic Book Day 2025: DC All In / Absolute Universe Special Edition (2025) #1|Dan Slott & Jeff Lemire|Rafael Albuquerque & Giuseppe Camuncoli|
+|05/07|💬|X-Men (2024) #16|Jed MacKay|Netho Diaz|
+|05/07|💬|Storm (2024) #8|Murewa Ayodele|Lucas Werneck|
+|05/07|💬|Birds of Prey (2023) #21|Kelly Thompson|Sami Basri|
+|05/08|💬|Absolute Superman (2024) #6|Jason Aaron|Carmine Di Giandomenico|
+|05/08|💬|Absolute Green Lantern (2025) #2|Al Ewing|Jahnoy Lindsay|
+|05/08|💬|Resurrection Man: Quantum Karma (2025) #2|Ram V|Anand Radhakrishnan|
+|05/08|💬|Absolute Batman (2024) #7|Scott Snyder|Marcos Martín|
+|05/08|💬|Exceptional X-Men (2024) #8|Eve L. Ewing|Carmen Carnero|
+|05/08|💬|X-Men (2024) #15|Jed MacKay|Ryan Stegman & C.F. Villa|
+|05/08|💬|Doom's Division (2025) #2|Yoon Ha Lee|Minkyu Jung|
+|05/08|💬|Green Lantern (2023) #22|Jeremey Adams|Xermánico|
+|05/08|💬|NYX (2024) #10|Jackson Lanzing & Collin Kelly|Francesco Mortarino|
+|05/09|💬|Justice League: The Atom Project (2025) #5|Ryan Parrott & John Ridley|Mike Perkins|
+|05/09|💬|Kingdom Come (1996) #1|Mark Waid|Alex Ross|
+|05/09|💬|Kingdom Come (1996) #2|Mark Waid|Alex Ross|
+|05/09|💬|Action Comics (1938) #2|Jerry Siegel|Joe Shuster|
+|05/09|💬|Action Comics (1938) #3|Jerry Siegel|Joe Shuster|
+|05/10|💬|Wonder Woman (1986) #1|George Pérez & George Potter|George Pérez|
+|05/10|💬|Kingdom Come (1996) #3|Mark Waid|Alex Ross|
+|05/10|💬|Kingdom Come (1996) #4|Mark Waid|Alex Ross|
+|05/10|💬|All-Star Comics (1940) #5|Gardner Fox|Various[^35]|
+|05/10|📃|Straggler from Atlantis (1977)|Manly Wade Wellman|Swords Against Darkness|
+|05/10|📺|The Studio (2025) S1E6 "The Pediatric Oncologist"|Seth Rogen & Evan Goldberg|Alex Gregory|
+|05/10|💬|Justice League Unlimited (2024) #6|Mark Waid|Travis Moore|
+|05/10|💬|Superman (2022) #25|Joshua Williams|Various[^30]|
+|05/10|💬|The Power Fantasy (2024) #8|Kieron Gillen|Caspar Wijngaard|
+|05/10|💬|Absolute Martian Manhunter (2025) #2|Deniz Camp|Javier Rodríguez|
+|05/10|💬|Absolute Wonder Woman (2024) #7|Kelly Thompson|Mattie De Iulis|
+|05/10|💬|The New Gods (2024) #5|Ram V|Evan Cagle & Andrew MacLean|
+|05/10|💬|Absolute Green Lantern (2025) #2|Al Ewing|Jahnoy Lindsay|
+|05/10|💬|Absolute Superman (2024) #7|Jason Aaron|Carmine Di Giandomenico|
+|05/10|💬|Resurrection Man: Quantum Karma (2025) #2|Ram V|Anand Radhakrishnan|
+|05/10|💬|Ultimate Spider-Man (2024) #16|Jonathan Hickman|Marco Checchetto|
+|05/10|💬|Assorted Crisis Events (2025) #2|Deniz Camp|Eric Zawadzki|
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎤   |🏛️   |
