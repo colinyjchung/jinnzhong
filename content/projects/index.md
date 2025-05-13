@@ -19,7 +19,7 @@ A project dashboard for what's being worked on.
 |   | [AURA](https://journal.jinnzhong.com/tags/prj-aura/)   | 240106 |        | 240106 |        |        | 1  |
 |   | [MERCI](https://journal.jinnzhong.com/tags/prj-merci/) | 250314 |        |        |        |        |    |
 |   | [MUSIC](https://journal.jinnzhong.com/tags/prj-music/) | 241119 | 250411 | 250415 |  N/A   |        |    |
-|   | [WAITE](https://journal.jinnzhong.com/tags/prj-waite/) | 240425 |  N/A   |        |  N/A   |        |    |
+|   | [WAITE](https://journal.jinnzhong.com/tags/prj-waite/) | 240425 |  N/A   |        |        |        |    |
 
 
 [^1]: LEGEND for **Project Status Dashboard**
