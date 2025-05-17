@@ -583,8 +583,8 @@ categories = [
 |04/25|📺|Sakamoto Days (2025) E6 “Heisuke Mashimo”|Yūki Taki & Tomoko Hiramuki|Susumu Nishizawa & Yūki Taki|
 |04/25|📺|Sakamoto Days (2025) E7 “Jurassic Bastard”|Yoshihiro Nishio|Hironori Tanaka|
 |04/25|📺|Sakamoto Days (2025) E8 “Sakamoto's vs. the Lab”|Kōki Onoue|Yukio Nishimoto|
-|04/26|💬|Superman (1986) #52|Jerry Ordway|Jerry Ordway|
-|04/26|💬|Adventures of Superman (1987) #474|Dan Jurgens|Dan Jurgens|
+|04/26|💬|Superman (1986) #52 "Mister Z!"|Jerry Ordway|Jerry Ordway|
+|04/26|💬|Adventures of Superman (1987) #474 "Face to Face With Yesterday"|Dan Jurgens|Dan Jurgens|
 |04/26|📃|Likely Lake (2002)|Mary Robison|Paris Review|
 |04/26|👺|Fabula Ultima (2023)|Ogrebeef|CFHM[^31]|
 |04/27|📺|Last of Us (2023) S2E3 "The Path"|Peter Hoar|Craig Mazin|
