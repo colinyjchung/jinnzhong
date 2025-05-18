@@ -686,6 +686,7 @@ categories = [
 |05/17|💬|The Adventures of Superman (1987) #475 "Sleaze Factor"|Dan Jurgens|Dan Jurgens|
 |05/17|💬|X-Men (2024) #16|Jed MacKay|Netho Diaz|
 |05/17|💬|Justice League: The Atom Project (2025) #5| Ryan Parrott & John Ridley|Mike Perkins|
+|05/17|📺|The Simpsons (1989) S8E23 "Homer's Enemy"|Jim Reardon|John Swartzwelder|
 |05/17|💬|Supergirl (2025) #1|Sophie Campbell|Sophie Campbell|
 |05/17|💬|We're Taking Everyone Down With Us (2025) #2|Matthew Rosenberg|Stefano Landini|
 |05/17|💬|Green Lantern Corps (2025) #4|Jeremey Adams & Morgan Hampton|V. Ken Marion|
