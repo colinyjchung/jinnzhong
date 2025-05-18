@@ -1,7 +1,7 @@
 +++
 author = "Jinn Zhong"
-title = "2025-W208EOW Report"
-date = "2025-05-11"
+title = "2025-W20 EOW Report"
+date = "2025-05-18"
 description = "End of Week Report for W20 of 2025"
 tags = [
  "Creative Process",
