@@ -655,6 +655,44 @@ categories = [
 |05/10|💬|Resurrection Man: Quantum Karma (2025) #2|Ram V|Anand Radhakrishnan|
 |05/10|💬|Ultimate Spider-Man (2024) #16|Jonathan Hickman|Marco Checchetto|
 |05/10|💬|Assorted Crisis Events (2025) #2|Deniz Camp|Eric Zawadzki|
+|05/11|💬|Far Sector (2019) #1|N.K. Jemisin|Jamal Campbell|
+|05/11|💬|Far Sector (2019) #2|N.K. Jemisin|Jamal Campbell|
+|05/11|💬|Far Sector (2019) #3|N.K. Jemisin|Jamal Campbell|
+|05/11|💬|Far Sector (2019) #4|N.K. Jemisin|Jamal Campbell|
+|05/11|💬|Far Sector (2019) #5|N.K. Jemisin|Jamal Campbell|
+|05/11|📃|The Hairy Ones Shall Dance (1938)|Gans T. Field|Weird Tales|
+|05/11|📃|The Man Who Sold Ropes to the Gnoles (1951)|Margaret St. Clair|Fantasy and Science Fiction|
+|05/11|📃|Pit of Wings (1978)|Ramsey Campbell|Swords Against Darkness III|
+|05/11|💬|Far Sector (2019) #6|N.K. Jemisin|Jamal Campbell|
+|05/11|💬|Far Sector (2019) #7|N.K. Jemisin|Jamal Campbell|
+|05/11|💬|Far Sector (2019) #8|N.K. Jemisin|Jamal Campbell|
+|05/11|💬|Far Sector (2019) #9|N.K. Jemisin|Jamal Campbell|
+|05/13|💬|Uncanny X-Men (2024) #13|Gail Simone|David Marquez|
+|05/13|💬|Storm (2024) #8|Murewa Ayodele|Lucas Werneck|
+|05/14|💬|Supergirl (2025) #1|Sophie Campbell|Sophie Campbell|
+|05/14|💬|Uncanny X-Men (2024) #14|Gail Simone|David Marquez|
+|05/14|💬|Green Lantern Corps (2025) #4|Jeremey Adams & Morgan Hampton|V. Ken Marion|
+|05/14|💬|Far Sector (2019) #10|N.K. Jemisin|Jamal Campbell|
+|05/14|💬|Far Sector (2019) #11|N.K. Jemisin|Jamal Campbell|
+|05/14|💬|Far Sector (2019) #12|N.K. Jemisin|Jamal Campbell|
+|05/14|💬|Absolute Batman (2024) #8|Scott Snyder|Marcos Martín|
+|05/15|💬|Birds of Prey (2023) #21|Kelly Thompson|Sami Basri|
+|05/15|📺|Last of Us (2023) S2E5 “Feel Her Love”|Stephen Williams|Craig Mazin|
+|05/15|📜|The Time Traveller’s Guide to Elizabethan England (2012)|Ian Mortimer||
+|05/16|🎭|Six (2017)|Toby Marlow & Lucy Moss|Toby Marlow & Lucy Moss|
+|05/17|📺|White Lotus (2021) S3E8 "Amor Fati"|Mike White|Mike White|
+|05/17|💬|Action Comics (1938) #661 "Stretching a Point!"|Roger Stern|Bob McLeod|
+|05/17|💬|Superman (1986) #52 "The Name, Pardners, Is Terra-Man…"|Jerry Ordway|Jerry Ordway|
+|05/17|💬|The Adventures of Superman (1987) #475 "Sleaze Factor"|Dan Jurgens|Dan Jurgens|
+|05/17|💬|X-Men (2024) #16|Jed MacKay|Netho Diaz|
+|05/17|💬|Justice League: The Atom Project (2025) #5| Ryan Parrott & John Ridley|Mike Perkins|
+|05/17|💬|Supergirl (2025) #1|Sophie Campbell|Sophie Campbell|
+|05/17|💬|We're Taking Everyone Down With Us (2025) #2|Matthew Rosenberg|Stefano Landini|
+|05/17|💬|Green Lantern Corps (2025) #4|Jeremey Adams & Morgan Hampton|V. Ken Marion|
+|05/17|📃|Black God’s Kiss (1934)|C.L. Moore|Weird Tales|
+|05/17|📃|The Fortress Unvanquishable, Save for Sacnoth (1908)|Lord Dunsany|The Sword of Welleran and Other Stories|
+
+
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎤   |🏛️   |
