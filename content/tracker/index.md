@@ -781,4 +781,4 @@ categories = [
 [^33]: E.E. Hibbard, Sheldon Moldoff, Bernard Bailey, Sheldon Mayer, Chad Grothkopf, Howard Sherman, Ben Flinton, and Martin Nodell
 [^34]: E.E. Hibbard, Sheldon Moldoff, Bernard Bailey, Chad Grothkopf, Howard Sherman, Ben Flinton, and Martin Nodell
 [^36]: Neil Druckmann, Halley Gross, & Craig Mazin
-[^37]: [E0B: Gnosis, Spenser Sabine, Cmdr. Skyblade, and Tsuminagai]([https://journal.jinnzhong.com/rcr-fabult-e0B-title/](https://journal.jinnzhong.com/rcr-fabult-e0b-gnosis-spenser-sabine-cmdr.-skyblade-and-tsuminagai/), Glausers
+[^37]: [E0B: Gnosis, Spenser Sabine, Cmdr. Skyblade, and Tsuminagai](https://journal.jinnzhong.com/rcr-fabult-e0b-gnosis-spenser-sabine-cmdr.-skyblade-and-tsuminagai/), Glausers
