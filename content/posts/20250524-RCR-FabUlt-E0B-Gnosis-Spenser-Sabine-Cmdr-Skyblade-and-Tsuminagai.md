@@ -59,3 +59,5 @@ categories = [
 * **ORIGIN**: House of Sabine, Fifth-Born. Yade is the origin country. Doma is House of Clemence and is the rival House.
 * **CLASS**: Orator & Chimerist ( 1 in Condemn, 2 in Encourage, Feral Speech, Ritual Chimerism - Enhance senses, sense thru animals, quell the fury - beasts, monsters and plants)  
 * **ATTRIBUTES**: DEX 6, INS 10, MGT 6, WLP 10
+
+_An index of all "Rain City Reckoning" RPG sessions can be found [here](https://journal.jinnzhong.com/tags/rain-city-reckoning/)_
