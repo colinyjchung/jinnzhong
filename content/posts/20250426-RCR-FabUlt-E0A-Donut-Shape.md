@@ -1,6 +1,6 @@
 +++
 author = "Jinn Zhong"
-title = "RCR-FabUlt-E00: Donut, Moon, & Space Whales"
+title = "RCR-FabUlt-E0A: Donut, Moon, & Space Whales"
 date = "2025-04-26"
 description = "Tutorial Session"
 tags = [
