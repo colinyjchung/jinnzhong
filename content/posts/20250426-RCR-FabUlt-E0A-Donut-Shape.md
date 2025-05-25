@@ -53,3 +53,5 @@ categories = [
 * Aehtersharks attacks the planet.
 * Colvand has a dark magic fissure
 * MAGIC INSTABILITY, intrigue, abuse of magic. Threat of dark magic. Threat of aether. Dying world.
+
+_An index of all "Rain City Reckoning" RPG sessions can be found [here](https://journal.jinnzhong.com/tags/rain-city-reckoning/)_
