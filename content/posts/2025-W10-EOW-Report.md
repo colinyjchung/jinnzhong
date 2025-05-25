@@ -15,7 +15,6 @@ tags = [
  "FYC",
  "Ogrebeef",
  "Glausers",
- "Rain City Reckoning",
  "Fabula Ultima (2023)",
  "Cat Rambo",
  "MRK",
