@@ -356,7 +356,7 @@ categories = [
 |03/06|💬|Wonder Woman: Earth One (2016) V3|Grant Morrison|Yanick Paquette|
 |03/06|💬|Infinite Crisis (2005) #1|Geoff Johns|Phil Jimenez|
 |03/07|💬|Infinite Crisis (2005) #2|Geoff Johns|Phil Jimenez|
-|03/08|👺|Fabula Ultima (2023)|Ogrebeef|CFHM[^19]|
+|03/08|👺|Fabula Ultima (2023) E00 |Ogrebeef|CFHM[^19]|
 |03/09|📃|Love Is the Plan the Plan Is Death (1973)|James Tiptree, Jr.|The Alien Condition|
 |03/10|📃|Why Don’t You Dance (1981)|Raymond Carver|Paris Review|
 |03/12|💬|Phoenix (2024) #9|Stephanie Phillips|Alessandro Miracolo|
@@ -586,7 +586,7 @@ categories = [
 |04/26|💬|Superman (1986) #52 "Mister Z!"|Jerry Ordway|Jerry Ordway|
 |04/26|💬|Adventures of Superman (1987) #474 "Face to Face With Yesterday"|Dan Jurgens|Dan Jurgens|
 |04/26|📃|Likely Lake (2002)|Mary Robison|Paris Review|
-|04/26|👺|Fabula Ultima (2023)|Ogrebeef|CFHM[^31]|
+|04/26|👺|Fabula Ultima (2023) E0A "Donut, Moon, & Space Whales"|Ogrebeef|CFHM[^31]|
 |04/27|📺|Last of Us (2023) S2E3 "The Path"|Peter Hoar|Craig Mazin|
 |04/27|📃|The Pot of Tulips (1855)|James O'Brien|Harper's|
 |04/28|💬|Challengers of the Unknown (2024) #5|Christopher Cantwell|Sean Izaakse & Amancay Nahuelpan|
@@ -692,7 +692,26 @@ categories = [
 |05/17|💬|Green Lantern Corps (2025) #4|Jeremey Adams & Morgan Hampton|V. Ken Marion|
 |05/17|📃|Black God’s Kiss (1934)|C.L. Moore|Weird Tales|
 |05/17|📃|The Fortress Unvanquishable, Save for Sacnoth (1908)|Lord Dunsany|The Sword of Welleran and Other Stories|
-
+|05/18|📺|Last of Us (2023) S2E6 "The Price"|Neil Druckmann|Various[^36]|
+|05/19|📺|Poker Face (2023) S2E2 “Last Looks"|Natasha Lyonne|Alice Ju & Natasha Lyonne|
+|05/19|📃|Man Mountain (2022)|Catherine Lacey|Astra|
+|05/20|💬|Superman Unlimited (2025) #1|Dan Slott|Rafael Albuquerque|
+|05/20|💬|Zatanna (2025) #4|Jamal Campbell|Jamal Campbell|
+|05/20|💬|Exceptional X-Men (2024) #9|Eve L. Ewing|Carmen Carnero|
+|05/21|💬|The Ultimates (2024) #12|Deniz Camp|Juan Frigeri|
+|05/22|💬|The New Gods (2024) #6|Ram V|Evan Cagle & Filipe Andrade|
+|05/23|📺|Andor (2022) S2E1 "One Year Later"|Ariel Kleiman|Tony Gilroy|
+|05/23|📺|Love, Death & Robots (2019) S4E1 "Can't Stop"|David Fincher|Red Hot Chili Peppers|
+|05/23|📺|Love, Death & Robots (2019) S4E2 "Close Encounters of the Mini Kind"|Robert Bisi & Andy Lyon|Robert Bisi & Andy Lyon|
+|05/23|📺|Love, Death & Robots (2019) S4E3 "Spider Rose"|Jennifer Yuh Nelson|Joe Abercrombie|
+|05/23|📺|Love, Death & Robots (2019) S4E4 "400 Boys"|Robert Valley|Tim Miller|
+|05/23|📺|Love, Death & Robots (2019) S4E5 "The Other Large Thing"|Patrick Osborne|John Scalzi
+|05/23|📺|Love, Death & Robots (2019) S4E6 "Golgotha"|Tim Miller|Joe Abercrombie|
+|05/23|📺|Love, Death & Robots (2019) S4E7 "The Screaming of the Tyrannosaur"|Tim Miller|Tim Miller|
+|05/23|📺|Love, Death & Robots (2019) S4E8 "How Zeke Got Religion"|Diego Porral|J. T. Petty|
+|05/23|📺|Love, Death & Robots (2019) S4E9 "Smart Appliances, Stupid Owners"|Patrick Osborne|John Scalzi|
+|05/23|📺|Love, Death & Robots (2019) S4E10 "For He Can Creep"|Emily Dean|Tamsyn Muir|
+|05/24|👺|Fabula Ultima (2023) E0B "Gnosis, Spenser Sabine, Cmdr. Skyblade, and Tsuminagai"|Ogrebeef|CFHM[^37]|
 
 
 ## Numbers
@@ -757,7 +776,9 @@ categories = [
 [^28]: Jorge Jiménez, Belén Ortega, & Dan Mora
 [^29]: Akihiro Saitō, Masaki Watanabe, & Yoshihiro Nishio
 [^30]: Dan Mora, Jamal Campbell, and Eddy Barrows
-[^31]: [E00: Donut, Moon, & Space Whales](https://journal.jinnzhong.com/rcr-fabult-e00-donut-moon-space-whales/), Glausers
+[^31]: [E0A: Donut, Moon, & Space Whales](https://journal.jinnzhong.com/rcr-fabult-e0a-donut-moon-space-whales/), Glausers
 [^32]: Gardner Fox, Jerry Siegel, Ken Fitch, Sheldon Mayer, Bill O'Connor, and Evelyn Gaines
 [^33]: E.E. Hibbard, Sheldon Moldoff, Bernard Bailey, Sheldon Mayer, Chad Grothkopf, Howard Sherman, Ben Flinton, and Martin Nodell
 [^34]: E.E. Hibbard, Sheldon Moldoff, Bernard Bailey, Chad Grothkopf, Howard Sherman, Ben Flinton, and Martin Nodell
+[^36]: Neil Druckmann, Halley Gross, & Craig Mazin
+[^37]: [E0B: Gnosis, Spenser Sabine, Cmdr. Skyblade, and Tsuminagai]([https://journal.jinnzhong.com/rcr-fabult-e0B-title/](https://journal.jinnzhong.com/rcr-fabult-e0b-gnosis-spenser-sabine-cmdr.-skyblade-and-tsuminagai/), Glausers
