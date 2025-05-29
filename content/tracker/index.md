@@ -780,5 +780,7 @@ categories = [
 [^32]: Gardner Fox, Jerry Siegel, Ken Fitch, Sheldon Mayer, Bill O'Connor, and Evelyn Gaines
 [^33]: E.E. Hibbard, Sheldon Moldoff, Bernard Bailey, Sheldon Mayer, Chad Grothkopf, Howard Sherman, Ben Flinton, and Martin Nodell
 [^34]: E.E. Hibbard, Sheldon Moldoff, Bernard Bailey, Chad Grothkopf, Howard Sherman, Ben Flinton, and Martin Nodell
+[^35]: E.E. Hibbard, Hal Sharp, Cliff Young, Sheldon Moldoff, Howard Sherman, Bernard Bailey, Ben Flinton, Irwin Hasen, and Sheldon Mayer
 [^36]: Neil Druckmann, Halley Gross, & Craig Mazin
 [^37]: [E0B: Gnosis, Spenser Sabine, Cmdr. Skyblade, and Tsuminagai](https://journal.jinnzhong.com/rcr-fabult-e0b-gnosis-spenser-sabine-cmdr.-skyblade-and-tsuminagai/), Glausers
+[^38]: E.E. Hibbard, Stan Asch, Cliff Young, Bernardo Bailey, Ben Flinton, Irwin Hasen, Sheldon Moldoff, and Sheldon Mayer
