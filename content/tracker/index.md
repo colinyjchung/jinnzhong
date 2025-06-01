@@ -744,22 +744,28 @@ categories = [
 |05/29|💬|Planetary / JLA: Terra Occulta #1|Warren Ellis|Jerry Ordway|
 |05/29|💬|Planetary / Batman: Night on Earth #1|Warren Ellis|John Cassaday|
 |05/29|💬|Action Comics (1938) #241 "The Super-Key to Fort Superman"|Jerry Colman|Wayne Boring|
-|05/29|💬|Superman (1939) #122 Various[^38]|Otto Binder|Al Plastino & Wayne Boring|
+|05/29|💬|Superman (1939) #122 Various[^39]|Otto Binder|Al Plastino & Wayne Boring|
 |05/28|📺|The Studio (2025) S1E9 "CinemaCon"|Seth Rogen & Evan Goldberg|Alex Gregory|
 |05/29|💬|Action Comics (1938) #242 "The Super-Duel in Space"|Otto Binder|Al Plastino|
 |05/29|💬|Superman (1939) #123 "The Three Magic Wishes"|Otto Binder|Dick Sprang|
 |05/29|💬|Action Comics (1938) #243 "The Lady and the Lion"|Otto Binder|Wayne Boring|
-|05/29|💬|Superman (1939) #124 Various[^39]|Otto Binder & Jerry Coleman|Various [^40]|
+|05/29|💬|Superman (1939) #124 Various[^40]|Otto Binder & Jerry Coleman|Various [^41]|
 |05/31|💬|Action Comics (1938) #244 "The Super-Merman of the Sea"|Otto Binder|Curt Swan|
 |05/31|💬|Action Comics (1938) #245 "The Shrinking Superman"|Otto Binder|Wayne Boring|
 |05/31|💬|Assorted Crisis Events (2025) #3|Deniz Camp|Eric Zawadzki|
-|05/31|💬|Superman (1939) #125 Various[^41]|Otto Binder & Jerry Coleman|Various [^40]|
+|05/31|💬|Superman (1939) #125 Various[^42]|Otto Binder & Jerry Coleman|Various [^41]|
 |05/31|💬|Action Comics (1938) #246 "Krypton on Earth!"|Otto Binder|Wayne Boring|
 |05/31|💬|Action Comics (1938) #247 "Superman's Lost Parents"|Otto Binder|Al Pastino|
-|05/31|💬|Superman (1939) #126 Various[^42]|Otto Binder & Jerry Coleman|Wayne Boring & Kurt Schaffenberger|
-|05/31|📃|Of a Mirror and a Bell|Japanese Folklore|trans. Lafcadio Hearn|
-|05/31|📃|Jikininki (Aozukin 1776)|Japanese Folklore|trans. Lafcadio Hearn|
-|05/31|📃|Mujina (noppera-bō)|Japanese Folklore|trans. Lafcadio Hearn|
+|05/31|💬|Superman (1939) #126 Various[^43]|Otto Binder & Jerry Coleman|Wayne Boring & Kurt Schaffenberger|
+|05/31|💬|Of a Mirror and a Bell|Japanese Folklore|trans. Lafcadio Hearn|
+|05/31|💬|Jikininki (Aozukin 1776)|Japanese Folklore|trans. Lafcadio Hearn|
+|05/31|💬|Mujina (noppera-bō)|Japanese Folklore|trans. Lafcadio Hearn|
+
+## June 2025
+||||||
+|---:|:---:|:---|:---|:---|
+
+
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎤   |🏛️   |
@@ -768,7 +774,8 @@ categories = [
 |FEB |0    |0    |0    |9    |83   |0    |0    |4    |9    |0    |0    |0    |0    |1    |
 |MAR |0    |4    |0    |27   |103  |0    |0    |13   |3    |1    |0    |0    |0    |0    |
 |APR |0    |0    |0    |13   |78   |0    |0    |28   |1    |1    |0    |0    |1    |0    |
-|MAY |0    |0    |0    |00   |00   |0    |0    |00   |0    |0    |0    |0    |0    |0    |
+|MAY |0    |2    |0    |12   |117  |0    |0    |21   |0    |1    |0    |1    |0    |0    |
+|JUN |0    |0    |0    |00   |00   |0    |0    |00   |0    |0    |0    |0    |0    |0    |
 
 
 
@@ -831,3 +838,8 @@ categories = [
 [^36]: Neil Druckmann, Halley Gross, & Craig Mazin
 [^37]: [E0B: Gnosis, Spenser Sabine, Cmdr. Skyblade, and Tsuminagai](https://journal.jinnzhong.com/rcr-fabult-e0b-gnosis-spenser-sabine-cmdr.-skyblade-and-tsuminagai/), Glausers
 [^38]: E.E. Hibbard, Stan Asch, Cliff Young, Bernardo Bailey, Ben Flinton, Irwin Hasen, Sheldon Moldoff, and Sheldon Mayer
+[^39]: The Secret of the Space Souvenirs, Superman in the White House!, and The Super-Sergeant
+[^40]: The Super-Sword, Mrs. Superman, and The Steeplejack of Steel 
+[^41]: Al Plastino, Kurt Schaffenberger, and Wayne Boring
+[^42]: Lois Lane's Super-Dream, Clark Kent's College Days, and Superman's New Power
+[^43]: Superman's Hunt for Clark Kent, The Spell of the Shandu Clock, The Two Faces of Superman!
