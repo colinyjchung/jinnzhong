@@ -712,7 +712,54 @@ categories = [
 |05/23|📺|Love, Death & Robots (2019) S4E9 "Smart Appliances, Stupid Owners"|Patrick Osborne|John Scalzi|
 |05/23|📺|Love, Death & Robots (2019) S4E10 "For He Can Creep"|Emily Dean|Tamsyn Muir|
 |05/24|👺|Fabula Ultima (2023) E0B "Gnosis, Spenser Sabine, Cmdr. Skyblade, and Tsuminagai"|Ogrebeef|CFHM[^37]|
-
+|05/25|💬|All-Star Comics (1940) #6|Gardner Fox & Charles Reizenstein|Various[^38]|
+|05/25|💬|Planetary (1998) #19 “Mystery in Space”|Warren Ellis|John Cassaday|
+|05/25|💬|Planetary (1998) #20 “Rendezvous”|Warren Ellis|John Cassaday|
+|05/26|💬|Supergirl (2025) #1|Sophie Campbell|Sophie Campbell|
+|05/26|💬|Zatanna (2025) #4|Jamal Campbell|Jamal Campbell|
+|05/26|💬|Superman Unlimited (2025) #1|Dan Slott|Rafael Albuquerque|
+|05/26|💬|Rogue: Savage Land (2025) #1|Tim Seeley|Zulema Scotto Lavina|
+|05/26|💬|Absolute Batman (2024) #8|Scott Snyder|Marcos Martín|
+|05/26|💬|The New Gods (2024) #6|Ram V|Evan Cagle & Filipe Andrade|
+|05/26|💬|Exceptional X-Men (2024) #9|Eve L. Ewing|Carmen Carnero|
+|05/26|💬|The Ultimates (2024) #12|Deniz Camp|Juan Frigeri|
+|05/26|📜|The Cheese and the Worms (1976)|Carlo Ginzburg|trans. John & Anne C. Tedeschi|
+|05/26|💬|Planetary (1998) #21 “Death Machine Telemetry”|Warren Ellis|John Cassaday|
+|05/26|💬|Planetary (1998) #22 “The Torture of William Leather”|Warren Ellis|John Cassaday|
+|05/27|💬|Uncanny X-Men (2024) #15|Gail Simone|David Marquez|
+|05/27|💬|Ultimate Spider-Man (2024) #17|Jonathan Hickman|David Messina|
+|05/27|💬|Green Lantern (2023) #23|Jeremey Adams|Xermánico|
+|05/27|💬|Superman (2022) #26|Joshua Williams|Sean Izaakse|
+|05/27|💬|Absolute Wonder Woman (2024) #8|Kelly Thompson|Hayden Sherman|
+|05/27|💬|Absolute Martian Manhunter (2025) #3|Deniz Camp|Javier Rodríguez|
+|05/27|💬|Planetary (1998) #23 "Percussion"|Warren Ellis|John Cassaday|
+|05/27|💬|Planetary (1998) #24 "Systems"|Warren Ellis|John Cassaday|
+|05/27|💬|Planetary (1998) #25 "In From the Cold"|Warren Ellis|John Cassaday|
+|05/27|💬|Planetary (1998) #26 "The Last Piece of the Puzzle"|Warren Ellis|John Cassaday|
+|05/28|💬|We're Taking Everyone Down With Us (2025) #3|Matthew Rosenberg|Stefano Landini|
+|05/28|💬|The Power Fantasy (2024) #0|Kieron Gillen|Caspar Wijngaard|
+|05/28|💬|Hyde Street (2024) #6|Geoff Johns|Francis Portela|
+|05/28|📺|Last of Us (2023) S2E7 "Convergence"|Nina Lopez-Corrado|Various[^36]|
+|05/29|💬|Planetary/The Authority: Ruling the World #1|Warren Ellis|Phil Jimenez|
+|05/29|💬|Planetary / JLA: Terra Occulta #1|Warren Ellis|Jerry Ordway|
+|05/29|💬|Planetary / Batman: Night on Earth #1|Warren Ellis|John Cassaday|
+|05/29|💬|Action Comics (1938) #241 "The Super-Key to Fort Superman"|Jerry Colman|Wayne Boring|
+|05/29|💬|Superman (1939) #122 Various[^38]|Otto Binder|Al Plastino & Wayne Boring|
+|05/28|📺|The Studio (2025) S1E9 "CinemaCon"|Seth Rogen & Evan Goldberg|Alex Gregory|
+|05/29|💬|Action Comics (1938) #242 "The Super-Duel in Space"|Otto Binder|Al Plastino|
+|05/29|💬|Superman (1939) #123 "The Three Magic Wishes"|Otto Binder|Dick Sprang|
+|05/29|💬|Action Comics (1938) #243 "The Lady and the Lion"|Otto Binder|Wayne Boring|
+|05/29|💬|Superman (1939) #124 Various[^39]|Otto Binder & Jerry Coleman|Various [^40]|
+|05/31|💬|Action Comics (1938) #244 "The Super-Merman of the Sea"|Otto Binder|Curt Swan|
+|05/31|💬|Action Comics (1938) #245 "The Shrinking Superman"|Otto Binder|Wayne Boring|
+|05/31|💬|Assorted Crisis Events (2025) #3|Deniz Camp|Eric Zawadzki|
+|05/31|💬|Superman (1939) #125 Various[^41]|Otto Binder & Jerry Coleman|Various [^40]|
+|05/31|💬|Action Comics (1938) #246 "Krypton on Earth!"|Otto Binder|Wayne Boring|
+|05/31|💬|Action Comics (1938) #247 "Superman's Lost Parents"|Otto Binder|Al Pastino|
+|05/31|💬|Superman (1939) #126 Various[^42]|Otto Binder & Jerry Coleman|Wayne Boring & Kurt Schaffenberger|
+|05/31|📃|Of a Mirror and a Bell|Japanese Folklore|trans. Lafcadio Hearn|
+|05/31|📃|Jikininki (Aozukin 1776)|Japanese Folklore|trans. Lafcadio Hearn|
+|05/31|📃|Mujina (noppera-bō)|Japanese Folklore|trans. Lafcadio Hearn|
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎤   |🏛️   |
