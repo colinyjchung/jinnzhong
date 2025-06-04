@@ -30,7 +30,7 @@ categories = [
 |01/02|💬|Ultimate X-Men (2024) #7|Peach Momoko|Peach Momoko|
 |01/02|💬|Psylocke (2009) #1|Chris Yost|Harvey Tolibao|
 |01/02|💬|Psylocke (2009) #2|Chris Yost|Harvey Tolibao|
-|01/02|💬|The Atom Project (2025) #1|Ryan Parrott & John Ridley|Mike Perkins|
+|01/02|💬|Justice League: The Atom Project (2025) #1|Ryan Parrott & John Ridley|Mike Perkins|
 |01/02|💬|Deadpool/Wolverine (2025) #1|Benjamin Percy|Joshua Cassara|
 |01/02|💬|Cable: Love & Chrome (2025) #1|David Pepose|Mike Henderson|
 |01/02|💬|Batgirl (2024) #3|Tate Brombal|Takeshi Miyazawa|
@@ -52,7 +52,7 @@ categories = [
 |01/05|📺|Ghosts (2021) S2E10 "The Christmas Spirit"|Jay Karas|Joe Port & Joe Wiseman|
 |01/05|💬|Cable: Love & Chrome (2025) #1|David Pepose|Mike Henderson|
 |01/05|💬|Deadpool/Wolverine (2025) #1|Benjamin Percy|Joshua Cassara|
-|01/05|💬|The Atom Project (2025) #1|Ryan Parrott & John Ridley|Mike Perkins|
+|01/05|💬|Justice League: The Atom Project (2025) #1|Ryan Parrott & John Ridley|Mike Perkins|
 |01/06|💬|Batgirl (2024) #3|Tate Brombal|Takeshi Miyazawa|
 |01/06|💬|Poison Ivy (2022) #29|G. Willow Wilson|Marcio Takara|
 |01/06|💬|JSA (2024) #3|Jeff Lemire|Diego Olortegui|
@@ -482,7 +482,7 @@ categories = [
 |---:|:---:|:---|:---|:---|
 |04/02|💬|We're Taking Everyone Down with Us #1|Matthew Rosenberg|Stefano Landin|
 |04/02|💬|Poison Ivy (2022) #32|G. Willow Wilson|Brian Level|
-|04/02|💬|Justice League: The Atom Project (2025) #1|Ryan Parrott & John Ridley|Mike Perkins|
+|04/02|💬|Justice League: The Atom Project (2025) #4|Ryan Parrott & John Ridley|Mike Perkins|
 |04/02|💬|Batgirl (2024) #6|Tate Brombal|Takeshi Miyazawa|
 |04/02|💬|JSA (2024) #6|Jeff Lemire|Diego Olortegui|
 |04/02|💬|Birds of Prey (2023) #0|Kelly Thompson|Sami Basri|
@@ -535,7 +535,7 @@ categories = [
 |04/16|💬|The New Gods (2024) #5|Ram V|Evan Cagle & Andrew MacLean|
 |04/17|💬|JSA (2024) #6|Jeff Lemire|Diego Olortegui|
 |04/17|💬|Batgirl (2024) #6|Tate Brombal|Takeshi Miyazawa|
-|04/17|💬|Justice League: The Atom Project (2025) #1|Ryan Parrott & John Ridley|Mike Perkins|
+|04/17|💬|Justice League: The Atom Project (2025) #4|Ryan Parrott & John Ridley|Mike Perkins|
 |04/17|💬|Poison Ivy (2022) #32|G. Willow Wilson|Brian Level|
 |04/17|📺|Sakamoto Days (2025) E1 "The Legendary Hit Man"|Masaki Watanabe|Masaki Watanabe|
 |04/17|📺|Sakamoto Days (2025) E2 "Vs. Son Hee and Bacho"|Various[^29]|Masaki Watanabe|
