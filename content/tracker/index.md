@@ -799,7 +799,7 @@ categories = [
 |06/06|💬|Action Comics (1938) #252 Various[^48]|Robert Bernstein & Otto Binder|Al Plastino|
 |06/07|📃|The Destructors (1954)|Graham Greene|Picture Post|
 |06/07|📺|Doctor Who (2005) S15E4 "Lucky Day"|Peter Hoar|Pete McTighe|
-|06/07|📺|Andor (2022) S1E10 "One Way Out"|Toby Haynes|Beau Willimon|
+|06/07|📺|Andor (2022) S1E8 "Narkina 5"|Toby Haynes|Beau Willimon|
 
 
 ## Numbers
