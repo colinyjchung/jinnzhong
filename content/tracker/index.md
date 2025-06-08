@@ -764,7 +764,42 @@ categories = [
 ## June 2025
 ||||||
 |---:|:---:|:---|:---|:---|
-
+|06/01|📃|Me, Rory and Aurora (2021)|Jonas Eika (trans. Sherilyn Nicolette Hellberg)|Granta|
+|06/01|📃|The Complete (2022)|Gabriel Smith|The Drift|
+|06/01|💬|Action Comics (1938) #248 “The Man No Prison Could Hold!”|Bill Finger|Wayne Boring|
+|06/01|💬|Action Comics (1938) #249 “The Kryptonite Man!”|Otto Binder|Al Plastino|
+|06/02|💬|Superman (1939) #127 Various[^44]|Otto Binder & Jerry Coleman|Wayne Boring & Curt Swan|
+|06/02|💬|Action Comics (1938) #250 “The Eye of Metropolis!”|Bill Finger|Wayne Boring|
+|06/02|💬|Action Comics (1938) #251 “The Oldest Man in Metropolis!”|Robert Bernstein|Al Plastino|
+|06/02|💬|Superman (1939) #128 Various[^45]|Bill Finger|Wayne Boring & Kurt Schaffenberger|
+|06/03|💬|Power Girl (2023) #9|Leah Williams|Eduardo Pansica|
+|06/03|💬|Power Girl (2023) #10|Leah Williams|Eduardo Pansica|
+|06/03|💬|Power Girl (2023) #11|Leah Williams|Adriana Melo|
+|06/03|💬|Storm (2024) #9|Murewa Ayodele|Lucas Werneck|
+|06/03|💬|Ultimate Spider-Man: Incursion (2025) #1|Deniz Camp & Cody Ziglar|Jonas Scharf|
+|06/03|💬|Justice League: The Atom Project (2025) #6|Ryan Parrott & John Ridley|Mike Perkins|
+|06/03|💬|Birds of Prey (2023) #22|Kelly Thompson|Sami Basri|
+|06/03|💬|Absolute Green Lantern (2025) #3|Al Ewing|Jahnoy Lindsay|
+|06/03|💬|Absolute Superman (2024) #08|Jason Aaron|Rafa Sandoval|
+|06/03|💬|Imperial (2025) #1|Jonathan Hickman|Iban Coello & Federico Vicentini|
+|06/03|💬|DCeased (2019) #1|Tom Taylor|Trevor Hairsine|
+|06/03|💬|DCeased (2019) #2|Tom Taylor|Trevor Hairsine|
+|06/03|💬|DCeased (2019) #3|Tom Taylor|Trevor Hairsine|
+|06/03|📺|Rick & Morty (2013) S8E1 "Summer of All Fears"|Fill Marc Sagadraca|Jess Lacher|
+|06/03|📺|Bob's Burgers (2011) S15E12 "Like a Candle in the Gym"|Chris Song|Lindsey Stoddart|
+|06/03|💬|DCeased (2019) #4|Tom Taylor|Trevor Hairsine|
+|06/03|💬|DCeased: A Good Day to Die (2019) #1|Tom Taylor|Laura Braga & Darick Robertson|
+|06/04|💬|DCeased (2019) #5|Tom Taylor|Trevor Hairsine|
+|06/04|💬|DCeased (2019) #6|Tom Taylor|Trevor Hairsine|
+|06/04|💬|Ultimate Spider-Man (2024) #17|Jonathan Hickman|David Messina|
+|06/04|💬|Superman (2022) #26|Joshua Williams|Sean Izaakse|
+|06/04|💬|Green Lantern (2023) #23|Jeremey Adams|Xermánico|
+|06/04|💬|Superman (1939) #129 Various[^46]|Various[^47]|Wayne Boring & Al Plastino|
+|06/06|📺|Rick & Morty (2013) S8E2 "Valkyrick”|Jacob Hair|Scott Marder|
+|06/06|💬|Action Comics (1938) #252 Various[^48]|Robert Bernstein & Otto Binder|Al Plastino|
+|06/07|📃|The Destructors (1954)|Graham Greene|Picture Post|
+|06/07|📺|Doctor Who (2005) S15E4 "Lucky Day"|Peter Hoar|Pete McTighe|
+|06/07|📺|Andor (2022) S1E10 "One Way Out"|Toby Haynes|Beau Willimon|
 
 
 ## Numbers
@@ -843,3 +878,8 @@ categories = [
 [^41]: Al Plastino, Kurt Schaffenberger, and Wayne Boring
 [^42]: Lois Lane's Super-Dream, Clark Kent's College Days, and Superman's New Power
 [^43]: Superman's Hunt for Clark Kent, The Spell of the Shandu Clock, The Two Faces of Superman!
+[^44]: When There Was No Clark Kent!, The Make-Believe Superman!, and Titano the Super-Ape!
+[^45]: Superman Versus the Futurement and The Sleeping Beauty from Krypton!
+[^46]: The Ghost of Lois Lane!, Clark Kent, Fireman of Steel!, and The Girl in Superman’s Past
+[^47]: Otto Binder, Jerry Coleman, and Bill Finger
+[^48]: The Menace of Metallo! & The Supergirl from Krypton!
