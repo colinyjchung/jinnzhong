@@ -800,6 +800,44 @@ categories = [
 |06/07|📃|The Destructors (1954)|Graham Greene|Picture Post|
 |06/07|📺|Doctor Who (2005) S15E4 "Lucky Day"|Peter Hoar|Pete McTighe|
 |06/07|📺|Andor (2022) S1E8 "Narkina 5"|Toby Haynes|Beau Willimon|
+|06/08|📺|Andor (2022) S1E12 "Rix Road"|Benjamin Caron|Tony Gilroy|
+|06/08|📺|Andor (2022) S2E1 "One Year Later"|Ariel Kleiman|Tony Gilroy|Picture Post|
+|06/10|💬|Absolute Wonder Woman (2024) #8|Kelly Thompson|Hayden Sherman|
+|06/10|💬|Absolute Martian Manhunter (2025) #3|Deniz Camp|Javier Rodríguez|
+|06/10|💬|Justice League: The Atom Project (2025) #6|Ryan Parrott & John Ridley|Mike Perkins|
+|06/10|💬|Birds of Prey (2023) #22|Kelly Thompson|Sami Basri|
+|06/10|💬|Absolute Green Lantern (2025) #3|Al Ewing|Jahnoy Lindsay|
+|06/10|💬|Absolute Superman (2024) #08|Jason Aaron|Rafa Sandoval|
+|06/10|💬|Storm (2024) #9|Murewa Ayodele|Lucas Werneck|
+|06/10|📺|Andor (2022) S2E1 "Sagrona Teema"|Ariel Kleiman|Tony Gilroy|Picture Post|
+|06/10|💬|Power Girl (2023) #12|Leah Williams|Travis Moore|
+|06/11|💬|Batman: Off-World (2023) #1|Jason Aaron|Doug Mahnke|
+|06/11|💬|Batman: Off-World (2023) #2|Jason Aaron|Doug Mahnke|
+|06/11|💬|Batman: Off-World (2023) #3|Jason Aaron|Doug Mahnke|
+|06/11|💬|Supergirl (2025) #2|Sophie Campbell|Sophie Campbell|
+|06/11|💬|Exceptional X-Men (2024) #10|Eve L. Ewing|Carmen Carnero|
+|06/11|💬|Green Lantern Corps (2025) #5|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
+|06/11|📺|Bob's Burgers (2011) S15E13 "Snackface"|Ryan Mattos|Rich Rinaldi|
+|06/12|💬|Teenage Mutant Ninja Turtles (2024) #11|Jason Aaron|Juan Ferreyra|
+|06/12|💬|Batman: Off-World (2023) #4|Jason Aaron|Doug Mahnke|
+|06/12|💬|Absolute Batman (2024) #9|Scott Snyder|Nick Dragotta|
+|06/12|💬|Resurrection Man: Quantum Karma (2025) #3|Ram V|Anand Radhakrishnan|
+|06/12|💬|Harley Quinn & Poison Ivy (2019) #1|Jody Houser|Adriana Melo|
+|06/12|💬|Harley Quinn & Poison Ivy (2019) #2|Jody Houser|Adriana Melo|
+|06/12|💬|Harley Quinn & Poison Ivy (2019) #3|Jody Houser|Adriana Melo|
+|06/12|📺|Poker Face (2023) S2E5 "Hometown Hero"|John Dahl|Tony Tost|
+|06/12|💬|Action Comics (1938) #662 "Secrets in the Night"|Roger Stern|Bob McLeod|
+|06/12|💬|Action Comics (1938) #253 "The War Between Jimmy Olsen and Superman!"|Al Schwartz|Curt Swan|
+|06/12|💬|Superman (1939) #130 Various[^49]|Otto Binder & Robert Bernstein|Various[^50]|
+|06/13|📺|Poker Face (2023) S2E6 "Sloppy Joseph"|Adam Arkin|Kate Thulin|
+|06/13|📺|Poker Face (2023) S2E7 "One Last Job"|Adam Arkin|Taofik Kolade|
+|06/13|📺|How I Met Your Mother (2005) S8E1 "Farhampton"|Pamela Fryman|Carter Bays & Craig Thomas|
+|06/13|📺|How I Met Your Mother (2005) S8E2 "The Pre-Nup"|Pamela Fryman|Carter Bays & Craig Thomas|
+|06/14|💬|The Omega Men (1983) #3 "Citadel War, Chapter Two: Assault on Euphorix!"|Roger Slifer|Keith Giffen|
+|06/14|👺|Fabula Ultima (2023) E0C “Space Whale Crash”|Ogrebeef|CFHM[^51]|
+
+
+
 
 
 ## Numbers
@@ -883,3 +921,6 @@ categories = [
 [^46]: The Ghost of Lois Lane!, Clark Kent, Fireman of Steel!, and The Girl in Superman’s Past
 [^47]: Otto Binder, Jerry Coleman, and Bill Finger
 [^48]: The Menace of Metallo! & The Supergirl from Krypton!
+[^49]: The Curse of Kryptonite!, The Super-Servant of Crime, and The Town that Hated Superman!
+[^50]: Al Plastino, Curt Swan, and Stan Kaye
+[^51]: [E0C: Space Whale Crash](https://journal.jinnzhong.com/rcr-fabult-e0c-space-whale-crash/), Glausers
