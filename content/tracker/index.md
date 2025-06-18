@@ -809,7 +809,7 @@ categories = [
 |06/10|💬|Absolute Green Lantern (2025) #3|Al Ewing|Jahnoy Lindsay|
 |06/10|💬|Absolute Superman (2024) #08|Jason Aaron|Rafa Sandoval|
 |06/10|💬|Storm (2024) #9|Murewa Ayodele|Lucas Werneck|
-|06/10|📺|Andor (2022) S2E1 "Sagrona Teema"|Ariel Kleiman|Tony Gilroy|Picture Post|
+|06/10|📺|Andor (2022) S2E2 "Sagrona Teema"|Ariel Kleiman|Tony Gilroy|
 |06/10|💬|Power Girl (2023) #12|Leah Williams|Travis Moore|
 |06/11|💬|Batman: Off-World (2023) #1|Jason Aaron|Doug Mahnke|
 |06/11|💬|Batman: Off-World (2023) #2|Jason Aaron|Doug Mahnke|
@@ -833,6 +833,7 @@ categories = [
 |06/13|📺|Poker Face (2023) S2E7 "One Last Job"|Adam Arkin|Taofik Kolade|
 |06/13|📺|How I Met Your Mother (2005) S8E1 "Farhampton"|Pamela Fryman|Carter Bays & Craig Thomas|
 |06/13|📺|How I Met Your Mother (2005) S8E2 "The Pre-Nup"|Pamela Fryman|Carter Bays & Craig Thomas|
+|06/13|💬|Action Comics (1938) #254 "The Battle with Bizzaro!"|Otto Binder|Al Plastino|
 |06/14|💬|The Omega Men (1983) #3 "Citadel War, Chapter Two: Assault on Euphorix!"|Roger Slifer|Keith Giffen|
 |06/14|👺|Fabula Ultima (2023) E0C “Space Whale Crash”|Ogrebeef|CFHM[^51]|
 
