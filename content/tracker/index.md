@@ -836,7 +836,47 @@ categories = [
 |06/13|💬|Action Comics (1938) #254 "The Battle with Bizzaro!"|Otto Binder|Al Plastino|
 |06/14|💬|The Omega Men (1983) #3 "Citadel War, Chapter Two: Assault on Euphorix!"|Roger Slifer|Keith Giffen|
 |06/14|👺|Fabula Ultima (2023) E0C “Space Whale Crash”|Ogrebeef|CFHM[^51]|
-
+|06/15|📜|The Great Cat Massacre (1984)|Robert Darnton||
+|06/15|💬|Superman (1939) #131 Various[^52]|Various[^53]|Al Plastino & Kurt Schaffenberger|
+|06/15|💬|Action Comics (1938) #255 "The Bride of Bizarro!"|Otto Binder|Al Plastino|
+|06/15|💬|Action Comics (1938) #256 "The Superman of the Future!"|Otto Binder|Curt Swan|
+|06/15|💬|Superman (1939) #132 "Superman's Other Life"|Otto Binder|Wayne Boring|
+|06/15|💬|Action Comics (1938) #257 "The Reporter of Steel!"|Otto Binder|Wayne Boring|
+|06/16|💬|Superman (1939) #133 Various[^54]|Otto Binder & Jerry Siegel|Al Plastino & Wayne Boring|
+|06/16|💬|Action Comics (1938) #258 Various[^55]|Otto Binder & Bill Finger|Wayne Boring & Jim Mooney|
+|06/16|💬|Action Comics (1938) #259 "The Revenge of Luthor"|Jerry Siegel|Al Plastino|
+|06/16|💬|Superman (1939) #134 "The Super-Outlaw from Krypton"|Otto Binder|Wayne Boring|
+|06/17|💬|Action Comics (1938) #260 "Mighty Maid!"|Otto Binder|Al Plastino|
+|06/17|💬|Superman (1939) #135 Various[^56]|Jerry Siegel|Wayne Boring & Al Plastino|
+|06/17|💬|Emma Frost: The White Queen (2025) #1|Amy Chu|Andrea Di Vito|
+|06/17|💬|Aliens vs. Avengers (2024) #4|Jonathan Hickman|Esad Ribić|
+|06/17|💬|The Ultimates (2024) #13|Deniz Camp|Juan Frigeri|
+|06/17|📺|Andor (2022) S2E3 "Harvest"|Ariel Kleiman|Tony Gilroy|
+|06/17|💬|Action Comics (1938) #261 "Superman's Fortress of Solitude!"|Jerry Siegel|Wayne Boring|
+|06/17|💬|Action Comics (1938) #262 Various[^57]|Otto Binder & Robert Bernstein|Wayne Boring & Jim Mooney|
+|06/18|💬|Zatanna (2025) #5|Jamal Campbell|Jamal Campbell|
+|06/18|💬|Krypto: The Last Dog of Krypton (2025) #1|Ryan North|Mike Norton|
+|06/18|💬|The New Gods (2024) #9|Ram V|Evan Cagle & Bernard Chang|
+|06/18|💬|We're Taking Everyone Down With Us (2025) #3|Matthew Rosenberg|Stefano Landini|
+|06/18|💬|The Power Fantasy (2024) #9|Kieron Gillen|Caspar Wijngaard|
+|06/18|💬|Detective Comics (1937) #854|Greg Rucka|J.H. Williams III|
+|06/18|💬|Detective Comics (1937) #855|Greg Rucka|J.H. Williams III|
+|06/18|💬|Detective Comics (1937) #856|Greg Rucka|J.H. Williams III|
+|06/18|💬|Detective Comics (1937) #857|Greg Rucka|J.H. Williams III|
+|06/18|💬|Detective Comics (1937) #858|Greg Rucka|J.H. Williams III|
+|06/18|💬|Detective Comics (1937) #859|Greg Rucka|J.H. Williams III|
+|06/18|💬|Detective Comics (1937) #860|Greg Rucka|J.H. Williams III|
+|06/18|💬|Superman (1939) #136 Various[^58]|Various[^59]|Al Plastino & Wayne Boring|
+|06/19|💬|Hyde Street (2024) #6|Geoff Johns|Francis Portela|
+|06/19|💬|Assorted Crisis Events (2025) #3|Deniz Camp|Eric Zawadzki|
+|06/19|💬|Action Comics (1938) #263 “The World of Bizarros”|Otto Binder|Wayne Boring|
+|06/19|💬|Action Comics (1938) #264 “The Superman Bizarro”|Otto Binder|Wayne Boring|
+|06/19|💬|Detective Comics (1937) #861|Greg Rucka|Jock|
+|06/19|💬|Detective Comics (1937) #862|Greg Rucka|Jock|
+|06/19|💬|Detective Comics (1937) #863|Greg Rucka|Jock|
+|06/19|💬|Superman (1939) #137 “The Two Faces of Superman!|Jerry Siegel|Curt Swan|
+|06/20|💬|Action Comics (1938) #265 “The Superman Bizarro”|Otto Binder & Jerry Siegel|Curt Swan & Jim Mooney|
+|06/20|💬|All Star Comics (1999) #1 "Time's Keeper"|David S. Goyer & James Robinson|Michael Lark|
 
 
 
