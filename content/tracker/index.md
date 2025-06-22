@@ -965,3 +965,11 @@ categories = [
 [^49]: The Curse of Kryptonite!, The Super-Servant of Crime, and The Town that Hated Superman!
 [^50]: Al Plastino, Curt Swan, and Stan Kaye
 [^51]: [E0C: Space Whale Crash](https://journal.jinnzhong.com/rcr-fabult-e0c-space-whale-crash/), Glausers
+[^52]: The Menace of Mr. Mxyzptlk!, Superman's Future Wife!, and The Unknown Super-Deeds!
+[^53]: Jerry Coleman, Robert Bernstein, and Otto Binder
+[^54]: The Super-Luck of Badge 77, How Perry White Hired Clark Kent, and Superman Joins the Army!
+[^55]: The Menace of Cosmic Man and Supergirl's Farewell to Earth
+[^56]: When Lois First Suspected Clark was Superman, Superman's Mermaid Sweetheart, and The Trio of Steel
+[^57]: When Superman Lost His Powers! and Supergirl's Greatest Victory!
+[^58]: The Man Who Married Lois Lane!, The Secret of Kryptonite!, and The Super-Clown of Metropolis!
+[^59]: Robert Bernstein, Jerry Coleman, and Jerry Siegel
