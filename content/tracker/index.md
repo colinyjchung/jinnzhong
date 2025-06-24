@@ -856,7 +856,7 @@ categories = [
 |06/17|💬|Action Comics (1938) #262 Various[^57]|Otto Binder & Robert Bernstein|Wayne Boring & Jim Mooney|
 |06/18|💬|Zatanna (2025) #5|Jamal Campbell|Jamal Campbell|
 |06/18|💬|Krypto: The Last Dog of Krypton (2025) #1|Ryan North|Mike Norton|
-|06/18|💬|The New Gods (2024) #9|Ram V|Evan Cagle & Bernard Chang|
+|06/18|💬|The New Gods (2024) #7|Ram V|Evan Cagle & Travis Moore|
 |06/18|💬|We're Taking Everyone Down With Us (2025) #3|Matthew Rosenberg|Stefano Landini|
 |06/18|💬|The Power Fantasy (2024) #9|Kieron Gillen|Caspar Wijngaard|
 |06/18|💬|Detective Comics (1937) #854|Greg Rucka|J.H. Williams III|
