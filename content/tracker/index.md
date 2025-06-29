@@ -877,7 +877,36 @@ categories = [
 |06/19|💬|Superman (1939) #137 “The Two Faces of Superman!|Jerry Siegel|Curt Swan|
 |06/20|💬|Action Comics (1938) #265 “The Superman Bizarro”|Otto Binder & Jerry Siegel|Curt Swan & Jim Mooney|
 |06/20|💬|All Star Comics (1999) #1 "Time's Keeper"|David S. Goyer & James Robinson|Michael Lark|
-
+|06/22|💬|Teenage Mutant Ninja Turtles (2024) #11|Jason Aaron|Juan Ferreyra|
+|06/22|💬|Green Lantern Corps (2025) #5|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
+|06/22|💬|Exceptional X-Men (2024) #10|Eve L. Ewing|Carmen Carnero|
+|06/22|💬|Supergirl (2025) #2|Sophie Campbell|Sophie Campbell|
+|06/22|💬|Resurrection Man: Quantum Karma (2025) #3|Ram V|Anand Radhakrishnan|
+|06/22|💬|Supergirl: Woman of Tomorrow (2021) #1 "Men, Women, and Dogs"|Tom King|Bilquis Evely|
+|06/23|📺|Andor (2022) S2E4 "Ever Been to Ghorman?"|Ariel Kleiman|Beau Willimon|
+|06/23|💬|All American Comics (1999) #1 "Cold Heart"|Ron Marz|Eduardo Barreto|
+|06/23|💬|Adventure Comics (1999) #1 "Stars and Atoms"|James Robinson & David Goyer|Peter Snejbjerg
+|06/24|💬|Imperial (2025) #1|Jonathan Hickman|Iban Coello & Federico Vicentini|
+|06/24|💬|Absolute Batman (2024) #9|Scott Snyder|Nick Dragotta|
+|06/24|💬|The New Gods (2024) #7|Ram V|Evan Cagle & Travis Moore|
+|06/24|💬|National Comics (1999) #1 "Fair Play"|Mark Waid|Aaron Lopresti|
+|06/24|💬|Sensation Comics (1999) #1 "Womanly Deeds and Manly Words"|David S. Goyer & James Robinson|Scott Benefiel|
+|06/25|💬|Supergirl: Woman of Tomorrow (2021) #2 "Wounded, Stranded, and Impotent"|Tom King|Bilquis Evely|
+|06/27|💬|Darkstars (1992) #1 "Mean Streets"|Michael Jan Friedman|Larry Stroman|
+|06/27|💬|Uncanny X-Men (2024) #16|Gail Simone|David Marquez & Luciano Vecchio|
+|06/27|💬|Green Lantern (2023) #0|Jeremey Adams|Xermánico|
+|06/27|💬|Superman (2022) #27|Joshua Williams|Eddy Barrows & Sean Izaakse|
+|06/27|💬|We're Taking Everyone Down With Us (2025) #4|Matthew Rosenberg|Stefano Landini|
+|06/27|💬|Absolute Martian Manhunter (2025) #4|Deniz Camp|Javier Rodríguez|
+|06/27|💬|Assorted Crisis Events (2025) #4|Deniz Camp|Eric Zawadzki|
+|06/27|💬|Hyde Street (2024) #7|Geoff Johns|Ivan Reis|
+|06/27|💬|Ultimate Spider-Man (2024) #18|Jonathan Hickman|Marco Checchetto|
+|06/27|💬|Absolute Wonder Woman (2024) #9|Kelly Thompson|Hayden Sherman|
+|06/27|💬|Supergirl: Woman of Tomorrow (2021) #3 "Modest, Calm, and Quiet"|Tom King|Bilquis Evely|
+|06/27|💬|Smash Comics (1999) #1 "Name Your Poison"|Tom Peyer|Stephen Sadowski|
+|06/27|💬|Star Spangled Comics (1999) #1 "...A Terrifying Hour!"|Geoff Johns|Chris Westin|
+|06/27|💬|Thrilling Comics (1999) #1 "No More Tomorrows"|Chuck Dixon|Russ Heath|
+|06/27|💬|All-Star Comics (1999) #2 "Time's Arrow"|David S. Goyer & James Robinson|William Rosado|
 
 
 
