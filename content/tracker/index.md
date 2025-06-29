@@ -894,7 +894,7 @@ categories = [
 |06/25|💬|Supergirl: Woman of Tomorrow (2021) #2 "Wounded, Stranded, and Impotent"|Tom King|Bilquis Evely|
 |06/27|💬|Darkstars (1992) #1 "Mean Streets"|Michael Jan Friedman|Larry Stroman|
 |06/27|💬|Uncanny X-Men (2024) #16|Gail Simone|David Marquez & Luciano Vecchio|
-|06/27|💬|Green Lantern (2023) #0|Jeremey Adams|Xermánico|
+|06/27|💬|Green Lantern (2023) #24|Jeremey Adams|Xermánico|
 |06/27|💬|Superman (2022) #27|Joshua Williams|Eddy Barrows & Sean Izaakse|
 |06/27|💬|We're Taking Everyone Down With Us (2025) #4|Matthew Rosenberg|Stefano Landini|
 |06/27|💬|Absolute Martian Manhunter (2025) #4|Deniz Camp|Javier Rodríguez|
