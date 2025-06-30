@@ -279,7 +279,7 @@ categories = [
 |02/21|💬|The Ultimates (2024) #9|Deniz Camp|Juan Frigeri|
 |02/21|💬|House of X (2019) #1|Jonathan Hickman|Pepe Larraz|
 |02/22|💬|Outlawed (2020) #1|Eve L. Ewing|Kim Jacinto|
-|02/22|🏛️|The Art of Banksy: "Without Limits" (2025)|1 Alexander||
+|02/22|🏛️|The Art of Banksy: "Without Limits" (2025)|Banksy|1 Alexander|
 |02/22|📺|Ghosts (2021) S4E13 "Ghostfellas"|Rose McIver|Brian Bahe|
 |02/22|💬|Power Girl (2023) #1|Leah Williams|Eduardo Pansica|
 |02/22|💬|Power Girl (2023) #2|Leah Williams|Eduardo Pansica|
@@ -941,7 +941,7 @@ categories = [
 * 🎭 - musical: music & lyrics/book
 * 🎭 - play: playwright/director
 * 🎤 - live music: band or performer/location
-* 🏛️ - museum/exhibit: location
+* 🏛️ - museum/exhibit: artist/location
 
 [^1]: Robbi Rodriguez, Javier Pina, and Gavin Guidry
 [^2]: Mario Puzo, David Newman, Leslie Newman, and Robert Benton
