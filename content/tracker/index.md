@@ -907,7 +907,7 @@ categories = [
 |06/27|💬|Star Spangled Comics (1999) #1 "...A Terrifying Hour!"|Geoff Johns|Chris Westin|
 |06/27|💬|Thrilling Comics (1999) #1 "No More Tomorrows"|Chuck Dixon|Russ Heath|
 |06/27|💬|All-Star Comics (1999) #2 "Time's Arrow"|David S. Goyer & James Robinson|William Rosado|
-
+|06/28|💬|Supergirl: Woman of Tomorrow (2021) #4 "Restraint, Endurance, and Passion"|Tom King|Bilquis Evely|
 
 
 ## Numbers
