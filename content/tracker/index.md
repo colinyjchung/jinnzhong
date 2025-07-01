@@ -908,7 +908,19 @@ categories = [
 |06/27|💬|Thrilling Comics (1999) #1 "No More Tomorrows"|Chuck Dixon|Russ Heath|
 |06/27|💬|All-Star Comics (1999) #2 "Time's Arrow"|David S. Goyer & James Robinson|William Rosado|
 |06/28|💬|Supergirl: Woman of Tomorrow (2021) #4 "Restraint, Endurance, and Passion"|Tom King|Bilquis Evely|
+|06/29|💬|Supergirl: Woman of Tomorrow (2021) #5 "The Lake, the Trees, and the Monsters"|Tom King|Bilquis Evely|
+|06/29|🏛️|Monsters in My Head (2025)|Otani Workshop|Vancouver Art Gallery|
+|06/29|🏛️|Written in Clay (2025)|John David Lawrence Collection|Vancouver Art Gallery|
+|06/29|🏛️|Postcards from the Heart (2025)|Brigitte and Henning Freybe Collection|Vancouver Art Gallery|
+|06/29|🏛️|Navigating an Impenetrable Landscape (2025)|Emily Carr|Vancouver Art Gallery|
+|06/29|🏛️|Dream Factory: Cantopop Mandopop 1980s-2000 (2025)||Chinese Canadian Museum|
+|06/29|🏛️|A Soldier for All Seasons (Permanent)||Chinese Canadian Museum|
+|06/29|📽️|Jaws (1975)|Steven Spielberg|Peter Benchley & Carl Gottlieb|
+|06/29|💬|JSA: Secret Files & Origins (1999) #1 Various[^60]|Various[^61]|Various[^62]|
 
+## July 2025
+||||||
+|---:|:---:|:---|:---|:---|
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎤   |🏛️   |
@@ -918,7 +930,8 @@ categories = [
 |MAR |0    |4    |0    |27   |103  |0    |0    |13   |3    |1    |0    |0    |0    |0    |
 |APR |0    |0    |0    |13   |78   |0    |0    |28   |1    |1    |0    |0    |1    |0    |
 |MAY |0    |2    |0    |12   |117  |0    |0    |21   |0    |1    |0    |1    |0    |0    |
-|JUN |0    |0    |0    |00   |00   |0    |0    |00   |0    |0    |0    |0    |0    |0    |
+|JUN |0    |1    |0    |3    |125  |0    |0    |16   |1    |1    |0    |0    |0    |6    |
+|JUL |0    |0    |0    |0    |00   |0    |0    |0    |0    |0    |0    |0    |0    |0    |
 
 
 
@@ -1002,3 +1015,6 @@ categories = [
 [^57]: When Superman Lost His Powers! and Supergirl's Greatest Victory!
 [^58]: The Man Who Married Lois Lane!, The Secret of Kryptonite!, and The Super-Clown of Metropolis!
 [^59]: Robert Bernstein, Jerry Coleman, and Jerry Siegel
+[^60]: Gathering Storms, Lost Pages: Black Canary and Fate - Dead Ends, and History 101
+[^61]: David S. Goyer, James Robinson, Steven Grant, and Ron Marz
+[^62]: Scott Benefiel, Eddy Newell, and Chris Weston
