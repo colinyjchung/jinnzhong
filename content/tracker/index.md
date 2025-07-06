@@ -922,6 +922,45 @@ categories = [
 ## July 2025
 ||||||
 |---:|:---:|:---|:---|:---|
+|07/01|💬|Superman: Birthright (2003) #1 "In the Beginning..."|Mark Waid|Leinil Francis Yu|
+|07/01|💬|Superman: Birthright (2003) #2 "Heart of Darkness"|Mark Waid|Leinil Francis Yu|
+|07/01|💬|Superman: Birthright (2003) #3 "A Legacy Reborn"|Mark Waid|Leinil Francis Yu|
+|07/01|💬|Superman: Birthright (2003) #4 "Daily Planet"|Mark Waid|Leinil Francis Yu|
+|07/01|📃|Be Genuine (2024)|J.A. Denton|Writing Battle|
+|07/01|📃|George Valentine and the Undoing of Death (2024)|Alexis Hunter|Writing Battle|
+|07/01|📃|Here Comes the Sun (2024)|Melanie Mulrooney|Writing Battle|
+|07/01|📃|The Day of La Tarta de Santiago (2024)|Hannah James|Writing Battle|
+|07/01|📃|Water is Life (2023)|MM Schreier|Writing Battle|
+|07/01|📃|Momentum (2023)|EJ Sidle|Writing Battle|
+|07/01|💬|Superman: Birthright (2003) #5 "Menace to Metropolis"|Mark Waid|Leinil Francis Yu|
+|07/01|💬|Superman: Birthright (2003) #6 "The Remains of Krypton"|Mark Waid|Leinil Francis Yu|
+|07/01|💬|Superman: Birthright (2003) #7 "Friend or Foe?"|Mark Waid|Leinil Francis Yu|
+|07/01|💬|Superman: Birthright (2003) #8 "Lex Luthor in Smallville"|Mark Waid|Leinil Francis Yu|
+|07/01|💬|Superman: Birthright (2003) #9 "Krypton Lives!"|Mark Waid|Leinil Francis Yu|
+|07/01|💬|Superman: Birthright (2003) #10 "Invasion"|Mark Waid|Leinil Francis Yu| 
+|07/01|💬|Superman: Birthright (2003) #11 "Kneel Before"|Mark Waid|Leinil Francis Yu|
+|07/01|💬|Superman: Birthright (2003) #12 "The Hero Emerges"|Mark Waid|Leinil Francis Yu|
+|07/02|💬|Birds of Prey (2023) #23|Kelly Thompson|Sami Basra|
+|07/02|💬|Gotham City Sirens: Unfit for Orbit (2025) #1|Leah Williams|Haining|
+|07/02|💬|The Authority (1999) #1 "The Circle, Part 1"|Warren Ellis|Bryan Hitch|
+|07/02|💬|The Authority (1999) #2 "The Circle, Part 2"|Warren Ellis|Bryan Hitch|
+|07/02|💬|The Authority (1999) #3 "The Circle, Part 3"|Warren Ellis|Bryan Hitch|
+|07/02|💬|The Authority (1999) #4 "The Circle, Part 4"|Warren Ellis|Bryan Hitch|
+|07/02|💬|Resurrection Man: Quantum Karma (2025) #4|Ram V|Anand Radhakrishnan|
+|07/02|💬|Absolute Green Lantern (2025) #4|Al Ewing|Jahnoy Lindsay|
+|07/02|💬|JSA (1999) #2 “The Wheel of Life”|David S. Goyer & James Robinson|Stephen Sadowski|
+|07/03|💬|The Authority (1999) #5 "Shiftships, Part 1"|Warren Ellis|Bryan Hitch|
+|07/03|💬|The Authority (1999) #6 "Shiftships, Part 2"|Warren Ellis|Bryan Hitch|
+|07/03|💬|The Authority (1999) #7 "Shiftships, Part 3"|Warren Ellis|Bryan Hitch|
+|07/03|💬|The Authority (1999) #8 "Shiftships, Part 4"|Warren Ellis|Bryan Hitch|
+|07/03|💬|Dawnrunner (2024) #1|Ram V|Evan Cagle|
+|07/03|💬|Dawnrunner (2024) #2|Ram V|Evan Cagle|
+|07/03|💬|Dawnrunner (2024) #3|Ram V|Evan Cagle|
+|07/03|💬|Dawnrunner (2024) #4|Ram V|Evan Cagle|
+|07/03|💬|Dawnrunner (2024) #5|Ram V|Evan Cagle|
+|07/05|💬|Supergirl: Woman of Tomorrow (2021) #6 "Home, Family, and Refuge"|Tom King|Bilquis Evely|
+|07/05|🎭|Legally Blonde: The Musical (2007)[^63]|Laurence O'Keefe & Nell Benjamin|Heather Hach|
+
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎤   |🏛️   |
@@ -1019,3 +1058,5 @@ categories = [
 [^60]: Gathering Storms, Lost Pages: Black Canary and Fate - Dead Ends, and History 101
 [^61]: David S. Goyer, James Robinson, Steven Grant, and Ron Marz
 [^62]: Scott Benefiel, Eddy Newell, and Chris Weston
+[^63]: Theatre Under the Stars, Malkin Bowl
+
