@@ -968,6 +968,13 @@ categories = [
 |07/06|💬|The Authority (1999) #11 "Outer Dark, Part 3"|Warren Ellis|Bryan Hitch|
 |07/06|💬|The Authority (1999) #12 "Outer Dark, Part 4"|Warren Ellis|Bryan Hitch|
 |07/07|💬|Krypto: The Last Dog of Krypton (2025) #1|Ryan North|Mike Norton|
+|07/08|💬|The Unchosen (2025) #1|David Marquez|David Marquez|
+|07/08|💬|Uncanny X-Men (2024) #17|Gail Simone|Luciano Vecchio|
+|07/08|💬|Supergirl (2025) #3|Sophie Campbell|Sophie Campbell|
+|07/08|💬|Green Lantern Corps (2025) #6|Jeremey Adams & Morgan Hampton|Amancay Nahuelpan|
+|07/08|💬|FML (2024) #5|Kelly Sue McConnick|David López|
+|07/08|💬|Absolute Superman (2024) #9|Jason Aaron|Rafa Sandoval & Fico Ossio|
+|07/08|💬|The Power Fantasy (2024) #10|Kieron Gillen|Caspar Wijngaard|
 |07/09|💬|Day of Judgment (1999) #1 "The Summoning"|Geoff Johns|Matthew Dow Smith|
 |07/09|💬|Day of Judgment (1999) #2 "The Lost Souls"|Geoff Johns|Matthew  Smith|
 |07/09|💬|Day of Judgment (1999) #3 "Choosing Sides"|Geoff Johns|Chris Jones|
