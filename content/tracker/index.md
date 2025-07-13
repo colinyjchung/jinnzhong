@@ -997,7 +997,8 @@ categories = [
 |07/12|💬|Uncanny X-Men (2024) #15|Gail Simone|David Marquez|
 |07/12|💬|Uncanny X-Men (2024) #16|Gail Simone|David Marquez & Luciano Vecchio|
 |07/12|💬|The Omega Men (2015) #1|Tom King|Barnaby Bagenda|
-
+|07/12|💬|Green Lantern (2023) #24|Jeremey Adams|Xermánico|
+|07/12|💬|Superman (2022) #27|Joshua Williams|Eddy Barrows & Sean Izaakse|
 
 
 
