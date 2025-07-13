@@ -960,6 +960,39 @@ categories = [
 |07/03|💬|Dawnrunner (2024) #5|Ram V|Evan Cagle|
 |07/05|💬|Supergirl: Woman of Tomorrow (2021) #6 "Home, Family, and Refuge"|Tom King|Bilquis Evely|
 |07/05|🎭|Legally Blonde: The Musical (2007)[^63]|Laurence O'Keefe & Nell Benjamin|Heather Hach|
+|07/06|💬|Supergirl: Woman of Tomorrow (2021) #7 "Home, Family, and Refuge"|Tom King|Bilquis Evely|
+|07/06|💬|Supergirl: Woman of Tomorrow (2021) #8 "Ruthye, Supergirl, and Krem of the Yellow Hills"|Tom King|Bilquis Evely|
+|07/06|💬|Mister Miracle (2017) #1 “Meet: Mister Miracle”|Tom King|Mitch Gerads|
+|07/06|💬|The Authority (1999) #9 "Outer Dark, Part 1"|Warren Ellis|Bryan Hitch|
+|07/06|💬|The Authority (1999) #10 "Outer Dark, Part 2"|Warren Ellis|Bryan Hitch|
+|07/06|💬|The Authority (1999) #11 "Outer Dark, Part 3"|Warren Ellis|Bryan Hitch|
+|07/06|💬|The Authority (1999) #12 "Outer Dark, Part 4"|Warren Ellis|Bryan Hitch|
+|07/07|💬|Krypto: The Last Dog of Krypton (2025) #1|Ryan North|Mike Norton|
+|07/09|💬|Day of Judgment (1999) #1 "The Summoning"|Geoff Johns|Matthew Dow Smith|
+|07/09|💬|Day of Judgment (1999) #2 "The Lost Souls"|Geoff Johns|Matthew  Smith|
+|07/09|💬|Day of Judgment (1999) #3 "Choosing Sides"|Geoff Johns|Chris Jones|
+|07/09|💬|Day of Judgment (1999) #4 "The End of the World As We Know It"|Geoff Johns|Chris Jones|
+|07/09|💬|Day of Judgment (1999) #5 "Soul Search"|Geoff Johns|Matthew Smith|
+|07/09|💬|Day of Judgment: Secret Files & Origins (1999) #1|Various[^64]|Matthew Smith[^65]|
+|07/10|📺|Community (2009) S1E1 “Pilot”|Anthony Russo & Joe Russo|Dan Harmon|
+|07/10|📺|Community (2009) S1E2 “Spanish 101”|Joe Russo|Dan Harmon|
+|07/10|📺|Community (2009) S1E3 “Introduction to Film”|Anthony Russo|Tim Hobert & Jon Pollack|
+|07/10|💬|Hourman (1999) #1 "Through the Hourglass"|Tom Peyer|Rags Morales|
+|07/10|💬|Hourman (1999) #9 "Where Does the Time Go?"|Tom Peyer|Rags Morales|
+|07/10|💬|Young Justice (1998) #16 "Aftermath"|Peter David|Todd Nauck|
+|07/10|💬|JSA (1999) #6 "Justice Like Lightning"|David S. Goyer & Geoff Johns|Marcos Martín|
+|07/11|📽️|Superman (2025)[^66]|James Gunn|James Gunn|
+|07/12|📽️|The Joy Luck Club (1993)|Wayne Wang|Amy Tan & Ronald Bass|
+|07/12|💬|Zatanna (2025) #5|Jamal Campbell|Jamal Campbell|
+|07/12|💬|The Ultimates (2024) #13|Deniz Camp|Juan Frigeri|
+|07/12|💬|Aliens vs. Avengers (2024) #4|Jonathan Hickman|Esad Ribić|
+|07/12|💬|Uncanny X-Men (2024) #14|Gail Simone|David Marquez|
+|07/12|💬|Uncanny X-Men (2024) #15|Gail Simone|David Marquez|
+|07/12|💬|Uncanny X-Men (2024) #16|Gail Simone|David Marquez & Luciano Vecchio|
+|07/12|💬|The Omega Men (2015) #1 ""|Tom King|Barnaby Bagenda|
+
+
+
 
 
 ## Numbers
@@ -1059,4 +1092,6 @@ categories = [
 [^61]: David S. Goyer, James Robinson, Steven Grant, and Ron Marz
 [^62]: Scott Benefiel, Eddy Newell, and Chris Weston
 [^63]: Theatre Under the Stars, Malkin Bowl
-
+[^64]: Scott Beatty, Geoff Johns, and Mark Millar
+[^65]: John McCrea, Phil Winslade, Yanick Paquette, and Jason Orfalas
+[^66]: Cineplex Cinemas IMAX, Langley
