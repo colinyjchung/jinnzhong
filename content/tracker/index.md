@@ -999,7 +999,39 @@ categories = [
 |07/12|💬|The Omega Men (2015) #1|Tom King|Barnaby Bagenda|
 |07/12|💬|Green Lantern (2023) #24|Jeremey Adams|Xermánico|
 |07/12|💬|Superman (2022) #27|Joshua Williams|Eddy Barrows & Sean Izaakse|
-
+|07/13|💬|We're Taking Everyone Down With Us (2025) #4|Matthew Rosenberg|Stefano Landini|
+|07/13|💬|Hyde Street (2024) #7|Geoff Johns|Ivan Reis|
+|07/13|💬|Absolute Martian Manhunter (2025) #4|Deniz Camp|Javier Rodríguez|
+|07/13|💬|Ultimate Spider-Man (2024) #18|Jonathan Hickman|Marco Checchetto|
+|07/13|💬|Absolute Wonder Woman (2024) #9|Kelly Thompson|Hayden Sherman|
+|07/13|📺|Bob's Burgers (2011) S15E17 "Wild Steal-ions"|Ian Hamilton|Brian Wylie|
+|07/14|📃|The Haunting of Hajji Hotek (2022)|Jamil Jan Kochai|The New Yorker|
+|07/16|💬|Krypto: The Last Dog of Krypton (2025) #2|Ryan North|Mike Norton|
+|07/16|💬|Exceptional X-Men (2024) #11|Eve L. Ewing|Federica Mancin|
+|07/16|💬|Teenage Mutant Ninja Turtles (2024) #10|Jason Aaron|Juan Ferreyra|
+|07/16|💬|Absolute Batman (2024) #10|Scott Snyder|Nick Dragotta|
+|07/16|💬|The New Gods (2024) #0|Ram V|Evan Cagle & Pablo M. Collar|
+|07/16|💬|Imperial (2025) #2|Jonathan Hickman|Iban Coello & Federico Vicentini|
+|07/16|💬|Martian Manhunter (1998) #18 "One for All"|John Ostrander|Tom Mandrake|
+|07/16|💬|Martian Manhunter (1998) #19 "One for All, Conclusion"|John Ostrander|Tom Mandrake|
+|07/17|📽️|Groove (2000)|Greg Harrison|Greg Harrison|
+|07/17|📺|Community (2009) S1E13 “Investigative Journalism”|Joe Russo| Jon Pollack & Tim Hobert|
+|07/17|📺|Community (2009) S1E14 “Investigative Journalism”|Justin Lin| Lauren Pomerantz|
+|07/17|📺|Community (2009) S1E15 “Romantic Expressionism”|Joe Russo|Andrew Guest|
+|07/17|📜|Popular Culture in Early Modern Europe 3E (2009)|Peter Burke||
+|07/18|🎭|Charlie and the Chocolate Factory (2013)[^63]|Marc Shaiman & Scott Wittman|David Greig|
+|07/19|📃|Wisconsin ()|Lisa Taddeo|The Sewanee Review|
+|07/19|🎧|The Reformation (2003)|Diarmaid McCulloch|Anne Flosnik|
+|07/19|📺|Murderbot (2025) S1E1 "FreeCommerce"|Paul Weitz|Paul Weitz & Chris Weitz|
+|07/19|📺|Murderbot (2025) S1E2 "Eye Contact"|Chris Weitz|Chris Weitz & Paul Weitz|
+|07/19|📺|Murderbot (2025) S1E3 "Risk Assessment"|Toa Fraser|Paul Weitz & Chris Weitz|
+|07/19|📺|Murderbot (2025) S1E4 "Escape Velocity Protocol"|Toa Fraser|Chris Weitz & Paul Weitz|
+|07/19|📺|Murderbot (2025) S1E5 "Rogue War Tracker Infinite"|Paul Weitz|Paul Weitz & Chris Weitz|
+|07/19|📺|Murderbot (2025) S1E6 "Command Feed"|Aurora Guerrero|Chris Weitz & Paul Weitz|
+|07/19|📺|Murderbot (2025) S1E7 "Complementary Species"|Roseanne Liang|Chris Weitz & Paul Weitz|
+|07/19|📺|Murderbot (2025) S1E8 "Foreign Object"|Aurora Guerrero|Chris Weitz & Paul Weitz|
+|07/19|📺|Murderbot (2025) S1E9 "All Systems Red"|Roseanne Liang|Paul Weitz & Chris Weitz|
+|07/19|📺|Murderbot (2025) S1E10 "The Perimeter"|Paul Weitz|Chris Weitz & Paul Weitz|
 
 
 
