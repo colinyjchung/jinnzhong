@@ -1010,7 +1010,7 @@ categories = [
 |07/16|💬|Exceptional X-Men (2024) #11|Eve L. Ewing|Federica Mancin|
 |07/16|💬|Teenage Mutant Ninja Turtles (2024) #10|Jason Aaron|Juan Ferreyra|
 |07/16|💬|Absolute Batman (2024) #10|Scott Snyder|Nick Dragotta|
-|07/16|💬|The New Gods (2024) #0|Ram V|Evan Cagle & Pablo M. Collar|
+|07/16|💬|The New Gods (2024) #8|Ram V|Evan Cagle & Pablo M. Collar|
 |07/16|💬|Imperial (2025) #2|Jonathan Hickman|Iban Coello & Federico Vicentini|
 |07/16|💬|Martian Manhunter (1998) #18 "One for All"|John Ostrander|Tom Mandrake|
 |07/16|💬|Martian Manhunter (1998) #19 "One for All, Conclusion"|John Ostrander|Tom Mandrake|
