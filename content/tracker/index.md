@@ -1020,7 +1020,7 @@ categories = [
 |07/17|📺|Community (2009) S1E15 “Romantic Expressionism”|Joe Russo|Andrew Guest|
 |07/17|📜|Popular Culture in Early Modern Europe 3E (2009)|Peter Burke||
 |07/18|🎭|Charlie and the Chocolate Factory (2013)[^63]|Marc Shaiman & Scott Wittman|David Greig|
-|07/19|📃|Wisconsin ()|Lisa Taddeo|The Sewanee Review|
+|07/19|📃|Wisconsin (2022)|Lisa Taddeo|The Sewanee Review|
 |07/19|🎧|The Reformation (2003)|Diarmaid McCulloch|Anne Flosnik|
 |07/19|📺|Murderbot (2025) S1E1 "FreeCommerce"|Paul Weitz|Paul Weitz & Chris Weitz|
 |07/19|📺|Murderbot (2025) S1E2 "Eye Contact"|Chris Weitz|Chris Weitz & Paul Weitz|
