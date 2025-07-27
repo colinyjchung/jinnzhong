@@ -1032,7 +1032,30 @@ categories = [
 |07/19|📺|Murderbot (2025) S1E8 "Foreign Object"|Aurora Guerrero|Chris Weitz & Paul Weitz|
 |07/19|📺|Murderbot (2025) S1E9 "All Systems Red"|Roseanne Liang|Paul Weitz & Chris Weitz|
 |07/19|📺|Murderbot (2025) S1E10 "The Perimeter"|Paul Weitz|Chris Weitz & Paul Weitz|
-
+|07/20|📃|Ira & the Whale (2022)|Rachel B. Glaser|Paris Review|
+|07/20|💬|Gotham City Sirens: Unfit for Orbit (2025) #1|Leah Williams|Haining|
+|07/20|💬|The Unchosen (2025) #1|David Marquez|David Marquez|
+|07/20|💬|Uncanny X-Men (2024) #17|Gail Simone|Luciano Vecchio|
+|07/20|💬|Supergirl (2025) #3|Sophie Campbell|Sophie Campbell|
+|07/20|💬|Green Lantern Corps (2025) #6|Jeremey Adams & Morgan Hampton|Amancay Nahuelpan|
+|07/20|💬|Resurrection Man: Quantum Karma (2025) #4|Ram V|Anand Radhakrishnan|
+|07/20|💬|Absolute Green Lantern (2025) #4|Al Ewing|Jahnoy Lindsay|
+|07/20|💬|FML (2024) #5|Kelly Sue McConnick|David López|
+|07/20|💬|Birds of Prey (2023) #23|Kelly Thompson|Sami Basra|
+|07/20|💬|The Power Fantasy (2024) #10|Kieron Gillen|Caspar Wijngaard|
+|07/20|💬|Absolute Superman (2024) #9|Jason Aaron|Rafa Sandoval & Fico Ossio|
+|07/20|💬|Assorted Crisis Events (2025) #4|Deniz Camp|Eric Zawadzki|
+|07/23|💬|Zatanna (2025) #6|Jamal Campbell|Jamal Campbell|
+|07/23|💬|Storm (2024) #10|Murewa Ayodele|Lucas Werneck|
+|07/23|💬|Green Lantern (2023) #25|Jeremey Adams|Xermánico|
+|07/23|💬|Superman (2022) #28|Joshua Williams|Dan Mora|
+|07/23|💬|Absolute Wonder Woman (2024) #10|Kelly Thompson|Hayden Sherman|
+|07/23|💬|Absolute Martian Manhunter (2025) #5|Deniz Camp|Javier Rodríguez|
+|07/23|📺|Squid Game (2021) S3E5 "○△□"|Hwang Dong-hyuk|Hwang Dong-hyuk|
+|07/23|📰|Story Genius (2016)|Lisa Cron||
+|07/26|💬|She-Hulk (2022) #1|Rainbow Rowell|Rogê Antônio|
+|07/26|📺|The Studio (2025) S1E10 "The Presentation"|Seth Rogan & Evan Goldberg|Various[^67]|
+|07/26|📺|Fresh off the Boat (2015) "Coming from America"|Nahnatchka Khan|Nahnatchka Khan|
 
 
 ## Numbers
@@ -1135,3 +1158,4 @@ categories = [
 [^64]: Scott Beatty, Geoff Johns, and Mark Millar
 [^65]: John McCrea, Phil Winslade, Yanick Paquette, and Jason Orfalas
 [^66]: Cineplex Cinemas IMAX, Langley
+[^67]: Seth Rogen, Evan Goldberg, Peter Huyck, Alex Gregory, & Frida Perez
