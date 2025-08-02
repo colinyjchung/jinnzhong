@@ -1056,6 +1056,49 @@ categories = [
 |07/26|💬|She-Hulk (2022) #1|Rainbow Rowell|Rogê Antônio|
 |07/26|📺|The Studio (2025) S1E10 "The Presentation"|Seth Rogan & Evan Goldberg|Various[^67]|
 |07/26|📺|Fresh off the Boat (2015) "Coming from America"|Nahnatchka Khan|Nahnatchka Khan|
+|07/26|💬|She-Hulk (2022) #2|Rainbow Rowell|Rogê Antônio|
+|07/26|💬|She-Hulk (2022) #3|Rainbow Rowell|Rogê Antônio|
+|07/27|💬|She-Hulk (2022) #4|Rainbow Rowell|Luca Maresca|
+|07/27|💬|She-Hulk (2022) #5|Rainbow Rowell|Luca Maresca|
+|07/27|💬|JSA (1999) #7 "Darkness Falls"|Geoff Johns & David S. Goyer|Stephen Sadowski|
+|07/27|💬|JSA (1999) #8 "Shadowland"|Geoff Johns & David S. Goyer|Stephen Sadowski|
+|07/27|💬|JSA (1999) #9 "Black Planet"|Geoff Johns & David S. Goyer|Stephen Sadowski|
+|07/27|💬|JSA (1999) #10 "Wild Hunt"|Geoff Johns & David S. Goyer|Stephen Sadowski|
+|07/27|💬|Stars and S.T.R.I.P.E. (1999) #8 "Crisis in Blue Valley"|Geoff Johns|Lee Molder|
+|07/27|💬|Stars and S.T.R.I.P.E. (1999) #9 "The Final Hour for the 7 Soldiers of Victory!"|Geoff Johns|Scott Kolins|
+|07/27|💬|Young Justice: Sins of Youth (2000) #1 "Justice for All"|Peter David|Todd Nauck|
+|07/27|💬|Young Justice: Sins of Youth – Secret Files & Origins (2000) #1 "Crisis on Infantile Earths"|Geoff Johns|Ben Raab|
+|07/27|💬|Young Justice: Sins of Youth – Starwoman and the JSA, Jr. (2000) #1 "Stars and Tykes"|Geoff Johns|Drew Johnson|
+|07/27|💬|Young Justice: Sins of Youth (2000) #2 "Sins of Youth: The Stunning Conclusion"|Peter David|Todd Nauck|
+|07/27|💬|Hourman (1999) #18 "High Society"|Tom Peyer|Rags Morales|
+|07/27|💬|JSA (1999) #11 "Split"|Geoff Johns & David S. Goyer|Aldrin "Buzz" Aw|
+|07/27|💬|JSA (1999) #12 "The Blood-Dimmed Tide"|Geoff Johns & David S. Goyer|Aldrin "Buzz" Aw|
+|07/27|💬|JSA (1999) #13 "Time's Assassin"|Geoff Johns & David S. Goyer|Stephen Sadowski|
+|07/27|💬|JSA (1999) #14 "Chaos Theory"|Geoff Johns & David S. Goyer|Stephen Sadowski|
+|07/27|💬|JSA (1999) #15 "Crime and Punishment"|Geoff Johns & David S. Goyer|Stephen Sadowski|
+|07/27|💬|JSA Annual (2000) #1 "Genesis" & "Sisters"|Geoff Johns & David S. Goyer|Uriel Caton & Aldrin "Buzz" Aw|
+|07/27|💬|Golden Age: Secret Files & Origins (2000) #1|Various[^68]|Various[^69]|
+|07/27|💬|JSA (1999) #16 "Injustice Be Done, Part 1: Divide and Conquer"|Geoff Johns & David S. Goyer|Stephen Sadowski|
+|07/27|💬|JSA (1999) #17 "Injustice Be Done, Part 2: Cold Comfort"|Geoff Johns & David S. Goyer|Stephen Sadowski|
+|07/27|💬|JSA (1999) #18 "Injustice Be Done, Part 3: Sorrow's Story"|Geoff Johns & David S. Goyer|Stephen Sadowski|
+|07/27|💬|JSA (1999) #19 "Injustice Be Done, Part 4: Into the Labyrinth"|Geoff Johns & David S. Goyer|Stephen Sadowski|
+|07/27|💬|JSA (1999) #20 "Injustice Be Done, Part 5: Godspeed"|Geoff Johns & David S. Goyer|Stephen Sadowski|
+|07/28|💬|She-Hulk (2022) #6|Rainbow Rowell|Luca Maresca|
+|07/29|📺|Andor (2022) S2E5 "I Have Friends Everywhere"|Ariel Kleiman|Beau Willimon|
+|07/29|📺|Andor (2022) S2E6 "What a Festive Evening"|Ariel Kleiman|Beau Willimon|
+|07/29|💬|JSA (1999) #21 "Guardian Angels"|Geoff Johns & David S. Goyer|Aldrin "Buzz" Aw|
+|07/29|💬|JSA (1999) #22 "Lost Friends"|Geoff Johns & David S. Goyer|Various [^70]|
+|07/29|💬|JSA (1999) #23 "Ascension"|Geoff Johns & David S. Goyer|Stephen Sadowski|
+|07/29|💬|JSA (1999) #24 "Icarus Fell"|Geoff Johns & David S. Goyer|Stephen Sadowski|
+|07/29|💬|JSA (1999) #25 "Seven Devils"|Geoff Johns & David S. Goyer|Stephen Sadowski|
+|07/30|💬|Justice League: Dark Tomorrow Special (2025) #1|Mark Waid & Marc Guggenheim|Cian Tormey|
+|07/30|🎭|Waitress: The Musical (2015)[^71]|Sara Bareilles|Jessie Nelson|
+|07/30|💬|The Ultimates (2024) #14|Deniz Camp|Juan Frigeri|
+|07/30|💬|Ultimate Spider-Man (2024) #19|Jonathan Hickman|Marco Checchetto|
+|07/31|💬|She-Hulk (2022) #7|Rainbow Rowell|Luca Maresca|
+
+
+
 
 
 ## Numbers
@@ -1159,3 +1202,7 @@ categories = [
 [^65]: John McCrea, Phil Winslade, Yanick Paquette, and Jason Orfalas
 [^66]: Cineplex Cinemas IMAX, Langley
 [^67]: Seth Rogen, Evan Goldberg, Peter Huyck, Alex Gregory, & Frida Perez
+[^68]:Peter Gross, Jason Hernandez-Rosenblatt, John Ostrander, and Tom Peyer
+[^69]:Cliff Chiang, Peter Grau, Tom McCraw, John Costanza, 
+[^70]: Rags Morales, Michael Bair, and Aldrin Aw
+[^71]: Stanley Industrial Alliance Theatre
