@@ -1097,7 +1097,13 @@ categories = [
 |07/30|💬|Ultimate Spider-Man (2024) #19|Jonathan Hickman|Marco Checchetto|
 |07/31|💬|She-Hulk (2022) #7|Rainbow Rowell|Luca Maresca|
 
-
+## August 2025
+||||||
+|---:|:---:|:---|:---|:---|
+|08/02|💬|She-Hulk (2022) #8|Rainbow Rowell|Takeshi Miyazawa|
+|08/02|💬|She-Hulk (2022) #9|Rainbow Rowell|Takeshi Miyazawa|
+|08/02|📰|Story Genius (2016)|Lisa Cron||
+|08/02|🎭|The Mousetrap (1952)[^72]|Agatha Christie|Stephen Drover|
 
 
 
