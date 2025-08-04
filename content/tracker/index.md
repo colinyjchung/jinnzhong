@@ -1213,3 +1213,4 @@ categories = [
 [^69]:Cliff Chiang, Peter Grau, Tom McCraw, John Costanza, 
 [^70]: Rags Morales, Michael Bair, and Aldrin Aw
 [^71]: Stanley Industrial Alliance Theatre
+[^72]: Granville Island Stage
