@@ -1104,6 +1104,32 @@ categories = [
 |08/02|💬|She-Hulk (2022) #9|Rainbow Rowell|Takeshi Miyazawa|
 |08/02|📰|Story Genius (2016)|Lisa Cron||
 |08/02|🎭|The Mousetrap (1952)[^72]|Agatha Christie|Stephen Drover|
+|08/03|💬|She-Hulk (2022) #10|Rainbow Rowell|Takeshi Miyazawa|
+|08/03|💬|She-Hulk (2022) #11|Rainbow Rowell|Andrés Genolet|
+|08/03|💬|She-Hulk (2022) #12|Rainbow Rowell|Andrés Genolet & Joe Quinones|
+|08/03|💬|She-Hulk (2022) #13|Rainbow Rowell|Andrés Genolet & Joe Quinones|
+|08/03|💬|She-Hulk (2022) #14|Rainbow Rowell|Andrés Genolet|
+|08/03|💬|She-Hulk (2022) #15|Rainbow Rowell|Andrés Genolet|
+|08/04|💬|The Sensational She-Hulk (2023) #1|Rainbow Rowell & Jessica Gao|Andrés Genolet & Gavin Guidry|
+|08/04|💬|The Sensational She-Hulk (2023) #2|Rainbow Rowell & Bobby Wilson|Andrés Genolet & David Cutler|
+|08/04|💬|The Sensational She-Hulk (2023) #3|Rainbow Rowell|Andrés Genolet|
+|08/06|💬|Cheetah and Cheshire Rob the Justice League (2025) #1|Greg Rucka|Nicola Scott|
+|08/06|💬|Birds of Prey (2023) #24|Kelly Thompson|Samri Basri|
+|08/06|💬|Storm (2024) #11|Murewa Ayodele|Carlos Fabian Villa & Mario Santoro|
+|08/06|💬|Absolute Green Lantern (2025) #5|Al Ewing|Jahnoy Lindsay|
+|08/06|💬|Resurrection Man: Quantum Karma (2025) #5|Ram V|Anand Radhakrishnan|
+|08/06|💬|Absolute Superman (2024) #10|Jason Aaron|Carmine Di Giandomenico|
+|08/06|💬|Superman/Batman (2003) #1 "The World's Finest, P1"|Jeph Loeb|Ed McGuinness|
+|08/06|💬|Superman/Batman (2003) #2 "The World's Finest, P2: Early Warning"|Jeph Loeb|Ed McGuinness|
+|08/07|💬|Superman/Batman (2003) #3 "The World's Finest, P3: Running Wild"|Jeph Loeb|Ed McGuinness|
+|08/07|💬|Superman/Batman (2003) #4 "The World's Finest, P4: Battle On"|Jeph Loeb|Ed McGuinness|
+|08/07|💬|Superman/Batman (2003) #5 "The World's Finest, P5: State of Siege"|Jeph Loeb|Ed McGuinness|
+|08/07|💬|Superman/Batman (2003) #6 "The World's Finest, P6: Final Countdown"|Jeph Loeb|Ed McGuinness|
+|08/08|💬|Assorted Crisis Events (2025) #5|Deniz Camp|Eric Zawadzki|
+|08/09|📽️|Thunderbolts* (2025)|Jake Schreier|Eric Pearson & Joanna Calo|
+|08/09|📽️|Wicked: Part 1 (2024)|Jon M. Chu|Winnie Holzman & Dana Fox|
+
+
 
 
 
