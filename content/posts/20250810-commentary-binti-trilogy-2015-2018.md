@@ -42,7 +42,7 @@ The following are thoughts and reactions I had while reading _Binti Trilogy_ (20
 ### Binti: The Night Masquerade (2018)
 
 * hahaha. At airport to Japan, have not read any novels since dropping Binti one year ago. Here we go.
-* calling with help with their astrolabes!!!! They _are_ fucking cell phones.
+* calling for help with their astrolabes!!!! They _are_ fucking cell phones.
 * pg. 216 - alien internet in her brain. Hahaha
 * pg. 300 - no comment exactly. I was worried at first that getting back into a novel this late after not reading it for a year would be impossible, but because I’m trapped on a plane, I pushed through and found my place again. This has got to be one of the weirdest reading experiences I’ve had where I ignore a book for over a year and come back to it. Thankfully, I’m taking these notes and it was enough to recap. So far, the various factions converging was done very well. Khoush, Meduse, and Himba Elder Council, and the Night Masquerade. The negotiations that just happened was a great deke.
 
