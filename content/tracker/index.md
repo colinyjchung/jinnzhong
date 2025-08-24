@@ -176,7 +176,7 @@ categories = [
 |01/23|📽️|Challengers (2024)|Luca Guadagnino|Justin Kuritzkes|
 |01/23|💬|Do a Powerbomb (2022) #3|Daniel Warren Johnson|Daniel Warren Johnson|
 |01/23|💬|Do a Powerbomb (2022) #4|Daniel Warren Johnson|Daniel Warren Johnson|
-|01/24|🎭|Beetlejuice the Musical (2018)|Eddie Perfect|Scott Brown & Anthony King|
+|01/24|🎭|Beetlejuice the Musical (2018)[^73]|Eddie Perfect|Scott Brown & Anthony King|
 |01/24|💬|Do a Powerbomb (2022) #5|Daniel Warren Johnson|Daniel Warren Johnson|
 |01/24|💬|Do a Powerbomb (2022) #6|Daniel Warren Johnson|Daniel Warren Johnson|
 |01/24|💬|Do a Powerbomb (2022) #7|Daniel Warren Johnson|Daniel Warren Johnson|
@@ -679,7 +679,7 @@ categories = [
 |05/15|💬|Birds of Prey (2023) #21|Kelly Thompson|Sami Basri|
 |05/15|📺|Last of Us (2023) S2E5 “Feel Her Love”|Stephen Williams|Craig Mazin|
 |05/15|📜|The Time Traveller’s Guide to Elizabethan England (2012)|Ian Mortimer||
-|05/16|🎭|Six (2017)|Toby Marlow & Lucy Moss|Toby Marlow & Lucy Moss|
+|05/16|🎭|Six (2017)[^73]|Toby Marlow & Lucy Moss|Toby Marlow & Lucy Moss|
 |05/17|📺|White Lotus (2021) S3E8 "Amor Fati"|Mike White|Mike White|
 |05/17|💬|Action Comics (1938) #661 "Stretching a Point!"|Roger Stern|Bob McLeod|
 |05/17|💬|Superman (1986) #52 "The Name, Pardners, Is Terra-Man…"|Jerry Ordway|Jerry Ordway|
@@ -1128,7 +1128,32 @@ categories = [
 |08/08|💬|Assorted Crisis Events (2025) #5|Deniz Camp|Eric Zawadzki|
 |08/09|📽️|Thunderbolts* (2025)|Jake Schreier|Eric Pearson & Joanna Calo|
 |08/09|📽️|Wicked: Part 1 (2024)|Jon M. Chu|Winnie Holzman & Dana Fox|
-
+|08/10|📖|Binti Trilogy (2015-2018)|Nnedi Okorafor||
+|08/11|🏛️|Meiji Jingu (1920)|Shibuya, Tokyo||
+|08/12|🏛️|Kanda Myoujin (730)|Chiyoda, Tokyo||
+|08/12|🏛️|Yushima Seido (1632)|Bunkyō, Tokyo||
+|08/13|🏛️|TeamLab Planets (2018)|Koto-ku, Tokyo||
+|08/14|🏛️|Senso-Ji (645)|Asakusa, Tokyo||
+|08/14|🏛️|Tokyo Skytree (2012)|Sumida, Tokyo||
+|08/15|🏛️|Reverberation From The Universe (2025)|Yayoi Kasama Museum||
+|08/16|📖|No Longer Human|Osamu Dazai|trans. Donald Keene|
+|08/18|🏛️|Nijo-jo (1626)|||
+|08/18|🏛️|Shinsen-en (826)|||
+|08/18|🏛️|Nishiki Market (782)|downtown Kyoto||
+|08/19|🏛️|Fushimi Inari-taisha (711)|Fushimi-ku, Kyoto||
+|08/20|🏛️|Kōfuku-ji (669)|Nara||
+|08/20|🏛️|Nara Prefectural Museum of Art|Nara||
+|08/20|🏛️|Yoshiki-en|Nara||
+|08/20|🏛️|Todai-ji (738)|Nara||
+|08/20|🏛️|Tōdai-ji Culture Center (2011)|Nara||
+|08/21|📖|The Flowers of Buffoonery (1935)|Osamu Dazai|trans. Sam Bett|
+|08/21|🏛️|Ōsaka-jō (1583)|Chūō-ku, Osaka||
+|08/22|📽️|Furiosa: A Mad Max Saga (2024)|George Miller|George Miller & Nico Lathouris|
+|08/22|📽️|Mickey 17 (2025)|Bong Joon Ho|Bong Joon Ho |
+|08/22|📽️|(500) Days of Summer (2009)|Marc Webb|Scott Neustadter & Michael H. Weber|
+|08/22|📺|Peacemaker (2022) S2E1 "The Ties That Grind"|James Gunn|James Gunn|
+|08/22|💬|Exceptional X-Men (2024) #11|Eve L. Ewing|Federica Mancin|
+|08/23|🎭|The Lion King (Musical) (1997)[^73]|Elton John & Tim Rice|Roger Allers & Irene Mecchi|
 
 
 
@@ -1240,3 +1265,4 @@ categories = [
 [^70]: Rags Morales, Michael Bair, and Aldrin Aw
 [^71]: Stanley Industrial Alliance Theatre
 [^72]: Granville Island Stage
+[^73]: Queen Elizabeth Theatre
