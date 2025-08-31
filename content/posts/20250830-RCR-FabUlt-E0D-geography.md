@@ -1,7 +1,7 @@
 +++
 author = "Jinn Zhong"
 title = "RCR-FabUlt-E0D: Geography"
-date = "2025-09-30"
+date = "2025-08-30"
 description = "Prep Session D"
 tags = [
     "Ogrebeef",
