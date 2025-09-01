@@ -1125,6 +1125,7 @@ categories = [
 |08/07|💬|Superman/Batman (2003) #4 "The World's Finest, P4: Battle On"|Jeph Loeb|Ed McGuinness|
 |08/07|💬|Superman/Batman (2003) #5 "The World's Finest, P5: State of Siege"|Jeph Loeb|Ed McGuinness|
 |08/07|💬|Superman/Batman (2003) #6 "The World's Finest, P6: Final Countdown"|Jeph Loeb|Ed McGuinness|
+|08/07|💬|Superman/Batman (2003) #7 "Protégé"|Jeph Loeb|Pat Lee|
 |08/08|💬|Assorted Crisis Events (2025) #5|Deniz Camp|Eric Zawadzki|
 |08/09|📽️|Thunderbolts* (2025)|Jake Schreier|Eric Pearson & Joanna Calo|
 |08/09|📽️|Wicked: Part 1 (2024)|Jon M. Chu|Winnie Holzman & Dana Fox|
@@ -1249,7 +1250,7 @@ categories = [
 |MAY |0    |2    |0    |12   |117  |0    |0    |21   |0    |1    |0    |1    |0    |0    |
 |JUN |0    |1    |0    |3    |126  |0    |0    |16   |1    |1    |0    |0    |0    |6    |
 |JUL |0    |1    |1    |9    |134  |0    |1    |22   |3    |0    |0    |3    |0    |0    |
-|AUG |3    |0    |1    |0    |97   |0    |0    |6    |5    |1    |0    |2    |0    |17   |
+|AUG |3    |0    |1    |0    |98   |0    |0    |6    |5    |1    |0    |2    |0    |17   |
 |SEP |0    |0    |0    |0    |000  |0    |0    |0    |0    |0    |0    |0    |0    |0    |
 
 
