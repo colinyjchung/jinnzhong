@@ -1154,7 +1154,84 @@ categories = [
 |08/22|📺|Peacemaker (2022) S2E1 "The Ties That Grind"|James Gunn|James Gunn|
 |08/22|💬|Exceptional X-Men (2024) #11|Eve L. Ewing|Federica Mancin|
 |08/23|🎭|The Lion King (Musical) (1997)[^73]|Elton John & Tim Rice|Roger Allers & Irene Mecchi|
-
+|08/24|💬|Storm (2024) #10|Murewa Ayodele|Lucas Werneck|
+|08/24|💬|Storm (2024) #11|Murewa Ayodele|Carlos Fabian Villa & Mario Santoro|
+|08/24|💬|Imperial (2025) #2|Jonathan Hickman|Iban Coello & Federico Vicentini|
+|08/24|💬|Ultimate Spider-Man (2024) #19|Jonathan Hickman|Marco Checchetto|
+|08/24|💬|The Ultimates (2024) #14|Deniz Camp|Juan Frigeri|
+|08/24|💬|Teenage Mutant Ninja Turtles (2024) #10|Jason Aaron|Juan Ferreyra|
+|08/24|💬|Krypto: The Last Dog of Krypton (2025) #2|Ryan North|Mike Norton|
+|08/24|💬|The New Gods (2024) #8|Ram V|Evan Cagle & Pablo M. Collar|
+|08/24|💬|Zatanna (2025) #6|Jamal Campbell|Jamal Campbell|
+|08/24|💬|Absolute Batman (2024) #10|Scott Snyder|Nick Dragotta|
+|08/24|💬|Superman (2022) #28|Joshua Williams|Dan Mora|
+|08/24|💬|Green Lantern (2023) #25|Jeremey Adams|Xermánico|
+|08/24|💬|Absolute Martian Manhunter (2025) #5|Deniz Camp|Javier Rodríguez|
+|08/25|💬|Absolute Wonder Woman (2024) #10|Kelly Thompson|Hayden Sherman|
+|08/26|📺|Community (2009) S2E21 "Paradigms of Human Memory"|Tristram Shapeero|Chris McKenna|
+|08/26|💬|Birds of Prey (2023) #24|Kelly Thompson|Samri Basri|
+|08/26|💬|Resurrection Man: Quantum Karma (2025) #5|Ram V|Anand Radhakrishnan|
+|08/26|💬|Absolute Green Lantern (2025) #5|Al Ewing|Jahnoy Lindsay|
+|08/26|💬|Absolute Superman (2024) #10|Jason Aaron|Carmine Di Giandomenico|
+|08/26|💬|Cheetah and Cheshire Rob the Justice League (2025) #1|Greg Rucka|Nicola Scott|
+|08/26|💬|Justice League: Dark Tomorrow Special (2025) #1|Mark Waid & Marc Guggenheim|Cian Tormey|
+|08/27|💬|Green Lantern Corps (2025) #7|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
+|08/27|💬|Supergirl (2025) #4|Sophie Campbell|Sophie Campbell|
+|08/27|💬|Krypto: The Last Dog of Krypton (2025) #3|Ryan North|Mike Norton|
+|08/27|💬|Justice League Red (2025) #1|Saladin Ahmed|Clayton Henry|
+|08/27|💬|Superman (2022) #29|Joshua Williams|Dan Mora|
+|08/27|💬|The New Gods (2024) #9|Ram V|Evan Cagle & Simon Parr|
+|08/27|💬|The Unchosen (2025) #2|David Marquez|David Marquez|
+|08/27|💬|Absolute Batman (2024) #11|Scott Snyder|Clay Mann|
+|08/27|💬|Absolute Martian Manhunter (2025) #6|Deniz Camp|Javier Rodríguez|
+|08/27|💬|The Ultimates (2024) #15|Deniz Camp|Von Randal|
+|08/27|💬|Ultimate Spider-Man (2024) #20|Jonathan Hickman|David Messina|
+|08/27|💬|Imperial (2025) #3|Jonathan Hickman|Iban Coello & Federico Vicentini|
+|08/27|💬|Imperial War: Planet She-Hulk (2025) #1|Jonathan Hickman & Stephanie Phillips|Emilio Laiso|
+|08/27|💬|Imperial War: Black Panther (2025) #1|Jonathan Hickman & Victor Lavalle|CAFU|
+|08/27|💬|We're Taking Everyone Down With Us (2025) #5|Matthew Rosenberg|Stefano Landini|
+|08/28|💬|The Power Fantasy (2024) #11|Kieron Gillen|Caspar Wijngaard|
+|08/28|💬|Hyde Street (2024) #0|Geoff Johns|Ivan Reis|
+|08/28|📺|Andor (2022) S2E8 "Who Are You?"|Janus Metz|Dan Gilroy|
+|08/28|📺|Andor (2022) S2E9 "Welcome to the Rebellion"|Janus Metz|Dan Gilroy|
+|08/28|💬|Action Comics (2016) #1030 "Warworld Rising P1"|Phillip Kennedy Johnson|Daniel Sampere|
+|08/28|💬|Action Comics (2016) #1031 "Warworld Rising P2"|Phillip Kennedy Johnson|Daniel Sampere|
+|08/28|💬|Action Comics (2016) #1032 "Warworld Rising P3"|Phillip Kennedy Johnson|Daniel Sampere|
+|08/28|💬|Action Comics (2016) #1033 "Warworld Rising P4"|Phillip Kennedy Johnson|Daniel Sampere|
+|08/28|💬|Action Comics (2016) #1034 "Warworld Rising P5"|Phillip Kennedy Johnson|Daniel Sampere|
+|08/28|💬|Action Comics (2016) #1035 "Warworld Rising P6"|Phillip Kennedy Johnson|Daniel Sampere|
+|08/29|💬|Batman/Superman: The Authority Special (2021) #1 "Empire of Shadows"|Phillip Kennedy Johnson|Trevor Hairsine & Ben Templesmith|
+|08/29|💬|Action Comics (2016) #1036 "The Warworld Saga P1"|Phillip Kennedy Johnson|Daniel Sampere|
+|08/29|💬|Action Comics (2016) #1037 "The Warworld Saga P2"|Phillip Kennedy Johnson|Miguel Mendonca|
+|08/29|💬|Action Comics (2016) #1038 "The Warworld Saga P3"|Phillip Kennedy Johnson|Miguel Mendonca|
+|08/29|💬|Action Comics (2016) #1039 "The Warworld Saga P4"|Phillip Kennedy Johnson|Riccardo Federici|
+|08/29|💬|Action Comics (2016) #1040 "The Warworld Saga P5"|Phillip Kennedy Johnson|Riccardo Federici|
+|08/29|💬|Action Comics (2016) #1041 "Midnighter's Tale"|Phillip Kennedy Johnson|Will Conrad & Dale Eaglesham|
+|08/29|💬|Action Comics (2016) #1042 "The Warworld Saga P7"|Phillip Kennedy Johnson|Riccardo Federici|
+|08/30|💬|Action Comics (2016) #1043 "Warworld Revolution P1"|Phillip Kennedy Johnson|Will Conrad & Riccardo Federici|
+|08/30|💬|Action Comics (2016) #1044 "Warworld Revolution P2"|Phillip Kennedy Johnson|Will Conrad & Riccardo Federici|
+|08/30|💬|Action Comics (2016) #1045 "Warworld Revolution P3"|Phillip Kennedy Johnson|Will Conrad & Brent Peeples|
+|08/30|💬|Action Comics (2016) #1045 "Warworld Revolution P4"|Phillip Kennedy Johnson|Fico Ossio|
+|08/30|💬|Superman: Warworld Apocalypse (2022) #1|Phillip Kennedy Johnson|Various[^74]|
+|08/30|💬|Future State: Superman: Worlds of War (2022) #1 "The Many Lives of Clark Kent"|Phillip Kennedy Johnson|Mikel Janín|
+|08/30|💬|Future State: Superman: Worlds of War (2022) #2 "The Many Deaths of Superman"|Phillip Kennedy Johnson|Mikel Janín|
+|08/30|💬|Future State: Superman – House of El (2021) #1 "House of El"|Phillip Kennedy Johnson|Scott Godlewski|
+|08/30|👺|Fabula Ultima (2023) E0D “Geography”|Ogrebeef|CFHM[^75]|
+|08/31|📺|Peacemaker (2022) S2E2 "A Man Is Only as Good As His Bird"|Greg Mottola|James Gunn|
+|08/31|📺|Doom Patrol (2019) S1E1 "Pilot"|Glen Winter|Jeremy Carver|
+|08/31|💬|Rook: Exodus (2024) #1|Geoff Johns|Jason Fabok|
+|08/31|💬|Rook: Exodus (2024) #1|Geoff Johns|Jason Fabok|
+|08/31|💬|Rook: Exodus (2024) #2|Geoff Johns|Jason Fabok|
+|08/31|💬|Rook: Exodus (2024) #3|Geoff Johns|Jason Fabok|
+|08/31|💬|Rook: Exodus (2024) #4|Geoff Johns|Jason Fabok|
+|08/31|💬|Rook: Exodus (2024) #5|Geoff Johns|Jason Fabok|
+|08/31|💬|Rook: Exodus (2024) #6|Geoff Johns|Jason Fabok|
+|08/31|💬|Superman/Batman (2003) #8 "The Supergirl from Krypton, P1: Alone"|Jeph Loeb|Michael Turner|
+|08/31|💬|Superman/Batman (2003) #9 "The Supergirl from Krypton, P2: Visitor"|Jeph Loeb|Michael Turner|
+|08/31|💬|Superman/Batman (2003) #10 "The Supergirl from Krypton, P3: Warrior"|Jeph Loeb|Michael Turner|
+|08/31|💬|Superman/Batman (2003) #11 "The Supergirl from Krypton, P4: Prisoner"|Jeph Loeb|Michael Turner|
+|08/31|💬|Superman/Batman (2003) #12 "The Supergirl from Krypton, P5: Traitor"|Jeph Loeb|Michael Turner|
+|08/31|💬|Superman/Batman (2003) #13 "The Supergirl from Krypton, P6: Hero"|Jeph Loeb|Michael Turner|
 
 
 
@@ -1169,6 +1246,7 @@ categories = [
 |JUN |0    |1    |0    |3    |126  |0    |0    |16   |1    |1    |0    |0    |0    |6    |
 |JUL |0    |1    |1    |9    |134  |0    |1    |22   |3    |0    |0    |3    |0    |0    |
 |AUG |0    |0    |0    |0    |000  |0    |0    |0    |0    |0    |0    |0    |0    |0    |
+|SEP |0    |0    |0    |0    |000  |0    |0    |0    |0    |0    |0    |0    |0    |0    |
 
 
 
@@ -1266,3 +1344,5 @@ categories = [
 [^71]: Stanley Industrial Alliance Theatre
 [^72]: Granville Island Stage
 [^73]: Queen Elizabeth Theatre
+[^74]: Will Conrad, Brandon Peterson, Miguel Mendoca, & Max Raynor
+[^75]: [Geography](https://journal.jinnzhong.com/rcr-fabult-e0d-geography/), Glausers
