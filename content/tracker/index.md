@@ -1233,6 +1233,10 @@ categories = [
 |08/31|💬|Superman/Batman (2003) #12 "The Supergirl from Krypton, P5: Traitor"|Jeph Loeb|Michael Turner|
 |08/31|💬|Superman/Batman (2003) #13 "The Supergirl from Krypton, P6: Hero"|Jeph Loeb|Michael Turner|
 
+## September 2025
+
+||||||
+|---:|:---:|:---|:---|:---|
 
 
 ## Numbers
@@ -1245,7 +1249,7 @@ categories = [
 |MAY |0    |2    |0    |12   |117  |0    |0    |21   |0    |1    |0    |1    |0    |0    |
 |JUN |0    |1    |0    |3    |126  |0    |0    |16   |1    |1    |0    |0    |0    |6    |
 |JUL |0    |1    |1    |9    |134  |0    |1    |22   |3    |0    |0    |3    |0    |0    |
-|AUG |0    |0    |0    |0    |000  |0    |0    |0    |0    |0    |0    |0    |0    |0    |
+|AUG |3    |0    |1    |0    |97   |0    |0    |6    |5    |1    |0    |2    |0    |17   |
 |SEP |0    |0    |0    |0    |000  |0    |0    |0    |0    |0    |0    |0    |0    |0    |
 
 
