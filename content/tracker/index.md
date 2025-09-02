@@ -578,7 +578,8 @@ categories = [
 |04/24|📃|Ubazakura|Japanese Folklore|trans. Lafcadio Hearn|
 |04/24|📃|Diplomacy|Japanese Folklore|trans. Lafcadio Hearn|
 |04/24|📺|Ghosts (2021) S4E19 "Pinkus Returns"|Christine Gernon|Skander Halim & Talia Bernstein|
-|04/24|🎤|Mogwai|Commodore Ballroom||
+|04/24|🎸|Papa M|Commodore Ballroom||
+|04/24|🎸|Mogwai|Commodore Ballroom||
 |04/25|📺|Sakamoto Days (2025) E5 “Source of Strength”|Takatoshi Suzuki|Masaki Watanabe|
 |04/25|📺|Sakamoto Days (2025) E6 “Heisuke Mashimo”|Yūki Taki & Tomoko Hiramuki|Susumu Nishizawa & Yūki Taki|
 |04/25|📺|Sakamoto Days (2025) E7 “Jurassic Bastard”|Yoshihiro Nishio|Hironori Tanaka|
@@ -1241,12 +1242,12 @@ categories = [
 
 
 ## Numbers
-|    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎤   |🏛️   |
+|    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |JAN |0    |2    |0    |3    |157  |0    |0    |19   |6    |1    |0    |1    |0    |0    |
 |FEB |0    |0    |0    |9    |83   |0    |0    |4    |9    |0    |0    |0    |0    |1    |
 |MAR |0    |4    |0    |27   |103  |0    |0    |13   |3    |1    |0    |0    |0    |0    |
-|APR |0    |0    |0    |13   |78   |0    |0    |28   |1    |1    |0    |0    |1    |0    |
+|APR |0    |0    |0    |13   |78   |0    |0    |28   |1    |1    |0    |0    |2    |0    |
 |MAY |0    |2    |0    |12   |117  |0    |0    |21   |0    |1    |0    |1    |0    |0    |
 |JUN |0    |1    |0    |3    |126  |0    |0    |16   |1    |1    |0    |0    |0    |6    |
 |JUL |0    |1    |1    |9    |134  |0    |1    |22   |3    |0    |0    |3    |0    |0    |
@@ -1273,7 +1274,7 @@ categories = [
 * 🎲 - board game: players' initials/score
 * 🎭 - musical: music & lyrics/book
 * 🎭 - play: playwright/director
-* 🎤 - live music: band or performer/location
+* 🎸 - live music: band or performer/location
 * 🏛️ - museum/exhibit: artist/location
 
 [^1]: Robbi Rodriguez, Javier Pina, and Gavin Guidry
