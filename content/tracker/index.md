@@ -1239,7 +1239,30 @@ categories = [
 
 ||||||
 |---:|:---:|:---|:---|:---|
+|09/01|💬|DC: The New Frontier (2004) #1 "Our Fighting Forces"|Darwyn Cooke|Darwyn Cooke|
+|09/01|💬|DC: The New Frontier (2004) #2 "Strange Adventures"|Darwyn Cooke|Darwyn Cooke|
+|09/01|🎸|Ginger Root|The Orpheum||
+|09/01|🎸|Japanese Breakfast|The Orpheum||
+|09/02|💬|DC: The New Frontier (2004) #3 "The Brave and the Bold"|Darwyn Cooke|Darwyn Cooke|
+|09/03|💬|Imperial War: Exiles (2025) #1|Jonathan Hickman & Steve Foxe|Francesco Manna & Davide Tinto|
+|09/03|💬|Teenage Mutant Ninja Turtles (2024) #11|Jason Aaron|Juan Ferreyra|
+|09/03|💬|Resurrection Man: Quantum Karma (2025) #6|Ram V|Anand Radhakrishnan & Mike Perkins|
+|09/03|💬|Green Lantern (2023) #26|Jeremey Adams|V. Ken Marion|
+|09/03|💬|Absolute Wonder Woman (2024) #11|Kelly Thompson|Hayden Sherman|
+|09/03|💬|Absolute Green Lantern (2025) #6|Al Ewing|Jahnoy Lindsay|
+|09/03|💬|Absolute Superman (2024) #11|Jason Aaron|Carmine Di Giandomenico|
+|09/03|💬|Adventures of Superman: The Book of El (2025) #1|Phillip Kennedy Johnson|Scott Godlewski|
+|09/03|💬|Cheetah and Cheshire Rob the Justice League (2025) #2|Greg Rucka|Nicola Scott|
+|09/03|💬|Birds of Prey (2023) #25|Kelly Thompson|Cliff Richards & Sami Basri|
+|09/04|💬|DC: The New Frontier (2004) #4 "Mystery in Space"|Darwyn Cooke|Darwyn Cooke|
+|09/05|📽️|K-Pop Demon Hunters (2025)|Maggie Kang & Chris Appelhans|Various[^76]|
+|09/05|📖|Atonement (2021)|Ian McEwan||
 |09/06|📺|Andor (2022) S2E9 "Welcome to the Rebellion"|Janus Metz|Dan Gilroy|
+|09/06|💬|Imperial War: Planet She-Hulk (2025) #1|Jonathan Hickman & Stephanie Phillips|Emilio Laiso|
+|09/06|💬|Imperial War: Black Panther (2025) #1|Jonathan Hickman & Victor Lavalle|CAFU|
+|09/06|💬|Imperial War: Exiles (2025) #1|Jonathan Hickman & Steve Foxe|Francesco Manna & Davide Tinto|
+|09/06|💬|Imperial (2025) #3|Jonathan Hickman|Iban Coello & Federico Vicentini|
+|09/06|💬|FML (2024) #6|Kelly Sue McConnick|David López|
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
@@ -1352,3 +1375,4 @@ categories = [
 [^73]: Queen Elizabeth Theatre
 [^74]: Will Conrad, Brandon Peterson, Miguel Mendoca, & Max Raynor
 [^75]: [Geography](https://journal.jinnzhong.com/rcr-fabult-e0d-geography/), Glausers
+[^76]: Danya Jimenez, Hannah McMechan, Maggie Kang, and Chris Appelhans
