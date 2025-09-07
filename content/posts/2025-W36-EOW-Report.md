@@ -1,0 +1,73 @@
++++
+author = "Jinn Zhong"
+title = "2025-W36 EOW Report"
+date = "2025-09-07"
+description = "End of Week Report for W36 of 2025"
+tags = [
+ "Creative Process",
+ "EOW Reports",
+ "prj: SAVED",
+ "prj: MINOS",
+ "prj: LIZZY",
+ "Rain City Reckoning",
+ "Fabula Ultima (2023)",
+ "Japanese Breakfast",
+ "Ginger Root",
+ "Tokyo",
+ "Kyoto",
+ "Ogrebeef",
+ "FYC",
+ "Glausers",
+ "LJK",
+ ]
+
+categories = [
+ "Chasing Black Swans",
+ "Doing the Work",
+]
++++
+{{< toc >}}
+
+## Anti-Goal Cycling
+
+* It's been two weeks since Japan. I think I'm finally getting back into a routine. First week back wasn't so much jet lag as just feeling thrown off due to it being the last week of the summer... work was intense the first day, but fell off a cliff the rest of the week. Then this past week was Labor Day weekend and the schedule change (writing days are now MWF due to eldest's university schedule, which is great, but with only two days for gym, I've added Saturday). So a new routine and requiring some adjustments. I can't even recall what I did the first week back. Was that when I was reading up on Primero for the potential story of [prj:LIZZY](https://journal.jinnzhong.com/tags/prj-lizzy/)? I think so. It goes a little deeper than I thought it would, the game that is. Everything I'm learning about the early modern period and prior to that is that standardization, like South East Asian traffic, were all "guidelines". Spelling, rituals, rules, recipes, logistics... everything was sorta written down, but not everyone followed it exactly, and everyone just figured it out as they went along based on context. So there are a million variations. Another huge insight for me is how in the Information Age, when everything could be looked up and verified, pre-that-period, it was just another chaotic mess. I don't know why, but this past month or so, with various groups, I've had the same conversation about how pre-phone, we'd just argue about stuff, nobody would have the right answer, and we'd just be OK with that. So imagine in a period when even the actual information had variations and nobody could agree on what the actual truth is. That was a huge tangent. Ultimately, the first week was taken up by prj: LIZZY, but more specifically, reading about the rules of Primero.
+* This past week though, I got back into it. I think with one more read I'll be done with them third draft of [prj:SAVED](https://journal.jinnzhong.com/tags/prj-saved/). I think the story is done. I've included a much clearer ARC now. Doubt about its validity and what I'm saying is starting to creep in though. I mean, the message, at least to me, is pretty damn clear and it's also kinda elitist and obnoxious. But that could just be me being too close to it. I mean, that's always the problem right? You get too close to a piece you're working on and then you start wondering, am I being too moralistic? Am I standing on a pedestal or apple crate and pontificating too much? Did I hide enough, weave enough of it inside a narrative so that people are tricked into swallowing the spoonful of sugar? But even more important, is the message to insulting or evocative enough? Or maybe at this point, I just need to shut up and start getting on the rejection train for literary magazines. Just ship it.
+* So with that said, no work on new pieces. I still have editing work to do on [prj:MUSIC](https://journal.jinnzhong.com/tags/prj-music/) and [prj:WAITE](https://journal.jinnzhong.com/tags/prj-waite/). Do I start something new for September or finish those two pieces? I feel like I need to start something else just to keep the fires going if prj: SAVED is truly done. I don't know about working on [prj:MINOS](https://journal.jinnzhong.com/tags/prj-minos/) because I can't see it being a short story, hence another bullet for my rejection train. And I want more bullets for my rejection train.
+
+
+## Four Thousand Weeks
+
+| Wks Lft | HP |
+| :--- | :--- |
+| 1678/4000 | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:41.950%;height:15px;background:#006600;font-size:12px; color:white; line-height:12px;">41.950%</div></div>|
+
+* So Japan was the first half of this four week hiatus. Some extremely rough notes...
+   * Arrived on the evening of the tenth. Wolfed down an onigiri from Seven-Eleven because the last meal served on the plane was pasta with cheese and I couldn’t have any. Later, Life Corp. and got soggy karaage chicken.
+   * 11th. Early morning rise. Off to Meiji Jingu. Walk in the park, rustling of Camphor trees and chattering of cicadas. One really whiny one. Breakfast in Hirajuku. Dipping cold soba. Takeshita Street. Gashopon/capsule store. Souvenirs. Laforet. Hatsune Miku stickers. “I can feel the capitalism in my bones”. Middle one worries about money. Most souvenirs bought on day one. Almost 20,000 steps. Shibuya. Sushi at department store? Shibuya 109. Square Enix music boxes.
+   * 12th. Doraemon conversation? Mouse? Robot? A cat with ears chewed off by robot mice? What?! Arguments over how to get to Akihabara. Veloce Cafe. Then Kanda Myojin. Business omamori. Blue Exorcist sticker. Parades. Cod roe pasta at Tully’s. Chiyoda? Miffy Style? Loft? Sylvannia? Pokémon Center? Made an American friend from Washington DC who works for Zynga. Youngest tells me I should’ve gotten their contact.
+   * 13th. TeamLabs. Gas museum as Toyosu market closed. Then Muji? Lumine est?
+   * 14th. Der Koffer breakfast gigantic pieces of bread. Senso-Ji. Ukiyo-e postcards. Prayers for Plural. Prayers for TNT. Muji flagship. Sick. Lumine est? Sick. Skytree. Crowded. Unhinged comment on disability to bring dog.
+   * 15th. Yayoi Kasama museum. Can’t find her novels in English. Shinjuku departments. Middle one makes unhinged comment on mental disability for artistic purposes. This was Lumine est with the wild caught tuna? 
+   * 16th. Travel day. Matsuya takeout. Burn everything. Everything burns. 70% of incinerators here. 80% of garbage is burnt. No recycling. N700 line. Finished reading _No Longer Human_. Kyoto AirBnB hangout. Kyoto ramen dinner with eldest. Looked up the source for The Terminal.
+   * 17th. Five trains to Ghibli Park. $315 there $315 back. Hot AF. Lots of pictures. Reading Dazai’s biography in lineup to central section of Ghibli warehouse. What an utter and complete asshole who wasted his life.
+   * 18th. Nijo castle, sweating through my shirt. So impossibly hot and humid. Nightingale floors. Shinsen-en. 5¥ short to feed carp. Nishiki market, takoyaki. Brocade. Snoopy taiyaki. Daimaru mall. Hands?
+   * 19th. Fushimi Inari-taisha, a thousand torii. Into a bamboo forest and back. Halfway up and back. Nidec Kyoto Tower. Guitar scissors and porcelain fox with fortune in butt. Takashimaya S.C. Nintendo Kyoto - pictures on roof. Tsutaya Books. Rolled fish cutlets. Sanrio store on street.
+   * 20th. Naru Park. Aggressive motherfuckers. Kōfuku-ji - buddhist deities. Art museum. Coloring a face. Yoshiki-en (island and ponds and tea houses). Todai-ji and culture center. Buddhist mythology. Finish “The Flowers of Buffoonery” after midnight.
+   * 21st. Osaka-jo. Takes up most of the day. More takoyaki in the morning. Giant shaved ice for youngest, blue float for eldest. Okonomiyaki pancakes for wife and I. Osaka-jo is rebuilt and air-conned. How much is Osaka-jo a Ship of Theseus at this point? Four Brits talking about the Battle of Sekigahara because of the TV show. Diamor Osaka underground mall. More gashopon, more claw machines, more Taiko no Tetsujin. Teppanyaki for last dinner in Japan: Shin Jidai Osaka. Crispy chicken skin skewers.
+* Some other thoughts on Japan, kinda what I've been repeating over and over for people asking.
+   * Really cool how in the morning you're wandering a 1300 year old temple or shrine, and then later in the evening you're at some arcade playing _Taiko no Testsujin_ surrounded by claw machines and gashopon dispensers. Eldest and middle one asking why we don't have an arcade culture back home, and we don't because we killed it. Everyone started buying consoles in the late nineties? Playstation? And the paranoia of third places being not places you want kids to run off to hang out just led to them crumbling and fading away. It's kinda sad if you think about it. Kids no longer having their own third place to hang out.
+   * The fact that Tokyo was a lot more English-literate this time around ten years later, that it was trilingual on the trains (Japanese, English, and Mandarin, with some text in Korean as well). That while still a labyrinth that would make Jennell Jaquays proud (multiple entrances, multiple exits, lots of optionality for PCs to find ways around)... the millions of signage really helps you navigate even if you're a monolingual idiot like me. I looked it up later and Japan had 37M visitors in 2024, and the government wants to increase it to 60M by 2030... that is, despite, still being culturally xenophobic and racist. Funny anecdote, eldest attempted some Japanese at a Skytree restaurant and was talked back to. And it wasn't until much later at a department store that he finally registered/translated that the waitress was telling him that he wasn't Japanese and he should be speaking Japanese and he should stop. Japan, like France, are the only two countries where they'd rather you NOT try than to try speaking their holy, sacred language god forbid your foreign tongue turns it into this ugly pronunciation of their beautiful language that no one should fuck with and mess up.
+   * There was definitely a lot more variety of tourists on the streets. This is an imprecise comparison from 2015 as we were there in October last time. But I heard a lot of English, Mandarin, Cantonese, Italian, even some Korean, at least one Vietnamese couple, and an Arabic family.
+* Also, dinner at Gullman with LJK in Kyoto. So White Rock 2022, Kyoto in 2025. Where will we meet in 2028?
+* As mentioned, the first week back was fairly relaxed. It was middle one's birthday and her last week of work. FIL invited my parents and brother to her birthday dinner. That was atypical. But then again, FIL did that for eldest post-graduation too. Went to a Korean seafood restaurant for nineteenth anniversary. Way too much shellfish. Another [prep session](https://journal.jinnzhong.com/rcr-fabult-e0d-geography/) of Fabula Ultima.
+* Labor Day saw Japanese Breakfast with the girls, eldest sat out. Opening band was Ginger Root. Really great show. Loaded up a lot of scheduled Slack messages on the day of since I chose to work. Another rough week for the third thing I have going on, won't get into it. Dinner with BJC and DBM cancelled. 
+
+
+## Story Introspection
+
+* I think the most important news here is I'm reading novels again after a one year drought due to comics taking over my life. Finished the [_Binti Trilogy_ (2015-2018)](https://journal.jinnzhong.com/commentary-binti-trilogy-2015-2018/) after putting it down shortly after Iceland in 2024. Burned through two Osamu Daiza novels, [_No Longer Human_ (1948)](https://journal.jinnzhong.com/commentary-no-longer-human-1948/) and [_The Flowers of Buffoonery_ (1935)](https://journal.jinnzhong.com/commentary-the-flowers-of-buffoonery-1935/) while in Japan. And restarted and finished [_Atonement_ (2021)](https://journal.jinnzhong.com/commentary-atonement-2007/). I've made it a daily habit in Habitica to read at least 15m a day of fiction. It's working for now. I think it's a combination of things. I've been tracking my comic expenses and one, it's an expensive hobby at $6.16 to $7.70 for a single issue when it's 20-22 pages of art. Two, a lot of it was spent on stuff that I didn't enjoy but was exploring at the time and didn't realize or understood what I was getting into. A lot of it was my disillusionment with Marvel and realizing the maxim of following creators, not characters. Another chunk of it was buying McFarlane toys. So now, I'm looking to sunset as much of the weekly pulls as possible and whittle it down to titles I genuinely love. Another factor is it's just weird I haven't read novels in a whole year. I got what I needed out of comics for now I think. I'll be posting a super long analysis of my "One Year With Comics" eventually.
+* Watching Lion King the Musical the SATURDAY AFTER WE GOT BACK was ill-timed. Well, for wife and middle one who fell asleep. Youngest was napping in the ride there, so was awake the entire time. It's amazing how much you can forget in one decade. Coincidentally, our trip to Tokyo and the last time we saw this musical were both in 2015. So exactly ten years later, we travelled to Japan again... and watched The Lion King again. We kept joking in Japan that the next time we'd be here was 2035. That would make eldest 28, middle one 25, youngest 23. Would they still be traveling with us? Wife made the comment that eldest could have a child by that point. JFC. Time is weird.
+* Also watched so many films on the plane there and back. Went into _Thunderbolts_ with very low expectations and I am not happy with Marvel right now after that godawful Captain America, but was pleasantly surprised and enjoyed _Thunderbolts_. Knew _Wicked_ would deliver me joyous spectacle. It did. And changed just enough to keep me interested. But also -- saw the musical in 2013, so thirteen years later, I had forgotten about the sister plot line _entirely_???!!! Literally a woman in a wheelchair being hit on because Glinda sent him that way... how did this entire subplot vanish? Found _Mickey 17_ and _Furiosa_... a little slow. Kept wanting to check my phone but couldn't because was on the plane. I know that sounds horrible. The spectacle in _Furiosa_ was amazing, but there just wasn't enough emotional stakes for me to care. Hemsworth was great as a religious autocrat though. ATJ, also great. It was writing. It's always writing. Writing and pacing, which is related to writing. Just not enough momentum. And finally watched _500 Days of Summer_ (2009) and enjoyed it immensely. Couldn't stop myself from thinking that a particular person from my past was my Zooey Deschanel. But I mean, for men like me who fall for quirky girls like that, I'm sure the experience is very much similar and that's why it resonates.
+* OMG. So many comics. Just weeks of it built up because of Japan. The glut of weekly pulls really helped me identify further how much I can't/don't want mediocre weekly pulls or even "good" ones because it's a lot of money.
+
+Archive of all EOW reports [here](https://journal.jinnzhong.com/tags/eow-reports)
