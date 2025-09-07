@@ -139,16 +139,16 @@ PROT needs to get X
 * WHY? What's at stake?
 * WHERE is the highest tension?
 * WHICH has most emotional opposition (emopposition? ha ha). That is, out of the entire process of them getting X, at what point in the PROCESS of getting X can you show PROT dealing with the MOST emotional pain? This requires careful thought throughout the PROCESS. By PROCESS, I mean the steps that PROT has to take to get X. This could include:
-* Deciding to get X
-* Planning to get X
-* Preparing/Packing to get X
-* Figuring out Logistics to get X
-* Going to get X (travelling)
-* Getting to said place to get X (arriving)
-* Dealing with security/gatekeepers to get X
-* First impression once there to get X
-* Fighting/Overcoming henchfolk, traps, puzzles, mysteries, breakdowns, repairs, betrayals, team conflict, equipment, etc. to get X
-* Fighting (or bypassing/deceiving) mini-boss or Big Bad to get X
+   * Deciding to get X
+   * Planning to get X
+   * Preparing/Packing to get X
+   * Figuring out Logistics to get X
+   * Going to get X (travelling)
+   * Getting to said place to get X (arriving)
+   * Dealing with security/gatekeepers to get X
+   * First impression once there to get X
+   * Fighting/Overcoming henchfolk, traps, puzzles, mysteries, breakdowns, repairs, betrayals, team conflict, equipment, etc. to get X
+   * Fighting (or bypassing/deceiving) mini-boss or Big Bad to get X
 * This requires you to know the Character's Flaw (hence ARC) in order to PICK the most relevant, juiciest, and most potent parts of the PROCESS to drive the story forward while dimming/skimming/skipping the parts of the PROCESS that doens't do that. Ultimately, it must COST the PROT something.
 * More specifically, that emotional opposition (EOPP? EOP?) has to be in conflict with the CDA. It takes away resources for the EXTERNAL PLOT, but it ALSO takes away emotionally for the PROT as it goes against their side of the CDA.
 
@@ -243,10 +243,6 @@ A series I was really excited for but I had to drop after three issues.
 A drop that took me a while to process:
 
 From the notebook: Why am I dropping this? Stories are solid, have social commentary. Art is beautiful. Have I succumbed to the bright shiny object syndrom with X? I know I wanted to cut certain pulls because of the high number of subs I have. But there are still reasons beyond that right? I think, it could be because I haven't CARED about the PROT so far. I never had an emotional moment. No frisson, no sympathy. There also hasn't been any interesting MECHs. The MECH is straightforward (and built into it years ago). It's a standin for prejudice (no this isn't X-Men). Problem is - the MECH isn't really explored FURTHER. I don't know how the MECH affects the in-world STAKES further for the characters, for the community. All the things that show up in relationship to the MECH are tropey. WE've seen this. Maybe if it dug deeper into the "little things" of daily life? I dunno.
-Two drops that were "good, but not great" and me trying to figure out why I wanted to drop them:
-* PROT's voice and character is solid, the story is paced well, but I just. didn't. care. I don't know what to say here. PROT sorta has this one friend they abandoned and that story caused emotional turmoil (which is good, but dropping them meant a vacuum for said turmoil?). I guess another thing that's not working for me is I'm not clear on what they want and what they're about. WHAT IS THIS STORY SAYING? If they're a loner who burns people, lean into that, but the interactions and narration is non-existent. Who is this PROT? I don't know. In the same sense... who is PROT2 (other series I dropped)? There's no bold confidence (voice) for who they are. They beat up bad guys, saves children, acts like a jerk to their "guy in chair", and is just this cold hostile being, but their VOICE, their narration, doesn't give me a sense of what they WANT. They want to change, not embrace violence. OK, fine, but where next? How are they trying?
-A series I dropped after it took me a couple of issues to realize that the author was being meta and funny. But once I figured out the sense of humor... I gave up on it.
-* I think part of the fun was not grokking it at first, but then I did, and I was like OK, I get it, you're clever, but that doesn't necessarily make for a GOOD STORY. The hijinks don't create enough moemntum, and the POV hasn't grown or moved. The ARC is stalled out. What does PROT even want? They're lost, they're a loser, has no purpose except pining for LOVR. We don't get their voice/narration. THe POV isn't strong so I have no emotional investment.
 
 Two drops that were "good, but not great" and me trying to figure out why I wanted to drop them:
 
