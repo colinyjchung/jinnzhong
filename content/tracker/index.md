@@ -1194,8 +1194,8 @@ categories = [
 |08/27|💬|We're Taking Everyone Down With Us (2025) #5|Matthew Rosenberg|Stefano Landini|
 |08/28|💬|The Power Fantasy (2024) #11|Kieron Gillen|Caspar Wijngaard|
 |08/28|💬|Hyde Street (2024) #0|Geoff Johns|Ivan Reis|
+|08/28|📺|Andor (2022) S2E7 "Messenger"|Janus Metz|Dan Gilroy|
 |08/28|📺|Andor (2022) S2E8 "Who Are You?"|Janus Metz|Dan Gilroy|
-|08/28|📺|Andor (2022) S2E9 "Welcome to the Rebellion"|Janus Metz|Dan Gilroy|
 |08/28|💬|Action Comics (2016) #1030 "Warworld Rising P1"|Phillip Kennedy Johnson|Daniel Sampere|
 |08/28|💬|Action Comics (2016) #1031 "Warworld Rising P2"|Phillip Kennedy Johnson|Daniel Sampere|
 |08/28|💬|Action Comics (2016) #1032 "Warworld Rising P3"|Phillip Kennedy Johnson|Daniel Sampere|
@@ -1239,7 +1239,7 @@ categories = [
 
 ||||||
 |---:|:---:|:---|:---|:---|
-
+|09/06|📺|Andor (2022) S2E9 "Welcome to the Rebellion"|Janus Metz|Dan Gilroy|
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
