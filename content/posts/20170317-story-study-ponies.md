@@ -4,7 +4,7 @@ title = "STUDY: Ponies"
 date = "2017-03-17"
 description = "Story Analysis of Ponies"
 tags = [
-    "Ponies",
+    "Ponies (2010)",
     "Kij Johnson",
     "Story Analysis",
 ]
