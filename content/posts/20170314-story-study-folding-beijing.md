@@ -4,7 +4,7 @@ title = "STUDY: Folding Beijing"
 date = "2017-03-14"
 description = "Story Analysis on Folding Beijing"
 tags = [
-    "Folding Beijing",
+    "Folding Beijing (2015)",
     "Hao Jingfang",
     "Story Analysis",
 ]
@@ -13,7 +13,7 @@ categories = [
 ]
 +++
 
-* **TITLE:** Folding Beijing
+* **TITLE:** Folding Beijing (2015)
 * **AUTHOR:** Hao Jingfang
 * **WORDS:** 15,722
 * **SOURCE:** [https://www.uncannymagazine.com/article/folding-beijing-2/](https://www.uncannymagazine.com/article/folding-beijing-2/)
