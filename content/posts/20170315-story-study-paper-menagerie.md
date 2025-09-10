@@ -4,7 +4,7 @@ title = "STUDY: Paper Menagerie"
 date = "2017-03-15"
 description = "Story Analysis of Paper Menagerie"
 tags = [
-    "Paper Menagerie",
+    "Paper Menagerie (2012)",
     "Ken Liu",
     "Story Analysis",
 ]
@@ -13,7 +13,7 @@ categories = [
 ]
 +++
 
-* **TITLE:** Paper Menagerie
+* **TITLE:** Paper Menagerie (2012)
 * **AUTHOR:** Ken Liu
 * **WORDS:** 4,905
 * **SOURCE:** [https://gizmodo.com/read-ken-lius-amazing-story-that-swept-the-hugo-nebula-5958919](https://gizmodo.com/read-ken-lius-amazing-story-that-swept-the-hugo-nebula-5958919)
