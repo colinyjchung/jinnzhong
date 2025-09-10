@@ -4,7 +4,7 @@ title = "STUDY: The Merchant and the Alchemist’s Gate"
 date = "2017-03-21"
 description = "Story Analysis of The Merchant and the Alchemist’s Gate"
 tags = [
-    "The Merchant and the Alchemist’s Gate",
+    "The Merchant and the Alchemist’s Gate (2007)",
     "Ted Chiang",
     "Story Analysis",
 ]
