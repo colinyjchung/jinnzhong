@@ -4,7 +4,7 @@ title = "STUDY: The Lady Astronaut of Mars"
 date = "2017-03-19"
 description = "Story Analysis of The Lady Astronaut of Mars"
 tags = [
-    "The Lady Astronaut of Mars",
+    "The Lady Astronaut of Mars (2013)",
     "Mary Robinette Kowal",
     "Story Analysis",
 ]
