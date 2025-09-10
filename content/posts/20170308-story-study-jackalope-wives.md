@@ -4,7 +4,7 @@ title = "STUDY: Jackalope Wives"
 date = "2017-03-08"
 description = "Story Analysis of Jackalope Wives"
 tags = [
-    "Jackalope Wives",
+    "Jackalope Wives (2014)",
     "Ursula Vernon",
     "Story Analysis",
 ]
