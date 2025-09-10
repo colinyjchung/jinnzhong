@@ -11,13 +11,13 @@ tags = [
     "Mel Kassel",
     "Sarah Pinsker",
     "John Wiswell",
-    "Cat Pictures Please",
-    "Little Free Library",
-    "Ten Deals with the Indigo Snake",
-    "Open House on Haunted Hill",
-    "The Court Magician",
     "Mary Robinette Kowal",
     "MRK Short Story Cohort",
+    "Cat Pictures Please (2015)",
+    "Little Free Library (2020)",
+    "Ten Deals with the Indigo Snake (2018)",
+    "Open House on Haunted Hill (2020)",
+    "The Court Magician (2018)",
 ]
 categories = [
     "Story Dissection",
