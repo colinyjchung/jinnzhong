@@ -4,7 +4,7 @@ title = "STUDY: Immersion"
 date = "2017-03-18"
 description = "Story Analysis of Immersion"
 tags = [
-    "Immersion",
+    "Immersion (2012)",
     "Aliette De Bodard",
     "Story Analysis",
 ]
