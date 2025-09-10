@@ -4,7 +4,7 @@ title = "STUDY: Hungry Daughters of Starving Mothers"
 date = "2017-03-19"
 description = "Story Analysis of Hungry Daughters of Starving Mothers"
 tags = [
-    "Hungry Daughters of Starving Mothers",
+    "Hungry Daughters of Starving Mothers (2015)",
     "Alyssa Wong",
     "Story Analysis",
 ]
