@@ -4,7 +4,7 @@ title = "STUDY: Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman
 date = "2017-03-29"
 description = "Story Analysis of Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast"
 tags = [
-    "Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast",
+    "Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast (2009)",
     "Eugie Foster",
     "Story Analysis",
 ]
