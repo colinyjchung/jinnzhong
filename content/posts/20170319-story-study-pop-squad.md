@@ -4,7 +4,7 @@ title = "STUDY: Pop Squad"
 date = "2017-03-19"
 description = "Story Analysis of Pop Squad"
 tags = [
-    "Pop Squad",
+    "Pop Squad (2006)",
     "Paolo Bacigalupi",
     "Story Analysis",
 ]
