@@ -4,7 +4,7 @@ title = "STUDY: The Faery Handbag"
 date = "2017-04-14"
 description = "Story Analysis of The Faery Handbag"
 tags = [
-    "The Faery Handbag",
+    "The Faery Handbag (2004)",
     "Kelly Link",
     "Story Analysis",
 ]
