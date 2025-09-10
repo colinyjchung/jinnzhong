@@ -4,7 +4,7 @@ title = "STUDY: For the Want of a Nail"
 date = "2017-03-07"
 description = "Story Analysis of For the Want of a Nail"
 tags = [
-    "For the Want of a Nail",
+    "For the Want of a Nail (2010)",
     "Mary Robinette Kowal",
     "Story Analysis",
 ]
