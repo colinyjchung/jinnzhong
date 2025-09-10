@@ -4,7 +4,7 @@ title = "STUDY: Midnight Hour"
 date = "2017-03-09"
 description = "Story Analysis of Midnight Hour"
 tags = [
-    "Midnight Hour",
+    "Midnight Hour (2015)",
     "Mary Robinette Kowal",
     "Story Analysis",
 ]
