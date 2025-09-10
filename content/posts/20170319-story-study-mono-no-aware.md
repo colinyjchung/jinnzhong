@@ -4,7 +4,7 @@ title = "STUDY: Mono No Aware"
 date = "2017-03-19"
 description = "Story Analysis of Mono No Aware"
 tags = [
-    "Mono No Aware",
+    "Mono No Aware (2012)",
     "Ken Liu",
     "Story Analysis",
 ]
