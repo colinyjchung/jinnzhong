@@ -4,7 +4,7 @@ title = "STUDY: The Girl-Thing Who Went Out For Sushi"
 date = "2017-03-22"
 description = "Story Analysis of The Girl-Thing Who Went Out For Sushi"
 tags = [
-    "The Girl-Thing Who Went Out For Sushi",
+    "The Girl-Thing Who Went Out For Sushi (2018)",
     "Pat Cadigan",
     "Story Analysis",
 ]
