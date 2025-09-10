@@ -12,11 +12,11 @@ tags = [
     "Rebecca Roanhorse",
     "Alyssa Wong",
     "Mary Robinette Kowal",
-    "Like a River Loves the Sky",
-    "A Witch’s Guide to Escape: A Practical Compendium of Portal Fantasies",
-    "Welcome to Your Authentic Indian Experience",
-    "Hungry Daughters of Starving Mothers",
-    "Midnight Hour",
+    "Like a River Loves the Sky (2018)",
+    "A Witch’s Guide to Escape (2018)",
+    "Welcome to Your Authentic Indian Experience (2017)",
+    "Hungry Daughters of Starving Mothers (2015)",
+    "Midnight Hour (2015)",
 ]
 categories = [
     "Story Dissection",
