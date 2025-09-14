@@ -1263,6 +1263,25 @@ categories = [
 |09/06|💬|Imperial War: Exiles (2025) #1|Jonathan Hickman & Steve Foxe|Francesco Manna & Davide Tinto|
 |09/06|💬|Imperial (2025) #3|Jonathan Hickman|Iban Coello & Federico Vicentini|
 |09/06|💬|FML (2024) #6|Kelly Sue McConnick|David López|
+|09/07|📺|The Twisted Tale of Amanda Knox (2025) E1 "Ci vediamo più tardi"|Michael Uppendahl|K. J. Steinberg|
+|09/09|💬|The Unchosen (2025) #2|David Marquez|David Marquez|
+|09/09|💬|Green Lantern Corps (2025) #7|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
+|09/09|💬|Supergirl (2025) #4|Sophie Campbell|Sophie Campbell|
+|09/09|💬|Absolute Batman (2024) #11|Scott Snyder|Clay Mann|
+|09/10|💬|The Unchosen (2025) #3|David Marquez|David Marquez|
+|09/10|💬|Absolute Batman (2024) #12|Scott Snyder|Nick Dragotta|
+|09/10|💬|Green Lantern Corps (2025) #8|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
+|09/10|💬|Supergirl (2025) #5|Sophie Campbell|Sophie Campbell & Paulina Ganucheau|
+|09/10|📺|Wednesday (2022) S2E3 "Call of the Woe"|Paco Cabezas|Valentina Garza|
+|09/11|📺|What We Do in the Shadows (2019) S3E1 "The Prisoner"|Kyle Newacheck|Paul Simms|
+|09/12|📺|Peacemaker (2022) S2E3 "Another Rick Up My Sleeve"|Greg Mottola|James Gunn|
+|09/12|📺|Peacemaker (2022) S2E4 "Need I Say Door"|Peter Sollett|James Gunn|
+|09/13|💬|Attack on Titan (2009) #1 "To You, 2,000 Years from Now"|Hajime Isayama|Hajime Isayama
+|09/13|💬|DC: The New Frontier (2004) #5 "My Greatest Adventures"|Darwyn Cooke|Darwyn Cooke|
+|09/13|💬|DC: The New Frontier (2004) #6 "Justice League of America"|Darwyn Cooke|Darwyn Cooke|
+|09/13|💬|Justice League: The New Frontier Special (2008) #1|Darwyn Cooke|Darwyn Cooke|
+
+
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
