@@ -5,6 +5,30 @@ date = "2025-09-10"
 description = "New Insights into ARCs"
 tags = [
    "Creative Process",
+   "Paolo Bacigalupi",
+   "Naomi Kritzer",
+    "Mel Kassel",
+    "Sarah Pinsker",
+    "Alix Harrow",
+    "Rebecca Roanhorse",
+    "Alyssa Wong",
+    "Mary Robinette Kowal",
+    "John Wiswell",
+    "Pop Squad (2006)",
+    "Cat Pictures Please (2015)",
+    "Little Free Library (2020)",
+    "Ten Deals with the Indigo Snake (2018)",
+    "Like a River Loves the Sky (2018)",
+    "Open House on Haunted Hill (2020)",
+    "The Court Magician (2018)",
+    "A Witch’s Guide to Escape (2018)",
+    "Welcome to Your Authentic Indian Experience (2017)",
+    "Hungry Daughters of Starving Mothers (2015)",
+    "Midnight Hour (2015)",
+    "Emily Gilman",
+    "The Castle that Jack Built (2012)",
+    "Seth Dickinson",
+    "The Traitor Baru Cormorant (2011)",
 ]
 categories = [
    "Chasing Black Swans",
@@ -25,7 +49,7 @@ Because while in the shower this past weekend, it occured to me that maybe, with
 
 In other words -- in terms of _EMOTIONALITY_, the ARC that is, short stories follow the correct proportionality that we would expect the PROG to, but due to their compact economy, the PROG is all messed up (assuming you want the whole 10-12% to get to the DSR, 25% for BWO, 50% for PNR, 75% for AIL, and the rest for CMX). As we'll see in a minute, PROG for short stories are messed up and this is definitely one of the MANY reasons why I think I couldn't crack storytelling for the longest time.
 
-As always, I go back to the stories that I've studied ad infinitum [these](https://journal.jinnzhong.com/short-story-dissection-part-1/) [past](https://journal.jinnzhong.com/short-story-dissection-part-2/) [24](https://journal.jinnzhong.com/short-story-dissection-part-3.1/) [months](https://journal.jinnzhong.com/short-story-dissection-part-3.2/). Wiswell's [OHHH](https://journal.jinnzhong.com/tags/open-house-on-haunted-hill-2020/), Harrow's [WGE](https://journal.jinnzhong.com/tags/a-witchs-guide-to-escape-2018/), Wong's [HDSM](https://journal.jinnzhong.com/tags/hungry-daughters-of-starving-mothers-2015/), Kowal's [MH](https://journal.jinnzhong.com/tags/midnight-hour-2015/), Kritzer's [LFL](https://journal.jinnzhong.com/tags/little-free-library-2020/), Roanhorse's [WAIE](https://journal.jinnzhong.com/tags/welcome-to-your-authentic-indian-experience-2017/), Bacigalupi's [PS](https://journal.jinnzhong.com/tags/pop-squad-2006/), Kassel's [TDIS](https://journal.jinnzhong.com/tags/ten-deals-with-the-indigo-snake-2018/), Pinsker's [TCM](https://journal.jinnzhong.com/tags/the-court-magician-2018/). WIth this sample size of Hugo/Nebula winners, and because I'm so familiar with them now, I have a good foundation for figuring things out. I also feel like it's a _large_ enough sample size to give me some variety _and_ similarities on the craft of it.
+As always, I go back to the stories that I've studied ad infinitum [these](https://journal.jinnzhong.com/short-story-dissection-part-1/) [past](https://journal.jinnzhong.com/short-story-dissection-part-2/) [24](https://journal.jinnzhong.com/short-story-dissection-part-3.1/) [months](https://journal.jinnzhong.com/short-story-dissection-part-3.2/). Wiswell's [OHHH](https://journal.jinnzhong.com/tags/open-house-on-haunted-hill-2020/), Harrow's [WGE](https://journal.jinnzhong.com/tags/a-witchs-guide-to-escape-2018/), Wong's [HDSM](https://journal.jinnzhong.com/tags/hungry-daughters-of-starving-mothers-2015/), Kowal's [MH](https://journal.jinnzhong.com/tags/midnight-hour-2015/), Kritzer's [LFL](https://journal.jinnzhong.com/tags/little-free-library-2020/), Roanhorse's [WAIE](https://journal.jinnzhong.com/tags/welcome-to-your-authentic-indian-experience-2017/), Bacigalupi's [PSQD](https://journal.jinnzhong.com/tags/pop-squad-2006/), Kassel's [TDIS](https://journal.jinnzhong.com/tags/ten-deals-with-the-indigo-snake-2018/), Pinsker's [TCM](https://journal.jinnzhong.com/tags/the-court-magician-2018/). WIth this sample size of Hugo/Nebula winners, and because I'm so familiar with them now, I have a good foundation for figuring things out. I also feel like it's a _large_ enough sample size to give me some variety _and_ similarities on the craft of it.
 
 ## Short Stories <3500 Words
 
@@ -50,7 +74,7 @@ OR
 
 If your PROG is a rush of activity careering towards the CMX... a HUNT/HUNTED PROG in all two cases above (MH, WAIE), then you lay it all out in the first 30% (2000 words). 
 
-Arguably, both HDSM and PS are also HUNT/HUNTED PROGs. WAIT. That's a potential insight. In MH and WAIE, they're being hunted and in HDSM and PS they are the hunters. So maybe in a defensive or passive PROG you need to show everything they can lose and where they're at before you send in the ANTG-Hunter? And in one where they're actively on the attack, looking for answers, you can do the former (quick set up, seed the ARC, and then adventure?)
+Arguably, both HDSM and PSQD are also HUNT/HUNTED PROGs. WAIT. That's a potential insight. In MH and WAIE, they're being hunted and in HDSM and PS they are the hunters. So maybe in a defensive or passive PROG you need to show everything they can lose and where they're at before you send in the ANTG-Hunter? And in one where they're actively on the attack, looking for answers, you can do the former (quick set up, seed the ARC, and then adventure?)
 
 Just looking at a few other THBs now. 
 
