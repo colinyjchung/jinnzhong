@@ -1193,7 +1193,7 @@ categories = [
 |08/27|💬|Imperial War: Black Panther (2025) #1|Jonathan Hickman & Victor Lavalle|CAFU|
 |08/27|💬|We're Taking Everyone Down With Us (2025) #5|Matthew Rosenberg|Stefano Landini|
 |08/28|💬|The Power Fantasy (2024) #11|Kieron Gillen|Caspar Wijngaard|
-|08/28|💬|Hyde Street (2024) #0|Geoff Johns|Ivan Reis|
+|08/28|💬|Hyde Street (2024) #8|Geoff Johns|Ivan Reis|
 |08/28|📺|Andor (2022) S2E7 "Messenger"|Janus Metz|Dan Gilroy|
 |08/28|📺|Andor (2022) S2E8 "Who Are You?"|Janus Metz|Dan Gilroy|
 |08/28|💬|Action Comics (2016) #1030 "Warworld Rising P1"|Phillip Kennedy Johnson|Daniel Sampere|
@@ -1297,7 +1297,13 @@ categories = [
 |09/20|📺|Haunted Hotel (2025) S1E1 "Welcome to the Undervale"|Erica Hayes & Christopher Nance|Matt Roller|
 |09/20|📺|Haunted Hotel (2025) S1E2 "Unfinished Business"|Christopher Nance|Matt Roller|
 |09/20|📺|Peacemaker (2022) S2E5 "Back to the Suture"|Alethea Jones|James Gunn|
-
+|09/20|💬|Assorted Crisis Events (2025) #5|Deniz Camp|Eric Zawadzki|
+|09/20|💬|FML (2024) #6|Kelly Sue McConnick|David López|
+|09/20|💬|We're Taking Everyone Down With Us (2025) #5|Matthew Rosenberg|Stefano Landini|
+|09/20|💬|Hyde Street (2024) #8|Geoff Johns|Ivan Reis|
+|09/20|💬|Teenage Mutant Ninja Turtles (2024) #11|Jason Aaron|Juan Ferreyra|
+|09/20|💬|Resurrection Man: Quantum Karma (2025) #6|Ram V|Anand Radhakrishnan & Mike Perkins|
+|09/20|💬|The Power Fantasy (2024) #11|Kieron Gillen|Caspar Wijngaard|
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
