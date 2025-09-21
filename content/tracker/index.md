@@ -1280,7 +1280,23 @@ categories = [
 |09/13|💬|DC: The New Frontier (2004) #5 "My Greatest Adventures"|Darwyn Cooke|Darwyn Cooke|
 |09/13|💬|DC: The New Frontier (2004) #6 "Justice League of America"|Darwyn Cooke|Darwyn Cooke|
 |09/13|💬|Justice League: The New Frontier Special (2008) #1|Darwyn Cooke|Darwyn Cooke|
-
+|09/14|💬|Wonder Woman (2011) #1 "The Visitation"|Brian Azzarello|Cliff Chiang|
+|09/15|💬|The Ultimates (2024) #15|Deniz Camp|Von Randal|
+|09/15|💬|The New Gods (2024) #9|Ram V|Evan Cagle & Simon Parr|
+|09/15|💬|Krypto: The Last Dog of Krypton (2025) #3|Ryan North|Mike Norton|
+|09/15|💬|Justice League Red (2025) #1|Saladin Ahmed|Clayton Henry|
+|09/16|📃|The Shadow Kingdom (1929)|Robert E. Howard|Weird Tales|
+|09/17|💬|Green Lantern: War Journal (2023) #3|Phillip Kennedy Johnson|Montos|
+|09/17|💬|Green Lantern: War Journal (2023) #4|Phillip Kennedy Johnson|Montos|
+|09/17|💬|Green Lantern (2023) #26|Jeremey Adams|V. Ken Marion|
+|09/17|💬|Krypto: The Last Dog of Krypton (2025) #4|Ryan North|Mike Norton|
+|09/17|💬|The New Gods (2024) #10|Ram V|Evan Cagle & Simon Parr|
+|09/17|📜|How to Be a Tudor (2015)|Ruth Goodman||
+|09/18|📺|Wednesday (2022) S2E4 "If These Woes Could Talk"|Tim Burton|Lauren Otero|
+|09/18|📺|Wednesday (2022) S2E5 "Hyde and Woe Seek"|Angela Robinson|Erika Vázquez & Siena Butterfield|
+|09/20|📺|Haunted Hotel (2025) S1E1 "Welcome to the Undervale"|Erica Hayes & Christopher Nance|Matt Roller|
+|09/20|📺|Haunted Hotel (2025) S1E2 "Unfinished Business"|Christopher Nance|Matt Roller|
+|09/20|📺|Peacemaker (2022) S2E5 "Back to the Suture"|Alethea Jones|James Gunn|
 
 
 ## Numbers
