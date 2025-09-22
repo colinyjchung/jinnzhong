@@ -10,4 +10,4 @@ Jinn is a founding member of the [Garage Fiction Podcast](https://www.garagefict
 
 ![Origami Paper Fox](https://raw.githubusercontent.com/colinyjchung/jinnzhong/main/images/paperfox-full.jpg)
 
-IRL, Jinn is a marketing consultant based in Vancouver BC.
+Jinn was born and raised in East Vancouver and currently works at an ad agency.
