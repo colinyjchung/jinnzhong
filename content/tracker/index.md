@@ -1304,6 +1304,30 @@ categories = [
 |09/20|💬|Teenage Mutant Ninja Turtles (2024) #11|Jason Aaron|Juan Ferreyra|
 |09/20|💬|Resurrection Man: Quantum Karma (2025) #6|Ram V|Anand Radhakrishnan & Mike Perkins|
 |09/20|💬|The Power Fantasy (2024) #11|Kieron Gillen|Caspar Wijngaard|
+|09/21|📺|Haunted Hotel (2025) S1E3 “Randy Slasher”|Christopher Nance|Avital Ash|
+|09/21|📺|Haunted Hotel (2025) S1E4 “How to Train Your Demon”|Bob Suarez|Sam Nulman|
+|09/21|📺|Haunted Hotel (2025) S1E5 “Rollyfluffs”|Bob Suarez|Carrie Rosen|
+|09/21|🏛️|Edge Effects (2025)|Gibson Art Museum|Carrie Rosen|
+|09/21|📺|Alien: Earth (2025) S1E1 "Neverland"|Noah Hawley|Noah Hawley|
+|09/22|💬|The Ultimates (2024) #16|Deniz Camp|Juan Frigeri|
+|09/22|💬|Ultimate Spider-Man (2024) #20|Jonathan Hickman|David Messina|
+|09/22|💬|The Unchosen (2025) #3|David Marquez|David Marquez|
+|09/22|💬|Green Lantern Corps (2025) #8|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
+|09/22|💬|Superman (2022) #29|Joshua Williams|Dan Mora|
+|09/22|💬|Absolute Wonder Woman (2024) #11|Kelly Thompson|Hayden Sherman|
+|09/23|📖|Call Me By Your Name (2007)|André Aciman||
+|09/23|📃|New Mercies (2025)|Emily Doyle|Kenyon Review|
+|09/23|📃|The First Robot (2023)|Beth Bachmann|Kenyon Review|
+|09/23|📃|The Promise of Hotels (2025)|Bill Cotter|Electric Literature|
+|09/24|💬|Green Lantern (2023) #27|Jeremey Adams|Xermánico|
+|09/24|💬|Superman (2022) #30|Joshua Williams|Dan Mora|
+|09/24|💬|Ultimate Spider-Man (2024) #21|Jonathan Hickman|David Messina|
+|09/24|💬|Absolute Wonder Woman (2024) #12|Kelly Thompson|Hayden Sherman|
+|09/25|💬|Ultimate Hawkeye (2025) #1|Various[^77]|Juan Frigeri & Michael Sta. Maria|
+|09/25|💬|Hyde Street (2024) #9|Geoff Johns|Francis Portela|
+
+
+
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
@@ -1417,3 +1441,4 @@ categories = [
 [^74]: Will Conrad, Brandon Peterson, Miguel Mendoca, & Max Raynor
 [^75]: [Geography](https://journal.jinnzhong.com/rcr-fabult-e0d-geography/), Glausers
 [^76]: Danya Jimenez, Hannah McMechan, Maggie Kang, and Chris Appelhans
+[^77]: B. Earl, Deniz Camp, & Taboo
