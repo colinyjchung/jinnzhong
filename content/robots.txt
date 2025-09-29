@@ -1,4 +1,6 @@
 User-agent: *
+Disallow: /
+Disallow: /cgi-bin/
 Sitemap: https://journal.jinnzhong.com/sitemap.xml
 
 Disallow:
@@ -23,3 +25,5 @@ Disallow: /
 
 User-agent: FacebookBot
 Disallow: /
+
+
