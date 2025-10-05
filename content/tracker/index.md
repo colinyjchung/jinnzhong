@@ -1325,8 +1325,45 @@ categories = [
 |09/24|💬|Absolute Wonder Woman (2024) #12|Kelly Thompson|Hayden Sherman|
 |09/25|💬|Ultimate Hawkeye (2025) #1|Various[^77]|Juan Frigeri & Michael Sta. Maria|
 |09/25|💬|Hyde Street (2024) #9|Geoff Johns|Francis Portela|
+|09/27|📽️|Now You See Me 2 (2016)|John M. Chu|Ed Solomon|
+|09/27|💬|Cheetah and Cheshire Rob the Justice League (2025) #2|Greg Rucka|Nicola Scott|
+|09/27|💬|Adventures of Superman: The Book of El (2025) #1|Phillip Kennedy Johnson|Scott Godlewski|
+|09/27|💬|Birds of Prey (2023) #25|Kelly Thompson|Cliff Richards & Sami Basri|
+|09/27|💬|Absolute Green Lantern (2025) #6|Al Ewing|Jahnoy Lindsay|
+|09/27|💬|Krypto: The Last Dog of Krypton (2025) #4|Ryan North|Mike Norton|
+|09/27|💬|Absolute Martian Manhunter (2025) #6|Deniz Camp|Javier Rodríguez|
+|09/28|📃|The Sound of Children Screaming (2023)|Rachael K. Jones|Nightmare|
+|09/28|📺|High Potential (2024) S2E2 "Checkmate"|James Roday Rodriguez|Marc Halsey|
+|09/28|💬|Absolute Superman (2024) #11|Jason Aaron|Carmine Di Giandomenico|
+|09/28|💬|The New Gods (2024) #10|Ram V|Evan Cagle & Simon Parr|
+|09/28|💬|Supergirl (2025) #5|Sophie Campbell|Sophie Campbell & Paulina Ganucheau|
+|09/28|💬|Absolute Batman (2024) #12|Scott Snyder|Nick Dragotta|
+|09/28|📃|MAMMOTH (2024)|Manish Melwani|Nightmare|
+|09/28|📃|Moon Rabbit Song (2024)|Caroline Hung|Nightmare|
+|09/28|📃|Three Faces of a Beheading (2024)|Arkady Martine|Uncanny|
+|09/28|📺|Andor (2022) S2E10 "Make It Stop"|Alonso Ruizpalacios|Tom Bissell|
+|09/30|📺|English Teacher (2024) S1E4 "School Safety"|Jonathan Krisel|Brian Jordan Alvarez|
+|09/30|📺|English Teacher (2024) S1E5 "Field Trip"|Jonathan Krisel|Brian Jordan Alvarez|
 
+## October 2025
 
+||||||
+|---:|:---:|:---|:---|:---|
+|10/01|💬|Adventures of Superman: The Book of El (2025) #2|Phillip Kennedy Johnson|Scott Godlewski|
+|10/01|💬|Justice League: The Omega Act Special (2025) #1|Joshua Williamson|Cian Tormey|
+|10/01|💬|Birds of Prey (2023) #26|Kelly Thompson|Sami Basri|
+|10/01|💬|Cheetah and Cheshire Rob the Justice League (2025) #3|Greg Rucka|Nicola Scott|
+|10/01|💬|Absolute Evil (2025) #1|Al Ewing|Giuseppe Camuncoli|
+|10/01|💬|Absolute Green Lantern (2025) #0|Al Ewing|Jason Howard & Riley Rossmo|
+|10/01|💬|Absolute Superman (2024) #12|Jason Aaron|Rafa Sandoval|
+|10/01|📺|English Teacher (2024) S1E6 "Linda"|Jonathan Krisel|Jake Bender & Zach Dunn|
+|10/01|📺|English Teacher (2024) S1E7 "Convention"|Kathryn Dean|Brian Jordan Alvarez[^78]|
+|10/02|📃|Lull (2002)|Kelly Link|Conjunctions|
+|10/02|🎸|Suki Waterhouse|Rogers Arena||
+|10/02|📃|Wire Mother (2025)|Isabel J. Kim|Clarkesworld|
+|10/02|🎸|Laufey|Rogers Arena||
+|10/04|📃|Magic for Beginners (2005)|Kelly Link|SF&F|
+|10/04|📺|Knights of Guinevere (2025) S1E1 "Pilot"|Kofi Fiagome|Various[^79]|
 
 
 ## Numbers
@@ -1340,9 +1377,8 @@ categories = [
 |JUN |0    |1    |0    |3    |126  |0    |0    |16   |1    |1    |0    |0    |0    |6    |
 |JUL |0    |1    |1    |9    |134  |0    |1    |22   |3    |0    |0    |3    |0    |0    |
 |AUG |3    |0    |1    |0    |98   |0    |0    |6    |5    |1    |0    |2    |0    |17   |
-|SEP |0    |0    |0    |0    |000  |0    |0    |0    |0    |0    |0    |0    |0    |0    |
-
-
+|SEP |2    |1    |0    |0    |70   |0    |0    |19   |2    |0    |0    |0    |2    |1    |
+|OCT |0    |0    |0    |8    |000  |0    |0    |0    |0    |0    |0    |0    |0    |0    |
 
 
 
