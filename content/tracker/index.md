@@ -1478,3 +1478,5 @@ categories = [
 [^75]: [Geography](https://journal.jinnzhong.com/rcr-fabult-e0d-geography/), Glausers
 [^76]: Danya Jimenez, Hannah McMechan, Maggie Kang, and Chris Appelhans
 [^77]: B. Earl, Deniz Camp, & Taboo
+[^78]: Brian Jordan Alvarez, Jake Bender, Zach Dunn, and Dave King
+[^79]: Dana Terrace, Zach Marcus, and John Bailey Owen
