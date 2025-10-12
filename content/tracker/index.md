@@ -1364,7 +1364,30 @@ categories = [
 |10/02|🎸|Laufey|Rogers Arena||
 |10/04|📃|Magic for Beginners (2005)|Kelly Link|SF&F|
 |10/04|📺|Knights of Guinevere (2025) S1E1 "Pilot"|Kofi Fiagome|Various[^79]|
-
+|10/05|📃|The Curse of the Horsetail Banner (2022)| “Dariel R. A. Quiogue|New Edge Sword & Sorcery|
+|10/05|📺|Abbott Elementary (2021) S5E1 "Team Building"|Randall Einhorn|Quinta Brunson| 
+|10/05|📃|Magic for Beginners (2005)|Kelly Link|F&SF|
+|10/06|📺|High Potential (2024) S2E3 "Eleven Minutes"|Nancy Hower|Bob Goodman & Eric I. Lu|
+|10/08|💬|X-Men (2019) #18 "Inside the Vault"|Jonathan Hickman|Mahmud Asrar|
+|10/08|💬|X-Men (2019) #19 "Out of the Vault"|Jonathan Hickman|Mahmud Asrar|
+|10/08|💬|X-Men (2019) #20 "Lost Love"|Jonathan Hickman|Francesco Mobili|
+|10/08|💬|X-Men (2019) #21 "The Beginning"|Jonathan Hickman|Various[^80]|
+|10/08|💬|Superman (2022) #30|Joshua Williams|Dan Mora|
+|10/08|💬|Justice League: The Omega Act Special (2025) #1|Joshua Williamson|Cian Tormey|
+|10/08|💬|DC K.O. (2025) #1|Scott Snyder|Xermánico|
+|10/08|💬|Green Lantern (2023) #27|Jeremey Adams|Xermánico|
+|10/08|💬|Green Lantern Corps (2025) #9|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
+|10/08|📺|English Teacher (2024) S1E8 "Birthday"|Brian Jordan Alvarez|Brian Jordan Alvarez|
+|10/09|💬|Supergirl (2025) #6|Sophie Campbell|Sophie Campbell & Rosi Kämpe|
+|10/09|💬|Absolute Batman (2024) #13|Scott Snyder|Nick Dragotta|
+|10/09|💬|Voyeur (2025) #1|Leah Willaims|David Baldeón|
+|10/10|📺|Abbott Elementary (2021) S5E2 "Cheating"|Randall Einhorn|Brian Rubenstein| 
+|10/11|💬|The Ultimates (2024) #16|Deniz Camp|Juan Frigeri|
+|10/11|💬|Ultimate Hawkeye (2025) #1|Various[^77]|Juan Frigeri & Michael Sta. Maria|
+|10/11|💬|Ultimate Spider-Man (2024) #21|Jonathan Hickman|David Messina|
+|10/11|📺|English Teacher (2024) S2E4 "College Week"|Michael McDonald|Emmy Blotnick|
+|10/11|📺|English Teacher (2024) S2E5 "Evan's Mom"|Jonathan Krisel|Jake Bender & Zach Dunn|
+|10/11|📺|English Teacher (2024) S2E6 "Recruiter"|Brian Jordan Alvarez|Dave King|
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
@@ -1480,3 +1503,4 @@ categories = [
 [^77]: B. Earl, Deniz Camp, & Taboo
 [^78]: Brian Jordan Alvarez, Jake Bender, Zach Dunn, and Dave King
 [^79]: Dana Terrace, Zach Marcus, and John Bailey Owen
+[^80]: Sara Pichelli, Nick Dragotta, Russell Dauterman, and Lucas Werneck
