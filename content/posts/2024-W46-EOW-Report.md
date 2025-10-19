@@ -11,7 +11,6 @@ tags = [
  "Olivia Hofer",
  "L.L. MacRae",
  "LJK",
- "Rain City Reckoning",
  "Ogrebeef",
  "Justice Society of America (2022)",
  "Geoff Johns",
