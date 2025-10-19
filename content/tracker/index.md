@@ -1130,7 +1130,7 @@ categories = [
 |08/08|💬|Assorted Crisis Events (2025) #5|Deniz Camp|Eric Zawadzki|
 |08/09|📽️|Thunderbolts* (2025)|Jake Schreier|Eric Pearson & Joanna Calo|
 |08/09|📽️|Wicked: Part 1 (2024)|Jon M. Chu|Winnie Holzman & Dana Fox|
-|08/10|📖|Binti Trilogy (2015-2018)|Nnedi Okorafor||
+|08/10|📖|Binti Trilogy (2015-2018)|Nnedi Okorafor|[CMTS](https://journal.jinnzhong.com/commentary-binti-trilogy-2015-2018/)|
 |08/11|🏛️|Meiji Jingu (1920)|Shibuya, Tokyo||
 |08/12|🏛️|Kanda Myoujin (730)|Chiyoda, Tokyo||
 |08/12|🏛️|Yushima Seido (1632)|Bunkyō, Tokyo||
@@ -1138,7 +1138,7 @@ categories = [
 |08/14|🏛️|Senso-Ji (645)|Asakusa, Tokyo||
 |08/14|🏛️|Tokyo Skytree (2012)|Sumida, Tokyo||
 |08/15|🏛️|Reverberation From The Universe (2025)|Yayoi Kasama Museum||
-|08/16|📖|No Longer Human|Osamu Dazai|trans. Donald Keene|
+|08/16|📖|No Longer Human|Osamu Dazai trans. Donald Keene|[CMTS](https://journal.jinnzhong.com/commentary-no-longer-human-1948/)|
 |08/18|🏛️|Nijo-jo (1626)|||
 |08/18|🏛️|Shinsen-en (826)|||
 |08/18|🏛️|Nishiki Market (782)|downtown Kyoto||
@@ -1148,7 +1148,7 @@ categories = [
 |08/20|🏛️|Yoshiki-en|Nara||
 |08/20|🏛️|Todai-ji (738)|Nara||
 |08/20|🏛️|Tōdai-ji Culture Center (2011)|Nara||
-|08/21|📖|The Flowers of Buffoonery (1935)|Osamu Dazai|trans. Sam Bett|
+|08/21|📖|The Flowers of Buffoonery (1935)|Osamu Dazai trans. Sam Bett|[CMTS](https://journal.jinnzhong.com/commentary-the-flowers-of-buffoonery-1935/)|
 |08/21|🏛️|Ōsaka-jō (1583)|Chūō-ku, Osaka||
 |08/22|📽️|Furiosa: A Mad Max Saga (2024)|George Miller|George Miller & Nico Lathouris|
 |08/22|📽️|Mickey 17 (2025)|Bong Joon Ho|Bong Joon Ho |
@@ -1256,7 +1256,7 @@ categories = [
 |09/03|💬|Birds of Prey (2023) #25|Kelly Thompson|Cliff Richards & Sami Basri|
 |09/04|💬|DC: The New Frontier (2004) #4 "Mystery in Space"|Darwyn Cooke|Darwyn Cooke|
 |09/05|📽️|K-Pop Demon Hunters (2025)|Maggie Kang & Chris Appelhans|Various[^76]|
-|09/05|📖|Atonement (2021)|Ian McEwan||
+|09/05|📖|Atonement (2021)|Ian McEwan|[CMTS](https://journal.jinnzhong.com/commentary-atonement-2007/)|
 |09/06|📺|Andor (2022) S2E9 "Welcome to the Rebellion"|Janus Metz|Dan Gilroy|
 |09/06|💬|Imperial War: Planet She-Hulk (2025) #1|Jonathan Hickman & Stephanie Phillips|Emilio Laiso|
 |09/06|💬|Imperial War: Black Panther (2025) #1|Jonathan Hickman & Victor Lavalle|CAFU|
@@ -1315,7 +1315,7 @@ categories = [
 |09/22|💬|Green Lantern Corps (2025) #8|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
 |09/22|💬|Superman (2022) #29|Joshua Williams|Dan Mora|
 |09/22|💬|Absolute Wonder Woman (2024) #11|Kelly Thompson|Hayden Sherman|
-|09/23|📖|Call Me By Your Name (2007)|André Aciman||
+|09/23|📖|Call Me By Your Name (2007)|André Aciman|[CMTS](https://journal.jinnzhong.com/commentary-call-me-by-your-name-2017/)|
 |09/23|📃|New Mercies (2025)|Emily Doyle|Kenyon Review|
 |09/23|📃|The First Robot (2023)|Beth Bachmann|Kenyon Review|
 |09/23|📃|The Promise of Hotels (2025)|Bill Cotter|Electric Literature|
@@ -1388,6 +1388,29 @@ categories = [
 |10/11|📺|English Teacher (2024) S2E4 "College Week"|Michael McDonald|Emmy Blotnick|
 |10/11|📺|English Teacher (2024) S2E5 "Evan's Mom"|Jonathan Krisel|Jake Bender & Zach Dunn|
 |10/11|📺|English Teacher (2024) S2E6 "Recruiter"|Brian Jordan Alvarez|Dave King|
+|10/12|📺|Peacemaker (2022) S2E6 "Ignorance is Chris"|James Gunn|James Gunn|
+|10/12|🎸|The Beta Band|Commodore Ballroom||
+|10/13|🎲|Liar's Dice (1800)|CF|L/W|
+|10/13|🎲|Hot Streak (2025)|CF|47/40|
+|10/13|🎲|Viking See-Saw (2021|CF|W/L|
+|10/14|💬|The Unchosen (2025) #4|David Marquez|David Marquez|
+|10/14|💬|Krypto: The Last Dog of Krypton (2025) #5|Ryan North|Mike Norton|
+|10/14|💬|The New Gods (2024) #11|Ram V|Evan Cagle & Denys Cowan|
+|10/14|💬|The Power Fantasy (2024) #12|Kieron Gillen|Caspar Wijngaard|
+|10/15|📃|Piglet Delivers (2026)|Maria Haskins|Apex|
+|10/15|💬|Hyde Street (2024) #9|Geoff Johns|Francis Portela|
+|10/15|💬|Absolute Wonder Woman (2024) #12|Kelly Thompson|Hayden Sherman|
+|10/15|💬|Green Lantern Corps (2025) #9|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
+|10/15|💬|Supergirl (2025) #6|Sophie Campbell|Sophie Campbell & Rosi Kämpe|
+|10/15|📃|The Pedersen Kid (1961)|William H. Gass|MSS|
+|10/17|🎸|Bitchin Bajas|Vogue Theatre||
+|10/17|🎸|Stereolab|Vogue Theatre||
+|10/18|👺|Fabula Ultima (2023) E01 “Beached Space Whale”|Ogrebeef|CFHM[^81]|
+|10/18|💬|Green Lantern (1990) #48 "Emerald Twilight, P1: The Past"|Ron Marz|Bill Willingham|
+|10/18|💬|Green Lantern (1990) #49 "Emerald Twilight, P2: The Present"|Ron Marz|Fred Haynes|
+|10/18|💬|Green Lantern (1990) #50 "Emerald Twilight, P3: The Future"|Ron Marz|Darryl Banks|
+|10/18|💬|Green Lantern (1990) #51 "Changing the Guard"|Ron Marz|Darryl Banks|
+|10/18|💬|Green Lantern (1990) #52 "Breaking In"|Ron Marz|Jamal Igle|
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
@@ -1504,3 +1527,5 @@ categories = [
 [^78]: Brian Jordan Alvarez, Jake Bender, Zach Dunn, and Dave King
 [^79]: Dana Terrace, Zach Marcus, and John Bailey Owen
 [^80]: Sara Pichelli, Nick Dragotta, Russell Dauterman, and Lucas Werneck
+[^81]: [Beached Space Whale](https://journal.jinnzhong.com/rcr-fabult-e01-beached-space-whale/)
+[^82]: Brian Jordan Alvarez, Jake Bender, Zach Dunn, & Dave King
