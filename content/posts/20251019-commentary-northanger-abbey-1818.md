@@ -43,7 +43,7 @@ Vol.1 - 15ch/112pgs. / Vol.2 - 16ch/123pgs.
 * V1C10 - girl, stop being so damn thirsty. Miss Tilney’s gonna rat you out to her brother.
 * Pg. 76 - is this unhinged? I can’t tell.
 * V1C11 - kidnapped, lied to, and didn’t even get to see a castle.
-* V1C12 - ah, so you _can_ ghost someone. You just don’t answer the door like Catherine does and give your butler an excuse to give to the person at the door.
+* V1C12 - ah, so you _can_ ghost someone. You just don’t answer the door like Eleanor does and give your butler an excuse to give to the person at the door.
 * V1C12 - she’s so embarrassing. I wonder if the comic strip is named after her.
 * V1C13 - JFC, that Thorpe character. Hell, both of them really. They’re both so extremely annoying.
 * V1C14 - JFC. They’re going to bond over books and pop culture. This is insane. This book is 200 years old and how we date hasn’t changed at all. Do you like book X? Omg. You do? Me too!!!!!’
