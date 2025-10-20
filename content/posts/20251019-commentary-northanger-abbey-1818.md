@@ -48,10 +48,10 @@ Vol.1 - 15ch/112pgs. / Vol.2 - 16ch/123pgs.
 * V1C13 - JFC, that Thorpe character. Hell, both of them really. They’re both so extremely annoying.
 * V1C14 - JFC. They’re going to bond over books and pop culture. This is insane. This book is 200 years old and how we date hasn’t changed at all. Do you like book X? Omg. You do? Me too!!!!!’
 * V1C14 - Henry Tilley is one of those annoying people who get upset over the misuse of words. Huh. Doesn’t sound like anyone I know.
-* V1C15 - though exceedingly fond of her brother, and partial to all his endowments…. Hehehehe.
+* V1C15 - _"though exceedingly fond of her brother, and partial to all his endowments"_…. Hehehehe.
 * V1C15 - not sure Catherine is picking up what Thorpe is putting down. Gonna be a comedy of errors in a minute 
 * V2C1 - so is Tilney an asshole or someone who likes correcting people?
-* V2C1 - JFC, I had to look up notes for that. This line tripped me up so much: _ With you, it is not, how is such a one likely to be influenced? What is the inducement most likely to act upon such a person‘s feelings, age, situation, and probable habits of life considered? – But, how could I be influenced, what would be my inducement and acting so-so?_
+* V2C1 - JFC, I had to look up notes for that. This line tripped me up so much: _With you, it is not, how is such a one likely to be influenced? What is the inducement most likely to act upon such a person‘s feelings, age, situation, and probable habits of life considered? – But, how could I be influenced, what would be my inducement and acting so-so?_
 * V2C2 - awwww. They set up a rich person weeks long play date!
 * V2C2 - it’s been 142 pages. Where is the goth stuff I was promised and foreshadowed? Northanger better be haunted af.
 * V2C3 - and there we have it. Thorpe declares his love. Oops. But also. Isabella is going to create more chaos isn’t she… knowing that family. This is how drama starts.
@@ -74,7 +74,7 @@ Vol.1 - 15ch/112pgs. / Vol.2 - 16ch/123pgs.
 * V2C12 - deny avoid reverse victim offender. Well, not the RVO part… but she’s definitely playing dumb well. Or who knows maybe Catherine’s brother did misread everything and left in a huff.
 * V2C13 - so that was strange. To be abruptly kicked out like that. But also, also, synchronously… the reverse of this, someone storming out just happened to me last night and the lack of explanation was so sudden and so surprising, so high tension.
 * V2C14 - “sad little shattered-brained creature”… oh thanks mom.
-* V2C14 - two thoughts: one, I don’t know if breaking up with a friend is harder than breaking up with a lover. I feel like the latter is actually more devastating. Two, there are more twelve pages left. What’s going on here? Is Austen trolling me for one last time? Is this whole book a nothing burger? Catherine meets the Tilneys, hang out for a bit, and then nothing?
+* V2C14 - two thoughts: one, I don’t know if breaking up with a friend is harder than breaking up with a lover. I feel like the latter is actually more devastating. Two, there are more twelve pages left. What’s going on here? Is Austen trolling me for one last time? Is this whole book a nothing burger? Catherine meets the Tilneys, hangs out for a bit, and then nothing?
 * V2C15 - naw, we’re still going to get a marriage proposal. But no crazy unhinged rant like the other two novels I read P&P and S&S.
 * V2C16 - “sad heedless young housekeeper”… wtf mom?!?!?
 * FINAL THOUGHTS: No, not really. You got me, Austen. You got me good.
