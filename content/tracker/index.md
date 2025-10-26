@@ -1440,6 +1440,7 @@ categories = [
 |10/23|💬|Voyeur (2025) #1|Leah Williams|David Baldeón|
 |10/23|📺|Abbott Elementary (2021) S5E "Game Night"|Randall Einhorn|Brittani Nichols|
 |10/25|💬|Heavy Metal Magazine (2025) #2|Various|Various|
+|10/26|📖|Station Eleven (2014)|Emily St. John Mandel|[CMTS](https://journal.jinnzhong.com/commentary-station-eleven-2014/)|
 
 
 
