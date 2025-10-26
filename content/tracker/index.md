@@ -1411,6 +1411,37 @@ categories = [
 |10/18|💬|Green Lantern (1990) #50 "Emerald Twilight, P3: The Future"|Ron Marz|Darryl Banks|
 |10/18|💬|Green Lantern (1990) #51 "Changing the Guard"|Ron Marz|Darryl Banks|
 |10/18|💬|Green Lantern (1990) #52 "Breaking In"|Ron Marz|Jamal Igle|
+|10/19|💬|Green Lantern (1990) #53 "Rematch!"|Ron Marz|Darryl Banks|
+|10/19|📺|English Teacher (2024) S2E9 "Lock In"|Kathryn Dean|Sam Johnson & Paul Simms|
+|10/19|📺|English Teacher (2024) S210 "Graduation"|Brian Jordan Alvarez|Various[^82]|
+|10/19|📺|Peacemaker (2022) S2E7 "Like a Keith in the Night"|Alethea Jones|James Gunn|
+|10/19|📺|Peacemaker (2022) S2E8 "Full Nelson"|James Gunn|James Gunn|
+|10/19|💬|Green Lantern (1990) #54 "Forced Entry"|Ron Marz|Various[^83]|
+|10/19|💬|Green Lantern (1990) #55 "Assault & Battery"|Ron Marz|Various[^84]|
+|10/19|💬|Green Lantern (1990) #0 "Second Chances"|Ron Marz|Darryl Banks|
+|10/19|💬|Green Lantern (1990) #56 "Last of the Breed"|Ron Marz|Darryl Banks|
+|10/19|💬|R.E.B.E.L.S. '94 (1994) #1|Tom Peyer|Arnie Jorgensen|
+|10/19|💬|Green Lantern (1990) #57 "Farewells"|Ron Marz|Darryl Banks|
+|10/19|📺|The Simpsons (1989) S37E2 "Keep Chalm and Gary On"|Timothy Bailey|Christine Nangle|
+|10/19|📺|Ghosts (2021) S5E1 "Soul Custody"|Richie Keen|John Blickstead & Trey Kolmer|
+|10/19|📖|Northanger Abbey (1818)|Jane Austen|[CMTS]()|
+|10/21|📺|The Simpsons (1989) S37E3 "Treehouse of Horror XXXVI"|Matthew Faughnan|Various[^85]|
+|10/21|💬|Krypto: The Last Dog of Krypton (2025) #5|Ryan North|Mike Norton|
+|10/21|💬|The Unchosen (2025) #4|David Marquez|David Marquez|
+|10/21|💬|Adventures of Superman: The Book of El (2025) #2|Phillip Kennedy Johnson|Scott Godlewski|
+|10/21|💬|Birds of Prey (2023) #26|Kelly Thompson|Sami Basri & Vicente Cifuentes|
+|10/22|💬|The Ultimates (2024) #17|Deniz Camp|Phil Noto|
+|10/22|💬|Ultimate Spider-Man (2024) #22|Jonathan Hickman|Marco Checchetto|
+|10/22|💬|Teenage Mutant Ninja Turtles (2024) #12|Jason Aaron|Juan Ferreyra|
+|10/22|💬|Green Lantern (2023) #28|Jeremey Adams|V. Ken Marion|
+|10/22|💬|Superman (2022) #31|Joshua Williams|Eddy Barrows & Eber Ferreira|
+|10/22|💬|Absolute Wonder Woman (2024) #13|Kelly Thompson|Matías Bergara|
+|10/23|💬|Cheetah and Cheshire Rob the Justice League (2025) #3|Greg Rucka|Nicola Scott|
+|10/23|💬|Voyeur (2025) #1|Leah Williams|David Baldeón|
+|10/23|📺|Abbott Elementary (2021) S5E "Game Night"|Randall Einhorn|Brittani Nichols|
+|10/25|💬|Heavy Metal Magazine (2025) #2|Various|Various|
+
+
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
@@ -1529,3 +1560,6 @@ categories = [
 [^80]: Sara Pichelli, Nick Dragotta, Russell Dauterman, and Lucas Werneck
 [^81]: [Beached Space Whale](https://journal.jinnzhong.com/rcr-fabult-e01-beached-space-whale/)
 [^82]: Brian Jordan Alvarez, Jake Bender, Zach Dunn, & Dave King
+[^83]: Darryl Banks, Derec Donovan, and Steve Carr
+[^84]: Darryl Banks, Derec Donovan, and Craig Hamilton 
+[^85]: Broti Gupta, Michael Price & Dan Greaney
