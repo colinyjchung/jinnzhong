@@ -25,7 +25,7 @@ A project dashboard for what's being worked on.
 
 | P | prj                                                    | sub    | rej | hld    | acc    | pub    | 
 | - | ------------------------------------------------------ | ------ | --- | ------ | ------ | ------ |
-| 1 | [SAVED](https://journal.jinnzhong.com/tags/prj-saved/) | 250922 |  0  |        |        |        |
+| 1 | [SAVED](https://journal.jinnzhong.com/tags/prj-saved/) | 250922 |  1  | 0      | 0      | 0      |
 
 
 [^1]: LEGEND for **Project Status Dashboard**
