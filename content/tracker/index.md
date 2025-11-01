@@ -1441,8 +1441,47 @@ categories = [
 |10/23|📺|Abbott Elementary (2021) S5E "Game Night"|Randall Einhorn|Brittani Nichols|
 |10/25|💬|Heavy Metal Magazine (2025) #2|Various|Various|
 |10/26|📖|Station Eleven (2014)|Emily St. John Mandel|[CMTS](https://journal.jinnzhong.com/commentary-station-eleven-2014/)|
+|10/26|💬|The New Titans (1988) #116 "Psimon Psays... Die!"|Marv Wolfman|Frank Pittarese & Stephen B. Jonas|
+|10/26|💬|The New Titans (1988) #117 "Psimon Didn't Psay You'd Win!"|Marv Wolfman|William Rosado|
+|10/26|💬|Green Lantern (1990) #58 "Conjuring"|Ron Marz|Cully Hamner & Fred Haynes|
+|10/26|💬|Green Lantern (1990) #59 "Green Christmas"|Ron Marz|Darryl Banks|
+|10/27|💬|Guy Gardner: Warrior (1994) #27 "Capital Punishment, Act 1: Wake-Up Call"|Beau Smith|Mitch Byrd|
+|10/27|💬|Guy Gardner: Warrior (1994) #28 "Capital Punishment, Act 2: Deck the Hood with Blows of Folly"|Beau Smith|Mitch Byrd|
+|10/27|💬|Green Lantern (1990) #60 "Capital Punishment, Act 3"|Ron Marz|Darryl Banks|
+|10/27|💬|Green Lantern (1990) #61 "Picnic"|Ron Marz|Andy Smith|
+|10/28|📃|The Black God's Kiss (1934)|C.L. Moore|Weird Tales|
+|10/29|📃|Glass Piano (2023)|Ivy Grimes|hex|
+|10/29|📃|Un-Pragmagic: A Tyler Moore Retrospective (2025)|Spencer Nitkey|Lightspeed|
+|10/29|📃|Bird Burning (2025)|Spencer Nitkey|The Adroit Journal|
+|10/29|📃|Overstory (2023)|Lindz McLeod|HAD|
+|10/29|📃|Them at Number Seventy-Four (2022)|Lindz McLeod|Pseudopod|
+|10/29|💬|Voyeur (2025) #2|Leah Willaims|David Baldeón|
+|10/29|💬|Imperial (2025) #4|Jonathan Hickman|Iban Coello & Federico Vicentini|
+|10/29|💬|Absolute Batman 2025 Annual #1|Daniel Warren Johnson/James Harren|Daniel Warren Johnson/James Harren|
+|10/29|💬|Green Lantern (1990) #62 "Ganthet's Tale, Redux"|Ron Marz|Darryl Banks & Joe St. Pierre|
+|10/29|💬|Green Lantern (1990) #63 "Parallax View: The Resurrection of Hal Jordan, P1"|Ron Marz|Darryl Banks|
+|10/29|💬|Green Lantern (1990) #64 "Parallax View: The Resurrection of Hal Jordan, P2"|Ron Marz|Darryl Banks|
+|10/29|💬|The New Titans (1988) #124 "The Siege of the Zi Charam, P1: Prometheus Gathering"|Marv Wolfman|Michael Jan Friedman & William Rosado|
+|10/29|📃|The Immortal Game (2023)|Lindz McLeod|Apex|
+|10/30|💬|Green Lantern (1990) #65 "The Siege of the Zi Charam, P2: Rescue"|Ron Marz|Ron Lim|
+|10/30|💬|The Darkstars (1992) #34 "The Siege of the Zi Charam, P3: Strangers in a Strange Land"|Michael Jan Freidman|Mike Collins|
+|10/30|💬|Damage () #16 "The Siege of the Zi Charam, P4: The Elements of Power"|Tom Joyner|Jason Armstrong|
+|10/30|💬|The New Titans (1988) #125 "The Siege of the Zi Charam, P5: Xenocide"|Marv Wolfman|William Rosado|
+|10/31|📃|Tigers for Sale (2023)|Risa Wolf|Clarkesworld|
+|10/31|📃|In the Shelter of Ghosts (2023)|Risa Wolf|Diabolical Plots|
+|10/31|📃|The Very Image (2023)|Ivy Grimes|Cold Signal|
+|10/31|📃|Build Your Own Heart (2025)|Risa Wolf|Translunar Travelers Lounge|
+|10/31|📃|Eternal Recurrence (2024)|Spencer Nitkey|Diabolical Plots|
+|10/31|📃|The Commander’s Teeth (2022)|Naomi Shayuma-Gómez|
+|10/31|💬|Teenage Mutant Ninja Turtles (2024) #12|Jason Aaron|Juan Ferreyra|
+|10/31|💬|The Ultimates (2024) #17|Deniz Camp|Phil Noto|
+|10/31|💬|Ultimate Spider-Man (2024) #22|Jonathan Hickman|Marco Checchetto|
+|10/31|📺|Outlander (2014) S7E8 "Unfinished Business"|Stewart Svaasand|Barbara Stepansky|
 
+## November 2025
 
+||||||
+|---:|:---:|:---|:---|:---|
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
@@ -1456,7 +1495,8 @@ categories = [
 |JUL |0    |1    |1    |9    |134  |0    |1    |22   |3    |0    |0    |3    |0    |0    |
 |AUG |3    |0    |1    |0    |98   |0    |0    |6    |5    |1    |0    |2    |0    |17   |
 |SEP |2    |1    |0    |8    |70   |0    |0    |19   |2    |0    |0    |0    |2    |1    |
-|OCT |0    |0    |0    |0    |000  |0    |0    |0    |0    |0    |0    |0    |0    |0    |
+|OCT |2    |0    |0    |20   |77   |0    |0    |20   |0    |1    |3    |0    |5    |0    |
+|NOV |0    |0    |0    |0    |000  |0    |0    |0    |0    |0    |0    |0    |0    |0    |
 
 
 
