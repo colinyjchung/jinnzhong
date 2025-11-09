@@ -1,0 +1,46 @@
++++
+author = "Jinn Zhong"
+title = "2025-W45 EOW Report"
+date = "2025-11-09"
+description = "End of Week Report for W45 of 2025"
+tags = [
+ "Creative Process",
+ "EOW Reports",
+ "prj: LOOSE",
+ "prj: WHEEL",
+ "Mary Robinette Kowal",
+ "MRK Short Story Cohort",
+ ]
+
+categories = [
+ "Chasing Black Swans",
+ "Doing the Work",
+]
++++
+{{< toc >}}
+
+## Anti-Goal Cycling
+
+* New month, want to keep up the rhythm of one story a month even though I'm not done the last one. I needed something easier, something I can start drafting without so much development and design. So I'm jumping into [prj:WHEEL](https://journal.jinnzhong.com/tags/prj-wheel/). It's already a million times easier. This whole week I was figuring out the RLTS and who the PROT is to their LOVR. That was fun to build out. Still don't have a clear PROG, but I got lots of fun elements and I think I have the CMX and DNM nailed down. Ultimately, I just need to keep working backwards on the ARC. So that puts [prj:LOOSE](https://journal.jinnzhong.com/tags/prj-loose/) on hold for now.
+* On that note -- got the message from Sarah that I'm in for MRK's Short Story Cohort. Here we go again two years later. Older, hopefully wiser, more reserved and restrained, more experienced, and ready to rock out stories faster. I should spend some time journaling what I really want from this on the second go 'round.
+* Burnt through Alison Weir's _THe Children of Henry VIII_ (1996) on audiobook. Might just get others on Libro.fm and keep this going. Just have it on rotation. Did a little Burke this week, but the real star is Grafton. I'm ten pages from being done.
+
+
+## Four Thousand Weeks
+
+| Wks Lft | HP |
+| :--- | :--- |
+| 1669/4000 | <div style="width:200px;height:15px;background:#AAAAAA;border:1.3px solid #000000;"><div style="width:41.725%;height:15px;background:#006600;font-size:12px; color:white; line-height:12px;">41.725%</div></div>|
+
+* I... did it. It wasn't my intention to, but the temptation was too great. Saturday after breakfast, groceries, came back, receipts. Eldest was out to see Chainsaw Man after middle one saw it on Wednesday and told him to make it happen. Middle one was running Gavin Norman's _Winter's Daughter_ for her party of five. And I saw it as an opportunity to escape to the depths of Vancouver, Kerrisdale. But first -- I made a trip to the new location of Vancouver Pen Shop, met Sunshine, who I talked to on the phone, who taught me that writing on the backside of a nib is a huge no-no, who gave me a chance to try the Pelikan nib on a M805, who blew my mind with the fact that Claire Fontaine, Rhodia, and Quo Vadis are all owned by the same French company, who handed me a Platinum Century #3776 in both fine and ultra-fine... and now I can't stop thinking about it. It's extremely reasonable at $430. Nice blue with silver trim. BUT BUT BUT -- then I drove all the way up into West 41st and visited one of the holiest of stationary shops in Vancouver, Buchan Street, and after picking up a couple Rhodia notepads and a gorgeously lined (white wildflowers on blue) set of envelopes by Italian stationary maker Rossi 1931... and looking at their Pelikans, Sailors, and Platinums... I had to ask, I had to, I asked the purveyor if they were going to get the M809 in. I don't know. I don't know if I would've asked if Sunshine at VPS hadn't primed and urged me to go after it after trying the M805. We talked about it and I was still sitting on the fence about it, but then they were like, you know what, $1440 is actually a really good price for a limited edition Pelikan in the M800 series... and I kept doing the math in my head. I just wrote a little side hustle series that would technically pay for it, and frankly I've had a really good year financially and the matte black is so beautiful on the Pelikan M809 -- it taps into everything that was my teenage self in high school, teenage edgelord who was in love with Raistlin, and Wolverine, and dressing up as The Crow in grade 10, and wearing black turtlenecks before Steve Jobs made it a thing, and wearing long black coats like Neo, wanting to be Fox Mulder... it is me at my purest teenage self. So I put a deposit down for it and Buchan Street will order it in for me now. It is such a splurge, such a huge "investment" -- placed in quotation marks because while I know this pen will retain its value, it is also, in reality, a huge expense. Also picked up a couple of Iroshizuku inks: Tsuki-yo (Moonlight) and Fuyu-Syogo (Old Man Winter). I considered Asa-Gao (Morning Glory) for a brief moment. It seems like the conservative thing to do. It's the blue everyone loves. That and Kon-Peki (Deep Cerulean)... but I wanted to retain the teenage edge lord theme of the day. So Tsuki-yo and Fuyu-Syogo it is. Realized later that VPS was charging $38 a bottle while Buchan Street was at $29, but I don't regret it. I was happy to pay that price because really, the value came from Sunshine who was so incredibly helpful and a joy to converse with. (I'm tempted to pick up the Century #3776 as well now... even though I have the M809 coming in). I don't know. Maybe I still will. Maybe I'll get it for my birthday or something. For myself. I'm also wary that I might run out of Shin-Kai soon. It's a beautiful color. Will pick that up when I pick up my M809 maybe.
+* So while shopping on Buchan Street online this whole past week before I made my pilgrimage there on Saturday, I discovered this 5 year Hobonichi Techo. This... sounds like a great way to document and journal the next five years. I want to use fountain pens more. More analog. Less digital. I'll still journal here on GitHub, but I really like the idea of an analog version that nobody else will see unless they find it after I'm dead.
+* It was a week of leaving the office on time. Mostly because the middle one had a lot of after-school extracurriculars, so I was compelled to pick her up given the hour instead of having her take public transit home. Monday night, Night of the Notables, middle one put together a presentation on [my uncle](https://journal.jinnzhong.com/2025-w19-eow-report/), the one who got us here to Canada. Really proud of her to do that. Sent the video recording to my father, my aunt, and my two cousins who were his son. Tuesday, she had tutoring. Wednesday, she saw Chainsaw Man, so I got her from the theatre. Thursday, she had rehearsals for Chicago. So really, she's the busy one here, not me. But regardless, it was a good forcing function for me to GET WORK DONE fast and not dally.
+
+
+## Story Introspection
+
+* Rewatched _Into the Woods_ (2014) and _Chicago_ (2002) because middle one put them on. Both directed by Rob Marshall I find out as I'm reading Wikipedia while watching both films. Was surprised to see Dominic West. This would be years before _The Wire_ (2002-2008). Nevermind. Just looked it up. It's the same time as _The Wire_. Was surprised to see a super young John C. Reilly, was also surprised to find out Richard Gere was in his fifties by this point. Of course, the stars were Renee Zellweger and Catherine Zeta-Jones. I think I need to listen to Chicago's soundtrack more. Over on Sondheim, where is Anna Kendrick? After the 2010s it's like she disappeared. I downloaded the piano sheet music for "No One is Alone" after watching several videos on Sondheim explaining the five beans motif in what appears to be an old video that was recorded for high schools who want to put on a production of _Into the Woods_? I can't see why else he'd be looking directly at the camera and lecturing the audience on his themes, motifs, and explaining why certain things are in his own musical. SIDE NOTE: might be interesting to write a short story for the Baker, Cinderella, Red, and Jack as a ten years later type of deal.
+* Picked up Heavy Metal #3 at the grocery story. Despite attempts to keep it separate from my actual groceries, I still somehow managed to get the corner wet and I'm still annoyed about it. It's minor, but it's not "perfect" anymore. Not that it matters. It's a magazine and I don't expect it to be worth money, and I'm still saving money by NOT subscribing (because as I figured out a couple weeks back, it costs more to subscribe than to go buy it directly)... but I dunno. I'm just typing words and whining at this point. The actual stories: Kinda... meh. It was a horror themed issue and I dunno. I feel like a lot of horror shorts are just vibes and atmosphere. There's a premise, a weird, scary MECH, and then the MECH either commits body horror, outright murder, or some other horrifying thing (Because, duh, horror), but there's no ARC or RLST or anything that gives me a sense of emotional release. It's just dread, dread, dread, horror, end. Maybe this is just not my genre.
+* Deniz Camp continues other wreck me. The latest issue of Assorted Crisis Events is just so damn good. That's the ARC, RLTS and EGP I'm looking for. Those are the kind of stories I want to tell. ALSO - this week, the Jo Mullein and Cameron Chase relationship was so well done. Rucka and Scott's Cheetah and Cheshire continues to be solid. There's something magical when you let an artist like Nicola Scott just deliver so beautifully. Every panel a portrait.
+
+Archive of all EOW reports [here](https://journal.jinnzhong.com/tags/eow-reports)
