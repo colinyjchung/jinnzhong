@@ -1482,6 +1482,23 @@ categories = [
 
 ||||||
 |---:|:---:|:---|:---|:---|
+|11/02|📺|High Potential (2024) S2E7 "The One That Got Away"|Nancy Hower|Marc Halsey|
+|11/03|📃|Mad People of Paris (2022)|Rodrigo Blanco Calderón (trans. Thomas Bunstead)|Southwest Review|
+|11/04|💬|The New Gods (2024) #11|Ram V|Evan Cagle & Denys Cowan|
+|11/04|💬|Absolute Superman (2024) #12|Jason Aaron|Rafa Sandoval|
+|11/04|💬|Absolute Green Lantern (2025) #0|Al Ewing|Jason Howard & Riley Rossmo|
+|11/04|💬|Absolute Evil (2025) #1|Al Ewing|Giuseppe Camuncoli|
+|11/05|💬|Adventures of Superman: The Book of El (2025) #3|Phillip Kennedy Johnson|Scott Godlewski|
+|11/05|💬|Birds of Prey (2023) #27|Kelly Thompson|Sami Basri|
+|11/05|💬|Cheetah and Cheshire Rob the Justice League (2025) #4|Greg Rucka|Nicola Scott|
+|11/05|💬|Absolute Green Lantern (2025) #8|Al Ewing|Jahnoy Lindsay|
+|11/05|💬|Absolute Superman (2024) #13|Jason Aaron|Rafa Sandoval|
+|11/06|💬|Assorted Crisis Events (2025) #6|Deniz Camp|Eric Zawadzki|
+|11/07|📽️|Into the Woods (2014)|Rob Marshall|James Lapine|
+|11/08|🎧|The Children of Henry VIII (1996)|Alison Weir|Simon Prebble|
+|11/08|📽️|Chicago (2002)|Rob Marshall|Bill Condon|
+|11/08|💬|Heavy Metal Magazine (2025) #3|Various|Various|
+
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
