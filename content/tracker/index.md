@@ -1498,7 +1498,42 @@ categories = [
 |11/08|🎧|The Children of Henry VIII (1996)|Alison Weir|Simon Prebble|
 |11/08|📽️|Chicago (2002)|Rob Marshall|Bill Condon|
 |11/08|💬|Heavy Metal Magazine (2025) #3|Various|Various|
-
+|11/09|📺|Tatsuki Fujimoto 17-26 (2025) S1E5 “Mermaid Rhapsody”|Tetsuaki Watanabe|Tatsuo Kobayashi|
+|11/09|📺|Tatsuki Fujimoto 17-26 (2025) S1E6 “Woke-Up-as-a-Girl Syndrome”|Kazuaki Terasawa|Kazuaki Terasawa|
+|11/09|📺|Tatsuki Fujimoto 17-26 (2025) S1E7 Nayuta of the Prophecy”|Tetsuaki Watanabe|Tetsuaki Watanabe|
+|11/09|📺|Ghosts (2021) S5E4 "Bring Your Daughter to Work Day"|Pete Chatmon|Guy Endore-Kaiser|
+|11/09|📺|Eslpeth (2024) S3E5 "Poetic Justice"|Robin Givens|Leah Nanako Winkler|
+|11/09|💬|DC K.O. (2025) #1|Scott Snyder|Xermánico|
+|11/09|💬|The Power Fantasy (2024) #12|Kieron Gillen|Caspar Wijngaard|
+|11/09|💬|Green Lantern (2023) #28|Jeremey Adams|V. Ken Marion|
+|11/09|💬|Superman (2022) #31|Joshua Williams|Eddy Barrows & Eber Ferreira|
+|11/10|📃|A Town Called Trepidation (2022)|Paula Hammond|Old Moon Quarterly|
+|11/10|💬|Absolute Wonder Woman (2024) #13|Kelly Thompson|Matías Bergara|
+|11/10|💬|Voyeur (2025) #2|Leah Willaims|David Baldeón|
+|11/10|📃|Stella Splendens (2022)|Graham Thomas Wilcox|Old Moon Quarterly|
+|11/10|📃|The Questing Beast (2022)|Carys Crossen|Old Moon Quarterly|
+|11/11|📃|Brightstar (2022)|Mob|Old Moon Quarterly|
+|11/11|📜|Forgers and Critics (1990)|Anthony Grafton||
+|11/12|💬|Rare Flavours (2023) #6|Ram V.|Filipe Andrade|
+|11/12|🎸|Sigur Ros with Wordless Music Orchestra|Queen Elizabeth||
+|11/12|📃|Sinner, Baker, Fabulist, Priest; Red Mask, Black Mask, Gentleman, Beast (2009|Eugie Foster|Interzone|
+|11/12|💬|Supergirl (2025) #7|Sophie Campbell|Sophie Campbell|
+|11/12|💬|Green Lantern Corps (2025) #10|Morgan Hampton|Various[^86]|
+|11/13|💬|The Many Deaths of Laila Starr (2021) #4|Ram V.|Felipe Andrade|
+|11/13|💬|The Many Deaths of Laila Starr (2021) #5|Ram V.|Felipe Andrade|
+|11/13|📃|Love of Fate (2025)|Rafael Frumkin|Electric Literature|
+|11/13|💬|These Savage Shores (2018) #1|Ram V.|Sumit Kumar|
+|11/13|💬|These Savage Shores (2018) #2|Ram V.|Sumit Kumar|
+|11/15|💬|These Savage Shores (2018) #3|Ram V.|Sumit Kumar|
+|11/15|💬|These Savage Shores (2018) #4|Ram V.|Sumit Kumar|
+|11/15|💬|These Savage Shores (2018) #5|Ram V.|Sumit Kumar|
+|11/15|💬|Absolute Batman (2024) #13|Scott Snyder|Nick Dragotta|
+|11/15|💬|Absolute Batman 2025 Annual #1|Daniel Warren Johnson/James Harren|Daniel Warren Johnson/James Harren|
+|11/15|💬|Birds of Prey (2023) #27|Kelly Thompson|Sami Basri|
+|11/15|💬|Adventures of Superman: The Book of El (2025) #3|Phillip Kennedy Johnson|Scott Godlewski|
+|11/15|💬|Cheetah and Cheshire Rob the Justice League (2025) #4|Greg Rucka|Nicola Scott|
+|11/15|💬|Absolute Superman (2024) #13|Jason Aaron|Rafa Sandoval|
+|11/15|💬|Absolute Green Lantern (2025) #8|Al Ewing|Jahnoy Lindsay|
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
@@ -1621,3 +1656,4 @@ categories = [
 [^83]: Darryl Banks, Derec Donovan, and Steve Carr
 [^84]: Darryl Banks, Derec Donovan, and Craig Hamilton 
 [^85]: Broti Gupta, Michael Price & Dan Greaney
+[^86]: Fernando Pasarin, Will Conrad, and Ig Guara
