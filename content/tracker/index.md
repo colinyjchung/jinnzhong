@@ -1524,6 +1524,7 @@ categories = [
 |11/13|📃|Love of Fate (2025)|Rafael Frumkin|Electric Literature|
 |11/13|💬|These Savage Shores (2018) #1|Ram V.|Sumit Kumar|
 |11/13|💬|These Savage Shores (2018) #2|Ram V.|Sumit Kumar|
+|11/14|📺|Ghosts (2021) S5E5 "T-Daddy"|Heather Jack|Rupinder Gill|
 |11/15|💬|These Savage Shores (2018) #3|Ram V.|Sumit Kumar|
 |11/15|💬|These Savage Shores (2018) #4|Ram V.|Sumit Kumar|
 |11/15|💬|These Savage Shores (2018) #5|Ram V.|Sumit Kumar|
