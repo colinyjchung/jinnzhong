@@ -1535,6 +1535,18 @@ categories = [
 |11/15|💬|Cheetah and Cheshire Rob the Justice League (2025) #4|Greg Rucka|Nicola Scott|
 |11/15|💬|Absolute Superman (2024) #13|Jason Aaron|Rafa Sandoval|
 |11/15|💬|Absolute Green Lantern (2025) #8|Al Ewing|Jahnoy Lindsay|
+|11/16|📃|Worms of the Earth (1932)|Robert E. Howard|Weird Tales|
+|11/19|🎧|Henry V (1599)|William Shakespeare|The Complete Arkangel Shakespeare|
+|11/19|💬|We're Taking Everyone Down With Us (2025) #6|Matthew Rosenberg|Stefano Landini|
+|11/19|💬|The Power Fantasy (2024) #13|Kieron Gillen|Caspar Wijngaard|
+|11/19|💬|The New Gods (2024) #12|Ram V|Evan Cagle & Phil Hester|
+|11/19|💬|The Ultimates (2024) #18|Deniz Camp|Juan Frigeri|
+|11/19|💬|We3 (2004) #1 "Bandit"|Grant Morrison|Frank Quitely|
+|11/19|💬|We3 (2004) #2 "Tinker"|Grant Morrison|Frank Quitely|
+|11/19|💬|We3 (2004) #3 "Pirate"|Grant Morrison|Frank Quitely|
+|11/20|📜|Travel and Communications (2015)|Hamish Scott|The Oxford Handbook of Early Modern European History, 1350-1750: Volume 1: Peoples and Place|
+|11/23|📖|To the Lighthouse (1927)|Virginia Woolf|[CMTS](https://journal.jinnzhong.com/commentary-to-the-lighthouse-1927/)|
+
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
