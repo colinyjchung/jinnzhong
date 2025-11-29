@@ -1374,7 +1374,7 @@ categories = [
 |10/08|💬|X-Men (2019) #21 "The Beginning"|Jonathan Hickman|Various[^80]|
 |10/08|💬|Superman (2022) #30|Joshua Williams|Dan Mora|
 |10/08|💬|Justice League: The Omega Act Special (2025) #1|Joshua Williamson|Cian Tormey|
-|10/08|💬|DC K.O. (2025) #1|Scott Snyder|Xermánico|
+|10/08|💬|DC K.O. (2025) #1|Scott Snyder & Joshua Williamson|Javier Fernández & Xermánico|
 |10/08|💬|Green Lantern (2023) #27|Jeremey Adams|Xermánico|
 |10/08|💬|Green Lantern Corps (2025) #9|Jeremey Adams & Morgan Hampton|Fernando Pasarin|
 |10/08|📺|English Teacher (2024) S1E8 "Birthday"|Brian Jordan Alvarez|Brian Jordan Alvarez|
@@ -1503,7 +1503,7 @@ categories = [
 |11/09|📺|Tatsuki Fujimoto 17-26 (2025) S1E7 Nayuta of the Prophecy”|Tetsuaki Watanabe|Tetsuaki Watanabe|
 |11/09|📺|Ghosts (2021) S5E4 "Bring Your Daughter to Work Day"|Pete Chatmon|Guy Endore-Kaiser|
 |11/09|📺|Eslpeth (2024) S3E5 "Poetic Justice"|Robin Givens|Leah Nanako Winkler|
-|11/09|💬|DC K.O. (2025) #1|Scott Snyder|Xermánico|
+|11/09|💬|DC K.O. (2025) #1|Scott Snyder & Joshua Williamson|Javier Fernández & Xermánico|
 |11/09|💬|The Power Fantasy (2024) #12|Kieron Gillen|Caspar Wijngaard|
 |11/09|💬|Green Lantern (2023) #28|Jeremey Adams|V. Ken Marion|
 |11/09|💬|Superman (2022) #31|Joshua Williams|Eddy Barrows & Eber Ferreira|
