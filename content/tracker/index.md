@@ -1546,6 +1546,14 @@ categories = [
 |11/19|💬|We3 (2004) #3 "Pirate"|Grant Morrison|Frank Quitely|
 |11/20|📜|Travel and Communications (2015)|Hamish Scott|The Oxford Handbook of Early Modern European History, 1350-1750: Volume 1: Peoples and Place|
 |11/23|📖|To the Lighthouse (1927)|Virginia Woolf|[CMTS](https://journal.jinnzhong.com/commentary-to-the-lighthouse-1927/)|
+|11/27|💬|DC K.O. (2025) #2|Scott Snyder & Joshua Williamson|Javier Fernández & Xermánico|
+|11/27|💬|Superman (2022) #31|Joshua Williams|Eddy Barrows|
+|11/27|💬|Green Lantern (2023) #29|Jeremey Adams|Carmine Di Giandomenico|
+|11/27|💬|Absolute Batman (2024) #14|Scott Snyder|Nick Dragotta|
+|11/27|💬|Absolute Wonder Woman (2024) #14|Kelly Thompson|Hayden Sherman|
+|11/28|📺|Stranger Things (2016) S1E4 "Chapter Four: The Body"|Shawn Levy|Justin Doble|
+|11/28|📺|Stranger Things (2016) S1E5 "Chapter Five: The Flea and the Acrobat"|The Duffer Brothers|Alison Tatlock|
+|11/29|🎧|The High Middle Ages (2001)|Philip Daileader|The Great Courses|
 
 
 ## Numbers
