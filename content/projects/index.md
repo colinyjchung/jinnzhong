@@ -18,14 +18,17 @@ A project dashboard for what's being worked on.
 |   | [MINOS](https://journal.jinnzhong.com/tags/prj-minos/) | 240211 |        |        |        |        | 2  |
 |   | [ROBOT](https://journal.jinnzhong.com/tags/prj-robot/) | 240128 |        | 240129 |        |        | 2  |  
 |   | [AURA](https://journal.jinnzhong.com/tags/prj-aura/)   | 240106 |        | 240106 |        |        | 1  |
-|   | [MERCI](https://journal.jinnzhong.com/tags/prj-merci/) | 250314 |        |        |        |        |    |
+|   | [MERCI](https://journal.jinnzhong.com/tags/prj-merci/) | 250314 |        |        |        |        | 0  |
 |   | [BECKY](https://journal.jinnzhong.com/tags/prj-becky/) | 240107 |        |        |        |        | 1  |
+|   | [NIFTY](https://journal.jinnzhong.com/tags/prj-nifty/) | 251122 | 251122 |        |        |        | 0  |
+|   | [WHEEL](https://journal.jinnzhong.com/tags/prj-wheel/) | 251114 |        |        |        |        | 0  |
+|   | [BOXED](https://journal.jinnzhong.com/tags/prj-boxed/) | 251124 | 251126 |        |        |        | 0  |
 
 ## In Submission Process
 
 | P | prj                                                    | sub    | rej | hld    | acc    | pub    | 
 | - | ------------------------------------------------------ | ------ | --- | ------ | ------ | ------ |
-| 1 | [SAVED](https://journal.jinnzhong.com/tags/prj-saved/) | 250922 |  1  | 0      | 0      | 0      |
+| 1 | [SAVED](https://journal.jinnzhong.com/tags/prj-saved/) | 250922 |  2  | 0      | 0      | 0      |
 
 
 [^1]: LEGEND for **Project Status Dashboard**
