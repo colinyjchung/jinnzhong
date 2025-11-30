@@ -1476,7 +1476,7 @@ categories = [
 |10/31|💬|Teenage Mutant Ninja Turtles (2024) #12|Jason Aaron|Juan Ferreyra|
 |10/31|💬|The Ultimates (2024) #17|Deniz Camp|Phil Noto|
 |10/31|💬|Ultimate Spider-Man (2024) #22|Jonathan Hickman|Marco Checchetto|
-|10/31|📺|Outlander (2014) S7E8 "Unfinished Business"|Stewart Svaasand|Barbara Stepansky|
+|10/31|📺|Outlander (2014) S7E9 "Unfinished Business"|Stewart Svaasand|Barbara Stepansky|
 
 ## November 2025
 
@@ -1554,7 +1554,7 @@ categories = [
 |11/28|📺|Stranger Things (2016) S1E4 "Chapter Four: The Body"|Shawn Levy|Justin Doble|
 |11/28|📺|Stranger Things (2016) S1E5 "Chapter Five: The Flea and the Acrobat"|The Duffer Brothers|Alison Tatlock|
 |11/29|🎧|The High Middle Ages (2001)|Philip Daileader|The Great Courses|
-
+|11/29|📺|Outlander (2014) S7E10 "Brotherly Love"|Stewart Svaasand|Luke Schelhaas|
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
