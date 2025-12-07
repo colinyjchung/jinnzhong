@@ -1560,8 +1560,18 @@ categories = [
 
 ||||||
 |---:|:---:|:---|:---|:---|
-
-
+|12/03|💬|The Ultimates (2024) #18|Deniz Camp|Juan Frigeri|
+|12/03|💬|Supergirl (2025) #7|Sophie Campbell|Sophie Campbell|
+|12/03|💬|The New Gods (2024) #12|Ram V|Evan Cagle & Phil Hester|
+|12/04|💬|Ultimate Universe: Two Years In (2025) #1|Alex Paknadel & Deniz Camp|Various[^87]|
+|12/04|💬|DC K.O.: Superman vs. Captain Atom (2025) #1|Joshua Williamson|Sean Izaakse|
+|12/04|💬|Birds of Prey (2023) #28|Kelly Thompson|Sami Basri|
+|12/04|💬|Cheetah and Cheshire Rob the Justice League (2025) #5|Greg Rucka|Nicola Scott|
+|12/04|📺|Andor (2022) S2E11 "Who Else Knows?"|Alonso Ruizpalacios|Tom Bissell|
+|12/04|📺|Andor (2022) S2E12 "Jedha, Kyber, Erso"|Alonso Ruizpalacios|Tom Bissell|
+|12/05|💬|Absolute Green Lantern (2025) #9|Al Ewing|Sid Kotian|
+|12/06|📺|Outlander (2014) S7E11 "A Hundredweight of Stones"|Lisa Clarke|Sarah H. Haught|
+|12/06|📺|Stranger Things (2016) S4E4 "Chapter Four: Dear Billy"|Shawn Levy|Paul Dichter|
 
 ## Numbers
 |    |📖   |📜   |📰  |📃   |💬  |📑   |🎧   |📺  |📽️   |👺   |🎲  |🎭   |🎸   |🏛️   |
@@ -1685,3 +1695,4 @@ categories = [
 [^84]: Darryl Banks, Derec Donovan, and Craig Hamilton 
 [^85]: Broti Gupta, Michael Price & Dan Greaney
 [^86]: Fernando Pasarin, Will Conrad, and Ig Guara
+[^87]: Lee Ferguson, Francesco Manna, Pat Boutin, Javier Pulido, & Phil Noto
